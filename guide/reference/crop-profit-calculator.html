@@ -1,12 +1,12 @@
 ---
 title: "🧮 Crop Profit Calculator"
-description: "An interactive Wylde Flowers crop profit calculator — pick a season, say how long you'll stay, and rank every crop by coins per day, raw or processed."
+description: "An interactive Wylde Flowers crop profit calculator — pick a season, say how long you'll stay, and rank every crop by coins per day, using the community wiki's field records."
 ---
 <h1>🧮 Crop Profit Calculator</h1>
 
-<p>Because Fairhaven's seasons only turn when <em>you</em> cast the ritual, the question is never "what month is it?" — it's "how long will I stay?" Tell the ledger your season and your stay, and it will rank every specimen by coins per day, raw or run through a crafting station.</p>
+<p>Because Fairhaven's seasons only turn when <em>you</em> cast the ritual, the question is never "what month is it?" — it's "how long will I stay?" Tell the ledger your season and your stay, and it will rank every specimen by coins per day.</p>
 
-<blockquote>Figures in this ledger are pressed from <a href="https://cozyprofit.com/wylde-flowers" rel="external nofollow">CozyProfit's crop database</a> (which in turn draws on the <a href="https://wylde-flowers.fandom.com" rel="external nofollow">community wiki</a>). CozyProfit's baselines assume daily watering, no fertilizer, and midpoint estimates — so a few prices may differ from the <a href="../farming/crops.html">Crop Guide</a>'s pressed almanac. Treat both as field notes, not gospel.</blockquote>
+<blockquote>This calculator runs on the same field records as the <a href="../farming/crops.html">Crop Guide</a>, pressed from the <a href="https://wylde-flowers.fandom.com" rel="external nofollow">community wiki</a> (<a href="https://creativecommons.org/licenses/by-sa/3.0/" rel="external nofollow license">CC BY-SA 3.0</a>, as is this ledger). <strong>Coins/day</strong> is the wiki's measure: (sell price of a full harvest − seed cost) ÷ days to grow — a full harvest is several items from one sowing, which is why a bed out-earns a single fruit.</blockquote>
 
 <style>
   .calc-card {
@@ -63,8 +63,7 @@ description: "An interactive Wylde Flowers crop profit calculator — pick a sea
     background: var(--sheet);
   }
   .calc-checks label { display: inline-flex; align-items: center; gap: 0.45em; margin-right: 1.6em; font-size: 0.97rem; }
-  .calc-checks input, .calc-route input { accent-color: var(--amethyst); }
-  .calc-route label { display: inline-flex; align-items: center; gap: 0.45em; margin-right: 1.6em; font-size: 0.97rem; }
+  .calc-checks input { accent-color: var(--amethyst); }
 
   .calc-summary {
     font-family: "Caveat", "Segoe Script", cursive;
@@ -77,13 +76,11 @@ description: "An interactive Wylde Flowers crop profit calculator — pick a sea
   .calc-table-wrap { overflow-x: auto; }
   #calc-table td.num, #calc-table th.num { text-align: right; font-variant-numeric: tabular-nums; }
   #calc-table .crop-name { font-weight: 600; white-space: nowrap; }
-  #calc-table .crop-cat { color: var(--ink-soft); font-size: 0.88em; white-space: nowrap; }
+  #calc-table .crop-tag { color: var(--ink-soft); font-size: 0.88em; white-space: nowrap; }
   #calc-table .perday { font-weight: 600; color: var(--amethyst); }
   #calc-table tr.best td { background: rgba(184, 146, 63, 0.12); }
   #calc-table tr.best .perday { color: var(--ochre); }
   #calc-table tr.nofinish td { color: var(--ink-soft); font-style: italic; background: rgba(216, 205, 234, 0.15); }
-  #calc-table tr.loss .perday { color: var(--rose); }
-  .calc-empty { font-style: italic; color: var(--ink-soft); }
 </style>
 
 <form class="calc-card" id="calc-form" aria-label="Crop profit calculator settings">
@@ -108,15 +105,9 @@ description: "An interactive Wylde Flowers crop profit calculator — pick a sea
     </div>
   </div>
 
-  <div class="calc-row calc-route" role="radiogroup" aria-label="Selling route">
-    <span class="calc-label">Selling route</span>
-    <label><input type="radio" name="route" value="raw" checked> Sell raw at the counter</label>
-    <label><input type="radio" name="route" value="proc"> Best processed value (loom, kitchen &amp; co.)</label>
-  </div>
-
   <div class="calc-row calc-checks">
     <label><input type="checkbox" id="calc-replant" checked> Replant beds after each harvest</label>
-    <label><input type="checkbox" id="calc-honey"> Include Beehouse honey <span title="Honey is a Beehouse product, not a planted seed — CozyProfit leaves it out by default because it dominates the rankings.">🐝</span></label>
+    <label><input type="checkbox" id="calc-loom" checked> I have a loom <span title="Cotton can't be sold raw — its famous ~39 coins/day only exists once the loom weaves it into cloth.">🧵</span></label>
   </div>
 </form>
 
@@ -128,8 +119,8 @@ description: "An interactive Wylde Flowers crop profit calculator — pick a sea
       <tr>
         <th>#</th>
         <th>Crop</th>
+        <th class="num">Seeds</th>
         <th class="num">Grows in</th>
-        <th class="num">Seed</th>
         <th class="num">Sells for</th>
         <th class="num">Harvests</th>
         <th class="num">Net profit</th>
@@ -140,71 +131,74 @@ description: "An interactive Wylde Flowers crop profit calculator — pick a sea
   </table>
 </div>
 
+<h2>The Orchard, Kept Separately</h2>
+
+<p>Fruit trees don't belong in the seasonal race above: one 125-coin seedling from Kai's Treasures fruits <strong>in every season, forever, and never needs watering</strong> — the ritual can't touch them. The wiki's coins/day for trees (initial growing time discounted) reads:</p>
+
+<table>
+  <thead>
+    <tr><th>Tree</th><th class="num">Matures in</th><th class="num">Then fruits every</th><th class="num">Coins/day</th></tr>
+  </thead>
+  <tbody>
+    <tr><td><strong>Apple</strong> 🍎</td><td>~15 days</td><td>5 days</td><td><strong>22</strong></td></tr>
+    <tr><td><strong>Mulberry</strong> 🫐</td><td>~15 days</td><td>5 days</td><td><strong>22</strong></td></tr>
+    <tr><td>Orange 🍊</td><td>~16 days</td><td>6 days</td><td>18.3</td></tr>
+    <tr><td>Lemon 🍋</td><td>~15 days</td><td>5 days</td><td>18</td></tr>
+    <tr><td>Lime 🍈</td><td>~14 days</td><td>4 days</td><td>18</td></tr>
+    <tr><td>Pomegranate 🌰</td><td>~19 days</td><td>9 days</td><td>12.2</td></tr>
+  </tbody>
+</table>
+
+<p>Plant them early and they quietly out-earn most beds for the rest of the game — details in <a href="../farming/bees-and-orchards.html">Beekeeping &amp; Orchards</a>.</p>
+
 <h2>How the ledger is kept</h2>
 <ul>
-  <li><strong>Net profit</strong> is revenue minus seed cost across your whole stay, times your number of beds. <strong>Coins/day</strong> divides that by the days you stay.</li>
-  <li><strong>Regrowing crops</strong> (berries, grapes, cocoa, fruit trees) pay for their seed once; every later harvest is pure profit. That's why long stays flatter them and short stays punish them.</li>
-  <li><strong>Single-harvest crops</strong> are replanted after each harvest when the replant box is ticked — untick it to model a single sowing, which is CozyProfit's long-window baseline.</li>
-  <li><strong>Best processed value</strong> is the most a single harvest can fetch after a crafting station has had its say — cotton at the loom, grapes as wine, and so on. It ignores station time and any extra ingredients, so treat it as a ceiling. See <a href="../crafting/artisan-goods.html">Artisan Goods</a> for what transforms into what.</li>
-  <li>Crops that can't finish a single harvest inside your stay sink to the bottom of the table, marked as such.</li>
-  <li>Seasons are ritual-controlled, and out-of-season plants wilt the moment you cast it — harvest everything first (<a href="../farming/farming-101.html">Farming 101</a>).</li>
+  <li><strong>Profit per harvest</strong> is taken straight from the wiki's coins/day × days to grow — so a single sowing here always matches the <a href="../farming/crops.html">Crop Guide</a>'s tables exactly.</li>
+  <li><strong>Net profit</strong> multiplies that by how many harvests fit in your stay (replanting after each one when the box is ticked) and by your number of beds. <strong>Coins/day</strong> divides it by the days of your stay.</li>
+  <li><strong>Cotton 🧵 can't be sold raw.</strong> Its ~39 coins/day — the best in the game — exists only at the loom, as cloth sold to Kai. Untick "I have a loom" and cotton politely leaves the table. See <a href="../crafting/artisan-goods.html">Artisan Goods</a>.</li>
+  <li><strong>Flowers 🌸 pay twice — if you don't pick them.</strong> A blooming flower left standing feeds your <a href="../farming/bees-and-orchards.html">beehives</a>; the coins/day above assumes you harvest and sell it instead. You can't have both from the same bloom.</li>
+  <li>Two specimens sit out for want of numbers: <strong>Hops</strong> can't be sold at all (it's for brewing), and the wiki ledger doesn't record <strong>Primrose</strong>'s seed price — though community guides call it the most profitable flower in the game.</li>
+  <li>Crops that can't finish a single harvest inside your stay sink to the bottom of the table, marked as such. And harvest <em>everything</em> before you cast the ritual — out-of-season crops wilt the moment it lands (<a href="../farming/farming-101.html">Farming 101</a>).</li>
 </ul>
 
-<p><span class="handwritten">honey wins every argument, which is exactly why the bees are kept out of it by default 🐝</span></p>
+<p><span class="handwritten">the ritual waits on you, not the other way round — stay until the fennel's done paying ❀</span></p>
 
 <script>
 (function () {
   "use strict";
-  // Crop database — CozyProfit (cozyprofit.com/wylde-flowers), retrieved Sept 2026.
-  // [name, category, seasons, growDays, regrowDays (0 = single harvest), seedCost, rawSell, bestProcessedValue]
+  // Crop records from the community wiki (CC BY-SA 3.0), matching guide/farming/crops.md.
+  // [name, seasons, growDays, seedCost, sellEach (null = can't sell raw), wikiCoinsPerDay, tag]
+  // Profit per harvest is derived as wikiCoinsPerDay × growDays, i.e. (full-harvest sale − seed).
   var CROPS = [
-    ["Wolfsbane", "Magical", ["Fall", "Winter"], 6, 0, 60, 120, 300],
-    ["Nightshade", "Magical", ["Summer", "Fall"], 5, 0, 55, 110, 400],
-    ["Mandrake", "Magical", ["Spring", "Summer", "Fall", "Winter"], 4, 0, 50, 100, 250],
-    ["Winter Squash", "Vegetable", ["Winter"], 7, 0, 22, 48, 85],
-    ["Pumpkin", "Vegetable", ["Fall"], 7, 0, 25, 50, 95],
-    ["Eggplant", "Vegetable", ["Summer"], 7, 0, 20, 40, 90],
-    ["Rice", "Grain", ["Summer", "Fall"], 6, 0, 15, 35, 75],
-    ["Lily", "Flower", ["Fall", "Winter"], 7, 0, 18, 35, 35],
-    ["Kale", "Vegetable", ["Winter"], 6, 0, 20, 35, 60],
-    ["Sunflower", "Flower", ["Summer"], 7, 0, 25, 40, 65],
-    ["Corn", "Vegetable", ["Summer", "Fall"], 6, 0, 20, 35, 65],
-    ["Rose", "Flower", ["Summer", "Fall"], 6, 0, 15, 30, 30],
-    ["Potato", "Vegetable", ["Spring"], 5, 0, 15, 25, 45],
-    ["Sugar Cane", "Ingredient", ["Spring", "Summer", "Fall", "Winter"], 7, 0, 30, 40, 50],
-    ["Strawberry", "Fruit", ["Spring"], 5, 2, 40, 25, 40],
-    ["Cotton", "Textile", ["Summer", "Fall"], 7, 0, 30, 40, 120],
-    ["Onion", "Vegetable", ["Spring", "Summer"], 4, 0, 15, 25, 50],
-    ["Beet", "Vegetable", ["Fall"], 5, 0, 12, 22, 45],
-    ["Lavender", "Flower", ["Spring", "Summer"], 5, 0, 12, 22, 22],
-    ["Carrot", "Vegetable", ["Spring"], 4, 0, 10, 18, 35],
-    ["Wheat", "Grain", ["Summer", "Fall"], 5, 0, 12, 20, 25],
-    ["Marigold", "Flower", ["Spring", "Summer"], 4, 0, 10, 18, 18],
-    ["Poppy", "Flower", ["Summer"], 5, 0, 12, 20, 20],
-    ["Forget-me-not", "Flower", ["Winter"], 4, 0, 10, 15, 15],
-    ["Soybean", "Ingredient", ["Summer", "Fall"], 6, 0, 25, 30, 65],
-    ["Green Bean", "Vegetable", ["Spring"], 5, 2, 20, 12, 60],
-    ["Silkworm", "Textile", ["Spring", "Summer", "Fall", "Winter"], 7, 0, 0, 0, 150],
-    ["Tomato", "Vegetable", ["Summer"], 6, 0, 20, 15, 35],
-    ["Blueberry", "Fruit", ["Summer"], 6, 3, 35, 15, 32.5],
-    ["Grapes", "Fruit", ["Summer", "Fall"], 8, 4, 40, 20, 150],
-    ["Cocoa Bean", "Ingredient", ["Spring", "Summer", "Fall", "Winter"], 12, 4, 60, 40, 100],
-    ["Olive Tree", "Fruit Tree", ["Fall", "Winter"], 14, 4, 250, 20, 55],
-    ["Pomegranate Tree", "Fruit Tree", ["Winter", "Spring"], 14, 5, 240, 25, 165],
-    ["Banana Tree", "Fruit Tree", ["Summer", "Fall"], 14, 3, 180, 15, 35],
-    ["Cherry Tree", "Fruit Tree", ["Summer"], 14, 3, 180, 25, 45],
-    ["Peach Tree", "Fruit Tree", ["Summer"], 14, 3, 200, 30, 55],
-    ["Orange Tree", "Fruit Tree", ["Winter", "Spring"], 14, 4, 220, 18, 25],
-    ["Lemon Tree", "Fruit Tree", ["Spring", "Summer"], 14, 4, 200, 15, 40],
-    ["Lime Tree", "Fruit Tree", ["Spring", "Summer"], 14, 4, 210, 18, 42.5],
-    ["Clematis Honey", "Beehouse", ["Summer"], 0, 1, 0, 65, 65],
-    ["Clover Honey", "Beehouse", ["Spring"], 0, 1, 0, 60, 60]
+    ["Wheat", ["Spring"], 8, 8, 48, 20.8, ""],
+    ["Snowdrop", ["Spring"], 5, 8, 20, 14.4, "flower"],
+    ["Carrot", ["Spring"], 5, 10, 20, 14, ""],
+    ["Potato", ["Spring"], 5, 5, 15, 11, ""],
+    ["Cauliflower", ["Spring"], 6, 15, 20, 10.8, ""],
+    ["Green Bean", ["Spring"], 4, 3, 10, 9.25, ""],
+    ["Tulip", ["Spring"], 4, 4, 10, 9, "flower"],
+    ["Strawberry", ["Summer"], 6, 20, 48, 28.7, ""],
+    ["Sugarcane", ["Summer"], 8, 30, 42, 17.3, ""],
+    ["Tomato", ["Summer"], 4, 10, 18, 15.5, ""],
+    ["Sunflower", ["Summer"], 6, 8, 24, 14.6, "flower"],
+    ["Corn", ["Summer"], 5, 5, 15, 11, ""],
+    ["Marigold", ["Summer"], 4, 4, 12, 11, "flower"],
+    ["Cotton → Cloth", ["Summer"], 7, 15, null, 39, "loom"],
+    ["Fennel", ["Fall", "Winter"], 6, 15, 40, 24.2, ""],
+    ["Pumpkin", ["Fall"], 5, 10, 24, 17.2, ""],
+    ["Grapes", ["Fall"], 8, 25, 36, 14.9, ""],
+    ["Tiger Lily", ["Fall"], 6, 8, 20, 12, "flower"],
+    ["Soybean", ["Fall"], 7, 15, 24, 11.6, ""],
+    ["Cabbage", ["Fall"], 5, 8, 15, 10.4, ""],
+    ["Turtlehead Flower", ["Fall"], 4, 4, 4, 3, "flower"],
+    ["Onion", ["Winter"], 5, 10, 24, 17.2, ""],
+    ["Spinach", ["Winter"], 6, 15, 42, 11.6, ""],
+    ["Sweet Potato", ["Winter"], 4, 20, 12, 7, ""]
   ];
 
-  var CAT_EMOJI = {
-    "Magical": "✨", "Vegetable": "🥕", "Grain": "🌾", "Flower": "🌸",
-    "Fruit": "🍓", "Ingredient": "🧂", "Textile": "🧵", "Fruit Tree": "🌳",
-    "Beehouse": "🐝"
+  var TAGS = {
+    flower: "🌸 flower — standing blooms feed the hives",
+    loom: "🧵 needs the loom; cloth sells to Kai"
   };
 
   var form = document.getElementById("calc-form");
@@ -212,27 +206,9 @@ description: "An interactive Wylde Flowers crop profit calculator — pick a sea
   var daysOut = document.getElementById("calc-days-out");
   var bedsInput = document.getElementById("calc-beds");
   var replantInput = document.getElementById("calc-replant");
-  var honeyInput = document.getElementById("calc-honey");
+  var loomInput = document.getElementById("calc-loom");
   var summary = document.getElementById("calc-summary");
   var tbody = document.querySelector("#calc-table tbody");
-
-  function simulate(crop, days, route, replant) {
-    var grow = crop[3], regrow = crop[4], seed = crop[5];
-    var value = route === "proc" ? crop[7] : crop[6];
-    var harvests, seedSpend;
-    if (regrow > 0) {
-      harvests = days >= grow ? 1 + Math.floor((days - grow) / regrow) : 0;
-      seedSpend = harvests > 0 ? seed : 0;
-    } else if (replant) {
-      harvests = Math.floor(days / grow);
-      seedSpend = harvests * seed;
-    } else {
-      harvests = days >= grow ? 1 : 0;
-      seedSpend = harvests > 0 ? seed : 0;
-    }
-    var net = harvests * value - seedSpend;
-    return { harvests: harvests, net: net, perDay: harvests > 0 ? net / days : null, value: value };
-  }
 
   function fmtCoins(n) {
     var rounded = Math.round(n * 10) / 10;
@@ -241,7 +217,6 @@ description: "An interactive Wylde Flowers crop profit calculator — pick a sea
 
   function render() {
     var season = form.elements.season.value;
-    var route = form.elements.route.value;
     var days = parseInt(daysInput.value, 10);
     var beds = Math.max(1, parseInt(bedsInput.value, 10) || 1);
     var replant = replantInput.checked;
@@ -250,11 +225,18 @@ description: "An interactive Wylde Flowers crop profit calculator — pick a sea
     var rows = [];
     for (var i = 0; i < CROPS.length; i++) {
       var crop = CROPS[i];
-      if (crop[2].indexOf(season) === -1) continue;
-      if (crop[1] === "Beehouse" && !honeyInput.checked) continue;
-      var r = simulate(crop, days, route, replant);
-      r.crop = crop;
-      rows.push(r);
+      if (crop[1].indexOf(season) === -1) continue;
+      if (crop[6] === "loom" && !loomInput.checked) continue;
+      var grow = crop[2];
+      var perHarvest = crop[5] * grow;
+      var harvests = replant ? Math.floor(days / grow) : (days >= grow ? 1 : 0);
+      var net = harvests * perHarvest;
+      rows.push({
+        crop: crop,
+        harvests: harvests,
+        net: net,
+        perDay: harvests > 0 ? net / days : null
+      });
     }
     rows.sort(function (a, b) {
       if (a.perDay === null && b.perDay === null) return 0;
@@ -269,30 +251,30 @@ description: "An interactive Wylde Flowers crop profit calculator — pick a sea
     for (var j = 0; j < rows.length; j++) {
       var row = rows[j];
       var crop = row.crop;
+      var tag = TAGS[crop[6]] || "";
+      var nameCell = '<span class="crop-name">' + crop[0] + "</span>" +
+        (tag ? '<br><span class="crop-tag">' + tag + "</span>" : "");
       var tr = document.createElement("tr");
       var cells;
       if (row.perDay === null) {
         tr.className = "nofinish";
         cells = [
-          "—",
-          '<span class="crop-name">' + crop[0] + '</span><br><span class="crop-cat">' + (CAT_EMOJI[crop[1]] || "") + " " + crop[1] + "</span>",
-          crop[3] + "d" + (crop[4] > 0 ? " · regrows " + crop[4] + "d" : ""),
-          crop[5] ? crop[5].toLocaleString("en-US") : "—",
-          fmtCoins(row.value),
+          "—", nameCell,
+          crop[3].toLocaleString("en-US"),
+          crop[2] + "d",
+          crop[4] === null ? "loom only" : crop[4].toLocaleString("en-US"),
           "0",
           "won't finish in " + days + " days",
           "—"
         ];
       } else {
         rank++;
-        if (rank === 1 && row.perDay > 0) { tr.className = "best"; best = row; }
-        if (row.net < 0) tr.className += (tr.className ? " " : "") + "loss";
+        if (rank === 1) { tr.className = "best"; best = row; }
         cells = [
-          String(rank),
-          '<span class="crop-name">' + crop[0] + '</span><br><span class="crop-cat">' + (CAT_EMOJI[crop[1]] || "") + " " + crop[1] + "</span>",
-          crop[3] === 0 ? "daily" : crop[3] + "d" + (crop[4] > 0 ? " · regrows " + crop[4] + "d" : ""),
-          crop[5] ? crop[5].toLocaleString("en-US") : "free",
-          fmtCoins(row.value),
+          String(rank), nameCell,
+          crop[3].toLocaleString("en-US"),
+          crop[2] + "d",
+          crop[4] === null ? "loom only" : crop[4].toLocaleString("en-US"),
           row.harvests.toLocaleString("en-US"),
           fmtCoins(row.net * beds),
           '<span class="perday">' + fmtCoins(row.perDay * beds) + "</span>"
@@ -311,11 +293,11 @@ description: "An interactive Wylde Flowers crop profit calculator — pick a sea
       summary.textContent = "Nothing in the almanac grows under those conditions — loosen the ledger a little.";
     } else if (best) {
       summary.innerHTML = season + ", a " + days + "-day stay, " + beds + (beds === 1 ? " bed" : " beds") +
-        (route === "proc" ? ", processed" : ", sold raw") + " — the pick of the beds is <strong>" +
-        best.crop[0] + "</strong> at about <strong>" + fmtCoins(best.perDay * beds) + " coins/day</strong> (" +
+        " — the pick of the beds is <strong>" + best.crop[0] + "</strong> at about <strong>" +
+        fmtCoins(best.perDay * beds) + " coins/day</strong> (" +
         fmtCoins(best.net * beds) + " coins over the stay).";
     } else {
-      summary.textContent = "No crop turns a profit under those conditions — the ledger suggests going fishing.";
+      summary.textContent = "No crop can finish a harvest in so short a stay — the ledger suggests going fishing.";
     }
   }
 
