@@ -26,6 +26,19 @@ Cast the banishment, and the wraith is driven out. Completing the quest rewards 
 
 To face the crisis, the coven does the unthinkable: **its members reveal their identities to the townsfolk**, standing together in the open to defeat the threat. The grocer, the doctor, friends and neighbours — masks off, at last. It is the moment Hazel wished for all along: not a victory of witches *over* the town, but the two halves of Fairhaven finally standing as one community.
 
+<details markdown="1">
+<summary><strong>🎭 Who was behind each mask? (unpress this specimen at your own risk)</strong></summary>
+
+| Mask & title | The neighbour beneath |
+| --- | --- |
+| High Priestess | **Lina** — Tara's childhood friend, and the coven's leader |
+| Farseer | **Shelby** — the seer living on Fairhaven's outskirts, who came from Hungary after his family was persecuted for witchcraft; later your tutor in incantations |
+| Journeyman | **Damon** — whose family history is entwined with the coven's |
+| Adept | **Amira** — the town's devoted doctor |
+| Acolyte | **Violet** — the lively flower shop owner |
+
+</details>
+
 > 🌸 **Lore:** even Cameron bends. He admits that Messenger Corne's teachings led him astray — that he wrongly branded neighbours "Malcontents" and let the trials go too far.
 
 ---
@@ -37,6 +50,7 @@ After Locket Up, the **Epilogue** unfolds in the spring of Tara's second year, a
 - **A League of One's Own** — Cameron asks for 10× Paper and 2× Black Ink to write a new set of sermons and undo the harm his old ones caused. Bring them; it's a gentle, earned redemption.
 - **The Spring Fling** — the town gathers for its spring festival (see [Festivals & Events](../island/festivals-and-events.md)).
 - **Keeper of the Wheel** — Tara's coven training advances until she takes over the seasonal rites herself, gaining the power and responsibility to **change the seasons at will**.
+- **A changing of the guard** — with the state attorney general asking pointed questions about his past fundraising efforts, **Mayor Otto leaves Fairhaven**, and Vanessa with him. Before going, he nominates **Gloria Miranda** as interim mayor until a new election can be held — and Gloria accepts.
 
 ## Beyond: Ravenwood Hollow and the Free Updates
 

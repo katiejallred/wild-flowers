@@ -9,7 +9,7 @@ Winter is when Fairhaven's two smouldering troubles finally catch the same wind.
 
 ## The Wraiths
 
-The strange happenings have a name now: **wraiths** — malevolent spirits loose on the island. The coven scrambles to contain them, and Tara's To-Do list fills with the crisis: investigations, protective magic, and hurried midnight circle-work. Every spell and potion you banked in the warmer seasons earns its keep here.
+The strange happenings have a name now: **wraiths** — malevolent spirits loose on the island. The coven scrambles to contain them, and Tara's To-Do list fills with the crisis: investigations, protective magic, and hurried midnight circle-work (watch for the aptly named quest **Wraithing in Anticipation** in this stretch). Every spell and potion you banked in the warmer seasons earns its keep here.
 
 > ❄️ **Lore:** the coven draws its power from the **Wellspring**, the island's deep source of magic. Whoever — or whatever — is stirring the wraiths seems very interested in it.
 
@@ -17,15 +17,17 @@ The strange happenings have a name now: **wraiths** — malevolent spirits loose
 
 Fear makes poor soil, and the **League of the Conscious Mind** plants deep in it. With the disturbances impossible to ignore, talk in town turns to rooting out hidden "Malcontents" among the neighbours — and matters escalate into public trials of suspicion that go further than even some League members are comfortable with. Cameron will later admit he let things go too far; you'll watch it happen in real time here, and it stings.
 
+One pressing from this stretch, verified and vivid: an **anonymous tip reaches Mayor Otto** confirming that there are, in fact, witches in Fairhaven — and a **mandatory Town Hall meeting** follows, with a neighbour standing accused of witchcraft before the whole town. The proceedings take an unexpected turn when Cameron reveals he has seen **Otto himself** slipping into the woods at night, and the mayor is forced to admit he has been meeting **a masked woman in the woods for the past ten years**. The accusers, it turns out, have secrets of their own.
+
 Tara walks a razor's edge in these quests: defending friends without unmasking them, calming the town without lying to it, and keeping Hazel's wish alive when the island seems determined to split in two.
 
 ---
 
 ## The Rogue Witch
 
-Then the true culprit steps from the treeline. The disturbances trace back to **Vanessa** — a rogue witch who, years ago, was barred from joining the Fairhaven Coven by Lina's father, Markus. Bitter and brilliant, she has been using the wraiths as a distraction while she hunts the **heart of the Wellspring**, meaning to claim its power for herself.
+Then the true culprit steps from the treeline. The disturbances trace back to **Vanessa** — a rogue witch in a raven's mask, remembered as the **Rude Raven** — who, years ago, was barred from joining the Fairhaven Coven by Lina's father, Markus. Bitter and brilliant, she has been using the wraiths as a distraction while she hunts the **heart of the Wellspring**, meaning to claim its power for herself.
 
-Her plan curdles: casting her magic on a great tree she believes to be the Wellspring's heart, she frees a wraith — and it **possesses her**. The quest **Witch Way Did She Go** sends the coven racing after her, and its ending tips the story straight into the finale.
+Her plan curdles in the **Gloaming**, the shadowed other-side of the island where the final act plays out. Tara, Violet, and Lina find the Raven working her magic on a great tree she believes to be the Wellspring's heart; Lina warns her to stop, but Vanessa presses on — until the tree unravels to reveal an unconscious woman held inside it: **Gloria**. A heartbeat later, a wraith escapes the hollow of the tree and **possesses Vanessa**. The quest **Witch Way Did She Go** sends the coven racing after her, and its ending tips the story straight into the finale.
 
 ## Playing This Stretch Well
 

@@ -39,6 +39,8 @@ Handle this pressing gently, reader. **At the end of the first spring, Hazel pas
 
 It is also where her wish takes root in Tara: that the two halves of the island — coven and town — might one day be one community, unafraid of each other.
 
+Grief, too, is tended the Fairhaven way. Afterwards you can visit Hazel's grave in the town graveyard and **leave flowers**, and Tara is invited to a **grief support group** alongside other townsfolk who have lost someone — small, quiet scenes that are among the most gently written in the game. The town keeps Hazel's memory alive in much of what it does, and so should your margins.
+
 <span class="handwritten">Pressed here: one sprig of rosemary, for remembrance. 🌙</span>
 
 ---
