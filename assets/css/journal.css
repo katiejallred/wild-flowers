@@ -131,7 +131,7 @@ img { max-width: 100%; }
 /* ── The journal page (site chrome) ────────────────────────── */
 
 .journal-header {
-  max-width: 880px;
+  max-width: 1160px;
   margin: 0 auto;
   padding: 1.4rem 0 0.6rem;
   text-align: center;
@@ -148,13 +148,31 @@ img { max-width: 100%; }
 
 .journal-header .site-title:hover { color: var(--amethyst); }
 
-/* ── Site menu ─────────────────────────────────────────────── */
+/* ── Sidebar + sheet layout ────────────────────────────────── */
+
+.journal-body {
+  display: flex;
+  align-items: flex-start;
+  gap: 1.6rem;
+  max-width: 1160px;
+  margin: 0 auto;
+}
+
+/* ── Site menu (left sidebar) ──────────────────────────────── */
 
 .site-nav {
-  max-width: 880px;
-  margin: 0 auto 0.4rem;
-  text-align: center;
-  position: relative;
+  flex: 0 0 236px;
+  position: sticky;
+  top: 1rem;
+  max-height: calc(100vh - 2rem);
+  overflow-y: auto;
+  margin: 1rem 0 2rem;
+  padding: 0.9rem 0 1rem;
+  background: var(--sheet);
+  border: 1px solid var(--line);
+  box-shadow:
+    0 1px 3px rgba(var(--shadow), 0.12),
+    0 12px 28px rgba(var(--shadow), 0.10);
   z-index: 20;
 }
 
@@ -167,137 +185,100 @@ img { max-width: 100%; }
   letter-spacing: 0.22em;
   text-transform: uppercase;
   color: var(--amethyst);
-  border: 1px solid var(--line);
-  background: var(--sheet);
   padding: 0.4em 1.2em;
   cursor: pointer;
-  box-shadow: 0 1px 3px rgba(var(--shadow), 0.12);
+  user-select: none;
 }
 
-.nav-groups {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  gap: 0.15rem 0.4rem;
+.nav-group + .nav-group {
+  margin-top: 0.45rem;
+  padding-top: 0.35rem;
+  border-top: 1px solid var(--line);
 }
 
-.nav-group { position: relative; }
-.nav-group[open] { z-index: 5; }
+.nav-group-home ul li a { font-weight: 600; }
 
-.nav-group > summary {
-  list-style: none;
-  cursor: pointer;
+.nav-heading {
+  margin: 0;
+  padding: 0.3em 1.1em 0.15em;
   font-family: "Cormorant Garamond", Garamond, serif;
-  font-size: 0.88rem;
-  letter-spacing: 0.16em;
+  font-size: 0.82rem;
+  font-weight: 600;
+  letter-spacing: 0.2em;
   text-transform: uppercase;
   color: var(--ink-soft);
-  padding: 0.35em 0.7em;
-  border: 1px solid transparent;
-  user-select: none;
-  white-space: nowrap;
 }
 
-.nav-group > summary::-webkit-details-marker { display: none; }
-.nav-group > summary::after { content: " ▾"; font-size: 0.7em; color: var(--lavender); }
+.nav-heading.active { color: var(--amethyst); }
 
-.nav-group > summary:hover { color: var(--amethyst); }
-
-.nav-group > summary.active {
-  color: var(--amethyst);
-  border-bottom: 2px solid var(--lavender);
-}
-
-.nav-group[open] > summary {
-  color: var(--amethyst);
-  background: var(--sheet);
-  border: 1px solid var(--line);
-  border-bottom-color: var(--sheet);
-}
-
-.nav-group > ul {
-  position: absolute;
-  top: calc(100% - 1px);
-  left: 50%;
-  transform: translateX(-50%);
-  min-width: 230px;
+.nav-group ul {
   margin: 0;
-  padding: 0.5rem 0;
+  padding: 0 0 0.25rem;
   list-style: none;
-  background: var(--sheet);
-  border: 1px solid var(--line);
-  box-shadow: 0 10px 24px rgba(var(--shadow), 0.18);
-  text-align: left;
 }
 
-.nav-group > ul li a {
+.nav-group ul li a {
   display: block;
-  padding: 0.32em 1.1em;
-  font-size: 0.95rem;
+  padding: 0.24em 1.1em 0.24em 1.45em;
+  font-size: 0.92rem;
+  line-height: 1.45;
   text-decoration: none;
   color: var(--ink);
 }
 
-.nav-group > ul li a:hover {
+.nav-group ul li a:hover {
   background: rgba(138, 111, 196, 0.1);
   color: var(--amethyst);
 }
 
-.nav-group > ul li a.current {
+.nav-group ul li a.current {
   color: var(--amethyst);
   font-weight: 600;
 }
 
-.nav-group > ul li a.current::before { content: "✿ "; color: var(--rose); }
+.nav-group ul li a.current::before { content: "✿ "; color: var(--rose); }
 
-/* collapse the menu behind a toggle on small screens */
-@media (max-width: 720px) {
-  .menu-label { display: inline-block; }
+/* stack the menu above the page behind a toggle on small screens */
+@media (max-width: 900px) {
+  .journal-body { display: block; }
+
+  .site-nav {
+    position: static;
+    max-height: none;
+    overflow-y: visible;
+    margin: 0.4rem 0 0;
+    padding: 0;
+    text-align: center;
+  }
+
+  .menu-label { display: block; }
 
   .nav-groups {
     display: none;
-    flex-direction: column;
-    gap: 0;
-    margin-top: 0.5rem;
-    background: var(--sheet);
-    border: 1px solid var(--line);
-    box-shadow: 0 6px 18px rgba(var(--shadow), 0.15);
-    padding: 0.4rem 0;
+    padding: 0.3rem 0 0.6rem;
     text-align: left;
+    border-top: 1px solid var(--line);
   }
 
-  .menu-toggle:checked ~ .nav-groups { display: flex; }
-
-  .nav-group > summary {
-    padding: 0.5em 1.1em;
-    white-space: normal;
-  }
-
-  .nav-group[open] > summary { border: none; background: rgba(138, 111, 196, 0.08); }
-
-  .nav-group > ul {
-    position: static;
-    transform: none;
-    min-width: 0;
-    border: none;
-    box-shadow: none;
-    padding: 0.1rem 0 0.4rem;
-  }
-
-  .nav-group > ul li a { padding-left: 2.2em; }
+  .menu-toggle:checked ~ .nav-groups { display: block; }
 }
 
 /* the specimen sheet each page sits on */
 .sheet {
   position: relative;
-  max-width: 880px;
-  margin: 1rem auto 2rem;
+  flex: 1;
+  min-width: 0;
+  margin: 1rem 0 2rem;
   padding: 2.4rem clamp(1.2rem, 5vw, 3.2rem) 2.8rem;
   background: var(--sheet);
   border: 1px solid var(--line);
   box-shadow:
     0 1px 3px rgba(var(--shadow), 0.12),
     0 12px 28px rgba(var(--shadow), 0.10);
+}
+
+@media (max-width: 900px) {
+  .sheet { margin-top: 1.2rem; }
 }
 
 /* stitched spine along the left edge */
@@ -378,7 +359,7 @@ img { max-width: 100%; }
 .page-turn .turn-spacer { flex: 1; }
 
 .journal-footer {
-  max-width: 880px;
+  max-width: 1160px;
   margin: 0 auto 2.5rem;
   text-align: center;
   font-size: 0.85rem;

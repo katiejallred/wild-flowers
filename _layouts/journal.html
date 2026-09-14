@@ -33,24 +33,30 @@
     <a class="site-title" href="{{ '/' | relative_url }}">❀ The Fairhaven Field Guide ❀</a>
   </header>
 
-  <nav class="site-nav" aria-label="Guide sections">
-    <input type="checkbox" id="menu-toggle" class="menu-toggle">
-    <label for="menu-toggle" class="menu-label">✦ Menu</label>
-    <div class="nav-groups">
-      {%- for section in site.data.nav %}
-      <details class="nav-group">
-        <summary{% if section.title == current_section.title %} class="active"{% endif %}>{{ section.title }}</summary>
-        <ul>
-          {%- for item in section.pages %}
-          <li><a href="{{ item.url | relative_url }}"{% if item.url == page.url %} class="current" aria-current="page"{% endif %}>{{ item.title }}</a></li>
-          {%- endfor %}
-        </ul>
-      </details>
-      {%- endfor %}
-    </div>
-  </nav>
+  <div class="journal-body">
+    <nav class="site-nav" aria-label="Guide sections">
+      <input type="checkbox" id="menu-toggle" class="menu-toggle">
+      <label for="menu-toggle" class="menu-label">✦ Menu</label>
+      <div class="nav-groups">
+        <div class="nav-group nav-group-home">
+          <ul>
+            <li><a href="{{ '/' | relative_url }}"{% if page.url == "/" %} class="current" aria-current="page"{% endif %}>Table of Contents</a></li>
+          </ul>
+        </div>
+        {%- for section in site.data.nav %}
+        <div class="nav-group">
+          <h2 class="nav-heading{% if section.title == current_section.title %} active{% endif %}">{{ section.title }}</h2>
+          <ul>
+            {%- for item in section.pages %}
+            <li><a href="{{ item.url | relative_url }}"{% if item.url == page.url %} class="current" aria-current="page"{% endif %}>{{ item.title }}</a></li>
+            {%- endfor %}
+          </ul>
+        </div>
+        {%- endfor %}
+      </div>
+    </nav>
 
-  <main class="sheet">
+    <main class="sheet">
     {% unless page.url == "/" %}
     <nav class="breadcrumb" aria-label="Breadcrumb">
       <a href="{{ '/' | relative_url }}">Table of Contents</a>
@@ -83,7 +89,8 @@
       {%- endif -%}
     </nav>
     {%- endif -%}
-  </main>
+    </main>
+  </div>
 
   <footer class="journal-footer">
     <div class="flourish">❦</div>
@@ -98,24 +105,5 @@
     </p>
   </footer>
 
-  <script>
-    // Only one menu section open at a time; click outside to close.
-    (function () {
-      var groups = document.querySelectorAll('.nav-group');
-      groups.forEach(function (group) {
-        group.addEventListener('toggle', function () {
-          if (!group.open) return;
-          groups.forEach(function (other) {
-            if (other !== group) other.removeAttribute('open');
-          });
-        });
-      });
-      document.addEventListener('click', function (event) {
-        groups.forEach(function (group) {
-          if (group.open && !group.contains(event.target)) group.removeAttribute('open');
-        });
-      });
-    })();
-  </script>
 </body>
 </html>
