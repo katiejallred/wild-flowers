@@ -72,4 +72,158 @@ Walk anywhere with your eyes down and Fairhaven offers up wild plants, flowers, 
 
 ---
 
+## Specimens from Under and Over the Ground
+
+From the mine's dark shelves — ores, gems, and oddities:
+
+<div class="specimen-grid parchment">
+  <figure>
+    <img src="{{ '/assets/images/wiki/crafting/amethyst.png' | relative_url }}" alt="Amethyst icon" loading="lazy">
+    <figcaption>Amethyst</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crafting/clay.png' | relative_url }}" alt="Clay icon" loading="lazy">
+    <figcaption>Clay</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crafting/coal.png' | relative_url }}" alt="Coal icon" loading="lazy">
+    <figcaption>Coal</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crafting/copper-ore.png' | relative_url }}" alt="Copper Ore icon" loading="lazy">
+    <figcaption>Copper Ore</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crafting/copper-ingot.png' | relative_url }}" alt="Copper Ingot icon" loading="lazy">
+    <figcaption>Copper Ingot</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crafting/gold-ore.png' | relative_url }}" alt="Gold Ore icon" loading="lazy">
+    <figcaption>Gold Ore</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crafting/gold-ingot.png' | relative_url }}" alt="Gold Ingot icon" loading="lazy">
+    <figcaption>Gold Ingot</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crafting/iron-ore.png' | relative_url }}" alt="Iron Ore icon" loading="lazy">
+    <figcaption>Iron Ore</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crafting/iron-ingot.png' | relative_url }}" alt="Iron Ingot icon" loading="lazy">
+    <figcaption>Iron Ingot</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crafting/diamond.png' | relative_url }}" alt="Diamond icon" loading="lazy">
+    <figcaption>Diamond</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crafting/fine-sand.png' | relative_url }}" alt="Fine Sand icon" loading="lazy">
+    <figcaption>Fine Sand</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crafting/pearl-dust.png' | relative_url }}" alt="Pearl Dust icon" loading="lazy">
+    <figcaption>Pearl Dust</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crafting/adder-stone.png' | relative_url }}" alt="Adder Stone icon" loading="lazy">
+    <figcaption>Adder Stone</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crafting/bone.png' | relative_url }}" alt="Bone icon" loading="lazy">
+    <figcaption>Bone</figcaption>
+  </figure>
+</div>
+
+And from the open air, the forager's basket:
+
+<div class="specimen-grid parchment">
+  <figure>
+    <img src="{{ '/assets/images/wiki/forage/almond.png' | relative_url }}" alt="Almond icon" loading="lazy">
+    <figcaption>Almond</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/forage/beacon-bulb.jpeg' | relative_url }}" alt="Beacon Bulb icon" loading="lazy">
+    <figcaption>Beacon Bulb</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/forage/conch-shell.png' | relative_url }}" alt="Conch Shell icon" loading="lazy">
+    <figcaption>Conch Shell</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/forage/emerald.png' | relative_url }}" alt="Emerald icon" loading="lazy">
+    <figcaption>Emerald</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/forage/gem-finder.png' | relative_url }}" alt="Gem Finder icon" loading="lazy">
+    <figcaption>Gem Finder</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/forage/giant-lotus.png' | relative_url }}" alt="Giant Lotus icon" loading="lazy">
+    <figcaption>Giant Lotus</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/forage/heather.png' | relative_url }}" alt="Heather icon" loading="lazy">
+    <figcaption>Heather</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/forage/hedgehog-grass.png' | relative_url }}" alt="Hedgehog Grass icon" loading="lazy">
+    <figcaption>Hedgehog Grass</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/forage/mandrake.png' | relative_url }}" alt="Mandrake icon" loading="lazy">
+    <figcaption>Mandrake</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/forage/mint.png' | relative_url }}" alt="Mint icon" loading="lazy">
+    <figcaption>Mint</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/forage/mistletoe.png' | relative_url }}" alt="Mistletoe icon" loading="lazy">
+    <figcaption>Mistletoe</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/forage/moon-flower.png' | relative_url }}" alt="Moon Flower icon" loading="lazy">
+    <figcaption>Moon Flower</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/forage/mushroom.png' | relative_url }}" alt="Mushroom icon" loading="lazy">
+    <figcaption>Mushroom</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/forage/nigella.png' | relative_url }}" alt="Nigella icon" loading="lazy">
+    <figcaption>Nigella</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/forage/parsley.png' | relative_url }}" alt="Parsley icon" loading="lazy">
+    <figcaption>Parsley</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/forage/peanut.png' | relative_url }}" alt="Peanut icon" loading="lazy">
+    <figcaption>Peanut</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/forage/pearl-on-ground.png' | relative_url }}" alt="Pearl on Ground icon" loading="lazy">
+    <figcaption>Pearl on Ground</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/forage/pearl.png' | relative_url }}" alt="Pearl icon" loading="lazy">
+    <figcaption>Pearl</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/forage/pinecone.png' | relative_url }}" alt="Pinecone icon" loading="lazy">
+    <figcaption>Pinecone</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/forage/pistachio.png' | relative_url }}" alt="Pistachio icon" loading="lazy">
+    <figcaption>Pistachio</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/forage/poppy-flower.png' | relative_url }}" alt="Poppy Flower icon" loading="lazy">
+    <figcaption>Poppy Flower</figcaption>
+  </figure>
+</div>
+
+---
+
 <span class="handwritten">sign-off tip: descend the mine with a nearly empty bag and climb out with a full one — hauling half a warehouse down twenty floors helps no one 💎</span>

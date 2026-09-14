@@ -69,6 +69,127 @@ If coin and materials are tight (and early on, they are), my recommended order o
 
 ---
 
+## The Shed Wall, Illustrated
+
+Stations and tools from the archive — the working wall of a well-kept shed.
+
+<div class="specimen-grid parchment">
+  <figure>
+    <img src="{{ '/assets/images/wiki/stations/bee-hive.png' | relative_url }}" alt="Bee Hive station icon" loading="lazy">
+    <figcaption>Bee Hive</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/stations/bouquet-table.png' | relative_url }}" alt="Bouquet Table station icon" loading="lazy">
+    <figcaption>Bouquet Table</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/stations/butter-churn.png' | relative_url }}" alt="Butter Churn station icon" loading="lazy">
+    <figcaption>Butter Churn</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/stations/candlemaker.png' | relative_url }}" alt="Candlemaker station icon" loading="lazy">
+    <figcaption>Candlemaker</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/stations/candy-puller.png' | relative_url }}" alt="Candy Puller station icon" loading="lazy">
+    <figcaption>Candy Puller</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/stations/compost-bin.png' | relative_url }}" alt="Compost Bin station icon" loading="lazy">
+    <figcaption>Compost Bin</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/stations/copper-pickaxe.png' | relative_url }}" alt="Copper Pickaxe station icon" loading="lazy">
+    <figcaption>Copper Pickaxe</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/stations/copper-wood-axe.png' | relative_url }}" alt="Copper Wood Axe station icon" loading="lazy">
+    <figcaption>Copper Wood Axe</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/stations/dyeing-bath.png' | relative_url }}" alt="Dyeing Bath station icon" loading="lazy">
+    <figcaption>Dyeing Bath</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/stations/expanded-greenhouse.png' | relative_url }}" alt="Expanded Green House station icon" loading="lazy">
+    <figcaption>Expanded Green House</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/stations/feed-mill.png' | relative_url }}" alt="Feed Mill station icon" loading="lazy">
+    <figcaption>Feed Mill</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/stations/fermentation-barrel.png' | relative_url }}" alt="Fermentation Barrel station icon" loading="lazy">
+    <figcaption>Fermentation Barrel</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/stations/fishing-rod.png' | relative_url }}" alt="Fishing Rod station icon" loading="lazy">
+    <figcaption>Fishing Rod</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/stations/fishing-whirligig.png' | relative_url }}" alt="Fishing Whirligig station icon" loading="lazy">
+    <figcaption>Fishing Whirligig</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/stations/garden-bed.png' | relative_url }}" alt="Garden Bed station icon" loading="lazy">
+    <figcaption>Garden Bed</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/stations/glass-kiln.png' | relative_url }}" alt="Glass Kiln station icon" loading="lazy">
+    <figcaption>Glass Kiln</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/stations/gold-pickaxe.png' | relative_url }}" alt="Gold Pickaxe station icon" loading="lazy">
+    <figcaption>Gold Pickaxe</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/stations/gold-wood-axe.png' | relative_url }}" alt="Gold Wood Axe station icon" loading="lazy">
+    <figcaption>Gold Wood Axe</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/stations/greenhouse.png' | relative_url }}" alt="Greenhouse station icon" loading="lazy">
+    <figcaption>Greenhouse</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/stations/hummingbird-feeder.png' | relative_url }}" alt="Hummingbird Feeder station icon" loading="lazy">
+    <figcaption>Hummingbird Feeder</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/stations/iron-watering-can.png' | relative_url }}" alt="Iron Watering Can station icon" loading="lazy">
+    <figcaption>Iron Watering Can</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/stations/juice-press.png' | relative_url }}" alt="Juice Press station icon" loading="lazy">
+    <figcaption>Juice Press</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/stations/livestock-whirligig.png' | relative_url }}" alt="Livestock Whirligig station icon" loading="lazy">
+    <figcaption>Livestock Whirligig</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/stations/logging-whirligig.png' | relative_url }}" alt="Logging Whirligig station icon" loading="lazy">
+    <figcaption>Logging Whirligig</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/stations/loom.png' | relative_url }}" alt="Loom station icon" loading="lazy">
+    <figcaption>Loom</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/stations/metalworking-table.png' | relative_url }}" alt="Metalworking Table station icon" loading="lazy">
+    <figcaption>Metalworking Table</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/stations/mining-whirligig.png' | relative_url }}" alt="Mining Whirligig station icon" loading="lazy">
+    <figcaption>Mining Whirligig</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/stations/paper-press.png' | relative_url }}" alt="Paper Press station icon" loading="lazy">
+    <figcaption>Paper Press</figcaption>
+  </figure>
+</div>
+
+---
+
 Ready to talk numbers? The [Artisan Goods](artisan-goods.md) page weighs processing against selling raw, and the [Money-Making](../reference/money-making.md) ledger folds it all into a broader strategy. For the raw inputs themselves, see [Crops](../farming/crops.md) and [Animals](../farming/animals.md).
 
 <span class="handwritten">sign-off tip: never walk past the shed with full pockets and empty stations — thirty seconds of loading pays for itself every single time 🌿</span>
