@@ -29,6 +29,11 @@ The quest *While the Cat's Away* is part of her tale, and the **Animal Shapeshif
 
 > Lore aside: witches keeping cats isn't superstition in Fairhaven — it's staffing.
 
+<figure class="snapshot">
+  <img src="{{ '/assets/images/farming/kitties-kiss.jpg' | relative_url }}" alt="Two cats touch noses affectionately." loading="lazy">
+  <figcaption>staff meeting 😽</figcaption>
+</figure>
+
 ---
 
 ## Ravenwood Hollow: The Other Hidden Community
