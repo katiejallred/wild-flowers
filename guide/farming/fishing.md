@@ -48,6 +48,28 @@ A practical corollary: carry a spread of all three baits when filling out the co
 
 ---
 
+## Where the Rare Fish Hide
+
+Because bait and location are the only factors, rarity in Fairhaven is not luck — it is *geography plus tackle*. Two rules govern the whole hunt:
+
+1. **Rarity deepens with the water.** The River and Ocean hold the common, everyday catch; the harder a spot is to reach, the finer its fish. The late-game waters — the **Mountain**, the **Gloaming**, and the pool at the very bottom of the **Mine (level 20)** — are where the compendium's rarest entries swim.
+2. **Upgrade the bait before you blame the water.** Within any one spot, each bait draws its own roster, and **chub** — the dearest of the three — tempts the choicest takers. If a spot seems fished out on worms, it usually still owes you its cricket and chub catches.
+
+A hunting order for the completionist:
+
+| If you're missing... | Go here, and work every bait |
+| --- | --- |
+| Common entries | River (your own farm) and the Ocean — no travel, no prerequisites |
+| Mid-tier entries | Forest Lake in the Woods, then the Mountain once it opens |
+| The rare and strange | The Gloaming — otherworldly waters, otherworldly fish ([Island Map](../island/map.md)) |
+| The deepest prizes | The Mine's pool at level 20 — earn your way down with the pickaxe ([Mining & Foraging](mining-and-foraging.md)) |
+
+Rare catches are worth more at [Bruno's counter](../island/shops.md), dearer still as [gifts](../characters/gift-preferences.md) to the right villager — and remember from the [ledger](../reference/money-making.md): the *common* fish are the ones to feed the fish sticks pan, never these.
+
+<span class="handwritten">chub in the Gloaming — that's where my strangest entry came from 🐟</span>
+
+---
+
 ## What Fish Are For
 
 | Use | Notes |
