@@ -26,6 +26,8 @@ The mine descends floor by floor, each stratum with its own treasures. Progress 
 | Floors 15–20 | **Gold ore**, plus the finest pickings. |
 | Floors 16–20 | Mine keys, shiitake mushrooms, and gems — **sapphires, rubies, emeralds, and diamonds**. |
 
+For the complete survey — every floor's ores, gems, chests, and the gem finders — see [The Mine: Floor by Floor](the-mine.md).
+
 > **How the way down opens:** on most floors, breaking ore nodes eventually turns up the key to the next level. The exceptions are floors 14 and 20 — floor 14's way onward needs the special **Deep Mine key**, earned through the coven's questline. Floor 15 keeps itself locked until you've earned that way down; the key to floor 16 then hides nearby. The mine rewards the thorough.
 
 ### Natalia and your tools
