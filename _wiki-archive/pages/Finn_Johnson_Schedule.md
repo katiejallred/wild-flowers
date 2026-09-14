@@ -1,0 +1,67 @@
+# Finn Johnson/Schedule
+
+*Source: <https://wylde-flowers.fandom.com/wiki/Finn_Johnson/Schedule>*
+
+---
+
+## Where to find Finn Johnson
+
+### Monday
+
+9am - 3pm: [School](School.md) house (except in Summer)
+
+4pm - 6pm: [School](School.md) playground
+
+6:30pm - 2am: Unavailable, in house
+
+### Tuesday
+
+9am - 2:30pm: [School](School.md) house (except in Summer)
+
+3pm - 5pm: [Nailed It!](Nailed_It!.md) workshop
+
+5pm - 6pm: [School](School.md) playground
+
+6:30pm - 2am: Unavailable, in house
+
+### Wednesday
+
+9am - 3pm: [School](School.md) house (except in Summer)
+
+4pm - 6pm: [School](School.md) playground
+
+6:30pm - 2am: Unavailable, in house
+
+### Thursday
+
+9am - 3pm: [School](School.md) house (except in Summer)
+
+4pm - 6pm: [School](School.md) playground
+
+6:30pm - 2am: Unavailable, in house
+
+### Friday
+
+9am - 3pm: [School](School.md) house (except in Summer)
+
+3pm - 4:30pm: [Nailed It!](Nailed_It!.md) Workshop
+
+4:30pm - 6pm: [School](School.md) playground
+
+6:30pm - 2am: Unavailable, in house
+
+### Saturday
+
+8am -
+
+### Sunday
+
+?? - 11am – 6pm: [Hayseed](The_Hayseed_Homestead.md) Ranch
+
+7:00pm - 2am: Unavailable, in house
+
+### Summer
+
+When school is out for Summer, during school hours Finn is usually found on [Hayseed](The_Hayseed_Homestead.md) Ranch.
+
+On Saturdays and Sundays, if you have completed the Twin's quest, Finn can also be found manning the Lemonade stand in the [Town Center](Town_Center.md) downtown.
