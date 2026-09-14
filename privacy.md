@@ -42,6 +42,11 @@ cost of running the site. This means:
   of some third-party vendors' use of cookies for personalized advertising at
   [www.aboutads.info/choices](https://www.aboutads.info/choices).
 
+**If you're visiting from the EEA, UK, or Switzerland**, you'll be shown a
+consent tool before any advertising cookies are set, where you can accept,
+decline, or fine-tune consent for personalized ads. You can change your
+choice at any time via the ad privacy options on the site.
+
 For more about how Google uses data when you use partner sites, see
 [How Google uses information from sites or apps that use our services](https://policies.google.com/technologies/partner-sites).
 
@@ -56,7 +61,9 @@ file, Google receives standard request data (such as your IP address). See the
 The only cookies associated with this site come from the third-party advertising
 described above. You can:
 
-- opt out of ad personalization via the links in the advertising section;
+- opt out of ad personalization via the links in the advertising section
+  (and, in the EEA, UK, and Switzerland, via the consent tool shown on
+  your first visit);
 - block or delete cookies entirely in your browser settings; and
 - use a content blocker — the Guide works perfectly well with ads blocked, and we
   will never nag you about it.
