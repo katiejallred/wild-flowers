@@ -52,7 +52,7 @@ Alongside the almanac below, these principles will carry you far:
 
 ## The Per-Resident Almanac
 
-Pressed, labelled, and verified leaf-by-leaf against the community wiki's own gifting table. Each resident keeps three to five favorites.
+Pressed, labelled, and verified leaf-by-leaf against the [community wiki](https://wylde-flowers.fandom.com)'s own gifting table ([CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/), as are these tables). Each resident keeps three to five favorites.
 
 ### The Romanceables
 

@@ -19,9 +19,18 @@ fondness for pressed flowers and spreadsheet-grade farming data, nothing more.
 
 ## 2. Intellectual property
 
-- ***Wylde Flowers***, its characters, story, world, and associated names and
-  marks are the property of **Studio Drydock Pty Ltd**. They are referenced here
-  solely to identify and describe the game.
+- ***Wylde Flowers***, its characters, story, world, artwork, and associated
+  names and marks are the property of **Studio Drydock Pty Ltd**. They are
+  referenced here solely to identify and describe the game, and nothing on this
+  site transfers or licenses any of Studio Drydock's rights.
+- **Game data adapted from the community wiki.** Parts of the Guide — notably
+  the crop almanac and the gift preference tables — are adapted from the
+  [Wylde Flowers Wiki](https://wylde-flowers.fandom.com) on Fandom, whose text
+  is licensed under
+  [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/). Those
+  portions of the Guide are offered under that same license: you may reuse them
+  with credit to the wiki (and to the Guide, for our adaptations), provided you
+  share alike.
 - The **original content of the Guide** — its prose, page design, and hand-drawn
   botanical illustrations — is © the Guide's author. You're welcome to share and
   quote it for personal, non-commercial purposes with a link back to the Guide.
