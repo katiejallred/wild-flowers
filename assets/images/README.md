@@ -56,3 +56,10 @@ intact.
 The screenshots currently in these folders come from Studio Drydock's official
 Wylde Flowers press kit (linked from wyldeflowersgame.com/press.html), resized
 to 1280px JPEGs for the web. © Studio Drydock Pty Ltd.
+
+## Social-share images
+
+`og-image-alt.jpg` (default `og:image` / Twitter card), `twitter-card.jpg` (2:1),
+and `social-square.jpg` (1:1) are cropped from the press kit's **Alt Key Art** —
+the illustrated broomstick-over-the-farm artwork. `og-image.jpg` is the earlier
+16:9 key art, kept as a fallback. All © Studio Drydock Pty Ltd.
