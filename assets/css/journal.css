@@ -401,7 +401,7 @@ img { max-width: 100%; }
   margin: 0.3em 0 0;
 }
 
-.cover .pressed { margin: 1.1rem auto 0.2rem; }
+.cover .pressed { display: block; margin: 1.1rem auto 0.2rem; }
 
 /* specimen cards: one per section of the guide */
 .specimens {
