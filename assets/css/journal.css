@@ -92,6 +92,7 @@ h1 {
 .specimen-label {
   font-family: var(--font-body);
   font-weight: 700;
+  white-space: nowrap;
   font-size: 0.78rem;
   letter-spacing: 0.22em;
   text-transform: uppercase;
@@ -483,7 +484,23 @@ img { max-width: 100%; }
 .specimen h2 {
   margin: 0 3.4rem 0.1rem 0;
   font-size: 1.45rem;
-  color: var(--ink);
+  /* same sunny outlined treatment as h1, scaled down for card size */
+  color: var(--sunny);
+  -webkit-text-stroke: 1.5px var(--outline);
+  paint-order: stroke fill;
+  text-shadow:
+    -1px -1px 0 var(--outline),  1px -1px 0 var(--outline),
+    -1px  1px 0 var(--outline),  1px  1px 0 var(--outline),
+     0 -1.5px 0 var(--outline),  0 1.5px 0 var(--outline),
+    -1.5px 0 0 var(--outline),  1.5px 0 0 var(--outline),
+     0 2.5px 0 var(--outline);
+}
+
+@supports (paint-order: stroke) {
+  .specimen h2 {
+    -webkit-text-stroke: 4px var(--outline);
+    text-shadow: 0 2.5px 0 var(--outline);
+  }
 }
 
 .specimen .latin {
