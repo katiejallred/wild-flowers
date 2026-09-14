@@ -62,8 +62,17 @@ description: "An interactive Wylde Flowers crop profit calculator — pick a sea
     border: 1px solid var(--line);
     background: var(--sheet);
   }
-  .calc-checks label { display: inline-flex; align-items: center; gap: 0.45em; margin-right: 1.6em; font-size: 0.97rem; }
+  .calc-checks { display: flex; flex-wrap: wrap; gap: 0.35em 1.6em; }
+  .calc-checks label { display: inline-flex; align-items: center; gap: 0.45em; font-size: 0.97rem; }
   .calc-checks input { accent-color: var(--amethyst); }
+
+  /* thumb-sized controls on touch screens, without changing the desktop look */
+  @media (pointer: coarse) {
+    .calc-seasons label { padding: 0.55em 1.1em; }
+    .calc-checks label { padding: 0.6em 0; }
+    .calc-checks input { width: 1.35em; height: 1.35em; }
+    .calc-days-wrap input[type="range"] { height: 44px; }
+  }
 
   .calc-summary {
     font-family: "Caveat", "Segoe Script", cursive;
