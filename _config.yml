@@ -21,3 +21,4 @@ defaults:
       path: ""
     values:
       layout: journal
+      image: /assets/images/og-image.jpg
