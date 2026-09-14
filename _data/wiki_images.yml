@@ -1,5 +1,5 @@
 # Index of wiki item art under /assets/images/wiki/<category>/
-# Generated from the uploaded Wylde Flowers wiki image archive (part 1, A–G).
+# Generated from the uploaded Wylde Flowers wiki image archive (parts 1–2, A–R).
 # Each entry: item title -> image filename within its category folder.
 animals:
   - title: "Alpaca"
@@ -20,6 +20,16 @@ animals:
     file: cow.png
   - title: "Duck"
     file: duck.png
+  - title: "Hay"
+    file: hay.png
+  - title: "Mushroom Leather Saddle"
+    file: mushroom-leather-saddle.jpg
+  - title: "Pet Treat"
+    file: pet-treat.png
+  - title: "Pig"
+    file: pig.png
+  - title: "Poultry Feed"
+    file: poultry-feed.png
 characters:
   - title: "Amira Syed"
     file: amira-syed-portrait.png
@@ -63,10 +73,10 @@ characters:
     file: finn-johnson.png
   - title: "Francis Calderón"
     file: francis-calderon-pt.png
-  - title: "Francis Calderón"
-    file: francis-calderon.png
   - title: "Francis portrait suit"
     file: francis-calderon-suit.png
+  - title: "Francis Calderón"
+    file: francis-calderon.png
   - title: "Ginger"
     file: ginger.jpg
   - title: "Giva Joshi FULL"
@@ -77,6 +87,50 @@ characters:
     file: giva-joshi-pt.png
   - title: "Giva Joshi"
     file: giva-joshi.jpeg
+  - title: "Gloria Miranda FULL"
+    file: gloria-miranda-full.png
+  - title: "Gloria Miranda"
+    file: gloria-miranda-pt.png
+  - title: "Hazel Wylde FULL"
+    file: hazel-wylde-full.png
+  - title: "Juliet Moretti"
+    file: juliet-moretti-pt.png
+  - title: "Juliet Moretti"
+    file: juliet-moretti.png
+  - title: "Kai Hoapili"
+    file: kai-hoapili-portrait.png
+  - title: "Kai Hoapili"
+    file: kai-hoapili-pt.png
+  - title: "Kim Izumi"
+    file: kim-izumi-portrait.png
+  - title: "Kim Izumi"
+    file: kim-izumi-pt.png
+  - title: "Kim Izumi"
+    file: kim-izumi.png
+  - title: "Lina Dahl-Johnson"
+    file: lina-dahl-johnson-pt.png
+  - title: "Lina Dahl-Johnson"
+    file: lina-dahl-johnson.png
+  - title: "Marty Emerson"
+    file: marty-emerson-pt.png
+  - title: "Marty Emerson"
+    file: marty-emerson.png
+  - title: "Natalia Kuznetsova"
+    file: natalia-kuznetsova-pt.png
+  - title: "Natalia Kuznetsova"
+    file: natalia-kuznetsova.png
+  - title: "Otto Soft"
+    file: otto-soft-pt.png
+  - title: "Otto Scott"
+    file: otto-soft-suit.png
+  - title: "Parker Johnson"
+    file: parker-johnson-pt.png
+  - title: "Parker Johnson"
+    file: parker-johnson.png
+  - title: "Peri"
+    file: peri.png
+  - title: "Raven"
+    file: raven.png
   - title: "A3A1523D-24A8-41C6-965C-A722D432AAC4"
     file: tara-wylde.jpg
 clothing:
@@ -279,7 +333,235 @@ clothing:
   - title: "Gilded Tinsel Midi"
     file: gilded-tinsel-midi.png
   - title: "Gloaming Garden Jacket and Dress"
+    file: gloaming-garden-jacket-and-dress-in-game.jpg
+  - title: "Gloaming Garden Jacket and Dress"
     file: gloaming-garden-jacket-and-dress.png
+  - title: "Go Gettem Slacks"
+    file: go-gettem-slacks-in-game.jpg
+  - title: "Go Gettem Slacks"
+    file: go-gettem-slacks.png
+  - title: "Gold Amethyst Necklace"
+    file: gold-amethyst-necklace.png
+  - title: "Gold Amethyst Ring"
+    file: gold-amethyst-ring.png
+  - title: "Gold Diamond Necklace"
+    file: gold-diamond-necklace.png
+  - title: "Gold Diamond Ring"
+    file: gold-diamond-ring.png
+  - title: "Gold Pearl Necklace"
+    file: gold-pearl-necklace.png
+  - title: "Gold Pearl Ring"
+    file: gold-pearl-ring.png
+  - title: "Gold Star Jacket and Dress"
+    file: gold-star-jacket-and-dress-in-game.jpg
+  - title: "Gold Star Jacket and Dress"
+    file: gold-star-jacket-and-dress.png
+  - title: "Gooseberry Mini"
+    file: gooseberry-mini-in-game.jpg
+  - title: "Gooseberry Mini"
+    file: gooseberry-mini.png
+  - title: "Gossamer Pink Jacket and Dress"
+    file: gossamer-pink-jacket-and-dress-in-game.jpg
+  - title: "Gossamer Pink Jacket and Dress"
+    file: gossamer-pink-jacket-and-dress.png
+  - title: "Green Bead Bracelet"
+    file: green-bead-bracelet.png
+  - title: "Greenlight Slacks"
+    file: greenlight-slacks-in-game.jpg
+  - title: "Greenlight Slacks"
+    file: greenlight-slacks.png
+  - title: "Guavacado Romper"
+    file: guavacado-romper.png
+  - title: "Guavocado Romper (in-game)"
+    file: guavocado-romper-in-game.jpg
+  - title: "Harmony Band"
+    file: harmony-band.png
+  - title: "Harvest Brown Overalls"
+    file: harvest-brown-overalls-in-game.jpg
+  - title: "Harvest Brown Overalls"
+    file: harvest-brown-overalls.png
+  - title: "Heliotrope Heat Jacket"
+    file: heliotrope-heat-jacket-in-game.jpg
+  - title: "Heliotrope Heat Jacket"
+    file: heliotrope-heat-jacket.png
+  - title: "Honey Jacket and Dress"
+    file: honey-jacket-and-dress-in-game.jpg
+  - title: "Honey Jacket and Dress"
+    file: honey-jacket-and-dress.png
+  - title: "Honeysuckle Frilly"
+    file: honeysuckle-frilly-in-game.jpg
+  - title: "Honeysuckle Frilly"
+    file: honeysuckle-frilly.png
+  - title: "Inky Indigo Midi"
+    file: inky-indigo-midi-in-game.jpg
+  - title: "Inky Indigo Midi"
+    file: inky-indigo-midi.png
+  - title: "Ivory Tee and Jeans"
+    file: ivory-tee-and-jeans-in-game.jpg
+  - title: "Ivory Tee and Jeans"
+    file: ivory-tee-and-jeans.png
+  - title: "Juniper Berry Mini"
+    file: juniper-berry-mini-in-game.jpg
+  - title: "Juniper Berry Mini"
+    file: juniper-berry-mini.png
+  - title: "Keep It Casual Shorts"
+    file: keep-it-casual-shorts-in-game.jpg
+  - title: "Keep It Casual Shorts"
+    file: keep-it-casual-shorts.png
+  - title: "Khaki Cool Slacks"
+    file: khaki-cool-slacks-in-game.jpg
+  - title: "Khaki Cool Slacks"
+    file: khaki-cool-slacks.png
+  - title: "Ladybug Romper"
+    file: ladybug-romper-in-game.jpg
+  - title: "Ladybug Romper"
+    file: ladybug-romper.png
+  - title: "Lava Fissure Leggings"
+    file: lava-fissure-leggings-in-game.jpg
+  - title: "Lava Fissure Leggings"
+    file: lava-fissure-leggings.png
+  - title: "Lavendar Leopard Long"
+    file: lavendar-leopard-long.png
+  - title: "Lavender Leopard Long (in-game)"
+    file: lavender-leopard-long-in-game.jpg
+  - title: "Lilac Bloom Romper"
+    file: lilac-bloom-romper-in-game.jpg
+  - title: "Lilac Bloom Romper"
+    file: lilac-bloom-romper.png
+  - title: "Liquid Evo Leggings"
+    file: liquid-evo-leggings-in-game.jpg
+  - title: "Liquid Evo Leggings"
+    file: liquid-evo-leggings.png
+  - title: "Maroon and Denim Overalls"
+    file: maroon-and-denim-overalls-in-game.jpg
+  - title: "Maroon and Denim Overalls"
+    file: maroon-and-denim-overalls.png
+  - title: "Midnight Lace Jacket Dress"
+    file: midnight-lace-jacket-dress-in-game.jpg
+  - title: "Midnight Lace Jacket Dress"
+    file: midnight-lace-jacket-dress.png
+  - title: "Midnight Lace Mini"
+    file: midnight-lace-mini-in-game.jpg
+  - title: "Midnight Lace Mini"
+    file: midnight-lace-mini.png
+  - title: "Mint On Demand Shorts"
+    file: mint-on-demand-shorts-in-game.jpg
+  - title: "Mint On Demand Shorts"
+    file: mint-on-demand-shorts.png
+  - title: "Mixed Metal Bangles"
+    file: mixed-metal-bangles.png
+  - title: "Mossy Marble Romper"
+    file: mossy-marble-romper-in-game.jpg
+  - title: "Mossy Marble Romper"
+    file: mossy-marble-romper.png
+  - title: "Mulberry Sparkle Overalls"
+    file: mulberry-sparkle-overalls-in-game.jpg
+  - title: "Mulberry Sparkle Overalls"
+    file: mulberry-sparkle-overalls.png
+  - title: "Mushroom Meadow Day Dress"
+    file: mushroom-meadow-day-dress-in-game.jpg
+  - title: "Mushroom Meadow Day Dress"
+    file: mushroom-meadow-day-dress.png
+  - title: "Mushroom Meadow Long"
+    file: mushroom-meadow-long-in-game.jpg
+  - title: "Mushroom Meadow Long"
+    file: mushroom-meadow-long.png
+  - title: "Neon Plasma Midi"
+    file: neon-plasma-midi-in-game.jpg
+  - title: "Neon Plasma Midi"
+    file: neon-plasma-midi.png
+  - title: "Obsidian Glimmer Mini"
+    file: obsidian-glimmer-mini-in-game.jpg
+  - title: "Obsidian Glimmer Mini"
+    file: obsidian-glimmer-mini.png
+  - title: "Opal Onyx Long"
+    file: opal-onyx-long-in-game.jpg
+  - title: "Opal Onyx Long"
+    file: opal-onyx-long.png
+  - title: "Orange Bead Bracelet"
+    file: orange-bead-bracelet.png
+  - title: "Ore Naturel Overalls"
+    file: ore-naturel-overalls-in-game.jpg
+  - title: "Ore Naturel Overalls"
+    file: ore-naturel-overalls.png
+  - title: "Paint It Black Long"
+    file: paint-it-black-long-in-game.jpg
+  - title: "Paint It Black Long"
+    file: paint-it-black-long.png
+  - title: "Parsley Tee and Jeans"
+    file: parsley-tee-and-jeans-in-game.jpg
+  - title: "Parsley Tee and Jeans"
+    file: parsley-tee-and-jeans.png
+  - title: "Pastel Bouquet Leggings"
+    file: pastel-bouquet-leggings-in-game.jpg
+  - title: "Pastel Bouquet Leggings"
+    file: pastel-bouquet-leggings.png
+  - title: "Pensive Blue Shorts"
+    file: pensive-blue-shorts-in-game.jpg
+  - title: "Pensive Blue Shorts"
+    file: pensive-blue-shorts.png
+  - title: "Peppercorn Tee and Jeans"
+    file: peppercorn-tee-and-jeans-in-game.jpg
+  - title: "Peppercorn Tee and Jeans"
+    file: peppercorn-tee-and-jeans.png
+  - title: "Perfect Glitch Overalls"
+    file: perfect-glitch-overalls-in-game.jpg
+  - title: "Perfect Glitch Overalls"
+    file: perfect-glitch-overalls.png
+  - title: "Petal Pink Romper"
+    file: petal-pink-romper-in-game.jpg
+  - title: "Petal Pink Romper"
+    file: petal-pink-romper.png
+  - title: "Pink Daydream Leggings"
+    file: pink-daydream-leggings-in-game.jpg
+  - title: "Pink Daydream Leggings"
+    file: pink-daydream-leggings.png
+  - title: "Pink Field Denim Overalls"
+    file: pink-field-denim-overalls-in-game.jpg
+  - title: "Pink Field Denim Overalls"
+    file: pink-field-denim-overalls.png
+  - title: "Pink Poppy Frilly"
+    file: pink-poppy-frilly-in-game.jpg
+  - title: "Pink Poppy Frilly"
+    file: pink-poppy-frilly.png
+  - title: "Pink Sherbert Overalls"
+    file: pink-sherbert-overalls-in-game.jpg
+  - title: "Pink Sherbert Overalls"
+    file: pink-sherbert-overalls.png
+  - title: "Pistachio Please Day Dress"
+    file: pistachio-please-day-dress-in-game.jpg
+  - title: "Pistachio Please Day Dress"
+    file: pistachio-please-day-dress.png
+  - title: "Plum Shimmer Romper"
+    file: plum-shimmer-romper-in-game.jpg
+  - title: "Plum Shimmer Romper"
+    file: plum-shimmer-romper.png
+  - title: "Polkadot Primrose Day Dress"
+    file: polkadot-primrose-day-dress-in-game.jpg
+  - title: "Polkadot Primrose Day Dress"
+    file: polkadot-primrose-day-dress.png
+  - title: "Pressed Flower Jacket and Dress"
+    file: pressed-flower-jacket-and-dress-in-game.jpg
+  - title: "Pressed Flower Jacket and Dress"
+    file: pressed-flower-jacket-and-dress.png
+  - title: "Pretty Pine Jacket"
+    file: pretty-pine-jacket-in-game.jpg
+  - title: "Pretty Pine Jacket"
+    file: pretty-pine-jacket.png
+  - title: "Pumpkin Spice Long"
+    file: pumpkin-spice-long-in-game.jpg
+  - title: "Pumpkin Spice Long"
+    file: pumpkin-spice-long.png
+  - title: "Purple Bead Bracelet"
+    file: purple-bead-bracelet.png
+  - title: "Purple Galaxy Leggings"
+    file: purple-galaxy-leggings-in-game.jpg
+  - title: "Purple Galaxy Leggings"
+    file: purple-galaxy-leggings.png
+  - title: "Raspberry Citrus Shorts"
+    file: raspberry-citrus-shorts-in-game.jpg
+  - title: "Raspberry Citrus Shorts"
+    file: raspberry-citrus-shorts.png
 crafting:
   - title: "Adder Stone"
     file: adder-stone.png
@@ -367,6 +649,100 @@ crafting:
     file: glass-pitcher.png
   - title: "Glass"
     file: glass.png
+  - title: "Gold Ingot"
+    file: gold-ingot.png
+  - title: "Gold Ore"
+    file: gold-ore.png
+  - title: "Golden Wool"
+    file: golden-wool.png
+  - title: "Green Cloth"
+    file: green-cloth.png
+  - title: "Green Dye"
+    file: green-dye.png
+  - title: "Green Hair Color"
+    file: green-hair-color.png
+  - title: "Green Leather"
+    file: green-leather.png
+  - title: "Green Silk Thread"
+    file: green-silk-thread.png
+  - title: "Green Silk"
+    file: green-silk.png
+  - title: "Ink"
+    file: ink.png
+  - title: "Instant Brew Powder"
+    file: instant-brew-powder.png
+  - title: "Iron Ingot"
+    file: iron-ingot.png
+  - title: "Iron Ore"
+    file: iron-ore.png
+  - title: "Leather"
+    file: leather.png
+  - title: "Love Card"
+    file: love-card.png
+  - title: "MagicAnimalGuide"
+    file: magic-animal-guide.png
+  - title: "Molted Basilisk Skin"
+    file: molted-basilisk-skin.jpeg
+  - title: "More Recipes for Bakers"
+    file: more-recipes-for-bakers.png
+  - title: "Mushroom Leather"
+    file: mushroom-leather.png
+  - title: "Mystic Bouquet"
+    file: mystic-bouquet.png
+  - title: "Natalia's Hammer"
+    file: natalias-hammer.png
+  - title: "Oats"
+    file: oats.png
+  - title: "Olive Hair Color"
+    file: olive-hair-color.png
+  - title: "Olive Oil"
+    file: olive-oil.png
+  - title: "Orange Cloth"
+    file: orange-cloth.png
+  - title: "Orange Dye"
+    file: orange-dye.png
+  - title: "Orange Hair Color"
+    file: orange-hair-color.png
+  - title: "Orange Leather"
+    file: orange-leather.png
+  - title: "Orange Silk Thread"
+    file: orange-silk-thread.png
+  - title: "Orange Silk"
+    file: orange-silk.png
+  - title: "Paper"
+    file: paper.png
+  - title: "Paprika"
+    file: paprika.png
+  - title: "Parchment"
+    file: parchment.png
+  - title: "Pearl Dust"
+    file: pearl-dust.png
+  - title: "Pineapple"
+    file: pineapple.png
+  - title: "Pomade"
+    file: pomade.png
+  - title: "Powdered Calcium"
+    file: powdered-calcium.png
+  - title: "Propagation Mix"
+    file: propagation-mix.png
+  - title: "Purple Cloth"
+    file: purple-cloth.png
+  - title: "Purple Dyed Egg"
+    file: purple-dyed-egg.png
+  - title: "Purple Hair Color"
+    file: purple-hair-color.png
+  - title: "Purple Leather"
+    file: purple-leather.png
+  - title: "Purple Silk Thread"
+    file: purple-silk-thread.png
+  - title: "Purple Silk"
+    file: purple-silk.png
+  - title: "Rainbow Cloth"
+    file: rainbow-cloth.png
+  - title: "Rainbow Dyed Egg"
+    file: rainbow-dyed-egg.png
+  - title: "Rainbow Wool"
+    file: rainbow-wool.png
 crops:
   - title: "Anemone Seeds"
     file: anemone-seeds.png
@@ -440,6 +816,82 @@ crops:
     file: gladiolus-flower.jpeg
   - title: "Gladiolus Seed"
     file: gladiolus-seed.jpg
+  - title: "Golden Egg"
+    file: golden-egg.png
+  - title: "Grape Seeds"
+    file: grape-seeds.png
+  - title: "Grapes"
+    file: grapes.png
+  - title: "Green Bean Seeds"
+    file: green-bean-seeds.png
+  - title: "Green Bean"
+    file: green-bean.jpg
+  - title: "Honey"
+    file: honey.png
+  - title: "Hops Seeds"
+    file: hops-seeds.png
+  - title: "Hops"
+    file: hops.png
+  - title: "Lemon Tree Seedling"
+    file: lemon-tree-seedling.png
+  - title: "Lemon"
+    file: lemon.png
+  - title: "Lime Tree Seedling"
+    file: lime-tree-seedling.png
+  - title: "Lime"
+    file: lime.png
+  - title: "Magic Bean Seeds"
+    file: magic-bean-seeds.png
+  - title: "Maple Syrup"
+    file: maple-syrup.png
+  - title: "Marigold Seeds"
+    file: marigold-seeds.png
+  - title: "Marigold"
+    file: marigold.png
+  - title: "Milk"
+    file: milk.png
+  - title: "Mulberry Leaf"
+    file: mulberry-leaf.png
+  - title: "Mulberry Tree Seedling"
+    file: mulberry-tree-seedling.png
+  - title: "Mulberry"
+    file: mulberry.png
+  - title: "Olive Tree Seedling"
+    file: olive-tree-seedling.png
+  - title: "Olive"
+    file: olive.png
+  - title: "Onion Seeds"
+    file: onion-seeds.png
+  - title: "Onion"
+    file: onion.png
+  - title: "Orange Tree Seedling"
+    file: orange-tree-seedling.png
+  - title: "Orange"
+    file: orange.png
+  - title: "Pig Feather"
+    file: pig-feather.png
+  - title: "Pomegranate Tree Seedling"
+    file: pomegranate-tree-seedling.png
+  - title: "Pomegranate"
+    file: pomegranate.png
+  - title: "Pork"
+    file: pork.png
+  - title: "Potato Seeds"
+    file: potato-seeds.png
+  - title: "Potato"
+    file: potato.png
+  - title: "Primrose Seeds"
+    file: primrose-seeds.png
+  - title: "Primrose"
+    file: primrose.png
+  - title: "Pumpkin Seeds"
+    file: pumpkin-seeds.png
+  - title: "Pumpkin"
+    file: pumpkin.png
+  - title: "Rainbow Egg"
+    file: rainbow-egg.png
+  - title: "Rainbow Milk"
+    file: rainbow-milk.png
 fish:
   - title: "Black Crappie"
     file: black-crappie.png
@@ -481,6 +933,36 @@ fish:
     file: flounder.png
   - title: "Gar"
     file: gar.png
+  - title: "Golden Catfish"
+    file: golden-catfish.png
+  - title: "Grotto Sculpin"
+    file: grotto-sculpin.png
+  - title: "Haddock"
+    file: haddock.png
+  - title: "Halibut"
+    file: halibut.png
+  - title: "Herring"
+    file: herring.png
+  - title: "Loach"
+    file: loach.png
+  - title: "Lobster"
+    file: lobster.png
+  - title: "Mackerel"
+    file: mackerel.png
+  - title: "Minnow"
+    file: minnow.png
+  - title: "Mussel"
+    file: mussel.png
+  - title: "Oyster"
+    file: oyster.png
+  - title: "Perch"
+    file: perch.png
+  - title: "Pike"
+    file: pike.png
+  - title: "Pupfish"
+    file: pupfish.png
+  - title: "Rainbow Trout"
+    file: rainbow-trout.png
 food:
   - title: "Anzac Biscuit"
     file: anzac-biscuit.png
@@ -644,6 +1126,144 @@ food:
     file: fruit-punch.png
   - title: "Fruit Salad"
     file: fruit-salad.png
+  - title: "Golubtsi (Stuffed Cabbage)"
+    file: golubtsi-stuffed-cabbage.png
+  - title: "Goulash"
+    file: goulash.png
+  - title: "Grape Juice"
+    file: grape-juice.png
+  - title: "Gulab Jamun"
+    file: gulab-jamun.jpg
+  - title: "Gyozas"
+    file: gyoza.png
+  - title: "Haupia (Coconut Pudding)"
+    file: haupia-coconut-pudding.png
+  - title: "Honey Lemon Tea"
+    file: honey-lemon-tea.png
+  - title: "Hot Chocolate"
+    file: hot-chocolate.png
+  - title: "Hot Cross Bun"
+    file: hot-cross-bun.png
+  - title: "Italian Sausage"
+    file: italian-sausage.png
+  - title: "Jambalaya"
+    file: jambalaya.png
+  - title: "Jeweled Rice"
+    file: jeweled-rice.png
+  - title: "Kimchi"
+    file: kimchi.png
+  - title: "Lasagna"
+    file: lasagna.png
+  - title: "Latke"
+    file: latke.png
+  - title: "Lemon Poppy Seed Cake"
+    file: lemon-poppy-seed-cake.png
+  - title: "Lemon Square"
+    file: lemon-square.png
+  - title: "Lemonade"
+    file: lemonade.png
+  - title: "Lobster Roll"
+    file: lobster-roll.png
+  - title: "Lobster Tails With Truffle Oil"
+    file: lobster-tails-with-truffle-oil.jpg
+  - title: "Lobster Thermidor"
+    file: lobster-thermidor.png
+  - title: "Loco Moco"
+    file: loco-moco.png
+  - title: "Malasada"
+    file: malasada.png
+  - title: "Manapua (Pork Dumpling)"
+    file: manapua-pork-dumpling.png
+  - title: "Marmalade Pudding"
+    file: marmalade-pudding.png
+  - title: "Matzo Ball Soup"
+    file: matzo-ball-soup.png
+  - title: "Mint Julep"
+    file: mint-julep.png
+  - title: "Miso Soup"
+    file: miso-soup.png
+  - title: "Mojito"
+    file: mojito.png
+  - title: "Moroccan Carrot Soup"
+    file: moroccan-carrot-soup.png
+  - title: "Muffin"
+    file: muffin.png
+  - title: "Mulled Wine"
+    file: mulled-wine.png
+  - title: "Mushroom Pizza"
+    file: mushroom-pizza.png
+  - title: "Mushroom Risotto"
+    file: mushroom-risotto.png
+  - title: "My First Cookbook"
+    file: my-first-cookbook.png
+  - title: "Nachos"
+    file: nachos.png
+  - title: "New England Chowder"
+    file: new-england-chowder.png
+  - title: "Noodles"
+    file: noodles.png
+  - title: "Nougat"
+    file: nougat.png
+  - title: "Oatmeal Raisin Cookie"
+    file: oatmeal-raisin-cookie.png
+  - title: "Oatmeal"
+    file: oatmeal.png
+  - title: "Orange Candy"
+    file: orange-candy.png
+  - title: "Orange Juice"
+    file: orange-juice.png
+  - title: "Pacoquinha (Peanut Rolls)"
+    file: pacoquinha-peanut-rolls.png
+  - title: "Pancakes"
+    file: pancakes.png
+  - title: "Patriot Pie"
+    file: patriot-pie.png
+  - title: "Pav Bhaji"
+    file: pav-bhaji.png
+  - title: "Peanut Brittle"
+    file: peanut-brittle.png
+  - title: "Peking Duck"
+    file: peking-duck.jpg
+  - title: "Pepperoni Pizza"
+    file: pepperoni-pizza.png
+  - title: "Persian Love Cake"
+    file: persian-love-cake.png
+  - title: "Pierogi"
+    file: pierogi.png
+  - title: "Pikliz"
+    file: pikliz.png
+  - title: "Piña Colada"
+    file: pina-colada.png
+  - title: "Pizza Dough"
+    file: pizza-dough.png
+  - title: "Poke bowl"
+    file: poke-bowl.png
+  - title: "Popcorn"
+    file: popcorn.png
+  - title: "Praline Cookie"
+    file: praline-cookie.png
+  - title: "Prawns Koliwada"
+    file: prawns-koliwada.png
+  - title: "Prawns Koliwanda"
+    file: prawns-koliwanda.jpeg
+  - title: "Precipizi"
+    file: precipizi.png
+  - title: "Pumpkin Ale"
+    file: pumpkin-ale.png
+  - title: "Pumpkin Bread"
+    file: pumpkin-bread.png
+  - title: "Pumpkin Mochi Pie"
+    file: pumpkin-mochi-pie.png
+  - title: "Pumpkin Pie"
+    file: pumpkin-pie.png
+  - title: "Pumpkin Soup"
+    file: pumpkin-soup.png
+  - title: "Pumpkin Spice Latte"
+    file: pumpkin-spice-latte.png
+  - title: "Quiche"
+    file: quiche.png
+  - title: "Ramen"
+    file: ramen.png
   - title: "Damon - Slap Chips"
     file: slap-chips-damon.png
 forage:
@@ -659,6 +1279,36 @@ forage:
     file: gem-finder.png
   - title: "Giant Lotus"
     file: giant-lotus.png
+  - title: "Heather"
+    file: heather.png
+  - title: "Hedgehog Grass"
+    file: hedgehog-grass.png
+  - title: "Mandrake"
+    file: mandrake.png
+  - title: "Mint"
+    file: mint.png
+  - title: "Mistletoe"
+    file: mistletoe.png
+  - title: "Moon Flower"
+    file: moon-flower.png
+  - title: "Mushroom"
+    file: mushroom.png
+  - title: "Nigella"
+    file: nigella.png
+  - title: "Parsley"
+    file: parsley.png
+  - title: "Peanut"
+    file: peanut.png
+  - title: "Pearl on Ground"
+    file: pearl-on-ground.png
+  - title: "Pearl"
+    file: pearl.png
+  - title: "Pinecone"
+    file: pinecone.png
+  - title: "Pistachio"
+    file: pistachio.png
+  - title: "Poppy Flower"
+    file: poppy-flower.png
 hair:
   - title: "Azalea Mane Wolf Cut"
     file: azalea-mane-wolf-cut-all.png
@@ -788,6 +1438,100 @@ hair:
     file: fuschia-firefly-twin-braids-all.png
   - title: "Fuschia Firefly Twin Braids"
     file: fuschia-firefly-twin-braids.png
+  - title: "Inky Turquoise Tresses"
+    file: inky-turquoise-tresses-all.png
+  - title: "Inky Turquoise Tresses"
+    file: inky-turquoise-tresses.png
+  - title: "Lime Voltage High Bun"
+    file: lime-voltage-high-bun-all.png
+  - title: "Lime Voltage High Bun"
+    file: lime-voltage-high-bun.png
+  - title: "Milk Tea Ponytail"
+    file: milk-tea-ponytail-all.png
+  - title: "Milk Tea Ponytail"
+    file: milk-tea-ponytail.png
+  - title: "Monarch Split Space Buns"
+    file: monarch-split-space-buns-all.png
+  - title: "Monarch Split Space Buns"
+    file: monarch-split-space-buns.png
+  - title: "Ocean Caps Ponytail"
+    file: ocean-caps-ponytail-all.png
+  - title: "Ocean Caps Ponytail"
+    file: ocean-caps-ponytail.png
+  - title: "Olive Bow Tied Bob"
+    file: olive-bow-tied-bob-all.png
+  - title: "Olive Bow Tied Bob"
+    file: olive-bow-tied-bob.png
+  - title: "Olive Classic Cut"
+    file: olive-classic-cut-all.png
+  - title: "Olive Classic Cut"
+    file: olive-classic-cut.png
+  - title: "Olive High Bun"
+    file: olive-high-bun-all.png
+  - title: "Olive High Bun"
+    file: olive-high-bun.png
+  - title: "Olive Ponytail"
+    file: olive-ponytail-all.png
+  - title: "Olive Ponytail"
+    file: olive-ponytail.png
+  - title: "Olive Short Shag"
+    file: olive-short-shag-all.png
+  - title: "Olive Short Shag"
+    file: olive-short-shag.png
+  - title: "Olive Space Buns"
+    file: olive-space-buns-all.png
+  - title: "Olive Space Buns"
+    file: olive-space-buns.png
+  - title: "Olive Tresses"
+    file: olive-tresses-all.png
+  - title: "Olive Tresses"
+    file: olive-tresses.png
+  - title: "Olive Twin Braids"
+    file: olive-twin-braids-all.png
+  - title: "Olive Twin Braids"
+    file: olive-twin-braids.png
+  - title: "Olive Wolf Cut"
+    file: olive-wolf-cut-all.png
+  - title: "Olive Wolf Cut"
+    file: olive-wolf-cut.png
+  - title: "Rainbow Rave High Bun"
+    file: rainbow-rave-high-bun-all.png
+  - title: "Rainbow Rave High Bun"
+    file: rainbow-rave-high-bun.png
+  - title: "Raven Bow Tied Bob"
+    file: raven-bow-tied-bob-all.png
+  - title: "Raven Bow Tied Bob"
+    file: raven-bow-tied-bob.png
+  - title: "Raven Classic Cut"
+    file: raven-classic-cut-all.png
+  - title: "Raven Classic Cut"
+    file: raven-classic-cut.png
+  - title: "Raven High Bun"
+    file: raven-high-bun-all.png
+  - title: "Raven High Bun"
+    file: raven-high-bun.png
+  - title: "Raven Ponytail"
+    file: raven-ponytail-all.png
+  - title: "Raven Ponytail"
+    file: raven-ponytail.png
+  - title: "Raven Short Shag"
+    file: raven-short-shag-all.png
+  - title: "Raven Short Shag"
+    file: raven-short-shag.png
+  - title: "Raven Space Buns"
+    file: raven-space-buns-all.png
+  - title: "Raven Space Buns"
+    file: raven-space-buns.png
+  - title: "Raven Tresses"
+    file: raven-tresses-all.png
+  - title: "Raven Tresses"
+    file: raven-tresses.png
+  - title: "Raven Twin Braids"
+    file: raven-twin-braids-all.png
+  - title: "Raven Twin Braids"
+    file: raven-twin-braids.png
+  - title: "Raven Wolf Cut"
+    file: raven-wolf-cut.png
 island:
   - title: "Echo-peri-lighthouse"
     file: echo-peri-lighthouse.png
@@ -805,6 +1549,24 @@ island:
     file: forest-winter.png
   - title: "Garden Pic"
     file: garden.png
+  - title: "Magictree 032"
+    file: magic-tree.jpg
+  - title: "Map of Fairhaven"
+    file: map-of-fairhaven.png
+  - title: "Mountain"
+    file: mountain.png
+  - title: "Oceanview Countyside"
+    file: oceanview-countryside.jpg
+  - title: "Opening-map"
+    file: opening-map.jpeg
+  - title: "Peri-blossom-glow"
+    file: peri-blossom-glow.png
+  - title: "Peri-lighthouse-blossom-2"
+    file: peri-lighthouse-blossom-2.png
+  - title: "Peri-lighthouse-blossom"
+    file: peri-lighthouse-blossom.png
+  - title: "Lighthouse-peri-candle"
+    file: peri-lighthouse-candle.png
   - title: "Chalkboard in Ravenwood by Kate Blackshear"
     file: ravenwood-chalkboard.jpg
 magic:
@@ -904,6 +1666,62 @@ magic:
     file: freeze-time.png
   - title: "Glimmer Coating"
     file: glimmer-coating.png
+  - title: "Growth Booster.png"
+    file: growth-booster.png
+  - title: "High Priestess"
+    file: high-priestess.png
+  - title: "Honey Mint Cooler"
+    file: honey-mint-cooler.png
+  - title: "Human-Friendly Unfreezing Incantation"
+    file: human-friendly-unfreezing-incantation.jpg
+  - title: "Initiate"
+    file: initiate.jpg
+  - title: "Initiation Rite"
+    file: initiation-rite.png
+  - title: "Journeyman"
+    file: journeyman.png
+  - title: "Levitation Potion"
+    file: levitation-potion.png
+  - title: "Lockpick Incantation"
+    file: lockpick-incantation.png
+  - title: "Magic Broomstick"
+    file: magic-broomstick.png
+  - title: "Max Restore Magic Potion"
+    file: max-restore-magic-potion.png
+  - title: "Max Revitalizing Potion"
+    file: max-revitalizing-potion.png
+  - title: "Midsummer Animal Blessing"
+    file: midsummer-animal-blessing.png
+  - title: "Minor Animal Blessing"
+    file: minor-animal-blessing.png
+  - title: "Miracle Grow Potion"
+    file: miracle-grow-potion.png
+  - title: "Moly Flower"
+    file: moly-flower.png
+  - title: "Moly Seeds"
+    file: moly-seeds.png
+  - title: "Mortar and Pestle"
+    file: mortar-and-pestle.png
+  - title: "Natalia's Wraith Banishment"
+    file: natalias-wraith-banishment.png
+  - title: "Powered Amethyst"
+    file: powered-amethyst.png
+  - title: "Powered Diamond"
+    file: powered-diamond.png
+  - title: "Powered Emerald"
+    file: powered-emerald.png
+  - title: "Powered Ruby"
+    file: powered-ruby.png
+  - title: "Powered Sapphire"
+    file: powered-sapphire.png
+  - title: "Powered Topaz"
+    file: powered-topaz.png
+  - title: "Pranking Pumpkin Pie"
+    file: pranking-pumpkin-pie.png
+  - title: "Purple Candle"
+    file: purple-candle.jpeg
+  - title: "Purple Dye"
+    file: purple-dye.png
 quests:
   - title: "A Change of Recipe"
     file: a-change-of-recipe.jpg
@@ -921,6 +1739,24 @@ quests:
     file: forget-me-not.png
   - title: "From Bud To Spud"
     file: from-bud-to-spud.jpg
+  - title: "In a Past Lighthouse"
+    file: in-a-past-lighthouse.jpg
+  - title: "Incantation Vexation"
+    file: incantation-vexation.jpg
+  - title: "Lure One In"
+    file: lure-one-in.jpg
+  - title: "Meant To Bee"
+    file: meant-to-bee.jpg
+  - title: "Mine Keys"
+    file: mine-keys.png
+  - title: "Not an Ice-O-Lated Event"
+    file: not-an-ice-o-lated-event.jpeg
+  - title: "Not Today, Seitan"
+    file: not-today-seitan.jpg
+  - title: "Nuts About You"
+    file: nuts-about-you.jpg
+  - title: "Otto's Wedding Ring"
+    file: ottos-wedding-ring.png
 stations:
   - title: "Bee Hive"
     file: bee-hive.png
@@ -956,6 +1792,34 @@ stations:
     file: garden-bed.png
   - title: "Glass Kiln"
     file: glass-kiln.png
+  - title: "Gold Pickaxe"
+    file: gold-pickaxe.png
+  - title: "Gold Wood Axe"
+    file: gold-wood-axe.png
+  - title: "Greenhouse"
+    file: greenhouse-1.png
+  - title: "Greenhouse"
+    file: greenhouse-in-game.jpg
+  - title: "Greenhouse"
+    file: greenhouse.png
+  - title: "Hummingbird Feeder"
+    file: hummingbird-feeder.png
+  - title: "Iron Watering Can"
+    file: iron-watering-can.png
+  - title: "Juice Press"
+    file: juice-press.png
+  - title: "Livestock Whirligig"
+    file: livestock-whirligig.png
+  - title: "Logging Whirligig"
+    file: logging-whirligig.png
+  - title: "Loom"
+    file: loom.png
+  - title: "Metalworking Table"
+    file: metalworking-table.png
+  - title: "Mining Whirligig"
+    file: mining-whirligig.png
+  - title: "Paper Press"
+    file: paper-press.png
 ui:
   - title: "BrewingIcon"
     file: brewing-icon.png
@@ -977,3 +1841,13 @@ ui:
     file: gloaming-2-icon.png
   - title: "Gloaming3Icon"
     file: gloaming-3-icon.png
+  - title: "Heart Empty"
+    file: heart-empty.png
+  - title: "Mac Icon"
+    file: mac-icon.png
+  - title: "Image"
+    file: money-pouch.png
+  - title: "PlantIcon"
+    file: plant-icon.png
+  - title: "Quests"
+    file: quest-journal.png

@@ -47,7 +47,7 @@ Character quest lines also grow around the island's couples and families — Ang
 
 ## From the Quest Journal
 
-Sketches clipped from the quest journal's early pages — moments from the side stories above and a few still waiting to be written up.
+Sketches clipped from the quest journal — moments from the side stories above and a few still waiting to be written up.
 
 <div class="specimen-grid">
   <figure>
@@ -81,6 +81,42 @@ Sketches clipped from the quest journal's early pages — moments from the side 
   <figure>
     <img src="{{ '/assets/images/wiki/quests/from-bud-to-spud.jpg' | relative_url }}" alt="From Bud To Spud side quest artwork" loading="lazy">
     <figcaption>From Bud To Spud</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/quests/in-a-past-lighthouse.jpg' | relative_url }}" alt="In a Past Lighthouse side quest artwork" loading="lazy">
+    <figcaption>In a Past Lighthouse</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/quests/incantation-vexation.jpg' | relative_url }}" alt="Incantation Vexation side quest artwork" loading="lazy">
+    <figcaption>Incantation Vexation</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/quests/lure-one-in.jpg' | relative_url }}" alt="Lure One In side quest artwork" loading="lazy">
+    <figcaption>Lure One In</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/quests/meant-to-bee.jpg' | relative_url }}" alt="Meant To Bee side quest artwork" loading="lazy">
+    <figcaption>Meant To Bee</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/quests/mine-keys.png' | relative_url }}" alt="Mine Keys side quest artwork" loading="lazy">
+    <figcaption>Mine Keys</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/quests/not-an-ice-o-lated-event.jpeg' | relative_url }}" alt="Not an Ice-O-Lated Event side quest artwork" loading="lazy">
+    <figcaption>Not an Ice-O-Lated Event</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/quests/not-today-seitan.jpg' | relative_url }}" alt="Not Today, Seitan side quest artwork" loading="lazy">
+    <figcaption>Not Today, Seitan</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/quests/nuts-about-you.jpg' | relative_url }}" alt="Nuts About You side quest artwork" loading="lazy">
+    <figcaption>Nuts About You</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/quests/ottos-wedding-ring.png' | relative_url }}" alt="Otto's Wedding Ring side quest artwork" loading="lazy">
+    <figcaption>Otto's Wedding Ring</figcaption>
   </figure>
 </div>
 

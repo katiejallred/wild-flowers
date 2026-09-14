@@ -96,12 +96,32 @@ From the mine's dark shelves — ores, gems, and oddities:
     <figcaption>Copper Ingot</figcaption>
   </figure>
   <figure>
+    <img src="{{ '/assets/images/wiki/crafting/gold-ore.png' | relative_url }}" alt="Gold Ore icon" loading="lazy">
+    <figcaption>Gold Ore</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crafting/gold-ingot.png' | relative_url }}" alt="Gold Ingot icon" loading="lazy">
+    <figcaption>Gold Ingot</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crafting/iron-ore.png' | relative_url }}" alt="Iron Ore icon" loading="lazy">
+    <figcaption>Iron Ore</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crafting/iron-ingot.png' | relative_url }}" alt="Iron Ingot icon" loading="lazy">
+    <figcaption>Iron Ingot</figcaption>
+  </figure>
+  <figure>
     <img src="{{ '/assets/images/wiki/crafting/diamond.png' | relative_url }}" alt="Diamond icon" loading="lazy">
     <figcaption>Diamond</figcaption>
   </figure>
   <figure>
     <img src="{{ '/assets/images/wiki/crafting/fine-sand.png' | relative_url }}" alt="Fine Sand icon" loading="lazy">
     <figcaption>Fine Sand</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crafting/pearl-dust.png' | relative_url }}" alt="Pearl Dust icon" loading="lazy">
+    <figcaption>Pearl Dust</figcaption>
   </figure>
   <figure>
     <img src="{{ '/assets/images/wiki/crafting/adder-stone.png' | relative_url }}" alt="Adder Stone icon" loading="lazy">
@@ -139,6 +159,66 @@ And from the open air, the forager's basket:
   <figure>
     <img src="{{ '/assets/images/wiki/forage/giant-lotus.png' | relative_url }}" alt="Giant Lotus icon" loading="lazy">
     <figcaption>Giant Lotus</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/forage/heather.png' | relative_url }}" alt="Heather icon" loading="lazy">
+    <figcaption>Heather</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/forage/hedgehog-grass.png' | relative_url }}" alt="Hedgehog Grass icon" loading="lazy">
+    <figcaption>Hedgehog Grass</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/forage/mandrake.png' | relative_url }}" alt="Mandrake icon" loading="lazy">
+    <figcaption>Mandrake</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/forage/mint.png' | relative_url }}" alt="Mint icon" loading="lazy">
+    <figcaption>Mint</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/forage/mistletoe.png' | relative_url }}" alt="Mistletoe icon" loading="lazy">
+    <figcaption>Mistletoe</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/forage/moon-flower.png' | relative_url }}" alt="Moon Flower icon" loading="lazy">
+    <figcaption>Moon Flower</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/forage/mushroom.png' | relative_url }}" alt="Mushroom icon" loading="lazy">
+    <figcaption>Mushroom</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/forage/nigella.png' | relative_url }}" alt="Nigella icon" loading="lazy">
+    <figcaption>Nigella</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/forage/parsley.png' | relative_url }}" alt="Parsley icon" loading="lazy">
+    <figcaption>Parsley</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/forage/peanut.png' | relative_url }}" alt="Peanut icon" loading="lazy">
+    <figcaption>Peanut</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/forage/pearl-on-ground.png' | relative_url }}" alt="Pearl on Ground icon" loading="lazy">
+    <figcaption>Pearl on Ground</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/forage/pearl.png' | relative_url }}" alt="Pearl icon" loading="lazy">
+    <figcaption>Pearl</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/forage/pinecone.png' | relative_url }}" alt="Pinecone icon" loading="lazy">
+    <figcaption>Pinecone</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/forage/pistachio.png' | relative_url }}" alt="Pistachio icon" loading="lazy">
+    <figcaption>Pistachio</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/forage/poppy-flower.png' | relative_url }}" alt="Poppy Flower icon" loading="lazy">
+    <figcaption>Poppy Flower</figcaption>
   </figure>
 </div>
 

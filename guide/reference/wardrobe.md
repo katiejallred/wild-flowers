@@ -5,7 +5,7 @@ title: "👗 Wardrobe Catalogue"
 
 Not every specimen in this journal grows in a bed. Fairhaven takes its wardrobe seriously — Tara can change outfits, hair, and jewelry whenever the mood (or the season's festival) strikes, and the island's shops keep the racks stocked with new patterns.
 
-This catalogue presses in the wardrobe art from the archive's first volume, filed A through G. Later racks — H onward — will be pasted in as further volumes arrive.
+This catalogue presses in the wardrobe art from the archive's first two volumes, filed A through R. The last racks — S onward — will be pasted in as further volumes arrive.
 
 <figure class="snapshot">
   <img src="{{ '/assets/images/wiki/clothing/alloy-ahoy-romper-in-game.jpg' | relative_url }}" alt="The in-game wardrobe menu open on the Alloy Ahoy Romper, with Tara modeling it on a woodland path." loading="lazy">
@@ -14,7 +14,7 @@ This catalogue presses in the wardrobe art from the archive's first volume, file
 
 ---
 
-## The Outfit Rack (A–G)
+## The Outfit Rack (A–R)
 
 Dresses, rompers, overalls, jackets, and slacks, each on its shop mannequin:
 
@@ -215,6 +215,210 @@ Dresses, rompers, overalls, jackets, and slacks, each on its shop mannequin:
     <img src="{{ '/assets/images/wiki/clothing/gloaming-garden-jacket-and-dress.png' | relative_url }}" alt="Gloaming Garden Jacket and Dress outfit on a mannequin" loading="lazy">
     <figcaption>Gloaming Garden Jacket and Dress</figcaption>
   </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/clothing/go-gettem-slacks.png' | relative_url }}" alt="Go Gettem Slacks outfit on a mannequin" loading="lazy">
+    <figcaption>Go Gettem Slacks</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/clothing/gold-star-jacket-and-dress.png' | relative_url }}" alt="Gold Star Jacket and Dress outfit on a mannequin" loading="lazy">
+    <figcaption>Gold Star Jacket and Dress</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/clothing/gooseberry-mini.png' | relative_url }}" alt="Gooseberry Mini outfit on a mannequin" loading="lazy">
+    <figcaption>Gooseberry Mini</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/clothing/gossamer-pink-jacket-and-dress.png' | relative_url }}" alt="Gossamer Pink Jacket and Dress outfit on a mannequin" loading="lazy">
+    <figcaption>Gossamer Pink Jacket and Dress</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/clothing/greenlight-slacks.png' | relative_url }}" alt="Greenlight Slacks outfit on a mannequin" loading="lazy">
+    <figcaption>Greenlight Slacks</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/clothing/guavacado-romper.png' | relative_url }}" alt="Guavacado Romper outfit on a mannequin" loading="lazy">
+    <figcaption>Guavacado Romper</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/clothing/harvest-brown-overalls.png' | relative_url }}" alt="Harvest Brown Overalls outfit on a mannequin" loading="lazy">
+    <figcaption>Harvest Brown Overalls</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/clothing/heliotrope-heat-jacket.png' | relative_url }}" alt="Heliotrope Heat Jacket outfit on a mannequin" loading="lazy">
+    <figcaption>Heliotrope Heat Jacket</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/clothing/honey-jacket-and-dress.png' | relative_url }}" alt="Honey Jacket and Dress outfit on a mannequin" loading="lazy">
+    <figcaption>Honey Jacket and Dress</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/clothing/honeysuckle-frilly.png' | relative_url }}" alt="Honeysuckle Frilly outfit on a mannequin" loading="lazy">
+    <figcaption>Honeysuckle Frilly</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/clothing/inky-indigo-midi.png' | relative_url }}" alt="Inky Indigo Midi outfit on a mannequin" loading="lazy">
+    <figcaption>Inky Indigo Midi</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/clothing/ivory-tee-and-jeans.png' | relative_url }}" alt="Ivory Tee and Jeans outfit on a mannequin" loading="lazy">
+    <figcaption>Ivory Tee and Jeans</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/clothing/juniper-berry-mini.png' | relative_url }}" alt="Juniper Berry Mini outfit on a mannequin" loading="lazy">
+    <figcaption>Juniper Berry Mini</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/clothing/keep-it-casual-shorts.png' | relative_url }}" alt="Keep It Casual Shorts outfit on a mannequin" loading="lazy">
+    <figcaption>Keep It Casual Shorts</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/clothing/khaki-cool-slacks.png' | relative_url }}" alt="Khaki Cool Slacks outfit on a mannequin" loading="lazy">
+    <figcaption>Khaki Cool Slacks</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/clothing/ladybug-romper.png' | relative_url }}" alt="Ladybug Romper outfit on a mannequin" loading="lazy">
+    <figcaption>Ladybug Romper</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/clothing/lava-fissure-leggings.png' | relative_url }}" alt="Lava Fissure Leggings outfit on a mannequin" loading="lazy">
+    <figcaption>Lava Fissure Leggings</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/clothing/lavendar-leopard-long.png' | relative_url }}" alt="Lavendar Leopard Long outfit on a mannequin" loading="lazy">
+    <figcaption>Lavendar Leopard Long</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/clothing/lilac-bloom-romper.png' | relative_url }}" alt="Lilac Bloom Romper outfit on a mannequin" loading="lazy">
+    <figcaption>Lilac Bloom Romper</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/clothing/liquid-evo-leggings.png' | relative_url }}" alt="Liquid Evo Leggings outfit on a mannequin" loading="lazy">
+    <figcaption>Liquid Evo Leggings</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/clothing/maroon-and-denim-overalls.png' | relative_url }}" alt="Maroon and Denim Overalls outfit on a mannequin" loading="lazy">
+    <figcaption>Maroon and Denim Overalls</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/clothing/midnight-lace-jacket-dress.png' | relative_url }}" alt="Midnight Lace Jacket Dress outfit on a mannequin" loading="lazy">
+    <figcaption>Midnight Lace Jacket Dress</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/clothing/midnight-lace-mini.png' | relative_url }}" alt="Midnight Lace Mini outfit on a mannequin" loading="lazy">
+    <figcaption>Midnight Lace Mini</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/clothing/mint-on-demand-shorts.png' | relative_url }}" alt="Mint On Demand Shorts outfit on a mannequin" loading="lazy">
+    <figcaption>Mint On Demand Shorts</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/clothing/mossy-marble-romper.png' | relative_url }}" alt="Mossy Marble Romper outfit on a mannequin" loading="lazy">
+    <figcaption>Mossy Marble Romper</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/clothing/mulberry-sparkle-overalls.png' | relative_url }}" alt="Mulberry Sparkle Overalls outfit on a mannequin" loading="lazy">
+    <figcaption>Mulberry Sparkle Overalls</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/clothing/mushroom-meadow-day-dress.png' | relative_url }}" alt="Mushroom Meadow Day Dress outfit on a mannequin" loading="lazy">
+    <figcaption>Mushroom Meadow Day Dress</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/clothing/mushroom-meadow-long.png' | relative_url }}" alt="Mushroom Meadow Long outfit on a mannequin" loading="lazy">
+    <figcaption>Mushroom Meadow Long</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/clothing/neon-plasma-midi.png' | relative_url }}" alt="Neon Plasma Midi outfit on a mannequin" loading="lazy">
+    <figcaption>Neon Plasma Midi</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/clothing/obsidian-glimmer-mini.png' | relative_url }}" alt="Obsidian Glimmer Mini outfit on a mannequin" loading="lazy">
+    <figcaption>Obsidian Glimmer Mini</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/clothing/opal-onyx-long.png' | relative_url }}" alt="Opal Onyx Long outfit on a mannequin" loading="lazy">
+    <figcaption>Opal Onyx Long</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/clothing/ore-naturel-overalls.png' | relative_url }}" alt="Ore Naturel Overalls outfit on a mannequin" loading="lazy">
+    <figcaption>Ore Naturel Overalls</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/clothing/paint-it-black-long.png' | relative_url }}" alt="Paint It Black Long outfit on a mannequin" loading="lazy">
+    <figcaption>Paint It Black Long</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/clothing/parsley-tee-and-jeans.png' | relative_url }}" alt="Parsley Tee and Jeans outfit on a mannequin" loading="lazy">
+    <figcaption>Parsley Tee and Jeans</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/clothing/pastel-bouquet-leggings.png' | relative_url }}" alt="Pastel Bouquet Leggings outfit on a mannequin" loading="lazy">
+    <figcaption>Pastel Bouquet Leggings</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/clothing/pensive-blue-shorts.png' | relative_url }}" alt="Pensive Blue Shorts outfit on a mannequin" loading="lazy">
+    <figcaption>Pensive Blue Shorts</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/clothing/peppercorn-tee-and-jeans.png' | relative_url }}" alt="Peppercorn Tee and Jeans outfit on a mannequin" loading="lazy">
+    <figcaption>Peppercorn Tee and Jeans</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/clothing/perfect-glitch-overalls.png' | relative_url }}" alt="Perfect Glitch Overalls outfit on a mannequin" loading="lazy">
+    <figcaption>Perfect Glitch Overalls</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/clothing/petal-pink-romper.png' | relative_url }}" alt="Petal Pink Romper outfit on a mannequin" loading="lazy">
+    <figcaption>Petal Pink Romper</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/clothing/pink-daydream-leggings.png' | relative_url }}" alt="Pink Daydream Leggings outfit on a mannequin" loading="lazy">
+    <figcaption>Pink Daydream Leggings</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/clothing/pink-field-denim-overalls.png' | relative_url }}" alt="Pink Field Denim Overalls outfit on a mannequin" loading="lazy">
+    <figcaption>Pink Field Denim Overalls</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/clothing/pink-poppy-frilly.png' | relative_url }}" alt="Pink Poppy Frilly outfit on a mannequin" loading="lazy">
+    <figcaption>Pink Poppy Frilly</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/clothing/pink-sherbert-overalls.png' | relative_url }}" alt="Pink Sherbert Overalls outfit on a mannequin" loading="lazy">
+    <figcaption>Pink Sherbert Overalls</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/clothing/pistachio-please-day-dress.png' | relative_url }}" alt="Pistachio Please Day Dress outfit on a mannequin" loading="lazy">
+    <figcaption>Pistachio Please Day Dress</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/clothing/plum-shimmer-romper.png' | relative_url }}" alt="Plum Shimmer Romper outfit on a mannequin" loading="lazy">
+    <figcaption>Plum Shimmer Romper</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/clothing/polkadot-primrose-day-dress.png' | relative_url }}" alt="Polkadot Primrose Day Dress outfit on a mannequin" loading="lazy">
+    <figcaption>Polkadot Primrose Day Dress</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/clothing/pressed-flower-jacket-and-dress.png' | relative_url }}" alt="Pressed Flower Jacket and Dress outfit on a mannequin" loading="lazy">
+    <figcaption>Pressed Flower Jacket and Dress</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/clothing/pretty-pine-jacket.png' | relative_url }}" alt="Pretty Pine Jacket outfit on a mannequin" loading="lazy">
+    <figcaption>Pretty Pine Jacket</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/clothing/pumpkin-spice-long.png' | relative_url }}" alt="Pumpkin Spice Long outfit on a mannequin" loading="lazy">
+    <figcaption>Pumpkin Spice Long</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/clothing/purple-galaxy-leggings.png' | relative_url }}" alt="Purple Galaxy Leggings outfit on a mannequin" loading="lazy">
+    <figcaption>Purple Galaxy Leggings</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/clothing/raspberry-citrus-shorts.png' | relative_url }}" alt="Raspberry Citrus Shorts outfit on a mannequin" loading="lazy">
+    <figcaption>Raspberry Citrus Shorts</figcaption>
+  </figure>
 </div>
 
 ---
@@ -234,11 +438,55 @@ Dresses, rompers, overalls, jackets, and slacks, each on its shop mannequin:
     <img src="{{ '/assets/images/wiki/clothing/colorful-bangles.png' | relative_url }}" alt="Colorful Bangles icon" loading="lazy">
     <figcaption>Colorful Bangles</figcaption>
   </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/clothing/gold-amethyst-necklace.png' | relative_url }}" alt="Gold Amethyst Necklace icon" loading="lazy">
+    <figcaption>Gold Amethyst Necklace</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/clothing/gold-amethyst-ring.png' | relative_url }}" alt="Gold Amethyst Ring icon" loading="lazy">
+    <figcaption>Gold Amethyst Ring</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/clothing/gold-diamond-necklace.png' | relative_url }}" alt="Gold Diamond Necklace icon" loading="lazy">
+    <figcaption>Gold Diamond Necklace</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/clothing/gold-diamond-ring.png' | relative_url }}" alt="Gold Diamond Ring icon" loading="lazy">
+    <figcaption>Gold Diamond Ring</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/clothing/gold-pearl-necklace.png' | relative_url }}" alt="Gold Pearl Necklace icon" loading="lazy">
+    <figcaption>Gold Pearl Necklace</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/clothing/gold-pearl-ring.png' | relative_url }}" alt="Gold Pearl Ring icon" loading="lazy">
+    <figcaption>Gold Pearl Ring</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/clothing/green-bead-bracelet.png' | relative_url }}" alt="Green Bead Bracelet icon" loading="lazy">
+    <figcaption>Green Bead Bracelet</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/clothing/harmony-band.png' | relative_url }}" alt="Harmony Band icon" loading="lazy">
+    <figcaption>Harmony Band</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/clothing/mixed-metal-bangles.png' | relative_url }}" alt="Mixed Metal Bangles icon" loading="lazy">
+    <figcaption>Mixed Metal Bangles</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/clothing/orange-bead-bracelet.png' | relative_url }}" alt="Orange Bead Bracelet icon" loading="lazy">
+    <figcaption>Orange Bead Bracelet</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/clothing/purple-bead-bracelet.png' | relative_url }}" alt="Purple Bead Bracelet icon" loading="lazy">
+    <figcaption>Purple Bead Bracelet</figcaption>
+  </figure>
 </div>
 
 ---
 
-## The Vanity: Hair Styles (A–G)
+## The Vanity: Hair Styles (A–R)
 
 Each style comes in a range of colors — the archive files every color-and-cut pairing as its own specimen:
 
@@ -371,6 +619,102 @@ Each style comes in a range of colors — the archive files every color-and-cut 
     <img src="{{ '/assets/images/wiki/hair/fuschia-firefly-twin-braids.png' | relative_url }}" alt="Fuschia Firefly Twin Braids hairstyle on a mannequin" loading="lazy">
     <figcaption>Fuschia Firefly Twin Braids</figcaption>
   </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/hair/inky-turquoise-tresses.png' | relative_url }}" alt="Inky Turquoise Tresses hairstyle on a mannequin" loading="lazy">
+    <figcaption>Inky Turquoise Tresses</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/hair/lime-voltage-high-bun.png' | relative_url }}" alt="Lime Voltage High Bun hairstyle on a mannequin" loading="lazy">
+    <figcaption>Lime Voltage High Bun</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/hair/milk-tea-ponytail.png' | relative_url }}" alt="Milk Tea Ponytail hairstyle on a mannequin" loading="lazy">
+    <figcaption>Milk Tea Ponytail</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/hair/monarch-split-space-buns.png' | relative_url }}" alt="Monarch Split Space Buns hairstyle on a mannequin" loading="lazy">
+    <figcaption>Monarch Split Space Buns</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/hair/ocean-caps-ponytail.png' | relative_url }}" alt="Ocean Caps Ponytail hairstyle on a mannequin" loading="lazy">
+    <figcaption>Ocean Caps Ponytail</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/hair/olive-bow-tied-bob.png' | relative_url }}" alt="Olive Bow Tied Bob hairstyle on a mannequin" loading="lazy">
+    <figcaption>Olive Bow Tied Bob</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/hair/olive-classic-cut.png' | relative_url }}" alt="Olive Classic Cut hairstyle on a mannequin" loading="lazy">
+    <figcaption>Olive Classic Cut</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/hair/olive-high-bun.png' | relative_url }}" alt="Olive High Bun hairstyle on a mannequin" loading="lazy">
+    <figcaption>Olive High Bun</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/hair/olive-ponytail.png' | relative_url }}" alt="Olive Ponytail hairstyle on a mannequin" loading="lazy">
+    <figcaption>Olive Ponytail</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/hair/olive-short-shag.png' | relative_url }}" alt="Olive Short Shag hairstyle on a mannequin" loading="lazy">
+    <figcaption>Olive Short Shag</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/hair/olive-space-buns.png' | relative_url }}" alt="Olive Space Buns hairstyle on a mannequin" loading="lazy">
+    <figcaption>Olive Space Buns</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/hair/olive-tresses.png' | relative_url }}" alt="Olive Tresses hairstyle on a mannequin" loading="lazy">
+    <figcaption>Olive Tresses</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/hair/olive-twin-braids.png' | relative_url }}" alt="Olive Twin Braids hairstyle on a mannequin" loading="lazy">
+    <figcaption>Olive Twin Braids</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/hair/olive-wolf-cut.png' | relative_url }}" alt="Olive Wolf Cut hairstyle on a mannequin" loading="lazy">
+    <figcaption>Olive Wolf Cut</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/hair/rainbow-rave-high-bun.png' | relative_url }}" alt="Rainbow Rave High Bun hairstyle on a mannequin" loading="lazy">
+    <figcaption>Rainbow Rave High Bun</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/hair/raven-bow-tied-bob.png' | relative_url }}" alt="Raven Bow Tied Bob hairstyle on a mannequin" loading="lazy">
+    <figcaption>Raven Bow Tied Bob</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/hair/raven-classic-cut.png' | relative_url }}" alt="Raven Classic Cut hairstyle on a mannequin" loading="lazy">
+    <figcaption>Raven Classic Cut</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/hair/raven-high-bun.png' | relative_url }}" alt="Raven High Bun hairstyle on a mannequin" loading="lazy">
+    <figcaption>Raven High Bun</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/hair/raven-ponytail.png' | relative_url }}" alt="Raven Ponytail hairstyle on a mannequin" loading="lazy">
+    <figcaption>Raven Ponytail</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/hair/raven-short-shag.png' | relative_url }}" alt="Raven Short Shag hairstyle on a mannequin" loading="lazy">
+    <figcaption>Raven Short Shag</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/hair/raven-space-buns.png' | relative_url }}" alt="Raven Space Buns hairstyle on a mannequin" loading="lazy">
+    <figcaption>Raven Space Buns</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/hair/raven-tresses.png' | relative_url }}" alt="Raven Tresses hairstyle on a mannequin" loading="lazy">
+    <figcaption>Raven Tresses</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/hair/raven-twin-braids.png' | relative_url }}" alt="Raven Twin Braids hairstyle on a mannequin" loading="lazy">
+    <figcaption>Raven Twin Braids</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/hair/raven-wolf-cut.png' | relative_url }}" alt="Raven Wolf Cut hairstyle on a mannequin" loading="lazy">
+    <figcaption>Raven Wolf Cut</figcaption>
+  </figure>
 </div>
 
 ---
@@ -397,8 +741,28 @@ Hair color, like most things on this island, can be crafted:
     <figcaption>Enchanted Hair Color</figcaption>
   </figure>
   <figure>
+    <img src="{{ '/assets/images/wiki/crafting/green-hair-color.png' | relative_url }}" alt="Green Hair Color icon" loading="lazy">
+    <figcaption>Green Hair Color</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crafting/olive-hair-color.png' | relative_url }}" alt="Olive Hair Color icon" loading="lazy">
+    <figcaption>Olive Hair Color</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crafting/orange-hair-color.png' | relative_url }}" alt="Orange Hair Color icon" loading="lazy">
+    <figcaption>Orange Hair Color</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crafting/purple-hair-color.png' | relative_url }}" alt="Purple Hair Color icon" loading="lazy">
+    <figcaption>Purple Hair Color</figcaption>
+  </figure>
+  <figure>
     <img src="{{ '/assets/images/wiki/crafting/aryels-hair.png' | relative_url }}" alt="Aryel's Hair icon" loading="lazy">
     <figcaption>Aryel's Hair</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crafting/pomade.png' | relative_url }}" alt="Pomade icon" loading="lazy">
+    <figcaption>Pomade</figcaption>
   </figure>
 </div>
 
