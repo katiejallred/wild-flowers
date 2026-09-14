@@ -86,7 +86,7 @@ Yes, you get the broom. Broom flight arrives via the story (a broom in working o
 
 ## Scrolls & Wands from the Archive
 
-Spell scrolls, incantations, and the wands that cast them, as illustrated in the archive's first volume (A–G).
+Spell scrolls, incantations, and the wands that cast them, as illustrated in the archive so far (A–R).
 
 <div class="specimen-grid parchment">
   <figure>
@@ -136,6 +136,30 @@ Spell scrolls, incantations, and the wands that cast them, as illustrated in the
   <figure>
     <img src="{{ '/assets/images/wiki/magic/freeze-time.png' | relative_url }}" alt="Freeze Time icon" loading="lazy">
     <figcaption>Freeze Time</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/magic/human-friendly-unfreezing-incantation.jpg' | relative_url }}" alt="Human-Friendly Unfreezing Incantation icon" loading="lazy">
+    <figcaption>Human-Friendly Unfreezing Incantation</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/magic/initiation-rite.png' | relative_url }}" alt="Initiation Rite icon" loading="lazy">
+    <figcaption>Initiation Rite</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/magic/lockpick-incantation.png' | relative_url }}" alt="Lockpick Incantation icon" loading="lazy">
+    <figcaption>Lockpick Incantation</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/magic/magic-broomstick.png' | relative_url }}" alt="Magic Broomstick icon" loading="lazy">
+    <figcaption>Magic Broomstick</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/magic/midsummer-animal-blessing.png' | relative_url }}" alt="Midsummer Animal Blessing icon" loading="lazy">
+    <figcaption>Midsummer Animal Blessing</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/magic/minor-animal-blessing.png' | relative_url }}" alt="Minor Animal Blessing icon" loading="lazy">
+    <figcaption>Minor Animal Blessing</figcaption>
   </figure>
 </div>
 

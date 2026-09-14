@@ -35,7 +35,7 @@ assets/images/wiki/
   ui/          in-game interface icons
 ```
 
-So far the collection covers the archive's **part 1 (items A–G)**; later
+So far the collection covers the archive's **parts 1–2 (items A–R)**; later
 parts slot into the same folders. Every file is indexed in
 `_data/wiki_images.yml` (item title → filename per category), so pages can
 look art up by name.

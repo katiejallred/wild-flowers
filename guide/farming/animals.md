@@ -117,16 +117,32 @@ Portraits from the barn and coop, as the archive paints them.
     <figcaption>Chicken</figcaption>
   </figure>
   <figure>
-    <img src="{{ '/assets/images/wiki/animals/coop.png' | relative_url }}" alt="Coop icon" loading="lazy">
-    <figcaption>Coop</figcaption>
-  </figure>
-  <figure>
     <img src="{{ '/assets/images/wiki/animals/cow.png' | relative_url }}" alt="Cow icon" loading="lazy">
     <figcaption>Cow</figcaption>
   </figure>
   <figure>
     <img src="{{ '/assets/images/wiki/animals/duck.png' | relative_url }}" alt="Duck icon" loading="lazy">
     <figcaption>Duck</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/animals/pig.png' | relative_url }}" alt="Pig icon" loading="lazy">
+    <figcaption>Pig</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/animals/coop.png' | relative_url }}" alt="Coop icon" loading="lazy">
+    <figcaption>Coop</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/animals/hay.png' | relative_url }}" alt="Hay icon" loading="lazy">
+    <figcaption>Hay</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/animals/poultry-feed.png' | relative_url }}" alt="Poultry Feed icon" loading="lazy">
+    <figcaption>Poultry Feed</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/animals/pet-treat.png' | relative_url }}" alt="Pet Treat icon" loading="lazy">
+    <figcaption>Pet Treat</figcaption>
   </figure>
 </div>
 

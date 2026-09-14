@@ -63,9 +63,9 @@ Fairhaven's seasons turn only when the coven wills it, which gives you unusual l
 
 ---
 
-## The Recipe Box (A–G)
+## The Recipe Box (A–R)
 
-Every dish from the archive's first drawer, Anzac Biscuit through Fruit Salad — proof that Fairhaven's kitchens cook from every corner of the world. Recipes from later in the alphabet will be pasted in as the archive grows.
+Every dish from the archive's first two drawers, Anzac Biscuit through Pumpkin Spice Latte — proof that Fairhaven's kitchens cook from every corner of the world. Recipes from later in the alphabet will be pasted in as the archive grows.
 
 <div class="specimen-grid parchment">
   <figure>
@@ -391,6 +391,282 @@ Every dish from the archive's first drawer, Anzac Biscuit through Fruit Salad �
   <figure>
     <img src="{{ '/assets/images/wiki/food/fruit-salad.png' | relative_url }}" alt="Fruit Salad dish icon" loading="lazy">
     <figcaption>Fruit Salad</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/golubtsi-stuffed-cabbage.png' | relative_url }}" alt="Golubtsi (Stuffed Cabbage) dish icon" loading="lazy">
+    <figcaption>Golubtsi (Stuffed Cabbage)</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/goulash.png' | relative_url }}" alt="Goulash dish icon" loading="lazy">
+    <figcaption>Goulash</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/grape-juice.png' | relative_url }}" alt="Grape Juice dish icon" loading="lazy">
+    <figcaption>Grape Juice</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/gulab-jamun.jpg' | relative_url }}" alt="Gulab Jamun dish icon" loading="lazy">
+    <figcaption>Gulab Jamun</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/gyoza.png' | relative_url }}" alt="Gyozas dish icon" loading="lazy">
+    <figcaption>Gyozas</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/haupia-coconut-pudding.png' | relative_url }}" alt="Haupia (Coconut Pudding) dish icon" loading="lazy">
+    <figcaption>Haupia (Coconut Pudding)</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/honey-lemon-tea.png' | relative_url }}" alt="Honey Lemon Tea dish icon" loading="lazy">
+    <figcaption>Honey Lemon Tea</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/hot-chocolate.png' | relative_url }}" alt="Hot Chocolate dish icon" loading="lazy">
+    <figcaption>Hot Chocolate</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/hot-cross-bun.png' | relative_url }}" alt="Hot Cross Bun dish icon" loading="lazy">
+    <figcaption>Hot Cross Bun</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/italian-sausage.png' | relative_url }}" alt="Italian Sausage dish icon" loading="lazy">
+    <figcaption>Italian Sausage</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/jambalaya.png' | relative_url }}" alt="Jambalaya dish icon" loading="lazy">
+    <figcaption>Jambalaya</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/jeweled-rice.png' | relative_url }}" alt="Jeweled Rice dish icon" loading="lazy">
+    <figcaption>Jeweled Rice</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/kimchi.png' | relative_url }}" alt="Kimchi dish icon" loading="lazy">
+    <figcaption>Kimchi</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/lasagna.png' | relative_url }}" alt="Lasagna dish icon" loading="lazy">
+    <figcaption>Lasagna</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/latke.png' | relative_url }}" alt="Latke dish icon" loading="lazy">
+    <figcaption>Latke</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/lemon-poppy-seed-cake.png' | relative_url }}" alt="Lemon Poppy Seed Cake dish icon" loading="lazy">
+    <figcaption>Lemon Poppy Seed Cake</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/lemon-square.png' | relative_url }}" alt="Lemon Square dish icon" loading="lazy">
+    <figcaption>Lemon Square</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/lemonade.png' | relative_url }}" alt="Lemonade dish icon" loading="lazy">
+    <figcaption>Lemonade</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/lobster-roll.png' | relative_url }}" alt="Lobster Roll dish icon" loading="lazy">
+    <figcaption>Lobster Roll</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/lobster-tails-with-truffle-oil.jpg' | relative_url }}" alt="Lobster Tails With Truffle Oil dish icon" loading="lazy">
+    <figcaption>Lobster Tails With Truffle Oil</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/lobster-thermidor.png' | relative_url }}" alt="Lobster Thermidor dish icon" loading="lazy">
+    <figcaption>Lobster Thermidor</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/loco-moco.png' | relative_url }}" alt="Loco Moco dish icon" loading="lazy">
+    <figcaption>Loco Moco</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/malasada.png' | relative_url }}" alt="Malasada dish icon" loading="lazy">
+    <figcaption>Malasada</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/manapua-pork-dumpling.png' | relative_url }}" alt="Manapua (Pork Dumpling) dish icon" loading="lazy">
+    <figcaption>Manapua (Pork Dumpling)</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/marmalade-pudding.png' | relative_url }}" alt="Marmalade Pudding dish icon" loading="lazy">
+    <figcaption>Marmalade Pudding</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/matzo-ball-soup.png' | relative_url }}" alt="Matzo Ball Soup dish icon" loading="lazy">
+    <figcaption>Matzo Ball Soup</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/mint-julep.png' | relative_url }}" alt="Mint Julep dish icon" loading="lazy">
+    <figcaption>Mint Julep</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/miso-soup.png' | relative_url }}" alt="Miso Soup dish icon" loading="lazy">
+    <figcaption>Miso Soup</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/mojito.png' | relative_url }}" alt="Mojito dish icon" loading="lazy">
+    <figcaption>Mojito</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/moroccan-carrot-soup.png' | relative_url }}" alt="Moroccan Carrot Soup dish icon" loading="lazy">
+    <figcaption>Moroccan Carrot Soup</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/muffin.png' | relative_url }}" alt="Muffin dish icon" loading="lazy">
+    <figcaption>Muffin</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/mulled-wine.png' | relative_url }}" alt="Mulled Wine dish icon" loading="lazy">
+    <figcaption>Mulled Wine</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/mushroom-pizza.png' | relative_url }}" alt="Mushroom Pizza dish icon" loading="lazy">
+    <figcaption>Mushroom Pizza</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/mushroom-risotto.png' | relative_url }}" alt="Mushroom Risotto dish icon" loading="lazy">
+    <figcaption>Mushroom Risotto</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/my-first-cookbook.png' | relative_url }}" alt="My First Cookbook dish icon" loading="lazy">
+    <figcaption>My First Cookbook</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/nachos.png' | relative_url }}" alt="Nachos dish icon" loading="lazy">
+    <figcaption>Nachos</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/new-england-chowder.png' | relative_url }}" alt="New England Chowder dish icon" loading="lazy">
+    <figcaption>New England Chowder</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/noodles.png' | relative_url }}" alt="Noodles dish icon" loading="lazy">
+    <figcaption>Noodles</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/nougat.png' | relative_url }}" alt="Nougat dish icon" loading="lazy">
+    <figcaption>Nougat</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/oatmeal-raisin-cookie.png' | relative_url }}" alt="Oatmeal Raisin Cookie dish icon" loading="lazy">
+    <figcaption>Oatmeal Raisin Cookie</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/oatmeal.png' | relative_url }}" alt="Oatmeal dish icon" loading="lazy">
+    <figcaption>Oatmeal</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/orange-candy.png' | relative_url }}" alt="Orange Candy dish icon" loading="lazy">
+    <figcaption>Orange Candy</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/orange-juice.png' | relative_url }}" alt="Orange Juice dish icon" loading="lazy">
+    <figcaption>Orange Juice</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/pacoquinha-peanut-rolls.png' | relative_url }}" alt="Pacoquinha (Peanut Rolls) dish icon" loading="lazy">
+    <figcaption>Pacoquinha (Peanut Rolls)</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/pancakes.png' | relative_url }}" alt="Pancakes dish icon" loading="lazy">
+    <figcaption>Pancakes</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/patriot-pie.png' | relative_url }}" alt="Patriot Pie dish icon" loading="lazy">
+    <figcaption>Patriot Pie</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/pav-bhaji.png' | relative_url }}" alt="Pav Bhaji dish icon" loading="lazy">
+    <figcaption>Pav Bhaji</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/peanut-brittle.png' | relative_url }}" alt="Peanut Brittle dish icon" loading="lazy">
+    <figcaption>Peanut Brittle</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/peking-duck.jpg' | relative_url }}" alt="Peking Duck dish icon" loading="lazy">
+    <figcaption>Peking Duck</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/pepperoni-pizza.png' | relative_url }}" alt="Pepperoni Pizza dish icon" loading="lazy">
+    <figcaption>Pepperoni Pizza</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/persian-love-cake.png' | relative_url }}" alt="Persian Love Cake dish icon" loading="lazy">
+    <figcaption>Persian Love Cake</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/pierogi.png' | relative_url }}" alt="Pierogi dish icon" loading="lazy">
+    <figcaption>Pierogi</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/pikliz.png' | relative_url }}" alt="Pikliz dish icon" loading="lazy">
+    <figcaption>Pikliz</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/pina-colada.png' | relative_url }}" alt="Piña Colada dish icon" loading="lazy">
+    <figcaption>Piña Colada</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/pizza-dough.png' | relative_url }}" alt="Pizza Dough dish icon" loading="lazy">
+    <figcaption>Pizza Dough</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/poke-bowl.png' | relative_url }}" alt="Poke bowl dish icon" loading="lazy">
+    <figcaption>Poke bowl</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/popcorn.png' | relative_url }}" alt="Popcorn dish icon" loading="lazy">
+    <figcaption>Popcorn</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/praline-cookie.png' | relative_url }}" alt="Praline Cookie dish icon" loading="lazy">
+    <figcaption>Praline Cookie</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/prawns-koliwada.png' | relative_url }}" alt="Prawns Koliwada dish icon" loading="lazy">
+    <figcaption>Prawns Koliwada</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/prawns-koliwanda.jpeg' | relative_url }}" alt="Prawns Koliwanda dish icon" loading="lazy">
+    <figcaption>Prawns Koliwanda</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/precipizi.png' | relative_url }}" alt="Precipizi dish icon" loading="lazy">
+    <figcaption>Precipizi</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/pumpkin-ale.png' | relative_url }}" alt="Pumpkin Ale dish icon" loading="lazy">
+    <figcaption>Pumpkin Ale</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/pumpkin-bread.png' | relative_url }}" alt="Pumpkin Bread dish icon" loading="lazy">
+    <figcaption>Pumpkin Bread</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/pumpkin-mochi-pie.png' | relative_url }}" alt="Pumpkin Mochi Pie dish icon" loading="lazy">
+    <figcaption>Pumpkin Mochi Pie</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/pumpkin-pie.png' | relative_url }}" alt="Pumpkin Pie dish icon" loading="lazy">
+    <figcaption>Pumpkin Pie</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/pumpkin-soup.png' | relative_url }}" alt="Pumpkin Soup dish icon" loading="lazy">
+    <figcaption>Pumpkin Soup</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/pumpkin-spice-latte.png' | relative_url }}" alt="Pumpkin Spice Latte dish icon" loading="lazy">
+    <figcaption>Pumpkin Spice Latte</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/quiche.png' | relative_url }}" alt="Quiche dish icon" loading="lazy">
+    <figcaption>Quiche</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/ramen.png' | relative_url }}" alt="Ramen dish icon" loading="lazy">
+    <figcaption>Ramen</figcaption>
   </figure>
 </div>
 

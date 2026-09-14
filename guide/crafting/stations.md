@@ -71,7 +71,7 @@ If coin and materials are tight (and early on, they are), my recommended order o
 
 ## The Shed Wall, Illustrated
 
-Stations and tools from the archive's first volume — the working wall of a well-kept shed.
+Stations and tools from the archive — the working wall of a well-kept shed.
 
 <div class="specimen-grid parchment">
   <figure>
@@ -137,6 +137,54 @@ Stations and tools from the archive's first volume — the working wall of a wel
   <figure>
     <img src="{{ '/assets/images/wiki/stations/glass-kiln.png' | relative_url }}" alt="Glass Kiln station icon" loading="lazy">
     <figcaption>Glass Kiln</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/stations/gold-pickaxe.png' | relative_url }}" alt="Gold Pickaxe station icon" loading="lazy">
+    <figcaption>Gold Pickaxe</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/stations/gold-wood-axe.png' | relative_url }}" alt="Gold Wood Axe station icon" loading="lazy">
+    <figcaption>Gold Wood Axe</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/stations/greenhouse.png' | relative_url }}" alt="Greenhouse station icon" loading="lazy">
+    <figcaption>Greenhouse</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/stations/hummingbird-feeder.png' | relative_url }}" alt="Hummingbird Feeder station icon" loading="lazy">
+    <figcaption>Hummingbird Feeder</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/stations/iron-watering-can.png' | relative_url }}" alt="Iron Watering Can station icon" loading="lazy">
+    <figcaption>Iron Watering Can</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/stations/juice-press.png' | relative_url }}" alt="Juice Press station icon" loading="lazy">
+    <figcaption>Juice Press</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/stations/livestock-whirligig.png' | relative_url }}" alt="Livestock Whirligig station icon" loading="lazy">
+    <figcaption>Livestock Whirligig</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/stations/logging-whirligig.png' | relative_url }}" alt="Logging Whirligig station icon" loading="lazy">
+    <figcaption>Logging Whirligig</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/stations/loom.png' | relative_url }}" alt="Loom station icon" loading="lazy">
+    <figcaption>Loom</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/stations/metalworking-table.png' | relative_url }}" alt="Metalworking Table station icon" loading="lazy">
+    <figcaption>Metalworking Table</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/stations/mining-whirligig.png' | relative_url }}" alt="Mining Whirligig station icon" loading="lazy">
+    <figcaption>Mining Whirligig</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/stations/paper-press.png' | relative_url }}" alt="Paper Press station icon" loading="lazy">
+    <figcaption>Paper Press</figcaption>
   </figure>
 </div>
 

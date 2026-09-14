@@ -114,7 +114,7 @@ Mulberry trees also give **mulberry leaves** (unsellable, but silkworms adore th
 
 ---
 
-## Pressed Specimens (A–G)
+## Pressed Specimens (A–R)
 
 The seed drawer and harvest shelf, illustrated — every crop, seed packet, and orchard fruit from the archive so far. Later letters of the alphabet join as more plates arrive.
 
@@ -230,6 +230,126 @@ The seed drawer and harvest shelf, illustrated — every crop, seed packet, and 
   <figure>
     <img src="{{ '/assets/images/wiki/crops/gladiolus-seed.jpg' | relative_url }}" alt="Gladiolus Seed item icon" loading="lazy">
     <figcaption>Gladiolus Seed</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crops/grape-seeds.png' | relative_url }}" alt="Grape Seeds item icon" loading="lazy">
+    <figcaption>Grape Seeds</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crops/grapes.png' | relative_url }}" alt="Grapes item icon" loading="lazy">
+    <figcaption>Grapes</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crops/green-bean-seeds.png' | relative_url }}" alt="Green Bean Seeds item icon" loading="lazy">
+    <figcaption>Green Bean Seeds</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crops/green-bean.jpg' | relative_url }}" alt="Green Bean item icon" loading="lazy">
+    <figcaption>Green Bean</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crops/hops-seeds.png' | relative_url }}" alt="Hops Seeds item icon" loading="lazy">
+    <figcaption>Hops Seeds</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crops/hops.png' | relative_url }}" alt="Hops item icon" loading="lazy">
+    <figcaption>Hops</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crops/lemon-tree-seedling.png' | relative_url }}" alt="Lemon Tree Seedling item icon" loading="lazy">
+    <figcaption>Lemon Tree Seedling</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crops/lemon.png' | relative_url }}" alt="Lemon item icon" loading="lazy">
+    <figcaption>Lemon</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crops/lime-tree-seedling.png' | relative_url }}" alt="Lime Tree Seedling item icon" loading="lazy">
+    <figcaption>Lime Tree Seedling</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crops/lime.png' | relative_url }}" alt="Lime item icon" loading="lazy">
+    <figcaption>Lime</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crops/magic-bean-seeds.png' | relative_url }}" alt="Magic Bean Seeds item icon" loading="lazy">
+    <figcaption>Magic Bean Seeds</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crops/marigold-seeds.png' | relative_url }}" alt="Marigold Seeds item icon" loading="lazy">
+    <figcaption>Marigold Seeds</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crops/marigold.png' | relative_url }}" alt="Marigold item icon" loading="lazy">
+    <figcaption>Marigold</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crops/mulberry-leaf.png' | relative_url }}" alt="Mulberry Leaf item icon" loading="lazy">
+    <figcaption>Mulberry Leaf</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crops/mulberry-tree-seedling.png' | relative_url }}" alt="Mulberry Tree Seedling item icon" loading="lazy">
+    <figcaption>Mulberry Tree Seedling</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crops/mulberry.png' | relative_url }}" alt="Mulberry item icon" loading="lazy">
+    <figcaption>Mulberry</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crops/olive-tree-seedling.png' | relative_url }}" alt="Olive Tree Seedling item icon" loading="lazy">
+    <figcaption>Olive Tree Seedling</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crops/olive.png' | relative_url }}" alt="Olive item icon" loading="lazy">
+    <figcaption>Olive</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crops/onion-seeds.png' | relative_url }}" alt="Onion Seeds item icon" loading="lazy">
+    <figcaption>Onion Seeds</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crops/onion.png' | relative_url }}" alt="Onion item icon" loading="lazy">
+    <figcaption>Onion</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crops/orange-tree-seedling.png' | relative_url }}" alt="Orange Tree Seedling item icon" loading="lazy">
+    <figcaption>Orange Tree Seedling</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crops/orange.png' | relative_url }}" alt="Orange item icon" loading="lazy">
+    <figcaption>Orange</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crops/pomegranate-tree-seedling.png' | relative_url }}" alt="Pomegranate Tree Seedling item icon" loading="lazy">
+    <figcaption>Pomegranate Tree Seedling</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crops/pomegranate.png' | relative_url }}" alt="Pomegranate item icon" loading="lazy">
+    <figcaption>Pomegranate</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crops/potato-seeds.png' | relative_url }}" alt="Potato Seeds item icon" loading="lazy">
+    <figcaption>Potato Seeds</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crops/potato.png' | relative_url }}" alt="Potato item icon" loading="lazy">
+    <figcaption>Potato</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crops/primrose-seeds.png' | relative_url }}" alt="Primrose Seeds item icon" loading="lazy">
+    <figcaption>Primrose Seeds</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crops/primrose.png' | relative_url }}" alt="Primrose item icon" loading="lazy">
+    <figcaption>Primrose</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crops/pumpkin-seeds.png' | relative_url }}" alt="Pumpkin Seeds item icon" loading="lazy">
+    <figcaption>Pumpkin Seeds</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crops/pumpkin.png' | relative_url }}" alt="Pumpkin item icon" loading="lazy">
+    <figcaption>Pumpkin</figcaption>
   </figure>
 </div>
 

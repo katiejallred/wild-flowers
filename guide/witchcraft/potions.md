@@ -78,6 +78,10 @@ Bottles from the archive — brews, essences, and one distilled scream (long sto
     <figcaption>Alcohol-Free Ale</figcaption>
   </figure>
   <figure>
+    <img src="{{ '/assets/images/wiki/magic/animal-growth-booster.png' | relative_url }}" alt="Animal Growth Booster icon" loading="lazy">
+    <figcaption>Animal Growth Booster</figcaption>
+  </figure>
+  <figure>
     <img src="{{ '/assets/images/wiki/magic/ardor-cooling-potion.png' | relative_url }}" alt="Ardor-Cooling Potion icon" loading="lazy">
     <figcaption>Ardor-Cooling Potion</figcaption>
   </figure>
@@ -156,6 +160,26 @@ Bottles from the archive — brews, essences, and one distilled scream (long sto
   <figure>
     <img src="{{ '/assets/images/wiki/magic/glimmer-coating.png' | relative_url }}" alt="Glimmer Coating icon" loading="lazy">
     <figcaption>Glimmer Coating</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/magic/growth-booster.png' | relative_url }}" alt="Growth Booster.png icon" loading="lazy">
+    <figcaption>Growth Booster.png</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/magic/levitation-potion.png' | relative_url }}" alt="Levitation Potion icon" loading="lazy">
+    <figcaption>Levitation Potion</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/magic/max-restore-magic-potion.png' | relative_url }}" alt="Max Restore Magic Potion icon" loading="lazy">
+    <figcaption>Max Restore Magic Potion</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/magic/max-revitalizing-potion.png' | relative_url }}" alt="Max Revitalizing Potion icon" loading="lazy">
+    <figcaption>Max Revitalizing Potion</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/magic/miracle-grow-potion.png' | relative_url }}" alt="Miracle Grow Potion icon" loading="lazy">
+    <figcaption>Miracle Grow Potion</figcaption>
   </figure>
 </div>
 

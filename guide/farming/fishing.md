@@ -97,7 +97,7 @@ Rare catches are worth more at [Bruno's counter](../island/shops.md), dearer sti
 
 ## The Compendium So Far
 
-Pressed between these pages: the island's fish as the compendium paints them, filed A through G. The rest of the alphabet is still swimming — this plate will grow as the archive does.
+Pressed between these pages: the island's fish as the compendium paints them, filed A through R. The last letters of the alphabet are still swimming — this plate will grow as the archive does.
 
 <div class="specimen-grid parchment">
   <figure>
@@ -179,6 +179,66 @@ Pressed between these pages: the island's fish as the compendium paints them, fi
   <figure>
     <img src="{{ '/assets/images/wiki/fish/gar.png' | relative_url }}" alt="Gar, as painted in the fishing compendium" loading="lazy">
     <figcaption>Gar</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/fish/golden-catfish.png' | relative_url }}" alt="Golden Catfish, as painted in the fishing compendium" loading="lazy">
+    <figcaption>Golden Catfish</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/fish/grotto-sculpin.png' | relative_url }}" alt="Grotto Sculpin, as painted in the fishing compendium" loading="lazy">
+    <figcaption>Grotto Sculpin</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/fish/haddock.png' | relative_url }}" alt="Haddock, as painted in the fishing compendium" loading="lazy">
+    <figcaption>Haddock</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/fish/halibut.png' | relative_url }}" alt="Halibut, as painted in the fishing compendium" loading="lazy">
+    <figcaption>Halibut</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/fish/herring.png' | relative_url }}" alt="Herring, as painted in the fishing compendium" loading="lazy">
+    <figcaption>Herring</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/fish/loach.png' | relative_url }}" alt="Loach, as painted in the fishing compendium" loading="lazy">
+    <figcaption>Loach</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/fish/lobster.png' | relative_url }}" alt="Lobster, as painted in the fishing compendium" loading="lazy">
+    <figcaption>Lobster</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/fish/mackerel.png' | relative_url }}" alt="Mackerel, as painted in the fishing compendium" loading="lazy">
+    <figcaption>Mackerel</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/fish/minnow.png' | relative_url }}" alt="Minnow, as painted in the fishing compendium" loading="lazy">
+    <figcaption>Minnow</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/fish/mussel.png' | relative_url }}" alt="Mussel, as painted in the fishing compendium" loading="lazy">
+    <figcaption>Mussel</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/fish/oyster.png' | relative_url }}" alt="Oyster, as painted in the fishing compendium" loading="lazy">
+    <figcaption>Oyster</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/fish/perch.png' | relative_url }}" alt="Perch, as painted in the fishing compendium" loading="lazy">
+    <figcaption>Perch</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/fish/pike.png' | relative_url }}" alt="Pike, as painted in the fishing compendium" loading="lazy">
+    <figcaption>Pike</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/fish/pupfish.png' | relative_url }}" alt="Pupfish, as painted in the fishing compendium" loading="lazy">
+    <figcaption>Pupfish</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/fish/rainbow-trout.png' | relative_url }}" alt="Rainbow Trout, as painted in the fishing compendium" loading="lazy">
+    <figcaption>Rainbow Trout</figcaption>
   </figure>
 </div>
 

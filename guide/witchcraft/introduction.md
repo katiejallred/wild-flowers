@@ -86,9 +86,13 @@ As the story deepens, so does your toolkit. In rough order of appearance:
 
 ## The Coven's Ladder
 
-Rank insignia from the archive — a witch's path through the coven, from Acolyte upward.
+Rank insignia from the archive — a witch's path through the coven, from Initiate all the way to High Priestess.
 
 <div class="specimen-grid parchment">
+  <figure>
+    <img src="{{ '/assets/images/wiki/magic/initiate.jpg' | relative_url }}" alt="Initiate coven rank insignia" loading="lazy">
+    <figcaption>Initiate</figcaption>
+  </figure>
   <figure>
     <img src="{{ '/assets/images/wiki/magic/acolyte.png' | relative_url }}" alt="Acolyte coven rank insignia" loading="lazy">
     <figcaption>Acolyte</figcaption>
@@ -98,8 +102,16 @@ Rank insignia from the archive — a witch's path through the coven, from Acolyt
     <figcaption>Adept</figcaption>
   </figure>
   <figure>
+    <img src="{{ '/assets/images/wiki/magic/journeyman.png' | relative_url }}" alt="Journeyman coven rank insignia" loading="lazy">
+    <figcaption>Journeyman</figcaption>
+  </figure>
+  <figure>
     <img src="{{ '/assets/images/wiki/magic/farseer.png' | relative_url }}" alt="Farseer coven rank insignia" loading="lazy">
     <figcaption>Farseer</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/magic/high-priestess.png' | relative_url }}" alt="High Priestess coven rank insignia" loading="lazy">
+    <figcaption>High Priestess</figcaption>
   </figure>
 </div>
 
