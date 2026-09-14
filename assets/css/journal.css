@@ -496,6 +496,15 @@ img { max-width: 100%; }
   gap: 0.5rem;
 }
 
+.specimen footer .specimen-label {
+  white-space: nowrap; /* "Specimen No. N" must never break mid-label */
+  flex-shrink: 0;
+}
+
+.specimen footer .handwritten {
+  text-align: right;
+}
+
 /* per-part accent colors */
 .specimen.rose      { --accent: var(--rose); }
 .specimen.sage      { --accent: var(--sage); }
