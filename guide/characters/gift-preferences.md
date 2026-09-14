@@ -25,10 +25,10 @@ The rhythm that falls out of these rules: give each favorite **once** for the bi
 
 ### Discovering favorites
 
-Each resident's favorites — five foods apiece — begin as **hidden silhouettes** in their profile. You can uncover them two ways:
+Each resident's favorites — **three to five foods apiece**, depending on the resident — begin as **hidden silhouettes** in their profile. You can uncover them two ways:
 
 1. **Guess.** Squint at the silhouette, consult your pantry, and hand over your best hypothesis. A correct guess reveals the entry (and banks that first-time boost).
-2. **Scry.** A witch has advantages: the **crystal ball** can reveal a character's favorite foods outright, sparing you the trial and error. See [Spells & Rituals](../witchcraft/spells-and-rituals.md) for your scrying options.
+2. **Scry.** A witch has advantages: the **crystal ball** can reveal a character's favorite foods outright, sparing you the trial and error — and from your sanctum it can also hint at your **farm animals'** favorites. See [Spells & Rituals](../witchcraft/spells-and-rituals.md) for your scrying options.
 
 ### Cook, don't just forage
 
@@ -43,6 +43,7 @@ The favorites are *dishes*, which makes your kitchen the island's most effective
 Until the per-character almanac fills in, these principles will carry you far:
 
 - **Gift daily, talk daily.** Both raise relationship values; together they compound. No gift is ever *rejected* outright, so an imperfect gift still beats an empty hand.
+- **Coffee is the universal fallback.** Cheap to brew and beloved island-wide — a fresh cup lands nearly as well as a repeated favorite when your pantry has nothing better to offer.
 - **Favorites are for milestones.** Save newly revealed favorites for the residents you're actively courting or racing toward a story threshold with — that first-time boost is the largest single gain gifting offers.
 - **Romance runs on recipes.** All the romanceable residents keep favorite dishes they adore; cooking your intended's favorites is the fastest honest way to fill hearts (see the [Romance Guide](romance.md)).
 - **Match gifts to your shopping route.** You'll pass most residents on your daily rounds anyway ([Shops](../island/shops.md)); carry a stack of cooked dishes and gift as you go.
@@ -51,12 +52,12 @@ Until the per-character almanac fills in, these principles will carry you far:
 
 ## The Per-Resident Almanac
 
-*Being filled in as research continues.* Individual favorite-food lists exist for every resident — five dishes each — but this guide only presses what it has personally verified, and per-character lists are still under observation in the field. Until then:
+*Being filled in as research continues.* Individual favorite-food lists exist for every resident — three to five dishes each — but this guide only presses what it has personally verified, and per-character lists are still under observation in the field. Until then:
 
 | If you're courting… | A verified head start |
 | --- | --- |
 | Anyone | Their silhouettes are visible in their profile from early on — start guessing with dishes you can already cook |
-| A romanceable resident | Use the crystal ball early; five revealed favorites is a full season's courtship plan |
+| A romanceable resident | Use the crystal ball early; their revealed favorites list is a full season's courtship plan |
 
 Have your own confirmed sightings? Note them in your margin and check back — this almanac grows a page at a time.
 
