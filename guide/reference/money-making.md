@@ -13,14 +13,18 @@ Measured in coins earned per day of growth, the standouts are:
 
 | Crop | Season | Approx. profit | Why it shines |
 |---|---|---|---|
-| **Cotton → Cloth** | (see [Crops](../farming/crops.md)) | ~39 coins/day | The best earner in the game — but only after processing into cloth on the loom |
-| **Fennel** | Fall & Winter | ~29.5 coins/day | The best straight-sale crop of the cold seasons |
+| **Cotton → Cloth** | Summer | ~39 coins/day | The best earner in the game — but only after processing into cloth on the loom |
+| **Strawberry** | Summer | ~28.7 coins/day | The best straight-sale crop in the almanac |
+| **Fennel** | Fall & Winter | ~24 coins/day | The best straight-sale crop of the cold seasons |
+| **Wheat** | Spring | ~20.8 coins/day | The pick of the spring beds |
 | **Sunflowers** | Summer | best summer flower | Strong sale price, and flowers feed your bees while they bloom |
+
+For the full per-season ledger — seed costs, growth times, and every crop's coins/day — see the [Crop Guide](../farming/crops.md).
 
 Working principles:
 
 - **Cotton is a manufacturing business, not a crop.** Raw cotton is unremarkable; woven into **cloth** it becomes the island's best money-per-day. Keep the loom busy ([Crafting Stations](../crafting/stations.md)).
-- **Fennel is the cold-season workhorse.** Plant it wall-to-wall in fall and winter and simply linger in those seasons while the coins accumulate.
+- **Fennel is the cold-season workhorse.** Plant it wall-to-wall in fall and winter and simply linger in those seasons while the coins accumulate. (In a **greenhouse**, out-of-season fennel climbs to about 29.5/day, since off-season produce sells at a premium.)
 - **Flowers pay twice.** A blooming flower left unharvested feeds your **beehives**, producing honey and beeswax on the side ([Bees & Orchards](../farming/bees-and-orchards.md)). Sunflowers in summer are the pick of the bunch.
 
 <span class="handwritten">don't cast the ritual while the fennel's still paying rent ❀</span>
@@ -88,8 +92,8 @@ Two habits keep the ledger honest:
 
 | Season | Money strategy |
 |---|---|
-| **Spring** | Establish crops and infrastructure; fish and forage to fill gaps. |
-| **Summer** | Sunflowers for bees and sale; cotton for the loom. |
+| **Spring** | Wheat in the beds; establish crops and infrastructure; fish and forage to fill gaps. |
+| **Summer** | Strawberries and cotton for the loom; sunflowers for bees and sale. |
 | **Fall** | Fennel fields; harvest everything before any ritual. |
 | **Winter** | More fennel; lean on artisan goods, animals, and the mine. |
 
