@@ -44,7 +44,7 @@ The coven meets in secret, and its members wear **masks** in the circle — a lo
 | Member | Amira Syed, the town doctor |
 | Members | Several more familiar faces — unmasked one by one as the story unfolds |
 
-That's right: the woman who sells you seeds and the doctor who patches you up are both in the circle. Fairhaven's magic has always hidden in plain sight, tucked between the [shops](../island/shops.md) and the sheep.
+That's right: the woman who sells you seeds and the doctor who patches you up are both in the circle. When the unmasking quests arrive and you're not sure whom to hand that potion to, [Who Are the Witches?](who-are-the-witches.md) walks through every reveal. Fairhaven's magic has always hidden in plain sight, tucked between the [shops](../island/shops.md) and the sheep.
 
 ### Joining the circle
 
