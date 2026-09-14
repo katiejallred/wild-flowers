@@ -99,4 +99,37 @@ The payoff is more than cosmetic: magical cows give **rainbow milk**, magical du
 
 ---
 
+## The Herd Book
+
+Portraits from the barn and coop, as the archive paints them.
+
+<div class="specimen-grid parchment">
+  <figure>
+    <img src="{{ '/assets/images/wiki/animals/alpaca.png' | relative_url }}" alt="Alpaca icon" loading="lazy">
+    <figcaption>Alpaca</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/animals/cat.png' | relative_url }}" alt="Cat icon" loading="lazy">
+    <figcaption>Cat</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/animals/chicken.png' | relative_url }}" alt="Chicken icon" loading="lazy">
+    <figcaption>Chicken</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/animals/coop.png' | relative_url }}" alt="Coop icon" loading="lazy">
+    <figcaption>Coop</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/animals/cow.png' | relative_url }}" alt="Cow icon" loading="lazy">
+    <figcaption>Cow</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/animals/duck.png' | relative_url }}" alt="Duck icon" loading="lazy">
+    <figcaption>Duck</figcaption>
+  </figure>
+</div>
+
+---
+
 <span class="handwritten">sign-off tip: keep one Cure Animal Sickness Potion on the shelf before you think you need it — sick cows keep no schedule 🐄</span>

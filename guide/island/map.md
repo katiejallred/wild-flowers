@@ -5,6 +5,17 @@ title: "🗺️ Map of Fairhaven"
 
 Every field guide needs a map pressed between its pages. Fairhaven is a small, multicultural seaside island — walkable end to end in a game day — and the more of it you restore, the more of it opens to you. Below is a walking tour, sketched region by region, the way a botanist annotates a transect: start at the farm gate and wander outward.
 
+<div class="snapshot-row">
+  <figure class="snapshot">
+    <img src="{{ '/assets/images/wiki/island/fairhaven-town.jpg' | relative_url }}" alt="A view over Fairhaven's town center." loading="lazy">
+    <figcaption>the town center, from a botanist's vantage ❀</figcaption>
+  </figure>
+  <figure class="snapshot">
+    <img src="{{ '/assets/images/wiki/island/fairhaven-woods.jpg' | relative_url }}" alt="A path winding through the Fairhaven woods." loading="lazy">
+    <figcaption>the woods, where the forage (and the seer) live 🌲</figcaption>
+  </figure>
+</div>
+
 ---
 
 ## 🌾 The Wylde Farm

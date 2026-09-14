@@ -82,4 +82,61 @@ Yes, you get the broom. Broom flight arrives via the story (a broom in working o
 3. Scrolls are single-use: cast the cheap ones freely, hoard the dear ones.
 4. Coven tasks between chapters are not filler — they're where spell knowledge lives.
 
+---
+
+## Scrolls & Wands from the Archive
+
+Spell scrolls, incantations, and the wands that cast them, as illustrated in the archive's first volume (A–G).
+
+<div class="specimen-grid parchment">
+  <figure>
+    <img src="{{ '/assets/images/wiki/magic/amethyst-wand.jpg' | relative_url }}" alt="Amethyst Wand icon" loading="lazy">
+    <figcaption>Amethyst Wand</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/magic/angus-wraith-banishment-spell.png' | relative_url }}" alt="Angus' Wraith Banishment Spell icon" loading="lazy">
+    <figcaption>Angus' Wraith Banishment Spell</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/magic/animal-shapeshifting-spell.png' | relative_url }}" alt="Animal Shapeshifting Spell icon" loading="lazy">
+    <figcaption>Animal Shapeshifting Spell</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/magic/anti-shapeshifting-spell.png' | relative_url }}" alt="Anti-Shapeshifting Spell icon" loading="lazy">
+    <figcaption>Anti-Shapeshifting Spell</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/magic/atonement-incantation.png' | relative_url }}" alt="Atonement Incantation icon" loading="lazy">
+    <figcaption>Atonement Incantation</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/magic/basic-wand.png' | relative_url }}" alt="Basic Wand icon" loading="lazy">
+    <figcaption>Basic Wand</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/magic/create-wand.png' | relative_url }}" alt="Create Wand icon" loading="lazy">
+    <figcaption>Create Wand</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/magic/cryptography-incantation.png' | relative_url }}" alt="Cryptography Incantation icon" loading="lazy">
+    <figcaption>Cryptography Incantation</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/magic/fall-ritual-incantation.png' | relative_url }}" alt="Fall Ritual Incantation icon" loading="lazy">
+    <figcaption>Fall Ritual Incantation</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/magic/fealty-to-the-fair-folk-spell.png' | relative_url }}" alt="Fealty to the Fair Folk Spell icon" loading="lazy">
+    <figcaption>Fealty to the Fair Folk Spell</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/magic/festival-offering-cake.png' | relative_url }}" alt="Festival Offering Cake icon" loading="lazy">
+    <figcaption>Festival Offering Cake</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/magic/freeze-time.png' | relative_url }}" alt="Freeze Time icon" loading="lazy">
+    <figcaption>Freeze Time</figcaption>
+  </figure>
+</div>
+
 <span class="handwritten">tip: cast Summon Rain the night before, then sleep in — the crops water themselves and so, in a sense, do you 🌙</span>

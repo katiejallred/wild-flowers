@@ -82,4 +82,25 @@ As the story deepens, so does your toolkit. In rough order of appearance:
 3. Keep a shelf of common forage, ores, and crops; magical tasks love to ask for things you sold yesterday. [Mining & Foraging](../farming/mining-and-foraging.md) tells you where everything hides.
 4. Harvest before the coven changes the season — out-of-season crops vanish. This rule has broken more hearts than any romance in the game.
 
+---
+
+## The Coven's Ladder
+
+Rank insignia from the archive — a witch's path through the coven, from Acolyte upward.
+
+<div class="specimen-grid parchment">
+  <figure>
+    <img src="{{ '/assets/images/wiki/magic/acolyte.png' | relative_url }}" alt="Acolyte coven rank insignia" loading="lazy">
+    <figcaption>Acolyte</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/magic/adept.png' | relative_url }}" alt="Adept coven rank insignia" loading="lazy">
+    <figcaption>Adept</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/magic/farseer.png' | relative_url }}" alt="Farseer coven rank insignia" loading="lazy">
+    <figcaption>Farseer</figcaption>
+  </figure>
+</div>
+
 <span class="handwritten">tip from the margin: sleep early the night before a coven meeting — a yawning witch drops her candle 🌙</span>

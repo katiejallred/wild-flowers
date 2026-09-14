@@ -9,6 +9,11 @@ That is the story on the seed packet, anyway. Dig a little deeper and you'll fin
 
 > 🌿 *Lore aside:* Fairhaven's coven has kept itself hidden from the townsfolk for generations, its members masked even from one another's neighbors. Much of the story is about whether those two halves of the island — the everyday and the enchanted — can grow together in the same bed.
 
+<figure class="snapshot">
+  <img src="{{ '/assets/images/wiki/characters/tara-wylde.jpg' | relative_url }}" alt="Tara Wylde holding a glowing purple lotus bloom in her palm." loading="lazy">
+  <figcaption>the specimen herself: Tara Wylde, farmer by day, witch by night 🌙</figcaption>
+</figure>
+
 ---
 
 ## What makes this flower different
