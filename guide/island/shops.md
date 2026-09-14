@@ -5,6 +5,8 @@ title: "🏪 Shops & Services"
 
 A field botanist is only as good as her suppliers. Fairhaven's shopkeepers are also your neighbors — and future friends — so every coin spent doubles as a social call. Shops keep regular business hours and close for the night, so plan your errands for daytime; exact hours vary by shop, and festival days can shuffle everyone's schedule. (Every storefront below is pinned on the [Interactive Island Map](fishing-map.html), if you'd rather shop by sight.)
 
+For the exact schedules, the community kept a tidy two-page hours chart — Fairhaven on the first leaf, Ravenwood Hollow on the second: **[download the shop-hours chart (PDF)]({{ '/assets/docs/wylde-hours.pdf' | relative_url }})** — from the wiki archive, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).
+
 ---
 
 ## 🌱 Dahl General Store
