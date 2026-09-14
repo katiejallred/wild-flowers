@@ -1,12 +1,21 @@
 title: The Fairhaven Field Guide
-description: A pressed-flower field guide & walkthrough for Wylde Flowers
+description: A pressed-flower field guide & walkthrough for Wylde Flowers on Nintendo Switch — farming, witchcraft, romance, recipes, and every secret on Fairhaven Island.
+url: "https://katiejallred.github.io"
+baseurl: "/wild-flowers"
+lang: en
+
 plugins:
   - jekyll-relative-links
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
 relative_links:
   enabled: true
   collections: false
+
 exclude:
   - README.md
+
 defaults:
   - scope:
       path: ""
