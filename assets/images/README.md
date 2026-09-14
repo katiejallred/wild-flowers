@@ -110,13 +110,11 @@ plate, typeset in the site's Lora / Nunito / Caveat.
 
 ## Per-page share cards
 
-`card-crops.jpg` is a purpose-built 1200×630 share card for the Crop Guide:
-a press-kit harvest scene under an elderberry scrim, titled in the site's own
-Cormorant Garamond / Caveat fonts. Wired to that page via its `image:` front
-matter. Background © Studio Drydock Pty Ltd.
-
-The final three section cards complete the set: `card-getting-started.jpg`
-(island arrival), `card-crafting.jpg` (the loom & sewing machine), and
-`card-reference.jpg` (the mine). Every one of the eight guide sections now has
-a dedicated share card; all other pages use the alt-art default. Backgrounds ©
-Studio Drydock Pty Ltd.
+The ten `card-*.jpg` files are 1200×630 share cards wired to individual guide
+pages via their `image:` front matter. Each one matches the social-share set:
+AI-generated storybook gouache art (made with Ideogram) behind the Guide's
+title plate, typeset in Lora / Nunito / Caveat. `card-getting-started.jpg`
+and `card-witchcraft.jpg` reuse the farm-at-golden-hour and night-flight
+fan-art pieces; the other eight have art of their own (an open journal, the
+vegetable garden, the fishing pier, the festival square, a gift basket on a
+doorstep, a cliff-top picnic, the baking counter, and a coin-counting desk).
