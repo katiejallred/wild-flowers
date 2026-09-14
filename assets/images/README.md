@@ -63,3 +63,10 @@ to 1280px JPEGs for the web. © Studio Drydock Pty Ltd.
 and `social-square.jpg` (1:1) are cropped from the press kit's **Alt Key Art** —
 the illustrated broomstick-over-the-farm artwork. `og-image.jpg` is the earlier
 16:9 key art, kept as a fallback. All © Studio Drydock Pty Ltd.
+
+## Per-page share cards
+
+`card-crops.jpg` is a purpose-built 1200×630 share card for the Crop Guide:
+a press-kit harvest scene under an elderberry scrim, titled in the site's own
+Cormorant Garamond / Caveat fonts. Wired to that page via its `image:` front
+matter. Background © Studio Drydock Pty Ltd.
