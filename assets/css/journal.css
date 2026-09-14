@@ -533,6 +533,11 @@ img { max-width: 100%; }
   text-align: right;
 }
 
+.cover .fan-art-credit {
+  margin: 0.2rem auto 0;
+  text-align: center;
+}
+
 /* per-part accent colors */
 .specimen.rose      { --accent: var(--rose); }
 .specimen.sage      { --accent: var(--sage); }
