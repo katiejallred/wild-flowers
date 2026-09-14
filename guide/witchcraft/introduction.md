@@ -1,5 +1,7 @@
 ---
 title: "🔮 The Craft: An Introduction"
+description: "An introduction to witchcraft in Wylde Flowers — the coven, spells, potions, rituals, and Tara's second life after dark."
+image: /assets/images/card-witchcraft.jpg
 ---
 # 🔮 The Craft: An Introduction
 
