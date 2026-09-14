@@ -662,3 +662,58 @@ img.wiki-icon {
   line-height: 1.3;
   overflow-wrap: break-word;
 }
+
+/* ── The coven's ladder: hover (or tap) a mask to unmask the witch ── */
+
+.coven-reveal figure {
+  cursor: pointer;
+  outline: none;
+}
+
+.coven-reveal .specimen-flip {
+  position: relative;
+  display: inline-block;
+}
+
+.coven-reveal .specimen-flip img {
+  display: block;
+  transition: opacity 0.35s ease;
+}
+
+.coven-reveal .identity {
+  position: absolute;
+  inset: 0;
+  opacity: 0;
+}
+
+.coven-reveal figure:hover .identity,
+.coven-reveal figure:focus .identity,
+.coven-reveal figure:focus-within .identity {
+  opacity: 1;
+}
+
+.coven-reveal figure:hover .mask,
+.coven-reveal figure:focus .mask,
+.coven-reveal figure:focus-within .mask {
+  opacity: 0;
+}
+
+/* members whose portrait hasn't reached the archive: the mask only dims */
+.coven-reveal figure.sealed:hover .mask,
+.coven-reveal figure.sealed:focus .mask {
+  opacity: 0.18;
+}
+
+/* the caption swaps from rank to name along with the art */
+.coven-reveal .identity-label { display: none; }
+.coven-reveal figure:hover .identity-label,
+.coven-reveal figure:focus .identity-label,
+.coven-reveal figure:focus-within .identity-label { display: inline; }
+.coven-reveal figure:hover .mask-label,
+.coven-reveal figure:focus .mask-label,
+.coven-reveal figure:focus-within .mask-label { display: none; }
+
+.coven-reveal .identity-label {
+  color: var(--amethyst);
+  font-weight: 600;
+}
