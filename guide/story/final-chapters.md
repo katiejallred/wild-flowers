@@ -42,7 +42,7 @@ After Locket Up, the **Epilogue** unfolds in the spring of Tara's second year, a
 
 Studio Drydock kept planting after the credits. Major free updates added whole new beds to this garden:
 
-- **Ravenwood Hollow** — a hidden realm that is home to magical beings, among them **Westley Vuk**, a werewolf who came seeking a cure for his lycanthropy and stayed on as bookkeeper (he manages with a suppression potion — and yes, he's romanceable). A verified taste of the new quests: **The Silent Treatment**, in which Thomas and Marty ask you to brew a Silencing Potion so Westley's night-time howling stops rattling the windows.
+- **Ravenwood Hollow** — a hidden realm that is home to magical beings, among them **Westley Vuk**, a werewolf who came seeking a cure for his lycanthropy and stayed on as the Hollow's bookseller (he manages with a suppression potion — and yes, he's romanceable). A verified taste of the new quests: **The Silent Treatment**, in which Thomas and Marty ask you to brew a Silencing Potion so Westley's night-time howling stops rattling the windows.
 - **New neighbours** — **Eury Sinclair** arrives in Year 2 to open a hair salon (also romanceable), joining late bloomers like Kai Hoapili, who stayed on the island after Amira patched up a surfing injury.
 - **Endless Seasons and Romance** and **Magical Creatures** updates — endless play past the story, new romance content, and enchanted additions to the [farm's animal pens](../farming/animals.md).
 
