@@ -33,6 +33,8 @@ Play both sides of your life deliberately:
 | The town | Keep [friendships](../characters/friendship.md) warm — including with League folk. Cameron himself is a neighbour, not a cartoon |
 | The farm | Autumn crops and preserves fund everything; see [Crops](../farming/crops.md) |
 
+Autumn also crowds the town calendar with distinctly unmagical drama — an **election** stirs Town Hall, and a **wedding** brings out everyone's good coats. Fairhaven's ordinary life doesn't pause for witchcraft, which is rather the point of the whole story.
+
 ## The Turning Toward Winter
 
 Autumn closes as every season must — by your own hand. The High Priestess sets **Season's Greetings**: craft a **Winter Ritual Incantation** and a **Spirit Flame** for the rite that brings the snow. Stock firewood and finish your harvest first.
