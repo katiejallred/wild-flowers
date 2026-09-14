@@ -72,6 +72,6 @@ Fairhaven's population is not a fixed pressing — new faces arrive as the seaso
 
 ## A Note on the Coven
 
-You will learn early on that some residents keep a second, moonlit occupation. Hazel serves as Elder, Lina as High Priestess, and Amira among the members — the rest of the roster we leave pressed between the pages of the [Story Overview](../story/overview.md), where spoilers belong.
+You will learn early on that some residents keep a second, moonlit occupation. Hazel serves as Elder, Lina as High Priestess, and Amira among the members — the full roster, and how to unmask each member, we keep pressed in [Who Are the Witches?](../witchcraft/who-are-the-witches.md), where spoilers belong.
 
 <span class="handwritten">say hello to everyone before bed — a habit worth more than gold ❀</span>
