@@ -1,62 +1,79 @@
 ---
 title: "🧀 Artisan Goods"
-description: "Turning raw farm goods into cheese, wine, juice, cloth, and candles — the refined layer of the Fairhaven economy."
 ---
 # 🧀 Artisan Goods
 
-Raw goods pay the bills; **refined goods build the estate**. Once the tool
-shed hums, nearly everything the farm produces has a second, more valuable
-form — and the space between those two prices is where a fortune quietly
-grows.
+A pressed flower is worth more than a picked one — and so it is with nearly everything Fairhaven grows. Artisan goods are the refined products of your [crafting stations](stations.md): cloth from cotton, cheese from milk, candles from beeswax. This page is my ledger of the island's processing chains, and my case for why the patient farmer sells almost nothing raw.
 
-## The classic pipelines
+## The Case for Processing
 
-**From the barn and coop:**
+Every processing step adds value. A crop sold at harvest fetches its base price; the same crop passed through a station sells for more, and the difference is pure profit for a little patience and a walk to the tool shed. The trade-offs to weigh:
 
-- **Milk → cheese** (fermentation barrel). The dairy herd's daily milk
-  becomes shelf-stable, gift-worthy, higher-value cheese.
-- **Wool → cloth** (loom). Every third-day shearing feeds the loom; cloth
-  feeds crafting and coin alike.
-- **Rainbow milk and golden eggs** — the products of
-  [magical animals](../farming/animals.html) — sit at the top of the
-  ladder. Magic in, magic out.
+- **Time.** Stations take time to work, so processed coin arrives later than raw coin. Early on, when every coin is urgent, selling raw is forgivable. Later, it's malpractice.
+- **Station capacity.** One barrel can only ferment so much. Build out capacity as your harvests grow, or a backlog of raw goods will pile up like autumn leaves.
+- **Ingredient competition.** The kitchen, the gift satchel, and the market stall all want the same goods. Honey sold is honey you can't bake with — keep a working reserve of your best ingredients.
 
-**From the fields and orchard:**
+> Kai Hoapili, the traveling merchant, has a keen eye for finery — finished goods like cloth find an eager buyer in him.
 
-- **Fruit → juice and oils** (juice press) — the cheapest station, the
-  quickest upgrade to any harvest.
-- **Fruit & crops → wine and beer** (fermentation barrel) — the barrel
-  takes its time and pays for the patience.
-- **Flowers → dyes** (mortar & pestle) **→ dyed cloth** (dyeing bath).
+---
 
-**From the hives:**
+## The Star Chain: Cotton → Cloth
 
-- **Honey** sells sweetly as-is and cooks beautifully.
-- **Beeswax → candles** (candlemaker).
+Here is the verified arithmetic every Fairhaven farmer should know: **cotton woven into cloth is the most profitable chain on the island, working out to roughly 39 coins per day of growing time** — the best rate of any crop-based income. The chain itself is simplicity:
 
-**From the silkworm box:**
+| Step | Where | Notes |
+|---|---|---|
+| 1. Plant cotton | Your [fields](../farming/crops.md) | A summer crop — plan your coven season-turns around it |
+| 2. Harvest | The field | Stockpile; the loom will be hungry |
+| 3. Weave at the Loom | [Tool shed](stations.md) | Cotton in, cloth out |
+| 4. Sell the cloth | To Kai | The merchant pays well for fine fabric |
 
-- **Silk thread → silk** (loom) — the luxury line.
+Once the loom is built, cotton should claim a generous share of your summer beds. Nothing else you plant converts sunlight to coin so efficiently.
 
-## Why artisan goods matter
+<span class="handwritten">cotton is the quiet fortune of Fairhaven — no glamour, just 39 coins a day, every day 🌿</span>
 
-1. **Value density.** A chest of cheese outsells the milk it came from and
-   stores the herd's output in fewer slots.
-2. **Time is free here.** Stations work while you farm, mine, and witch —
-   the barrel asks only that you come back later.
-3. **Gifts and quests.** Refined goods appear on request boards and in
-   quest lists, and some make handsome presents.
-4. **Collections.** The island's boards want your craftsmanship
-   catalogued, of course.
+## The Hive Chain: Flowers → Honey & Beeswax
 
-## An artisan's routine
+The [beehives](../farming/bees-and-orchards.md) are the island's gentlest factory. Keep flowers blooming within reach of a hive — and resist picking them, for the bees need the blossoms standing — and the hive yields two products at once:
 
-Morning: load the stations — milk in the barrel, fruit in the press, wool
-on the loom. Evening: collect, restock, set the overnight batch. Two visits
-a day turns the shed into a second farm that never needs watering.
+- **Honey** — a high-value sell on its own, and a called-for ingredient in sweeter [recipes](cooking.md).
+- **Beeswax** — the raw material of the candlemaker, turning a by-product into a second income stream.
 
-And when a bottle of your own wine finally shares a table with your own
-cheese, both made from the land Hazel left you — that's not a spreadsheet
-optimization, that's the whole point of the game. Pour one for Gramma.
+It's the closest thing Fairhaven offers to passive income: plant the flowers once, and the hives hum along while you're off fishing or spellcasting. A flower bed ringed with hives is the laziest good decision on the farm.
 
-<p class="handwritten">first wheel of cheese sold at market. wept a little. very professional. 🧀</p>
+---
+
+## Other Chains Worth Keeping
+
+A survey of the remaining processing lines, from my notebooks:
+
+| Chain | Route | Why bother |
+|---|---|---|
+| Milk → Butter | Butter Churn | Quick, simple value-add for the daily pail |
+| Milk → Cheese | Fermentation Barrel | Strong sell price; beloved in cooking and gifting |
+| Fruit → Wine & Cider | Fermentation Barrel | Turns orchard surplus into shelf-stable coin |
+| Vegetables → Sauerkraut & Kimchi | Fermentation Barrel | A home for bumper cabbage harvests |
+| Fruit & Veg → Juice & Oil | Juice Press | Fast turnaround on middling produce |
+| Beeswax → Candles | Candlemaker | Compounds the hive chain one step further |
+| Wood → Paper & Love Cards | Paper Press | Modest coin, but quests and courtship call for it |
+| Cloth + Dye → Dyed Cloth | Mortar & Pestle + Dyeing Bath | Specific colors turn up as quest and gift requests |
+| Sand → Glass | Glass Kiln | Quality sand from your travels becomes a crafting staple |
+| Silkworm → Silk Thread → Silk | Silkworm Box + Loom | The luxury textile line, for the established estate |
+
+The general rule: **the more steps a good survives, the more it's worth at the end.** Beeswax into candles, silk thread into silk, cloth into dyed cloth — each extra station visit compounds the value.
+
+## Beyond the Coin: Quests & Gifts
+
+Artisan goods are Fairhaven's social currency as much as its economic one:
+
+- **Quests.** Villagers and story chapters regularly ask for finished goods — a wheel of cheese, a bolt of cloth, paper, candles. Check the [side quests](../story/side-quests.md) ledger before selling your whole stock; the request you can fill from the shelf is the request that doesn't cost you a season.
+- **Gifts.** A crafted good says more than a raw one. Match artisan products to a villager's tastes via [gift preferences](../characters/gift-preferences.md), and watch [friendships](../characters/friendship.md) bloom faster than the hive flowers.
+- **Witchcraft.** Some processed goods find their way into the [cauldron](../witchcraft/potions.md) too — the line between artisan and alchemist is thinner than the guilds would admit.
+
+> On this island, a jar of honey given freely is worth more than a jar of honey sold. But nobody says you can't keep two jars.
+
+---
+
+For the full income strategy — crops, fishing, mining, and processing side by side — see the [Money-Making](../reference/money-making.md) guide.
+
+<span class="handwritten">sign-off tip: sell raw only what you cannot process, gift, or cook — the shed eats first, then the market 🌿</span>

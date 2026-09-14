@@ -1,59 +1,61 @@
 ---
 title: "🗓️ Festivals & Events"
-description: "The Summer Festival, the Winter Feast, and how celebrations work on an island where you control the calendar."
 ---
 # 🗓️ Festivals & Events
 
-Fairhaven celebrates the way it does everything: warmly, communally, and
-on a calendar that ultimately answers to *you*. Because seasons only
-change when Tara performs the ritual, festivals aren't dates to memorize —
-they're events the story and the mayor's letters bring to your door.
+Fairhaven does not let a season pass uncelebrated. Because the wheel of the year turns only when the coven turns it ([season rituals](../witchcraft/spells-and-rituals.md)), festivals arrive on *your* schedule, woven into the story rather than pinned to a fixed calendar date. When a celebration is coming, the town lets you know — often by letter or town chatter — and preparations become part of your to-do list.
 
-## How events arrive
+---
 
-Watch the **mail**. Mayor **Otto** announces celebrations by letter, and
-the announcement starts the clock — giving you comfortable notice to
-prepare, finish harvests, and press your good overalls.
+## 🌸 The Rhythm of the Year
 
-## The Summer Festival ☀️
+- **Each season brings celebration.** As the story progresses through Year 1 and into Year 2, festivals and community events punctuate every season — and Year 2 introduces new festivities of its own.
+- **Festivals are story events.** They arrive as part of the narrative: you'll get advance notice, the town will buzz with preparations, and the day itself gathers everyone in one place — usually the town square or the beach.
+- **You're a participant, not a spectator.** Expect to be asked to grow, cook, or craft something for the occasion. Keep your [kitchen](../crafting/cooking.md) stocked and your [crop rotation](../farming/crops.md) a step ahead of the calendar.
 
-The island's marquee celebration. Shortly after summer begins, a letter
-from Otto announces the festival and begins a **15-day countdown** — two
-weeks to help preparations come together, as the whole town gears up.
+> Festivals are the best census days in Fairhaven — nearly everyone attends. Bring gifts; a botanist never wastes a full sample of the population in one meadow. ([Gift Preferences](../characters/gift-preferences.md))
 
-The festival's crowning tradition: each year a **Summertide Star** is
-chosen and celebrated. Being part of festival preparations is woven into
-the summer's quests, so follow the To-Do list and you'll arrive at the
-big day thoroughly involved.
+## 🎪 Verified Celebrations
 
-*(Fifteen days of notice, and you control when summer starts at all —
-Fairhaven may be the only farm sim where you cannot possibly be ambushed
-by a festival.)*
+Only festivals I could verify by name are pressed into this page; the town keeps a few surprises, and I'd hate to invent a holiday.
 
-## The Winter Feast ❄️
+### The Fairhaven Summer Festival
 
-The cold season's answer: a communal feast in the depths of winter, with
-the town gathered against the dark in the warmest way. Expect
-preparations to surface in your quest list once winter arrives — the
-island doesn't let its witch-farmer sit out a party.
+The island's flagship celebration. You'll receive a **letter announcing it about fifteen days in advance** (from Mayor Otto himself), and the town spends that stretch preparing. The festival itself unfolds with traditional ceremony and community celebration in the town square and down at the beach — crowned each year by the naming of the **Summertide Star**. One of the warmest days of island life, in every sense.
 
-## Seasonal life beyond the big days
+### The Spring Fling
 
-Each season carries its own smaller rhythm of quests and happenings —
-neighborly requests on the bulletin board, story events keyed to the time
-of year, and the coven's own observances out in the grove (the seasonal
-rites themselves being, arguably, Fairhaven's most exclusive festivals —
-see [Spells & Rituals](../witchcraft/spells-and-rituals.html)).
+A springtime celebration added in a post-launch update — the town readies itself for a fling of flowers and festivity as part of the Year 2 content.
 
-## Festival wisdom
+### The Winter Festival
 
-1. **Read every letter the day it arrives** — letters start countdowns
-   and quests.
-2. **Don't change seasons mid-preparation.** If a festival's clock is
-   ticking, let it ring before you go summoning autumn.
-3. **Show up.** Festival days are dense with character moments you won't
-   see elsewhere — the writing saves some of its best for a crowd.
-4. **Cook beforehand.** A festival crowd is a gifting opportunity in
-   festive clothing.
+Winter closes the year with its own festival; the Year 2 Winter Festival serves as a grand finale to the game's main story arc. Bundle up and see the tale through.
 
-<p class="handwritten">summertide again. the bunting survives the year in somebody's attic. whose??</p>
+### Seasonal Community Events
+
+Beyond named festivals, the story threads seasonal happenings through the year — a summer drought to weather, a town **election** and a **wedding** in the fall of Year 2, among others. These play out as story chapters; see the [Story Walkthrough](../story/overview.md) for where they fall.
+
+<span class="handwritten">check your mailbox daily — festival letters are easy to miss when the fennel needs watering ❀</span>
+
+---
+
+## 🍲 Preparing for a Festival
+
+A little forward planning turns festival season from scramble to stroll:
+
+| Prepare | Why |
+|---|---|
+| **Cooked dishes** | Festival prep quests often call for specific recipes — keep staple ingredients on hand ([Cooking](../crafting/cooking.md)). |
+| **Seasonal crops** | Requests tend to match the season; don't sell your entire harvest the week a festival is announced ([Crops](../farming/crops.md)). |
+| **Crafted goods** | Candles, cloth, and other [artisan goods](../crafting/artisan-goods.md) occasionally feature in preparations and gifts. |
+| **Gifts** | With the whole town gathered, festival day is peak gifting efficiency ([Friendship](../characters/friendship.md)). |
+
+## 🔁 Festivals and the Turning Seasons
+
+Because seasons only change when you complete the coven's ritual, you control the tempo. Lingering in a season to finish crops or quests is perfectly safe — the festival tied to a story beat will wait for you. When you re-enter a season in later years, its celebrations and seasonal rhythms come back around with it, so no festival memory is ever truly behind you.
+
+> Lore aside: there's something fitting about a witch's town where the harvest festival never arrives before the harvest is ready. The coven wouldn't have it any other way.
+
+---
+
+<span class="handwritten">sign-off tip: on festival mornings, do your chores early — you'll want the whole afternoon free for the square ❀</span>

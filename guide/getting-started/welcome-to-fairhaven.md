@@ -1,51 +1,62 @@
 ---
 title: "🌱 Welcome to Fairhaven"
-description: "What Wylde Flowers is, who Tara is, and why this island is worth moving to — a spoiler-light introduction."
 ---
 # 🌱 Welcome to Fairhaven
 
-*Wylde Flowers* opens with a ferry ride. You are **Tara Wylde**, leaving the city
-behind to help your grandmother **Hazel** — who isn't doing so well — keep the
-family farm running on **Fairhaven Island**. That's the whole premise, right up
-until the night you notice your sweet old gramma slipping out of the farmhouse
-after dark, and the game quietly hands you its second half: *tend the farm by
-day, practice the craft by night.*
+Press this page flat and keep it close, traveler — it is the first leaf in your journal. *Wylde Flowers* (Studio Drydock) is a cozy life-and-farming sim that first bloomed on Apple Arcade in 2022 before spreading its seeds to Nintendo Switch and PC. You play **Tara Wylde**, who steps off the ferry onto the small island of **Fairhaven** to care for her ailing grandmother **Hazel** and to coax the family farm back to life.
 
-## What kind of game is this?
+That is the story on the seed packet, anyway. Dig a little deeper and you'll find the tap root: Hazel is a **witch**, an Elder of a masked coven that meets in secret — and Tara has inherited more than a farm. Your days become a lovely double life: tend crops, chat with the townsfolk, and cook in the sunshine; then, when the moon rises, fly your broom to the coven and learn the craft. It is, quite literally, **farming by day, witchcraft by night**.
 
-A cozy farming and life sim with a real, finished story. You'll plant and water
-crops, raise animals, fish, mine, cook, and befriend the locals — and, in
-parallel, you'll be drawn into the island's **coven of witches**, learning to
-brew potions, craft incantations, fly a broom, and even take responsibility for
-the turning of the seasons themselves.
+> 🌿 *Lore aside:* Fairhaven's coven has kept itself hidden from the townsfolk for generations, its members masked even from one another's neighbors. Much of the story is about whether those two halves of the island — the everyday and the enchanted — can grow together in the same bed.
 
-A few things set it apart from its farming-sim cousins:
+---
 
-- **Every line is voice-acted.** All of it — roughly thirty islanders' worth of
-  conversation, quests, and gossip.
-- **The story has a beginning, middle, and end.** Quests drive the game
-  forward; this isn't an endless loop with a thin plot draped over it.
-- **You control the calendar.** Seasons in Fairhaven don't tick over on a
-  schedule — they change when *you* perform the ritual. (More on that in
-  [Energy, Time & Seasons](energy-time-seasons.html).)
-- **Romance is open-hearted.** Tara can woo whomever she likes among the
-  island's eligible hearts, regardless of gender. See the
-  [Romance Guide](../characters/romance.html).
+## What makes this flower different
 
-## The island at a glance
+Plenty of games let you water turnips. A few things set this one apart, like a rare cultivar in a hedgerow:
 
-Fairhaven is small enough to learn by foot and big enough to keep secrets:
-the **farm** with its river and lake, the **town center** with its shops and
-bulletin board, the **woods** where certain robed figures gather by night, the
-**beach**, the **mountain**, and a **mine** that goes deeper than anyone
-admits. Later, the map grows in ways this page is far too polite to spoil.
+- **Fully voice-acted, story-first.** Every resident speaks, and the writing carries the game. This is closer to a warm interactive novel with farming than a numbers-driven sim.
+- **Seasons wait for you.** Time passes day by day, but the season only changes when *you* perform the coven's season-change ritual. There are no missed festivals, no crops lost to a calendar you didn't watch. See [Energy, Time & Seasons](energy-time-seasons.md) — it changes how you plan everything.
+- **Witchcraft as a second craft.** Cauldron [potions](../witchcraft/potions.md), [spells and rituals](../witchcraft/spells-and-rituals.md), [weather magic](../witchcraft/weather-magic.md), and broom flight all unfold as the story does.
+- **A genuinely warm community.** Fairhaven's residents are diverse in age, background, and identity, and the game's themes — acceptance, belonging, and mending the divide between coven and townsfolk — are handled with real tenderness. There are eight romance options at present, and friendship with everyone is worth cultivating.
+- **Cozy by design.** No combat, no fail states, no clock breathing down your neck. Struggles here are the human kind: grief, prejudice, change, and community.
 
-## Where to next?
+<span class="handwritten">no other sim lets you put the seasons themselves in your pocket 🌿</span>
 
-Fresh off the ferry? Read [Your First Week](first-week.html) for a gentle plan,
-then keep [Beginner Tips](beginner-tips.html) tucked in your apron pocket.
+---
 
-*Wylde Flowers* is made by Studio Drydock and is available on Apple Arcade,
-Nintendo Switch, and PC (Steam).
+## Who you'll meet
 
-<p class="handwritten">the ferry only runs one way, as far as I can tell. you won't mind. 🌸</p>
+A quick sampling from the field, properly catalogued in the [Character Directory](../characters/directory.md):
+
+| Resident | Found where the... |
+| --- | --- |
+| Hazel Wylde | ...farmhouse hearth glows — your grandmother, and the coven's Elder |
+| Lina Dahl-Johnson | ...general store bell rings — shopkeeper, and the coven's High Priestess |
+| Amira Syed | ...clinic lamp burns — the island's doctor |
+| Kai Hoapili | ...harbor breeze blows — a friendly merchant |
+| Kim Izumi | ...butcher's block stands — the island's butcher (they/them) |
+| Sophia Moretti | ...diner coffee steams — cook and proprietor |
+| Natalia Kuznetsova | ...forge sparks fly — the blacksmith who upgrades your tools |
+| Cameron Conner | ...sermons get loud — a former child actor with strong opinions about the "unnatural" |
+| Cleocatra | ...sunbeam is warmest — a cat of consequence |
+
+Later seasons of play bring newcomers too — a hairdresser, and stranger visitors besides — but those are pages for another day.
+
+---
+
+## How this field guide is organized
+
+- **Getting Started** (you are here): [Your First Week](first-week.md), [Controls & Interface](controls-and-interface.md), [Energy, Time & Seasons](energy-time-seasons.md), and [Beginner Tips](beginner-tips.md).
+- **[Farming](../farming/farming-101.md):** [crops](../farming/crops.md), [animals](../farming/animals.md), [bees and orchards](../farming/bees-and-orchards.md), [fishing](../farming/fishing.md), and [mining & foraging](../farming/mining-and-foraging.md).
+- **[Witchcraft](../witchcraft/introduction.md):** the coven, [potions](../witchcraft/potions.md), spells, rituals, and [familiars](../witchcraft/familiars.md).
+- **[Characters](../characters/directory.md):** [friendship](../characters/friendship.md), [romance](../characters/romance.md), and [gift preferences](../characters/gift-preferences.md).
+- **[Story](../story/overview.md):** chapter-by-chapter walkthroughs, clearly marked for spoilers.
+- **[The Island](../island/map.md):** the [map](../island/map.md), [shops](../island/shops.md), and [festivals](../island/festivals-and-events.md).
+- **[Crafting](../crafting/stations.md)** and **[Reference](../reference/faq.md):** [cooking](../crafting/cooking.md), [money-making](../reference/money-making.md), [achievements](../reference/achievements.md), and a [glossary](../reference/glossary.md).
+
+This is an unofficial fan guide, pressed together with affection by players, for players. Story sections carry spoiler warnings; getting-started pages like this one stay deliberately vague about the plot's biggest blooms.
+
+---
+
+<span class="handwritten">Sign-off tip: don't optimize your first playthrough — talk to people, poke into corners, and let the story set the pace. The turnips will keep. 🌸</span>

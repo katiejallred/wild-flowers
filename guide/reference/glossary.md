@@ -1,79 +1,96 @@
 ---
 title: "📚 Glossary"
-description: "A pressed lexicon of Fairhaven — every term, title, and place name a new witch-farmer needs."
 ---
 # 📚 Glossary
 
-The island's vocabulary, pressed and labeled. Terms marked 🌙 belong to
-the story's later reaches — the definitions here stay as spoiler-light
-as honesty allows.
+A pressed and labeled collection of Fairhaven's terms of art — the words you'll meet in town chatter, coven meetings, and every other page of this field guide.
 
-**The Coven** — Fairhaven's circle of witches, masked and robed, who
-maintain the island's seasons and secrets. Members go by title, not
-name: **High Priestess**, **Farseer**, **Journeyman**, **Adept**,
-**Acolyte**. Learning the faces beneath is half the mid-game's joy.
+---
 
-**The Wellspring** 🌙 — the source of the island's magic, tended by the
-coven. The story orbits it; this glossary won't.
+## 🏝️ Places
 
-**The Gloaming** 🌙 — the twilight realm alongside the island, known to
-witches. Keeps its own fish, its own treasures, and at least one very
-old secret.
+**Fairhaven**
+: The seaside island town where the game takes place — farm, town square, woods, beach, mountain, and stranger places besides. Tour it in [Map of Fairhaven](../island/map.md).
 
-**Ravenwood Hollow** 🌙 — home of the fair folk, reached by boat from
-the farm's lake once the way is earned. A second community with its
-own shops and hearts.
+**Wylde Farm**
+: Your grandmother Hazel's farm, inherited into your care. Home base for [farming](../farming/farming-101.md) and much of the story.
 
-**The Fair Folk** 🌙 — Ravenwood Hollow's people, approached by sworn
-courtesy (see *Fealty to the Fair Folk*).
+**The Gloaming**
+: A twilight otherworld reachable only by magic, where the coven gathers rare ritual ingredients such as Dragon's Blood.
 
-**Raven** 🌙 — a masked stranger with an unhealthy interest in the
-coven's grove. See the [story pages](../story/chapters-07-09.html),
-not this glossary.
+**Coven Circle**
+: The hidden gathering place where the coven meets and casts its rituals — including the season-turning ones ([Spells & Rituals](../witchcraft/spells-and-rituals.md)).
 
-**Sanctum** — the basement beneath the farmhouse: cauldron, desk,
-distillery, mortar & pestle, crystal ball, scrying bowl. Gramma's
-workshop, then yours.
+**Ravenwood Hollow**
+: *(spoiler-adjacent)* A hidden community of magical folk revealed later in the story, added in a free update. Home of Westley Vuk and his bookshop. See [Map](../island/map.md) — spoiler-marked there.
 
-**Incantation** — a spell crafted at the desk (ink, paper, reagents)
-and recited where needed. See
-[Spells & Rituals](../witchcraft/spells-and-rituals.html).
+## 🔮 Witchcraft
 
-**Seasonal Rites** — the four great ritual incantations, cast at the
-stone circle, by which the island's seasons change *at all*. The
-calendar answers to the coven — eventually, to you.
+**The Coven**
+: Fairhaven's secret circle of witches, hiding in plain sight among the townsfolk. Tara joins early in the story ([Introduction to Witchcraft](../witchcraft/introduction.md)).
 
-**Spirit Flame** — a brewed ritual component the seasonal rites
-require; the classic recipe wants distilled ore essence and powdered
-seashell.
+**High Priestess**
+: The coven's leader — Lina Dahl-Johnson, who also runs the [Dahl General Store](../island/shops.md).
 
-**The Stone Circle / The Grove** — the coven's meeting place in the
-woods. Uninvited visits are not a thing that happens. (See: Raven.)
+**Elder**
+: A senior, venerated member of the coven; Hazel Wylde holds this honor.
 
-**To-Do List** — Tara's quest journal and the game's engine. When
-lost, do the top item.
+**Incantation**
+: The spoken formula that powers a spell or ritual — e.g. the Spring Ritual Incantation that turns winter to spring.
 
-**Collection Boards** — the island's ~20 catalogues (fish, minerals,
-crops, dishes…), each completable for a gold star.
+**Season Ritual**
+: The coven ceremony, cast at the coven circle, that is the **only** way seasons change. You gather offerings; you choose when to cast ([Energy, Time & Seasons](../getting-started/energy-time-seasons.md)).
 
-**Magical Animals** — sparkling farm animals bred by devoted feeding
-of favorites; producers of rainbow milk, golden eggs, and joy. See
-[Animals & the Barn](../farming/animals.html).
+**The Wellspring**
+: The deep source of the island's magic, tended by the coven. The story orbits it; this glossary won't say more. 🌙
 
-**The Hay Field** — the farm upgrade that lets barn animals graze,
-ending the daily hay chore.
+**Spirit Flame**
+: A brewed ritual component the seasonal rites require — the classic recipe wants distilled ore essence and powdered seashell ([Potions](../witchcraft/potions.md)).
 
-**Summertide Star** — the honoree crowned each year at the Summer
-Festival.
+**Keeper of the Wheel**
+: The role Tara later assumes: steward of the turning seasons, making offerings to the Wellspring so the ritual can proceed.
 
-**The League of the Conscious Mind** — a, let us say, *enthusiastic*
-philosophical movement with a devoted local presence. Ask Cameron.
-Budget an afternoon.
+**Familiar**
+: A witch's animal companion. Fairhaven's cats warrant a second look — see [Familiars](../witchcraft/familiars.md).
 
-**Deep Mine Key** 🌙 — the coven-granted key to the mine's floors
-below 14, where the gold and gems live.
+**Potion**
+: Brewed magic in a bottle, from the cauldron ([Potions](../witchcraft/potions.md)).
 
-**Fairhaven** — the island, the town, and — within a season or two of
-arriving — the only place that's ever felt like this. Welcome home.
+## 🏘️ Town Life
 
-<p class="handwritten">lexicon complete. language learned. accent: slightly witchy now.</p>
+**League of the Conscious Mind**
+: Cameron Conner's society of skeptics and rationalists, headquartered in the Town Center — a running counterweight to the island's quiet magic.
+
+**To-Do Quests (Bulletins)**
+: Small requests from neighbors — grow this, cook that, deliver the other. Steady coins, steady goodwill, and the subject of two [achievements](achievements.md).
+
+**Relationship Values**
+: The friendship measure tracked for roughly thirty residents, raised by chatting, gifting, and quests ([Friendship](../characters/friendship.md)).
+
+**Romanceables**
+: The eight residents Tara can court and marry ([Romance](../characters/romance.md)).
+
+## 🌾 Farming & Craft
+
+**Garden Bed**
+: A tilled plot on the farm where crops grow — water daily, harvest before the season turns, because **out-of-season crops disappear** ([Crops](../farming/crops.md)).
+
+**Greenhouse**
+: Sheltered growing space — the indoor answer to seasonal limits on what you can cultivate.
+
+**Crafting Station**
+: Any of the farm's processing machines — loom, candle maker, glass kiln, cheese press and kin — that turn raw goods into pricier [artisan goods](../crafting/artisan-goods.md).
+
+**Artisan Goods**
+: Processed products (cloth, candles, cheese…) that sell for more than their ingredients — the backbone of the [Money-Making Guide](money-making.md).
+
+**Beehive**
+: Produces honey and beeswax — as long as flowers are left blooming nearby to feed the bees ([Bees & Orchards](../farming/bees-and-orchards.md)).
+
+<span class="handwritten">flowers you don't pick are still working — for the bees ❀</span>
+
+---
+
+> Lore aside: notice how many of these words are shared between the mundane town and the magical one — Fairhaven's whole story lives in that overlap.
+
+<span class="handwritten">sign-off tip: when a quest or letter uses a term you don't know, it's probably pressed somewhere in this book — start here ❀</span>

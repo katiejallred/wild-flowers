@@ -1,53 +1,65 @@
 ---
 title: "🌱 Controls & Interface"
-description: "How to read Tara's journal, to-do list, collections, and the game's interface across Switch, mobile, and PC."
 ---
 # 🌱 Controls & Interface
 
-*Wylde Flowers* plays on Nintendo Switch, Apple devices (Apple Arcade), and PC,
-and the controls adapt to each: button prompts on a controller, taps and
-gestures on a touchscreen, mouse and keyboard on desktop. The game shows its
-own contextual prompts for whichever input you're holding, so this page focuses
-on the parts that are the same everywhere — the interface you'll live in.
+Before you can press flowers, you must learn to hold the press. *Wylde Flowers* grew up on touchscreens (Apple Arcade) and was later grafted onto Switch and PC, so it plays comfortably with fingers, sticks, or mouse and keyboard. Happily, the game is a diligent labeler: **interactable things show an on-screen icon, and that icon displays the button or key to press on your current input**. When in doubt, walk close to something and read what pops up.
 
-## The golden rule
+---
 
-Nearly everything in Fairhaven works through a single **context-sensitive
-interact action**. Stand near a garden bed and it becomes *plant* or *harvest*;
-near a neighbor, *talk*; near water with a rod, *fish*. If you're ever unsure
-what to press, walk closer to the thing — the prompt will introduce itself.
+## Controls by platform
 
-## Your to-do list
+| Platform | Input | How it feels |
+| --- | --- | --- |
+| iOS / Apple Arcade | Touch | Tap where you want Tara to walk, or use the floating virtual stick; tap icons on people and objects to interact. Menus are all tap-driven. Controllers are also supported if you pair one. |
+| Nintendo Switch | Joy-Con / Pro Controller | Left stick to move; interact with the face button shown beside each on-screen icon; shoulder/trigger and menu buttons open the journal, map, and inventory (the game labels these on screen). |
+| PC (Steam) | Mouse & keyboard | Move with the usual keys, click icons to interact — or press the key printed under each icon. Menus and inventory are pleasant to mouse through. |
+| PC (Steam) | Controller | Works just like the console experience; button prompts switch to match your pad. |
 
-The **To-Do list** is the beating heart of the game. Story quests, coven
-tasks, and neighborly favors all live here, each with its current step spelled
-out. When you feel lost, open the list; when you feel *really* lost, do the
-top thing on it. Quests are generous with directions and there is no penalty
-for letting one sit.
+A few kindly notes from the field:
 
-## Collections
+- **Prompts adapt.** Swap input mid-game and the icons re-label themselves. You never need to memorize a control chart — the game *is* the control chart.
+- **No twitch skills required.** There's no combat and no timing-based farming. Fishing and similar activities are gentle mini-interactions, not reflex tests.
+- **Accessibility.** The game can be driven with quite minimal inputs (it's playable keyboard-only on PC), and settings offer options worth a browse on your first evening.
 
-Tara keeps **collection boards** — of fish, minerals, crops, and other
-treasures of the island — that fill in as you discover each item. Completing a
-board earns recognition (the completionist's beloved gold star), and browsing
-them is the easiest way to see what you haven't found yet. There are around
-twenty boards in all; see
-[Achievements & Milestones](../reference/achievements.html).
+<span class="handwritten">the button is always written under the icon. bless this game 🌿</span>
 
-## Reading the town
+---
 
-- **Shop boards.** Every business posts its full weekly schedule on a small
-  sign by the door. No guesswork, no wiki required (though we're flattered
-  you're here).
-- **The bulletin board.** Beside the Town Hall; check it for requests.
-- **Mail.** Letters arrive at the farmhouse and often start quests — festival
-  announcements in particular arrive by post.
+## The interface, leaf by leaf
 
-## A note on comfort
+### The journal (to-do quest list)
 
-The game is patient by design: no combat, no fail states, and time pressure
-only in the gentlest sense (see
-[Energy, Time & Seasons](energy-time-seasons.html)). Settings include options
-to tune the experience to your liking — worth a browse on first launch.
+Your single most important tool. The journal lists every active **to-do quest** — main story tasks, coven requests, and townsfolk errands alike. Each entry can show a **hint** telling you what to actually do next, which makes it nearly impossible to be truly stuck. Story progress in this game *is* the to-do list: when you wonder "what now?", the answer lives here. Check it morning and night.
 
-<p class="handwritten">the journal never judges. the journal simply lists. 📖</p>
+### The map
+
+A full island map showing Fairhaven's regions, buildings, and points of interest — invaluable in the first days while the paths are still strangers. Pair it with our own annotated [Island Map](../island/map.md) page for shop locations and forage-rich corners.
+
+### Inventory
+
+Everything you carry: crops, forage, fish, seeds, meals, gifts, and materials. Items relevant to a quest are asked for by name, so you rarely need to guess. Selling and gifting both pull from here. Tools (Water Pot and friends) are handled contextually — stand near a dry Garden Bed and the watering prompt appears; no fiddly tool-switching hotbar to manage.
+
+### Relationship values
+
+Each resident has a friendship level you can review, growing through daily conversation, gifts, and story scenes. Rising levels unlock personal story moments — and, for the romanceable, hearts of another kind. The long version lives in [Friendship](../characters/friendship.md) and [Romance](../characters/romance.md).
+
+### Energy meter
+
+Tara's stamina for the day. Farm chores, chopping, mining, and other labors each sip from it; food and sleep pour it back. It is the true limit on your day, so the whole of [Energy, Time & Seasons](energy-time-seasons.md) is devoted to it.
+
+### Time display
+
+The on-screen clock tracks the hour as your day flows by. Shops and residents keep schedules, so the clock tells you who's open and who's abed. Watch it in the evening especially: at **midnight** the game warns you toward bed, and dawdling too long past that means collapsing where you stand. Note what the clock does *not* show: a season deadline. There isn't one.
+
+---
+
+## Small interface kindnesses worth knowing
+
+- **Quest hints** are free — using them costs nothing, so never wander confused on principle.
+- **Icons over heads and objects** mean "something to do here" — a conversation, a pickup, a chore.
+- **Cutscenes are voiced**; settle in rather than skimming. The performances are half the game.
+
+---
+
+<span class="handwritten">Sign-off tip: open the journal the moment anything feels aimless — the hint button has rescued more lost gardeners than any map ever did. 📖</span>

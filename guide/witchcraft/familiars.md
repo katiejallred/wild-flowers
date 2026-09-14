@@ -1,48 +1,66 @@
 ---
-title: "🐈‍⬛ Familiars & Cat Form"
-description: "Adopting the farm cat, the Animal Shapeshifting spell, and the sanctum's crystal ball — the companionable side of witchcraft."
+title: "🐈‍⬛ Familiars & Cleocatra"
 ---
-# 🐈‍⬛ Familiars & Cat Form
+# 🐈‍⬛ Familiars & Cleocatra
 
-Every proper witch story needs a cat, and *Wylde Flowers* delivers twice
-over: there's a cat you can adopt, and — eventually — a cat you can *be*.
+A confession before we begin: for one whole season, this journal's keeper called the little black-furred menace of Fairhaven "Kim," in honor of a certain excellent deli. The cat has since made her actual name known, and it is far grander — an earlier draft of this very page bore the wrong name, now pressed flat and filed under "lessons." Read on for the truth about Fairhaven's magical creatures.
 
-## Adopting the cat
+## Cleocatra, the Familiar
 
-Early in Tara's island life, a cat enters it, as cats do. Take the hint and
-**adopt the cat** — it's a beloved little milestone (there's an achievement
-for it), the farmhouse feels correct with a cat in it, and no witch's
-household should be without one. Pet generously.
+Fairhaven has a cat, and the cat has *opinions*. Her name is **Cleocatra** — friendly, food-motivated, and possessed of a natural affinity for magic. Spend time winning her over (patience and kindness, as with all the best relationships) and she can be **adopted**, at which point she becomes **Tara's familiar** — the game's one true, formal familiar.
 
-## Becoming the cat
+And being a witch's familiar here is no honorary title:
 
-The showstopper of the shapeshifting arts: through coven progression, Tara
-learns the **Animal Shapeshifting spell** and gains the ability to
-**transform into a cat**.
+| Perk of the partnership | What it means for you |
+| --- | --- |
+| A magical companion | A familiar at your side as the craft deepens — the classic witch's arrangement, fully in effect |
+| Fishing assistance | Yes — the cat **fishes**. Let no one tell you familiars don't pull their weight |
+| Exploration | Cleocatra can slip into places Tara's human shape can't reach |
+| Conversation (translated) | Cleocatra has plenty to say; a magically-gifted friend translates. She is exactly as sassy as you hope |
 
-Cat form is more than a party trick:
+The quest *While the Cat's Away* is part of her tale, and the **Animal Shapeshifting Spell** (see [Spells & Rituals](spells-and-rituals.md)) eventually lets Tara meet the four-legged world rather more directly — a witch and her familiar, finally speaking the same language of squeezing through gaps and judging everyone.
 
-- **See the island at whisker height.** Fairhaven rearranges itself
-  delightfully when you're small — new paths, new perspectives, new
-  eavesdropping opportunities.
-- **Nobody suspects a cat.** The townsfolk keep an entirely different sort
-  of company with a passing cat than with the Wylde girl.
-- **It's simply the best.** Some game mechanics justify themselves.
+<span class="handwritten">the way to any cat's heart is patience and snacks — magical cats are no exception 🌙</span>
 
-The spell arrives via the story, so no recipe hunting is needed — walk the
-coven's path and the whiskers will come to you.
+> Lore aside: witches keeping cats isn't superstition in Fairhaven — it's staffing.
 
-## The crystal ball, your softest tool
+---
 
-While we're on companionable magic: the **crystal ball** in your sanctum
-deserves special affection. Among its glimpses, it will hint at each of your
-farm animals' **secret favorite foods** — the very knowledge that powers
-[magical animal breeding](../farming/animals.html). A witch who consults the
-ball before feeding time ends up with a barn full of sparkle.
+## Ravenwood Hollow: The Other Hidden Community
 
-That's the quiet theme of this whole page: Fairhaven's magic keeps bending
-back toward *care* — of animals, of neighbors, of the island itself. The
-craft's fiercest expressions live in the [story](../story/overview.html);
-its daily practice looks a lot like love with better tools.
+> ⚠️ spoilers — Ravenwood Hollow is a late-arriving secret (added in a major free update), and its reveal is a treat. Skip this half if you'd rather stumble onto it cold.
 
-<p class="handwritten">spent an afternoon as a cat. napped in a sunbeam. no regrets. no notes. 🐾</p>
+Just when you've made peace with the idea that your grandmother's town is full of masked witches, Wylde Flowers raises you one: a **hidden fae town called Ravenwood Hollow**, tucked in a realm beyond a small lake near Hazel's farm. Getting there is delightfully mundane by witch standards — a boat appears on the lake, the boat needs **repairing**, and a repaired boat sails somewhere maps decline to mention.
+
+The Hollow is home to a small community of **magical beings** — four supernatural residents to meet, befriend, and (in at least one case) romance. Their introductions begin back on your own farm: **Marty** and **Kim** (Kim Izumi, of deli fame — the *actual* Kim of this page's title, in a roundabout way) each turn up asking for help with **strange occurrences around Fairhaven**, and seeing those quests through unlocks the Hollow's residents one by one.
+
+### Westley Vuk, the bookish werewolf
+
+The Hollow's best-documented resident — fittingly, since he keeps its **bookshop**:
+
+| | |
+| --- | --- |
+| Name | Westley Vuk |
+| Age | 35 |
+| Occupation | Bookseller of Ravenwood Hollow |
+| Condition | Werewolf |
+| Disposition | Polite, dapper, alarmingly well-read in the arcane |
+| Romanceable? | Yes — see [Romance](../characters/romance.md) |
+
+Westley came to Ravenwood Hollow **seeking a cure for his lycanthropy** and never found one — a gentle, melancholy thread that his friendship and romance arcs pick up beautifully. If your Tara has a weakness for tragic scholars with excellent tailoring, form an orderly queue.
+
+The Hollow's other residents deserve to introduce themselves — this journal will only say that "werewolf" is not the *strangest* entry on the town register, and that befriending them works much as it does in Fairhaven proper: show up, talk, give thoughtful [gifts](../characters/gift-preferences.md), repeat.
+
+---
+
+## So — Does the Game Have a "Familiar System"?
+
+Honest answer for the mechanically-minded: there is no sprawling familiar *system* — no stable of summonable companions, no familiar skill tree. What Wylde Flowers has instead is:
+
+1. **One proper familiar** — Cleocatra, adopted through play, with genuine perks (fishing, exploring, commentary).
+2. **A shapeshifting witch** — via spellcraft, Tara herself gets closer to the animal world than most games' familiars ever manage.
+3. **A whole town of magical beings** — Ravenwood Hollow's residents aren't pets or companions but neighbors: characters with quests, friendships, and romance in the same rich vein as the [character directory](../characters/directory.md) crowd.
+
+Which is, frankly, the cozier design: the magic animals of Fairhaven aren't inventory items. They're *cast members.*
+
+<span class="handwritten">tip: befriend the cat before you need the cat — she remembers who fed her first 🌙</span>

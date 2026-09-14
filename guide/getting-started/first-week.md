@@ -1,55 +1,70 @@
 ---
 title: "🌱 Your First Week"
-description: "A gentle day-by-day plan for Tara's first days on the farm — quests, introductions, and early priorities."
 ---
 # 🌱 Your First Week
 
-The opening days of *Wylde Flowers* are a guided tour with dirt under its
-fingernails. The game will hand you quests at a comfortable pace; this page
-just tells you which threads are worth pulling first.
+Every transplant needs a little time to take root, and so will you. Below is a gentle day-by-day plan for your first stretch on Fairhaven. Treat it as a trellis, not a cage — the game's to-do quests will lead you through the same ground in their own order, and because [seasons only change when you say so](energy-time-seasons.md), *nothing here can be missed*. Story details are kept deliberately spoiler-light; when you want the full pressing, see the [Story Overview](../story/overview.md) and [Chapter 1](../story/chapter-01.md).
 
-## Follow the quests — really
+> 🌿 *Lore aside:* Tara arrives on Fairhaven with a suitcase, a career left behind on the mainland, and a grandmother who is not telling her everything. Hazel's evenings are... occupied. You'll find out with what soon enough.
 
-Your **To-Do list** is the story's engine. The early quests teach farming
-basics — clearing beds, planting seeds, watering, harvesting — with Hazel
-supervising fondly from the porch. Nothing here is missable if you simply do
-what the list asks, and quests are how every major system (and every magical
-one) unlocks.
+---
 
-## Meet everyone
+## Day 1 — Arrival & settling in
 
-Mayor **Otto** will ask Tara to introduce herself around town, and it's worth
-doing properly: friendships pay off in recipes, favors, and story, and there's
-a milestone for meeting every resident of Fairhaven. Shops post their
-week's hours on a little board out front, so if someone's door is shut, the
-board will tell you when to come back.
+- Follow the opening scenes: meet **Hazel**, get the tour of the farmhouse and the overgrown farm.
+- Open your **journal** (the to-do list) and get in the habit of checking it — it is the game's main compass. See [Controls & Interface](controls-and-interface.md).
+- Do whatever small tasks the game hands you: your first seeds, your first watering with the Water Pot, a bit of tidying.
+- Wander only as far as your legs and curiosity carry you, then **go to bed at a sensible hour** — sleep is how your energy refills, and staying up past midnight costs you dearly tomorrow.
 
-While you're in town, find the **bulletin board** beside the Town Hall — it's
-a steady source of side-quests and requests from your neighbors.
+## Day 2 — First crops in the ground
 
-## Pick up a fishing rod
+- Water yesterday's planting. Crops in Garden Beds need water each day they're growing.
+- Plant anything else the quests ask for. Early crops take only a few days to mature, so the loop teaches itself quickly.
+- Visit **Dahl General Store** and meet **Lina** — she sells seeds and buys your produce. Note her opening hours; shops keep their own schedules.
+- Say hello to everyone you pass. First conversations count toward [friendship](../characters/friendship.md), and every single day's chat adds up.
 
-Visit **Bruno** at the fish and tackle shop near the town statues. He'll set
-you up with your first rod and a few pieces of bait, and point you at the lake
-in the woods. Fishing is quiet money and quiet dinners from day one — see the
-[Fishing](../farming/fishing.html) page.
+## Day 3 — Meet the town
 
-## Early priorities, in order
+- Make a proper circuit of town: the diner (**Sophia**), the clinic (**Amira**), the butcher (**Kim**), the forge (**Natalia**), the harbor (**Kai**). Faces first, favors later.
+- Forage anything sparkling or pickable along the paths — wild finds are free money and free quest fodder. See [Mining & Foraging](../farming/mining-and-foraging.md).
+- Keep watering. Keep talking. Keep an eye on the journal.
 
-1. **Do every quest that appears.** Story first; everything flows from it.
-2. **Expand the garden when offered.** More beds means more coin, and coin
-   funds everything else.
-3. **Bank wood and iron.** Farm upgrades — the coop, the barn, the bridge to
-   the hills — all want lumber, metal, and coin. Swing the axe and pickaxe
-   whenever you have energy left over.
-4. **Spend all your energy every day.** An unspent energy bar at bedtime is a
-   small tragedy. Clear stones, chop wood, fish — anything.
-5. **Talk to Hazel.** For the tutorials, yes. But also just… talk to Hazel.
+## Day 4 — The farm takes shape
 
-## What not to worry about
+- By now you'll likely have your first small **harvest** — sell some, keep some, as quests direct.
+- To-do quests will start asking you to gather, chop, and craft. Follow them; they are the story's roots and they unlock everything else, including the game's *other* career.
+- If the town's early errands send you somewhere new — the woods, the beach — go. Exploration is never wasted here.
 
-Don't fret over "wasting" days, don't hoard seeds for a season change you
-can't perform yet, and don't worry about romance windows or missed festivals —
-Fairhaven's calendar waits for you far more than most farm sims. Breathe.
+## Day 5 — Something is different about grandma
 
-<p class="handwritten">day three: gramma hums to the tomatoes. they seem to like it??</p>
+- Around this stretch of days (exactly when depends on your pace), the main story begins showing its true colors. Late-night noises. Odd errands. A grandmother with secrets.
+- We'll say no more — walk it yourself, then read [Chapter 1](../story/chapter-01.md) afterward if you want the botanical notes.
+
+<span class="handwritten">follow the strange thing. always follow the strange thing 🌙</span>
+
+## Day 6 — Two lives, one Tara
+
+- Once the story's first big reveal lands, your evenings gain a purpose of their own. The [Witchcraft introduction](../witchcraft/introduction.md) covers what opens up, spoiler-gently.
+- Daytime stays the same: water, harvest, chat, forage. Balance is the whole game.
+- Start earmarking spare produce as **gifts** — see [Gift Preferences](../characters/gift-preferences.md) once you know people a little.
+
+## Day 7 — Rhythm
+
+- By week's end you should have a working daily loop: **water → harvest → town circuit → quest tasks → evening business → bed before midnight.**
+- Consider your first purchases: more **seeds**, and ask Natalia about **tool upgrades** when the game offers them — they cut the energy cost of chores.
+- Do *not* worry about "finishing" spring. It lasts exactly as long as you want it to.
+
+---
+
+## A few first-week don'ts
+
+| Don't... | Because... |
+| --- | --- |
+| Stay up past midnight | You'll be warned at 12 AM; push much later and you collapse, waking short on energy |
+| Rush toward changing the season | Out-of-season crops vanish at the ritual — see [Energy, Time & Seasons](energy-time-seasons.md) |
+| Sell every single thing you gather | Quests and cooking constantly ask for materials you "just sold" |
+| Skip conversations to save time | Daily chats are the cheapest friendship-builder in the game |
+
+---
+
+<span class="handwritten">Sign-off tip: end each day by peeking at tomorrow's to-do list before bed — you'll wake up already knowing where to point your boots. 🥾</span>

@@ -1,84 +1,88 @@
 ---
 title: "❓ Frequently Asked Questions"
-description: "Quick answers to the questions every new Fairhaven resident asks — platforms, seasons, romance, and more."
 ---
 # ❓ Frequently Asked Questions
 
-The questions we hear most, answered briskly. Deeper answers live in
-the linked pages.
+Questions this botanist is asked most often at the garden gate — answered plainly, with page references for deeper reading.
 
-## The game itself
+---
 
-**What platforms is it on?**
-Apple Arcade (iPhone, iPad, Mac, Apple TV), Nintendo Switch, and PC
-via Steam. It launched on Apple Arcade in 2022 — where it was named
-Apple Arcade Game of the Year — and came to the other platforms after.
+## 🖥️ Platforms & Availability
 
-**Is it really fully voice-acted?**
-Yes — every character, every line. It's the game's signature flex.
+### What platforms is Wylde Flowers on?
 
-**How long is it?**
-The main story spans about two in-game years. At a relaxed pace, an
-in-game day fills roughly an hour of real play, so expect a long,
-cozy haul — and the post-game continues as long as you like.
+Wylde Flowers launched on **Apple Arcade** (February 2022) as an exclusive, then came to **Nintendo Switch** and **Steam (Windows)** in September 2022. It has since reached **PlayStation 5** and **Xbox** as well. Your Fairhaven is waiting on most anything with a screen.
 
-**Is there combat? Can I fail?**
-No combat, no fail states. The sharpest danger is staying up past
-2 AM and waking tired ([Energy, Time & Seasons](../getting-started/energy-time-seasons.html)).
+### Is there multiplayer or co-op?
 
-## Seasons & farming
+No — Wylde Flowers is a **single-player** game through and through. Fairhaven's community is the company.
 
-**When does the season change?**
-When *you* change it. Seasons in Fairhaven turn only by ritual, and
-the story hands you that power in due course. Take your time — each
-season lasts as long as you want.
+### Are there paid DLC or expansions?
 
-**Help — my crops all died after the ritual!**
-Out-of-season crops wilt the moment the season turns. Harvest
-everything first; the game's confirmation prompt is your last
-warning. (We say this on five separate pages because it's the one
-mistake everyone makes exactly once.)
+Updates have been **free**, and they've been substantial: post-launch updates added Year 2 content, new festivals, Eury Sinclair and the hair salon, and the hidden community of **Ravenwood Hollow**. No paid expansions required to see it all.
 
-**How do I get magical (sparkly) animals?**
-Feed an expecting animal its favorite food — hinted by your crystal
-ball — every day. Full method in
-[Animals & the Barn](../farming/animals.html).
+---
 
-## People & romance
+## 🌦️ Seasons & Farming
 
-**Who can I romance?**
-Eight hearts: Amira, Cameron, Damon, Eury, Giva, Kai, Kim, and
-Westley — any of them, whoever you are. Details in the
-[Romance Guide](../characters/romance.html).
+### Do seasons change automatically?
 
-**Can I date more than one person?**
-You can befriend and explore freely, but when courtship turns
-serious, Fairhaven expects sincerity — the game will make the moment
-of commitment clear.
+**No.** This is the game's signature twist: seasons change **only when the coven performs the seasonal ritual** at the coven circle, with you helping gather what's needed. Take as long as you like in any season — see [Energy, Time & Seasons](../getting-started/energy-time-seasons.md) and [Spells & Rituals](../witchcraft/spells-and-rituals.md).
 
-**What should I gift people?**
-Food, always food — ideally their favorites. Verified lists in
-[Gift Preferences](../characters/gift-preferences.html).
+### Do my crops die when the season changes?
 
-## Progress & trouble
+**Yes — out-of-season crops disappear** after the season turns (you get a brief grace window of about a day after the ritual). Harvest everything before you cast, or accept the compost. Details in [Crops](../farming/crops.md).
 
-**I'm stuck — nothing new is happening.**
-Open the To-Do list and do the top quest; the story gates most
-systems, and the "missing" feature is usually one quest away. If a
-quest wants a person, check their shop's posted hours; if it wants an
-item, the [crafting](../crafting/stations.html) and
-[witchcraft](../witchcraft/introduction.html) pages map every
-station.
+### Can I control when to do the ritual?
 
-**Did I miss anything permanently?**
-Almost nothing — seasons, festivals, and story all wait for you. The
-one soft exception: accept every **recipe** the game ever offers, as
-a few tie to particular moments
-([Cooking & Recipes](../crafting/cooking.html)).
+Yes. The ritual only happens when you've completed the offerings and choose to cast it, so you can stall a season indefinitely to finish crops, quests, or festival fun.
 
-**Is there more after the ending?**
-Yes — free seasons, collections, friendships, and your whole married
-or unmarried island life. See
-[Final Chapters](../story/final-chapters.html) *only* when finished.
+<span class="handwritten">the season waits for YOU — the rarest luxury in farm sims ❀</span>
 
-<p class="handwritten">q: is this game worth 100+ hours? a: we built a whole journal about it. 🌸</p>
+---
+
+## 💞 Romance & Relationships
+
+### Can I date more than one person?
+
+You can get to know and flirt with the candidates while unattached, but Fairhaven expects you to settle into **one committed relationship** — the story leads toward a single partner (and marriage). Choose with your heart; see [Romance](../characters/romance.md).
+
+### Who are the romance options?
+
+Eight candidates, all genders romanceable by Tara: **Kai Hoapili, Kim Izumi, Amira Syed, Cameron Conner, Giva, Damon Mthembu-Haas**, plus later arrivals **Eury Sinclair** (Year 2) and **Westley Vuk** (Ravenwood Hollow).
+
+### Do other characters have friendship levels?
+
+Yes — roughly thirty residents track **Relationship Values**, raised by chatting, gifting, and quests. See [Friendship](../characters/friendship.md) and [Gift Preferences](../characters/gift-preferences.md).
+
+---
+
+## 🕊️ Difficulty & Tone
+
+### Is there combat? Can I fail or die?
+
+No combat, no death, no fail states worth fearing. Wylde Flowers is a **cozy narrative farming sim** — the stakes are emotional, not mortal. Energy limits your day, but running low just means bedtime, not disaster.
+
+### Is there a time limit on the story?
+
+No. Story chapters wait for you, and since seasons don't turn without you, nothing rots on the vine while you dawdle — see [Story Overview](../story/overview.md).
+
+### Does the game end?
+
+The main story runs through Year 2, concluding with the Winter Festival of Year 2 — but you can keep playing your farm and your relationships afterward.
+
+---
+
+## 🧹 Odds & Ends
+
+| Question | Short answer |
+|---|---|
+| Is the game fully voice acted? | Yes — dialogue is voiced, a rarity in the genre. |
+| Can I change my appearance? | Yes, once Eury's salon opens in Year 2 ([Shops](../island/shops.md)). |
+| Can I have a pet? | You can adopt the cat, Cleocatra — and as a witch, cats are rather more than pets ([Familiars](../witchcraft/familiars.md)). |
+| What's the best way to earn coins? | Cloth and fennel, broadly — see the [Money-Making Guide](money-making.md). |
+| Are there achievements? | On platforms that support them, yes — see [Achievements](achievements.md). |
+
+---
+
+<span class="handwritten">sign-off tip: when in doubt, sleep on it — tomorrow's energy is free, and Fairhaven will still be there ❀</span>
