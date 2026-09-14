@@ -1,5 +1,6 @@
+---
+title: "💛 Romance Guide"
+---
 # 💛 Romance Guide
 
-> 🚧 This page is a seedling — content coming soon!
-
-[⬅ Back to Table of Contents](../../README.md)
+<p class="seedling">🌱 This page is a seedling — content coming soon!</p>

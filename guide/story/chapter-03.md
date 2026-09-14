@@ -1,5 +1,6 @@
+---
+title: "📜 Chapter 3: Joining the Coven"
+---
 # 📜 Chapter 3: Joining the Coven
 
-> 🚧 This page is a seedling — content coming soon!
-
-[⬅ Back to Table of Contents](../../README.md)
+<p class="seedling">🌱 This page is a seedling — content coming soon!</p>
