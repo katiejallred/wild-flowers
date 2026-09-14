@@ -16,9 +16,12 @@ relative_links:
 exclude:
   - README.md
 
+twitter:
+  card: summary_large_image
+
 defaults:
   - scope:
       path: ""
     values:
       layout: journal
-      image: /assets/images/og-image.jpg
+      image: /assets/images/og-image-alt.jpg
