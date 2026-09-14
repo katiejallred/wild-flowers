@@ -56,6 +56,8 @@ Alongside the almanac below, these principles will carry you far:
 
 Pressed, labelled, and verified leaf-by-leaf against the [community wiki](https://wylde-flowers.fandom.com)'s own gifting table ([CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/), as are these tables). Each resident keeps three to five favorites.
 
+Prefer a chart you can prop against the teapot? The community pressed the whole almanac onto a single page: **[download the printable favorite-gifts chart (PDF)]({{ '/assets/docs/wylde-favorite-gifts.pdf' | relative_url }})** — from the wiki archive, CC BY-SA 3.0 like the tables above.
+
 ### The Romanceables
 
 | Resident | Favorite dishes |
