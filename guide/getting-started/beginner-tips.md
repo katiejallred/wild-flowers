@@ -46,6 +46,18 @@ Cuttings from many gardens, rooted here for you. None of these are required — 
 
 ---
 
+## The five that matter most, pressed small
+
+| If you remember nothing else... | Tip # |
+| --- | --- |
+| Harvest everything before the season ritual | 1 |
+| Talk to everyone daily | 5 |
+| Leave flowers blooming for the bees | 8 |
+| Upgrade tools early | 10 |
+| Bed before midnight | 4 |
+
+---
+
 ## Where to next
 
 - Plot your opening days with [Your First Week](first-week.md).
