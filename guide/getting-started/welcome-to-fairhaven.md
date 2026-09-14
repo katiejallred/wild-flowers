@@ -1,5 +1,7 @@
 ---
 title: "🌱 Welcome to Fairhaven"
+description: "New to Wylde Flowers? Start here — a spoiler-light overview of Fairhaven Island and your first week on the farm."
+image: /assets/images/card-getting-started.jpg
 ---
 # 🌱 Welcome to Fairhaven
 

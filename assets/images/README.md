@@ -70,3 +70,9 @@ the illustrated broomstick-over-the-farm artwork. `og-image.jpg` is the earlier
 a press-kit harvest scene under an elderberry scrim, titled in the site's own
 Cormorant Garamond / Caveat fonts. Wired to that page via its `image:` front
 matter. Background © Studio Drydock Pty Ltd.
+
+The final three section cards complete the set: `card-getting-started.jpg`
+(island arrival), `card-crafting.jpg` (the loom & sewing machine), and
+`card-reference.jpg` (the mine). Every one of the eight guide sections now has
+a dedicated share card; all other pages use the alt-art default. Backgrounds ©
+Studio Drydock Pty Ltd.
