@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://katiejallred.github.io/wild-flowers/sitemap.xml
+Sitemap: https://fairhavenfieldguide.com/sitemap.xml
