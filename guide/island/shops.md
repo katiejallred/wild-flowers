@@ -3,7 +3,7 @@ title: "🏪 Shops & Services"
 ---
 # 🏪 Shops & Services
 
-A field botanist is only as good as her suppliers. Fairhaven's shopkeepers are also your neighbors — and future friends — so every coin spent doubles as a social call. Shops keep regular business hours and close for the night, so plan your errands for daytime; exact hours vary by shop, and festival days can shuffle everyone's schedule.
+A field botanist is only as good as her suppliers. Fairhaven's shopkeepers are also your neighbors — and future friends — so every coin spent doubles as a social call. Shops keep regular business hours and close for the night, so plan your errands for daytime; exact hours vary by shop, and festival days can shuffle everyone's schedule. (Every storefront below is pinned on the [Interactive Island Map](fishing-map.html), if you'd rather shop by sight.)
 
 ---
 

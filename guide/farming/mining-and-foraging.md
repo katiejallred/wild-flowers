@@ -66,7 +66,7 @@ Walk anywhere with your eyes down and Fairhaven offers up wild plants, flowers, 
 ### A forager's habits
 
 1. Pick everything you pass — it costs seconds and it all stores.
-2. Learn the rich routes: woods, mountain, shoreline ([Island Map](../island/map.md)) — the [Interactive Fishing & Foraging Map](../island/fishing-map.html) marks every patch, with what grows there each season.
+2. Learn the rich routes: woods, mountain, shoreline ([Island Map](../island/map.md)) — the [Interactive Island Map](../island/fishing-map.html) marks every patch, with what grows there each season.
 3. Keep a reserve of common wild plants and mushrooms for the cauldron before you need them mid-quest.
 4. Wild *flowers* are for picking freely — it's the flowers you *planted* near beehives that must stay in the ground ([Beekeeping & Orchards](bees-and-orchards.md)).
 

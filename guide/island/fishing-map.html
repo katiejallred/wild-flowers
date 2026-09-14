@@ -1,10 +1,10 @@
 ---
-title: "🗺️ Interactive Fishing & Foraging Map"
-description: "An interactive map of Fairhaven — hover over any water or wild patch to see every fish and forageable found there, the bait or season it needs, and what it sells for."
+title: "🗺️ Interactive Island Map"
+description: "An interactive map of Fairhaven — fishing waters, foraging patches, shops, and landmarks, each with a hover card telling you what's there and what it needs from you."
 ---
-<h1>🗺️ Interactive Fishing &amp; Foraging Map</h1>
+<h1>🗺️ Interactive Island Map</h1>
 
-<p>The <a href="../farming/fishing.html">fishing notes</a> and the <a href="../farming/mining-and-foraging.html">forager's pages</a> hold the theory; this plate is the field chart. Choose your errand below — rod or basket — then hover over (or tap) any marked spot and the compendium opens to that page. Two different laws govern the two pursuits: <strong>fish care only for place and bait</strong> (no seasons, no weather, no clocks), while <strong>forage cares for place and season</strong> — the wheel must turn before some patches will give.</p>
+<p>The <a href="../farming/fishing.html">fishing notes</a>, the <a href="../farming/mining-and-foraging.html">forager's pages</a>, and the <a href="shops.html">shopping rounds</a> hold the theory; this plate is the field chart. Choose your errand below — rod, basket, or coin purse — then hover over (or tap) any marked spot and the compendium opens to that page. Different laws govern the pursuits: <strong>fish care only for place and bait</strong> (no seasons, no weather, no clocks), <strong>forage cares for place and season</strong> — the wheel must turn before some patches will give — and <strong>shopkeepers care only for daylight</strong>, so run the errands before the town turns in.</p>
 
 <blockquote>Fish and forage records pressed from the <a href="https://wylde-flowers.fandom.com" rel="external nofollow">community wiki</a> (<a href="https://creativecommons.org/licenses/by-sa/3.0/" rel="external nofollow license">CC BY-SA 3.0</a>, as is this ledger).</blockquote>
 
@@ -123,6 +123,14 @@ description: "An interactive map of Fairhaven — hover over any water or wild p
     box-shadow: 0 0 0 2px rgba(111, 139, 116, 0.5), 0 2px 6px rgba(var(--shadow), 0.4);
   }
   .fm-pin.forage .fm-dot::after { border-color: rgba(111, 139, 116, 0.55); }
+  .fm-pin.place .fm-dot {
+    width: 16px;
+    height: 16px;
+    background: var(--rose);
+    box-shadow: 0 0 0 2px rgba(176, 106, 146, 0.5), 0 2px 6px rgba(var(--shadow), 0.4);
+  }
+  .fm-pin.place .fm-dot::after { animation: none; opacity: 0; }
+  .fm-pin.place .fm-tag { font-size: 0.66rem; padding: 0.02em 0.5em; }
   .fm-pin.gloaming .fm-dot {
     background: var(--plum);
     box-shadow: 0 0 0 2px rgba(156, 95, 143, 0.5), 0 2px 6px rgba(var(--shadow), 0.4);
@@ -225,6 +233,11 @@ description: "An interactive map of Fairhaven — hover over any water or wild p
       margin-top: 0.6rem;
     }
     .fm-pin .fm-tag { font-size: 0.62rem; }
+    /* the town square can't fit thirteen shop labels on a phone —
+       dots only, and the card below names whatever you tap */
+    .fm-pin.shop .fm-tag { display: none; }
+    .fm-pin.shop.active .fm-tag { display: block; }
+    .fm-pin.shop { padding: 6px; } /* keeps the bare dot tappable */
   }
 
   .fm-hint {
@@ -244,6 +257,7 @@ description: "An interactive map of Fairhaven — hover over any water or wild p
     <div class="fm-chips fm-mode" role="radiogroup" aria-labelledby="fm-mode-label">
       <input type="radio" name="fm-mode" id="fm-mode-fish" value="fish" checked><label for="fm-mode-fish">🎣 Fishing</label>
       <input type="radio" name="fm-mode" id="fm-mode-forage" value="forage"><label for="fm-mode-forage">🧺 Foraging</label>
+      <input type="radio" name="fm-mode" id="fm-mode-place" value="place"><label for="fm-mode-place">🛒 Shops &amp; Places</label>
     </div>
   </div>
   <div id="fm-bait-group">
@@ -286,7 +300,7 @@ description: "An interactive map of Fairhaven — hover over any water or wild p
   </div>
 </div>
 
-<p class="fm-hint" id="fm-hint" hidden>hover a pin to open that spot's page of the compendium — tap to pin it 🎣🧺</p>
+<p class="fm-hint" id="fm-hint" hidden>hover a pin to open that spot's page of the compendium — tap to pin it 🎣🧺🛒</p>
 
 <hr>
 
@@ -546,7 +560,103 @@ description: "An interactive map of Fairhaven — hover over any water or wild p
   </div>
 </section>
 
-<p>For the craft itself — bait economics, leveling, and the forager's routes — turn back to <a href="../farming/fishing.html">Fishing</a> and <a href="../farming/mining-and-foraging.html">Mining &amp; Foraging</a>; for everything around the water and the woods, the <a href="map.html">Map of Fairhaven</a>.</p>
+<h2>The Shopkeeper's Ledger</h2>
+
+<p>The coin purse's third of the chart. Every storefront with its keeper, its trade, and — the question that matters most with a full satchel — <em>what you can sell there</em>. The town square is drawn cozier than it plays, so the pins fan out a little; full shopping notes live in <a href="shops.html">Shops &amp; Services</a>.</p>
+
+<section class="fm-places" data-kind="place" data-group="shop">
+  <h3 id="shops">🏪 Shops</h3>
+  <div style="overflow-x:auto">
+  <table>
+    <thead><tr><th>Shop</th><th>Proprietor</th><th>What it's for</th><th>Sell here</th></tr></thead>
+    <tbody>
+      <tr data-item="Dahl General Store" data-short="Dahl's" data-x="47" data-y="55" data-emoji="🌱"
+          data-owner="Lina Dahl-Johnson — grocer by day, the coven's High Priestess always"
+          data-desc="Seeds for the current season, produce, and food — restock the morning after every season ritual"
+          data-sell="Your crops"><td>Dahl General Store</td><td>Lina Dahl-Johnson</td><td>Seeds &amp; produce; seed stock rotates with the season</td><td>Crops</td></tr>
+      <tr data-item="Kim's Local Butcher and Deli" data-short="Butcher" data-x="59" data-y="55" data-emoji="🥩"
+          data-owner="Kim Izumi (they/them) — a romance option, too"
+          data-desc="Meat and deli goods; Kim will also buy adult animals off your farm"
+          data-sell="Animals &amp; meat"><td>Kim's Local Butcher and Deli</td><td>Kim Izumi</td><td>Meat &amp; deli; buys adult animals</td><td>Animals &amp; meat</td></tr>
+      <tr data-item="Cafe Moretti" data-short="Cafe" data-x="45" data-y="61" data-emoji="🍝"
+          data-owner="Sophia Moretti — this is the 'diner' the rest of this guide keeps mentioning"
+          data-desc="Hearty cooked meals when your energy flags, and the town's great gathering spot"
+          data-sell="Cooked dishes"><td>Cafe Moretti</td><td>Sophia Moretti</td><td>Cooked meals; a gathering spot</td><td>Cooked dishes</td></tr>
+      <tr data-item="The Blacksmith" data-short="Blacksmith" data-x="36" data-y="55" data-emoji="⚒️"
+          data-owner="Natalia Kuznetsova — next door to your own farm"
+          data-desc="Smelts ore into ingots and upgrades your tools — the best coins you'll ever spend"
+          data-sell="Ores, ingots &amp; gems"><td>The Blacksmith</td><td>Natalia Kuznetsova</td><td>Smelting &amp; tool upgrades</td><td>Ores, ingots &amp; gems</td></tr>
+      <tr data-item="Soft and Son's Fish and Tackle" data-short="Fish &amp; Tackle" data-x="52" data-y="62" data-emoji="🎣"
+          data-owner="Bruno Soft — the man who first put a rod in your hands"
+          data-desc="Bait and tackle for every cast; mid-town, near the statues"
+          data-sell="Fish"><td>Soft and Son's Fish &amp; Tackle</td><td>Bruno Soft</td><td>Bait &amp; tackle</td><td>Fish</td></tr>
+      <tr data-item="Seton's Bakery" data-short="Bakery" data-x="53" data-y="52" data-emoji="🥖"
+          data-owner="The Seton household — Angus &amp; Francis"
+          data-desc="Baked goods, warm from the Seton ovens"><td>Seton's Bakery</td><td>Angus &amp; Francis Seton</td><td>Baked goods</td><td>—</td></tr>
+      <tr data-item="Dr. Syed's General Practice" data-short="Clinic" data-x="58" data-y="61" data-emoji="🩺"
+          data-owner="Dr. Amira Syed — town doctor and coven witch in one steady pair of hands"
+          data-desc="The island's clinic — science and magic on the same shelf"><td>Dr. Syed's General Practice</td><td>Dr. Amira Syed</td><td>The island's clinic</td><td>—</td></tr>
+      <tr data-item="Kai's Treasures" data-short="Kai's" data-x="55" data-y="78" data-emoji="🏺"
+          data-owner="Kai Hoapili — the island's friendly traveling merchant"
+          data-desc="Curiosities and wares near the waterfront — the interesting, not the everyday"><td>Kai's Treasures</td><td>Kai Hoapili</td><td>Curiosities near the waterfront</td><td>—</td></tr>
+      <tr data-item="The Jewelry Box" data-short="Jewelry" data-x="47" data-y="67" data-emoji="💍"
+          data-owner="Fine things and gift material"
+          data-desc="Where coins become tokens of affection — consult the gift preferences first"><td>The Jewelry Box</td><td>—</td><td>Fine things &amp; gifts</td><td>—</td></tr>
+      <tr data-item="Violet's Violets" data-short="Flowers" data-x="53" data-y="68" data-emoji="💐"
+          data-owner="The flower shop — fitting, for this island"
+          data-desc="Blooms for gifting and beauty; your own wild ones stay free"><td>Violet's Violets</td><td>—</td><td>The flower shop</td><td>—</td></tr>
+      <tr data-item="Nailed It!" data-short="Nailed It!" data-x="59" data-y="67" data-emoji="🔨"
+          data-owner="Parker Johnson — carpenter, and Lina's husband"
+          data-desc="Your partner for the farm's building projects, the greenhouse among them"><td>Nailed It!</td><td>Parker Johnson</td><td>Carpentry &amp; building projects</td><td>—</td></tr>
+      <tr data-item="The Bar" data-short="Bar" data-x="50" data-y="73" data-emoji="🍺"
+          data-owner="Damon Mthembu-Haas pours here"
+          data-desc="The town's favorite evening haunt — where the day's gossip settles"><td>The Bar</td><td>Damon Mthembu-Haas</td><td>An evening haunt</td><td>—</td></tr>
+      <tr data-item="Coiffed and Crowned by Eury" data-short="Salon" data-x="62" data-y="72" data-emoji="💇"
+          data-owner="Eury Sinclair — opens in Year 2"
+          data-desc="Change Tara's look at last — a year of farming earns a little self-care"><td>Coiffed &amp; Crowned by Eury</td><td>Eury Sinclair</td><td>Hair salon — opens in Year 2</td><td>—</td></tr>
+    </tbody>
+  </table>
+  </div>
+</section>
+
+<section class="fm-places" data-kind="place" data-group="landmark">
+  <h3 id="landmarks">📍 Landmarks</h3>
+  <div style="overflow-x:auto">
+  <table>
+    <thead><tr><th>Place</th><th>What it is</th></tr></thead>
+    <tbody>
+      <tr data-item="The Wylde Farm" data-short="Your Farm" data-x="28" data-y="47" data-emoji="🌾"
+          data-owner="Hazel's land, and now yours"
+          data-desc="Farmhouse, garden beds, barn and coop, the tool shed — and a certain discovery in the basement"><td>The Wylde Farm</td><td>Your farmhouse, beds, barn, and the story's beginning</td></tr>
+      <tr data-item="Mine Entrance" data-short="Mine" data-x="38" data-y="39" data-emoji="⛏️"
+          data-owner="Conveniently beside the farmhouse"
+          data-desc="Twenty floors of ore, gems, and keys — with a fishing pool at the very bottom"><td>Mine Entrance</td><td>Twenty floors down, right beside the farmhouse</td></tr>
+      <tr data-item="Town Hall" data-short="Town Hall" data-x="66" data-y="62" data-emoji="🏛️"
+          data-owner="Official Fairhaven Town Hall"
+          data-desc="Civic life, and the steady trickle of neighbors' to-do quests — coins and goodwill both"><td>Town Hall</td><td>Civic life and neighbors' to-do quests</td></tr>
+      <tr data-item="The Docks" data-short="Docks" data-x="52" data-y="86" data-emoji="⚓"
+          data-owner="Where the island meets the sea"
+          data-desc="Boats, arrivals, and the occasional new neighbor stepping ashore"><td>The Docks</td><td>Boats and new arrivals</td></tr>
+      <tr data-item="The Lighthouse" data-short="Lighthouse" data-x="17" data-y="69" data-emoji="🕯️"
+          data-owner="On the west shore"
+          data-desc="The light on the quiet coast below Lightfoot Farm — blueberries grow near its feet"><td>The Lighthouse</td><td>The west shore's light; blueberries nearby</td></tr>
+      <tr data-item="Mountain Bridge" data-short="Bridge" data-x="29" data-y="26" data-emoji="🌉"
+          data-owner="Broken, at first"
+          data-desc="Repairing it is a story milestone — it opens the mountain, and brings Giva to the island"><td>Mountain Bridge</td><td>Broken at first; repairing it opens the mountain</td></tr>
+      <tr data-item="Coven Circle" data-short="Coven Circle" data-x="64" data-y="30" data-emoji="🕯️"
+          data-owner="Hidden from mundane eyes"
+          data-desc="Where the witches gather and the season rituals are cast — the only way the wheel ever turns"><td>Coven Circle</td><td>Where the season rituals are cast</td></tr>
+      <tr data-item="The Gloaming" data-short="Gloaming" data-x="88" data-y="68" data-emoji="🌙" data-otherworld="true"
+          data-owner="Not on any mundane map"
+          data-desc="A twilight otherworld reached only by magic — rare ritual ingredients, and stranger fish"><td>The Gloaming</td><td>A twilight otherworld, reached only by magic</td></tr>
+    </tbody>
+  </table>
+  </div>
+</section>
+
+<p>One more place stays off this plate until the story shows it to you. 🤫</p>
+
+<p>For the craft itself — bait economics, leveling, the forager's routes, and the full shopping notes — turn back to <a href="../farming/fishing.html">Fishing</a>, <a href="../farming/mining-and-foraging.html">Mining &amp; Foraging</a>, and <a href="shops.html">Shops &amp; Services</a>; for the walking tour, the <a href="map.html">Map of Fairhaven</a>.</p>
 
 <span class="handwritten">sign-off tip: the pins never lie — if the water seems empty it's the bait, and if the patch seems bare it's the season 🎣🧺</span>
 
@@ -561,7 +671,8 @@ description: "An interactive map of Fairhaven — hover over any water or wild p
   var PLACEHOLDER = { fish: "🐟", forage: "🌿" };
   var EMPTY_TEXT = {
     fish: "Nothing takes this bait here — try another lure.",
-    forage: "Nothing grows here this season — wait for the wheel to turn."
+    forage: "Nothing grows here this season — wait for the wheel to turn.",
+    place: ""
   };
   var BAIT_LABEL = { worm: "🪱 Worm", cricket: "🦗 Cricket", chub: "🐟 Chub" };
   var SEASON_EMOJI = { spring: "🌸", summer: "☀️", fall: "🍂", winter: "❄️" };
@@ -599,6 +710,33 @@ description: "An interactive map of Fairhaven — hover over any water or wild p
     spots.push(spot);
   });
 
+  // Shops & landmarks: every table row is its own pin.
+  var placeSeq = 0;
+  document.querySelectorAll("section.fm-places tbody tr").forEach(function (tr) {
+    var spot = {
+      id: "place-" + (placeSeq++),
+      kind: "place",
+      group: tr.closest("section").dataset.group,
+      name: tr.dataset.item,
+      short: tr.dataset.short,
+      where: tr.dataset.owner,
+      desc: tr.dataset.desc,
+      sell: tr.dataset.sell || null,
+      emoji: tr.dataset.emoji || "📍",
+      x: parseFloat(tr.dataset.x),
+      y: parseFloat(tr.dataset.y),
+      x2: null,
+      otherworld: tr.dataset.otherworld === "true",
+      items: []
+    };
+    spots.push(spot);
+    var key = spot.name.toLowerCase();
+    if (!itemIndex[key]) itemIndex[key] = { spotId: spot.id, name: spot.name, kind: "place" };
+    // aliases so "blacksmith" or "bakery" find their pins too
+    var alias = spot.short.toLowerCase();
+    if (!itemIndex[alias]) itemIndex[alias] = { spotId: spot.id, name: spot.name, kind: "place", alias: true };
+  });
+
   var map = document.getElementById("fm-map");
   var stage = document.getElementById("fm-stage");
   var pinsHost = document.getElementById("fm-pins");
@@ -617,7 +755,8 @@ description: "An interactive map of Fairhaven — hover over any water or wild p
 
   function itemMatches(spot, it) {
     if (spot.kind === "fish") return currentBait === "any" || it.baits.indexOf(currentBait) !== -1;
-    return currentSeason === "any" || it.seasons.indexOf(currentSeason) !== -1;
+    if (spot.kind === "forage") return currentSeason === "any" || it.seasons.indexOf(currentSeason) !== -1;
+    return true;
   }
 
   function spotById(id) {
@@ -631,15 +770,19 @@ description: "An interactive map of Fairhaven — hover over any water or wild p
     btn.type = "button";
     btn.className = "fm-pin" +
       (spot.kind === "forage" ? " forage" : "") +
+      (spot.kind === "place" ? " place" : "") +
+      (spot.group === "shop" ? " shop" : "") +
       (spot.otherworld ? " gloaming" : "");
     btn.style.left = x + "%";
     btn.style.top = y + "%";
     btn.dataset.spot = spot.id;
     btn.setAttribute("aria-expanded", "false");
+    var tag = spot.kind === "place" ? spot.short :
+      spot.name + " · <span class=\"fm-count\"></span>";
     btn.innerHTML =
       '<span class="fm-dot" aria-hidden="true"></span>' +
-      '<span class="fm-tag">' + spot.name + " · <span class=\"fm-count\"></span></span>";
-    btn.setAttribute("aria-label", spot.name + " " + (spot.kind === "fish" ? "fishing" : "foraging") + " spot");
+      '<span class="fm-tag">' + tag + "</span>";
+    btn.setAttribute("aria-label", spot.name);
 
     btn.addEventListener("mouseenter", function () { if (!pinned) showSpot(spot.id, btn); });
     btn.addEventListener("focus", function () { if (!pinned) showSpot(spot.id, btn); });
@@ -659,6 +802,7 @@ description: "An interactive map of Fairhaven — hover over any water or wild p
 
   function updatePinCounts() {
     spots.forEach(function (spot) {
+      if (spot.kind === "place") return;
       var n = spot.items.filter(function (it) { return itemMatches(spot, it); }).length;
       var word = spot.kind === "fish" ? " fish" : (n === 1 ? " find" : " finds");
       spot.pins.forEach(function (pin) {
@@ -692,9 +836,32 @@ description: "An interactive map of Fairhaven — hover over any water or wild p
       });
     });
 
-    tipTitle.textContent = spot.name;
+    tipTitle.textContent = spot.kind === "place" ? spot.emoji + " " + spot.name : spot.name;
     tipWhere.textContent = spot.where;
     tipList.innerHTML = "";
+
+    if (spot.kind === "place") {
+      var lines = [["🏷️", spot.desc]];
+      if (spot.sell) lines.push(["💰", "Sell here: " + spot.sell]);
+      lines.forEach(function (line) {
+        var li = document.createElement("li");
+        var icon = document.createElement("span");
+        icon.className = "fm-noimg";
+        icon.textContent = line[0];
+        li.appendChild(icon);
+        var txt = document.createElement("span");
+        txt.className = "fm-item-name";
+        txt.style.fontWeight = "400";
+        txt.textContent = line[1];
+        li.appendChild(txt);
+        tipList.appendChild(li);
+      });
+      tipEmpty.style.display = "none";
+      tip.classList.add("open");
+      positionTip(nearPin || spot.pins[0]);
+      return;
+    }
+
     var shown = 0;
     spot.items.forEach(function (it) {
       var li = document.createElement("li");
@@ -834,6 +1001,7 @@ description: "An interactive map of Fairhaven — hover over any water or wild p
   // ── Item finder (both errands) ──
   var datalist = document.getElementById("fm-item-list");
   Object.keys(itemIndex).sort().forEach(function (key) {
+    if (itemIndex[key].alias) return; // short names find things, but don't clutter the list
     var opt = document.createElement("option");
     opt.value = itemIndex[key].name;
     datalist.appendChild(opt);
@@ -851,7 +1019,7 @@ description: "An interactive map of Fairhaven — hover over any water or wild p
     if (entry) {
       if (entry.kind !== currentMode) {
         currentMode = entry.kind;
-        document.getElementById(currentMode === "fish" ? "fm-mode-fish" : "fm-mode-forage").checked = true;
+        document.querySelector('input[name="fm-mode"][value="' + currentMode + '"]').checked = true;
         applyMode();
         updatePinCounts();
       }
