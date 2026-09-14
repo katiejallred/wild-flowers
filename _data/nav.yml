@@ -1,0 +1,109 @@
+# Site navigation — one entry per part of the guide.
+# Drives the menu on every page, the breadcrumb, and prev/next page links.
+- title: Getting Started
+  path: /guide/getting-started/
+  pages:
+    - title: Welcome to Fairhaven
+      url: /guide/getting-started/welcome-to-fairhaven.html
+    - title: Your First Week
+      url: /guide/getting-started/first-week.html
+    - title: Controls & Interface
+      url: /guide/getting-started/controls-and-interface.html
+    - title: Energy, Time & Seasons
+      url: /guide/getting-started/energy-time-seasons.html
+    - title: Beginner Tips
+      url: /guide/getting-started/beginner-tips.html
+
+- title: Story
+  path: /guide/story/
+  pages:
+    - title: Chapter Guide Overview
+      url: /guide/story/overview.html
+    - title: "Chapter 1: A New Leaf"
+      url: /guide/story/chapter-01.html
+    - title: "Chapter 2: The Family Secret"
+      url: /guide/story/chapter-02.html
+    - title: "Chapter 3: Joining the Coven"
+      url: /guide/story/chapter-03.html
+    - title: Chapters 4–6
+      url: /guide/story/chapters-04-06.html
+    - title: Chapters 7–9
+      url: /guide/story/chapters-07-09.html
+    - title: Final Chapters & Ending
+      url: /guide/story/final-chapters.html
+    - title: Side Quests
+      url: /guide/story/side-quests.html
+
+- title: Farm Life
+  path: /guide/farming/
+  pages:
+    - title: Farming 101
+      url: /guide/farming/farming-101.html
+    - title: Crop Guide
+      url: /guide/farming/crops.html
+    - title: Animals & the Barn
+      url: /guide/farming/animals.html
+    - title: Fishing
+      url: /guide/farming/fishing.html
+    - title: Mining & Foraging
+      url: /guide/farming/mining-and-foraging.html
+    - title: Beekeeping & Orchards
+      url: /guide/farming/bees-and-orchards.html
+
+- title: Witchcraft
+  path: /guide/witchcraft/
+  pages:
+    - title: "The Craft: An Introduction"
+      url: /guide/witchcraft/introduction.html
+    - title: Spells & Rituals
+      url: /guide/witchcraft/spells-and-rituals.html
+    - title: Potion Brewing
+      url: /guide/witchcraft/potions.html
+    - title: Weather Magic
+      url: /guide/witchcraft/weather-magic.html
+    - title: Familiars & Kim the Cat
+      url: /guide/witchcraft/familiars.html
+
+- title: Crafting & Cooking
+  path: /guide/crafting/
+  pages:
+    - title: Cooking & Recipes
+      url: /guide/crafting/cooking.html
+    - title: Crafting Stations
+      url: /guide/crafting/stations.html
+    - title: Artisan Goods
+      url: /guide/crafting/artisan-goods.html
+
+- title: People
+  path: /guide/characters/
+  pages:
+    - title: Character Directory
+      url: /guide/characters/directory.html
+    - title: Friendship Guide
+      url: /guide/characters/friendship.html
+    - title: Romance Guide
+      url: /guide/characters/romance.html
+    - title: Gift Preferences
+      url: /guide/characters/gift-preferences.html
+
+- title: Island
+  path: /guide/island/
+  pages:
+    - title: Festivals & Events
+      url: /guide/island/festivals-and-events.html
+    - title: Shops & Services
+      url: /guide/island/shops.html
+    - title: Map of Fairhaven
+      url: /guide/island/map.html
+
+- title: Reference
+  path: /guide/reference/
+  pages:
+    - title: Money-Making Guide
+      url: /guide/reference/money-making.html
+    - title: Achievements & Milestones
+      url: /guide/reference/achievements.html
+    - title: FAQ
+      url: /guide/reference/faq.html
+    - title: Glossary
+      url: /guide/reference/glossary.html
