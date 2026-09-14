@@ -9,6 +9,8 @@ A pressed-and-labeled record of what grows in Fairhaven's soil, season by season
 
 > This almanac is pressed from the [community wiki](https://wylde-flowers.fandom.com)'s field records ([CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/), as is this table). **Coins/day** is their profitability measure: (sell price of a full harvest − seed cost) ÷ days to grow. Flowers left blooming (unpicked) also feed any nearby [beehive](bees-and-orchards.md).
 
+Prefer to run the numbers for your own plan? The interactive [Crop Profit Calculator](../reference/crop-profit-calculator.html) ranks every crop by coins per day for whatever season and length of stay you choose.
+
 <figure class="snapshot">
   <img src="{{ '/assets/images/farming/picking-produce.jpg' | relative_url }}" alt="Tara picks fresh produce from raised garden beds." loading="lazy">
   <figcaption>harvest day — the ledger’s favorite entry</figcaption>
