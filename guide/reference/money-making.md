@@ -44,6 +44,10 @@ Animals are steady, low-effort income once established: daily eggs, milk, and wo
 
 Fishing is honest supplementary income — no seeds to buy, no beds to water. Catches vary in value by species and location, and rarer fish fetch better prices. It shines early game (before your farm scales up) and as a use for evening hours. See [Fishing](../farming/fishing.md).
 
+- **Fish sticks are the fisher's cloth.** The kitchen's **fish sticks** recipe accepts *any* fish, so a bucketful of cheap, common catches cooks up into dishes worth more than the fish that went into them ([Cooking](../crafting/cooking.md)). Batch-cook the everyday catch and sell the sticks; save the rare fish for the compendium, [gifts](../characters/gift-preferences.md), and quests.
+
+<span class="handwritten">the river is on your own farm — a free bait-to-fish-sticks pipeline before breakfast 🐟</span>
+
 ## ⛏️ Mining & Gems
 
 The mine beside your farmhouse runs many levels deep:
@@ -55,6 +59,25 @@ The mine beside your farmhouse runs many levels deep:
 ## 📋 Quests & To-Dos
 
 Neighbors' **to-do quests** pay coins for things you're often producing anyway. Completing them steadily is real income — the game even celebrates bulletin milestones — and every quest builds [friendship](../characters/friendship.md) alongside the fee. Check for new requests regularly and match them to your surplus.
+
+---
+
+## 🏪 Where to Sell What
+
+A harvest only becomes coins once it finds the right counter. Fairhaven's shopkeepers each deal in their own trade, so match the item to its shop ([Shops & Services](../island/shops.md)):
+
+| What you're selling | Take it to |
+|---|---|
+| **Crops, produce & artisan goods** (cloth, cheese, candles) | **Dahl General Store** — Lina's counter is the farm's main outlet |
+| **Fish** | **Soft and Son's Fish & Tackle** — Bruno pays honest rates for the catch |
+| **Cooked dishes** (fish sticks included) | **Cafe Moretti** — Sophia buys what her kitchen respects |
+| **Meat & adult animals** | **Kim's Local Butcher and Deli** |
+| **Ores, ingots & gems** | **The Blacksmith** — Natalia knows what a stone is worth |
+
+Two habits keep the ledger honest:
+
+- **Check the to-do board before the till.** A neighbor's quest often pays more for the same item than any shop will — in coins *and* [friendship](../characters/friendship.md).
+- **Shops keep daytime hours.** Plan selling errands into your town rounds rather than making a special evening trip to a locked door.
 
 ---
 
