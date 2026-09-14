@@ -13,7 +13,7 @@ pressed-flower botanical journal. 🌿
   **Settings → Pages → Deploy from a branch**.
 - **[`index.html`](index.html)** — the journal cover & table of contents.
 - **[`guide/`](guide/)** — all content pages, written in plain Markdown, organized into
-  eight parts: getting started, story, farming, witchcraft, crafting, characters,
+  eight sections: getting started, story, farming, witchcraft, crafting, characters,
   island life, and reference.
 - **[`_wiki-archive/`](_wiki-archive/)** — an offline Markdown copy of the
   [Wylde Flowers Wiki](https://wylde-flowers.fandom.com), the Guide's primary source.
