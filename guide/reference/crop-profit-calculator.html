@@ -121,7 +121,6 @@ description: "An interactive Wylde Flowers crop profit calculator — pick a sea
         <th>Crop</th>
         <th class="num">Seeds</th>
         <th class="num">Grows in</th>
-        <th class="num">Sells for</th>
         <th class="num">Harvests</th>
         <th class="num">Net profit</th>
         <th class="num">Coins/day</th>
@@ -262,7 +261,6 @@ description: "An interactive Wylde Flowers crop profit calculator — pick a sea
           "—", nameCell,
           crop[3].toLocaleString("en-US"),
           crop[2] + "d",
-          crop[4] === null ? "loom only" : crop[4].toLocaleString("en-US"),
           "0",
           "won't finish in " + days + " days",
           "—"
@@ -274,7 +272,6 @@ description: "An interactive Wylde Flowers crop profit calculator — pick a sea
           String(rank), nameCell,
           crop[3].toLocaleString("en-US"),
           crop[2] + "d",
-          crop[4] === null ? "loom only" : crop[4].toLocaleString("en-US"),
           row.harvests.toLocaleString("en-US"),
           fmtCoins(row.net * beds),
           '<span class="perday">' + fmtCoins(row.perDay * beds) + "</span>"
