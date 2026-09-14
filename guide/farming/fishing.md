@@ -57,6 +57,41 @@ A practical corollary: carry a spread of all three baits when filling out the co
 
 ---
 
+## The Three Baits, Up Close
+
+Each bait deserves its own entry in the journal — where it comes from, what it costs, and what only *it* can tempt.
+
+| Bait | Buy price | Where to get it |
+| --- | --- | --- |
+| **Worm** | 4 coins | [Bruno's stall](../island/shops.md), Soft and Son's Fish & Tackle |
+| **Cricket** | 6 coins | Bruno's stall — or the Woods, with feline help (see below) |
+| **Chub** | 4 coins | Bruno's stall — or catch your own at the Mountain |
+
+### Worms
+
+The humble worm: a wiggly little creature and the tackle box's workhorse. Cheapest of the three, always in stock at Bruno's, and the bait that draws the everyday rosters — your Minnows, Sardines, and Carp. When in doubt, start with a worm; upgrade only when a spot stops owing you fish.
+
+### Crickets, and a Shift in Perspective
+
+An insect from the Woods, a touch dearer at 6 coins — and the bait behind some of the compendium's cricket-*only* prizes, the **Dorado** and the **Sea Urchin** (both in the Ocean).
+
+Now, the riddle. The cricket's own description ends with a wink: *"Can't catch it? Maybe you need to **shift** your perspective."* That "shift" is not idle phrasing — it's a pun on **shapeshifting**. There are two free ways to keep crickets coming, and both run through [Cleocatra](../witchcraft/familiars.md):
+
+1. Once Cleocatra becomes your **pet**, she'll bring you crickets herself — tribute, cat-style.
+2. Come Summer, after unlocking the **Animal Shapeshifting Spell** ([Spells & Rituals](../witchcraft/spells-and-rituals.md)), you can take her four-legged form and catch crickets (and fish!) with your own paws.
+
+So: can't catch a cricket? Shift — literally — your perspective. A witch's tackle box restocks itself.
+
+<span class="handwritten">the game was making a shapeshifting joke the whole time. well played, Fairhaven 🐈‍⬛</span>
+
+### Chub
+
+The odd one of the family: chub is the only bait that is *also a fish*. It swims at the **Mountain** (taking chub or worm bait, fittingly), sells for 3 coins, and is too small for any recipe — its whole purpose is the hook or Bruno's counter.
+
+Bruno teaches you about chub bait early in Spring, but you can't catch your own until **Summer**, once Parker has fixed the bridge to the Mountain — until then, buy them at his stall. It earns its keep as the connoisseur's bait: within any spot it tempts the choicest takers, and two catches answer to chub *alone* — the **Scup** and the **Scallop** (both in the Ocean).
+
+---
+
 ## Where the Rare Fish Hide
 
 Because bait and location are the only factors, rarity in Fairhaven is not luck — it is *geography plus tackle*. Two rules govern the whole hunt:
