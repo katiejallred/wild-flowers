@@ -211,6 +211,11 @@ img { max-width: 100%; }
 
 .journal-footer .flourish { font-size: 1.1rem; }
 
+.journal-footer .footer-links a {
+  color: var(--ink-soft);
+  text-decoration: underline dotted;
+}
+
 /* ── The cover / table of contents ─────────────────────────── */
 
 .cover {
