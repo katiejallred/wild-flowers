@@ -31,7 +31,7 @@ description: "An interactive Wylde Flowers crop profit calculator — pick a sea
   .calc-seasons label {
     display: inline-block;
     padding: 0.25em 0.9em;
-    border: 1px solid var(--line);
+    border: 1px solid var(--line-strong);
     border-radius: 999px;
     background: var(--sheet);
     cursor: pointer;
@@ -59,7 +59,7 @@ description: "An interactive Wylde Flowers crop profit calculator — pick a sea
     font: inherit;
     color: var(--ink);
     padding: 0.15em 0.4em;
-    border: 1px solid var(--line);
+    border: 1px solid var(--line-strong);
     background: var(--sheet);
   }
   .calc-checks { display: flex; flex-wrap: wrap; gap: 0.35em 1.6em; }
@@ -88,7 +88,7 @@ description: "An interactive Wylde Flowers crop profit calculator — pick a sea
   #calc-table .crop-tag { color: var(--ink-soft); font-size: 0.88em; white-space: nowrap; }
   #calc-table .perday { font-weight: 600; color: var(--amethyst); }
   #calc-table tr.best td { background: rgba(184, 146, 63, 0.12); }
-  #calc-table tr.best .perday { color: var(--ochre); }
+  #calc-table tr.best .perday { color: var(--gold-ink); }
   #calc-table tr.nofinish td { color: var(--ink-soft); font-style: italic; background: rgba(216, 205, 234, 0.15); }
 </style>
 
@@ -96,10 +96,10 @@ description: "An interactive Wylde Flowers crop profit calculator — pick a sea
   <div class="calc-row">
     <span class="calc-label" id="season-label">Season on the island</span>
     <div class="calc-seasons" role="radiogroup" aria-labelledby="season-label">
-      <input type="radio" name="season" id="season-spring" value="Spring" checked><label for="season-spring">🌷 Spring</label>
-      <input type="radio" name="season" id="season-summer" value="Summer"><label for="season-summer">☀️ Summer</label>
-      <input type="radio" name="season" id="season-fall" value="Fall"><label for="season-fall">🍂 Fall</label>
-      <input type="radio" name="season" id="season-winter" value="Winter"><label for="season-winter">❄️ Winter</label>
+      <input type="radio" name="season" id="season-spring" value="Spring" checked><label for="season-spring"><span aria-hidden="true">🌷</span> Spring</label>
+      <input type="radio" name="season" id="season-summer" value="Summer"><label for="season-summer"><span aria-hidden="true">☀️</span> Summer</label>
+      <input type="radio" name="season" id="season-fall" value="Fall"><label for="season-fall"><span aria-hidden="true">🍂</span> Fall</label>
+      <input type="radio" name="season" id="season-winter" value="Winter"><label for="season-winter"><span aria-hidden="true">❄️</span> Winter</label>
     </div>
   </div>
 
@@ -116,7 +116,7 @@ description: "An interactive Wylde Flowers crop profit calculator — pick a sea
 
   <div class="calc-row calc-checks">
     <label><input type="checkbox" id="calc-replant" checked> Replant beds after each harvest</label>
-    <label><input type="checkbox" id="calc-loom" checked> I have a loom <span title="Cotton can't be sold raw — its famous ~39 coins/day only exists once the loom weaves it into cloth.">🧵</span></label>
+    <label><input type="checkbox" id="calc-loom" checked> I have a loom <span aria-hidden="true">🧵</span></label>
   </div>
 </form>
 
@@ -126,13 +126,13 @@ description: "An interactive Wylde Flowers crop profit calculator — pick a sea
   <table id="calc-table">
     <thead>
       <tr>
-        <th>#</th>
-        <th>Crop</th>
-        <th class="num">Seeds</th>
-        <th class="num">Grows in</th>
-        <th class="num">Harvests</th>
-        <th class="num">Net profit</th>
-        <th class="num">Coins/day</th>
+        <th scope="col"><span aria-hidden="true">#</span><span class="sr-only">Rank</span></th>
+        <th scope="col">Crop</th>
+        <th scope="col" class="num">Seeds</th>
+        <th scope="col" class="num">Grows in</th>
+        <th scope="col" class="num">Harvests</th>
+        <th scope="col" class="num">Net profit</th>
+        <th scope="col" class="num">Coins/day</th>
       </tr>
     </thead>
     <tbody></tbody>

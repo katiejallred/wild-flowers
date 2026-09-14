@@ -48,7 +48,7 @@ The Hollow is home to a small community of **magical beings** — four supernatu
 
 The Hollow's best-documented resident — fittingly, since he keeps its **bookshop**:
 
-| | |
+| Field | Entry |
 | --- | --- |
 | Name | Westley Vuk |
 | Age | 35 |

@@ -34,7 +34,7 @@ description: "An interactive map of Fairhaven — fishing waters, foraging patch
   .fm-chips label {
     display: inline-block;
     padding: 0.22em 0.85em;
-    border: 1px solid var(--line);
+    border: 1px solid var(--line-strong);
     border-radius: 999px;
     background: var(--sheet);
     cursor: pointer;
@@ -52,7 +52,7 @@ description: "An interactive map of Fairhaven — fishing waters, foraging patch
   .fm-chips.fm-seasons input:checked + label {
     border-color: var(--sage);
     background: rgba(111, 139, 116, 0.16);
-    color: var(--sage);
+    color: var(--sage-ink);
   }
   .fm-search { flex: 1 1 220px; max-width: 320px; }
   .fm-search input {
@@ -60,7 +60,7 @@ description: "An interactive map of Fairhaven — fishing waters, foraging patch
     font: inherit;
     color: var(--ink);
     padding: 0.3em 0.6em;
-    border: 1px solid var(--line);
+    border: 1px solid var(--line-strong);
     background: var(--sheet);
   }
 
@@ -149,7 +149,7 @@ description: "An interactive map of Fairhaven — fishing waters, foraging patch
     box-shadow: 0 1px 3px rgba(var(--shadow), 0.25);
   }
   .fm-pin .fm-count { color: var(--amethyst); }
-  .fm-pin.forage .fm-count { color: var(--sage); }
+  .fm-pin.forage .fm-count { color: var(--sage-ink); }
   .fm-pin:hover .fm-dot, .fm-pin:focus-visible .fm-dot,
   .fm-pin.active .fm-dot { background: var(--ochre); }
   .fm-pin:focus-visible { outline: 2px solid var(--amethyst); outline-offset: 4px; }
@@ -167,11 +167,14 @@ description: "An interactive map of Fairhaven — fishing waters, foraging patch
     display: none;
   }
   .fm-tip.open { display: block; }
-  .fm-tip h3 {
+  .fm-tip .fm-tip-name {
     margin: 0 0 0.1rem;
+    font-family: var(--font-display);
     font-size: 1.15rem;
+    line-height: 1.15;
     color: var(--amethyst);
   }
+  .fm-tip ul:focus-visible { outline: 2px solid var(--amethyst); outline-offset: 2px; }
   .fm-tip .fm-tip-where {
     margin: 0 0 0.55rem;
     font-size: 0.85rem;
@@ -207,8 +210,9 @@ description: "An interactive map of Fairhaven — fishing waters, foraging patch
   .fm-tip li .fm-item-name { font-weight: 700; flex: 1 1 auto; }
   .fm-tip li .fm-item-name small { font-weight: 400; color: var(--ink-soft); }
   .fm-tip li .fm-item-when { color: var(--ink-soft); font-size: 0.86em; white-space: nowrap; }
-  .fm-tip li .fm-item-price { color: var(--ochre); font-weight: 700; font-variant-numeric: tabular-nums; white-space: nowrap; }
+  .fm-tip li .fm-item-price { color: var(--gold-ink); font-weight: 700; font-variant-numeric: tabular-nums; white-space: nowrap; }
   .fm-tip li.fm-hit { background: rgba(255, 207, 64, 0.25); }
+  .fm-tip li.fm-hit .fm-item-name { text-decoration: underline; } /* not colour alone */
   .fm-tip li.fm-filtered { display: none; }
   .fm-tip .fm-tip-empty { color: var(--ink-soft); font-style: italic; font-size: 0.9rem; margin: 0.2rem 0; display: none; }
   .fm-tip .fm-tip-close {
@@ -255,28 +259,28 @@ description: "An interactive map of Fairhaven — fishing waters, foraging patch
   <div>
     <span class="fm-label" id="fm-mode-label">Today's errand</span>
     <div class="fm-chips fm-mode" role="radiogroup" aria-labelledby="fm-mode-label">
-      <input type="radio" name="fm-mode" id="fm-mode-fish" value="fish" checked><label for="fm-mode-fish">🎣 Fishing</label>
-      <input type="radio" name="fm-mode" id="fm-mode-forage" value="forage"><label for="fm-mode-forage">🧺 Foraging</label>
-      <input type="radio" name="fm-mode" id="fm-mode-place" value="place"><label for="fm-mode-place">🛒 Shops &amp; Places</label>
+      <input type="radio" name="fm-mode" id="fm-mode-fish" value="fish" checked><label for="fm-mode-fish"><span aria-hidden="true">🎣</span> Fishing</label>
+      <input type="radio" name="fm-mode" id="fm-mode-forage" value="forage"><label for="fm-mode-forage"><span aria-hidden="true">🧺</span> Foraging</label>
+      <input type="radio" name="fm-mode" id="fm-mode-place" value="place"><label for="fm-mode-place"><span aria-hidden="true">🛒</span> Shops &amp; Places</label>
     </div>
   </div>
   <div id="fm-bait-group">
     <span class="fm-label" id="fm-bait-label">Tie on a bait</span>
     <div class="fm-chips" role="radiogroup" aria-labelledby="fm-bait-label">
       <input type="radio" name="fm-bait" id="fm-bait-any" value="any" checked><label for="fm-bait-any">All baits</label>
-      <input type="radio" name="fm-bait" id="fm-bait-worm" value="worm"><label for="fm-bait-worm">🪱 Worm</label>
-      <input type="radio" name="fm-bait" id="fm-bait-cricket" value="cricket"><label for="fm-bait-cricket">🦗 Cricket</label>
-      <input type="radio" name="fm-bait" id="fm-bait-chub" value="chub"><label for="fm-bait-chub">🐟 Chub</label>
+      <input type="radio" name="fm-bait" id="fm-bait-worm" value="worm"><label for="fm-bait-worm"><span aria-hidden="true">🪱</span> Worm</label>
+      <input type="radio" name="fm-bait" id="fm-bait-cricket" value="cricket"><label for="fm-bait-cricket"><span aria-hidden="true">🦗</span> Cricket</label>
+      <input type="radio" name="fm-bait" id="fm-bait-chub" value="chub"><label for="fm-bait-chub"><span aria-hidden="true">🐟</span> Chub</label>
     </div>
   </div>
   <div id="fm-season-group" hidden>
     <span class="fm-label" id="fm-season-label">Where the wheel stands</span>
     <div class="fm-chips fm-seasons" role="radiogroup" aria-labelledby="fm-season-label">
       <input type="radio" name="fm-season" id="fm-season-any" value="any" checked><label for="fm-season-any">All seasons</label>
-      <input type="radio" name="fm-season" id="fm-season-spring" value="spring"><label for="fm-season-spring">🌸 Spring</label>
-      <input type="radio" name="fm-season" id="fm-season-summer" value="summer"><label for="fm-season-summer">☀️ Summer</label>
-      <input type="radio" name="fm-season" id="fm-season-fall" value="fall"><label for="fm-season-fall">🍂 Fall</label>
-      <input type="radio" name="fm-season" id="fm-season-winter" value="winter"><label for="fm-season-winter">❄️ Winter</label>
+      <input type="radio" name="fm-season" id="fm-season-spring" value="spring"><label for="fm-season-spring"><span aria-hidden="true">🌸</span> Spring</label>
+      <input type="radio" name="fm-season" id="fm-season-summer" value="summer"><label for="fm-season-summer"><span aria-hidden="true">☀️</span> Summer</label>
+      <input type="radio" name="fm-season" id="fm-season-fall" value="fall"><label for="fm-season-fall"><span aria-hidden="true">🍂</span> Fall</label>
+      <input type="radio" name="fm-season" id="fm-season-winter" value="winter"><label for="fm-season-winter"><span aria-hidden="true">❄️</span> Winter</label>
     </div>
   </div>
   <div class="fm-search">
@@ -293,9 +297,9 @@ description: "An interactive map of Fairhaven — fishing waters, foraging patch
   </div>
   <div class="fm-tip" id="fm-tip" role="region" aria-live="polite">
     <button type="button" class="fm-tip-close" id="fm-tip-close" aria-label="Close">✕</button>
-    <h3 id="fm-tip-title"></h3>
+    <p class="fm-tip-name" id="fm-tip-title"></p>
     <p class="fm-tip-where" id="fm-tip-where"></p>
-    <ul id="fm-tip-list"></ul>
+    <ul id="fm-tip-list" tabindex="0" aria-labelledby="fm-tip-title"></ul>
     <p class="fm-tip-empty" id="fm-tip-empty"></p>
   </div>
 </div>
@@ -311,7 +315,7 @@ description: "An interactive map of Fairhaven — fishing waters, foraging patch
 <section class="fm-ledger" data-kind="fish" data-spot="river" data-name="The River" data-x="17" data-y="36"
          data-where="On the Wylde Farm — your own front-door water, no travel required.">
   <h3 id="river">🌾 The River (the Farm)</h3>
-  <div style="overflow-x:auto">
+  <div class="table-scroll">
   <table>
     <thead><tr><th>Fish</th><th>Bait</th><th class="num">Sells for</th></tr></thead>
     <tbody>
@@ -336,7 +340,7 @@ description: "An interactive map of Fairhaven — fishing waters, foraging patch
 <section class="fm-ledger" data-kind="fish" data-spot="lake" data-name="Forest Lake" data-x="81" data-y="34"
          data-where="In the Woods, among the mushrooms and the seer's haunts.">
   <h3 id="lake">🌲 Forest Lake (the Woods)</h3>
-  <div style="overflow-x:auto">
+  <div class="table-scroll">
   <table>
     <thead><tr><th>Fish</th><th>Bait</th><th class="num">Sells for</th></tr></thead>
     <tbody>
@@ -354,7 +358,7 @@ description: "An interactive map of Fairhaven — fishing waters, foraging patch
 <section class="fm-ledger" data-kind="fish" data-spot="ocean" data-name="The Ocean" data-x="26" data-y="82" data-x2="51" data-y2="86"
          data-where="Cast from the Beach, or from the shore south of the Town Center — same salt, same fish.">
   <h3 id="ocean">🌊 The Ocean (Beach &amp; south of town)</h3>
-  <div style="overflow-x:auto">
+  <div class="table-scroll">
   <table>
     <thead><tr><th>Fish</th><th>Bait</th><th class="num">Sells for</th></tr></thead>
     <tbody>
@@ -391,7 +395,7 @@ description: "An interactive map of Fairhaven — fishing waters, foraging patch
 <section class="fm-ledger" data-kind="fish" data-spot="mountain" data-name="The Mountain" data-x="27" data-y="21"
          data-where="Across the repaired bridge — cold pools below the falls. Opens with the story.">
   <h3 id="mountain">⛰️ The Mountain</h3>
-  <div style="overflow-x:auto">
+  <div class="table-scroll">
   <table>
     <thead><tr><th>Fish</th><th>Bait</th><th class="num">Sells for</th></tr></thead>
     <tbody>
@@ -409,7 +413,7 @@ description: "An interactive map of Fairhaven — fishing waters, foraging patch
 <section class="fm-ledger" data-kind="fish" data-spot="gloaming" data-name="The Gloaming" data-x="88" data-y="68" data-otherworld="true"
          data-where="Not on any mundane map — a twilight otherworld, reached only by magic.">
   <h3 id="gloaming">🌙 The Gloaming</h3>
-  <div style="overflow-x:auto">
+  <div class="table-scroll">
   <table>
     <thead><tr><th>Fish</th><th>Bait</th><th class="num">Sells for</th></tr></thead>
     <tbody>
@@ -422,7 +426,7 @@ description: "An interactive map of Fairhaven — fishing waters, foraging patch
 <section class="fm-ledger" data-kind="fish" data-spot="mine" data-name="The Mine (level 20)" data-x="38" data-y="39"
          data-where="The pool at the very bottom — level 20. Earn your way down with the pickaxe.">
   <h3 id="mine">⛏️ The Mine (level 20)</h3>
-  <div style="overflow-x:auto">
+  <div class="table-scroll">
   <table>
     <thead><tr><th>Fish</th><th>Bait</th><th class="num">Sells for</th></tr></thead>
     <tbody>
@@ -443,7 +447,7 @@ description: "An interactive map of Fairhaven — fishing waters, foraging patch
 <section class="fm-ledger" data-kind="forage" data-spot="farm-forage" data-name="The Farm" data-x="28" data-y="44"
          data-where="Hazel's fields and fencerows — the mushrooms and weeds underfoot at home.">
   <h3 id="farm-forage">🌾 The Farm</h3>
-  <div style="overflow-x:auto">
+  <div class="table-scroll">
   <table>
     <thead><tr><th>Forage</th><th>Season</th><th class="num">Sells for</th></tr></thead>
     <tbody>
@@ -460,7 +464,7 @@ description: "An interactive map of Fairhaven — fishing waters, foraging patch
 <section class="fm-ledger" data-kind="forage" data-spot="woods-forage" data-name="The Woods" data-x="72" data-y="26"
          data-where="The forest interior — mushrooms, nuts, and the witchier herbs under the canopy.">
   <h3 id="woods-forage">🌲 The Woods</h3>
-  <div style="overflow-x:auto">
+  <div class="table-scroll">
   <table>
     <thead><tr><th>Forage</th><th>Season</th><th class="num">Sells for</th></tr></thead>
     <tbody>
@@ -481,7 +485,7 @@ description: "An interactive map of Fairhaven — fishing waters, foraging patch
 <section class="fm-ledger" data-kind="forage" data-spot="beach-forage" data-name="The Beach" data-x="26" data-y="80"
          data-where="Sand, surf, and palm shade — beachcombing at its most literal.">
   <h3 id="beach-forage">🏖️ The Beach</h3>
-  <div style="overflow-x:auto">
+  <div class="table-scroll">
   <table>
     <thead><tr><th>Forage</th><th>Season</th><th class="num">Sells for</th></tr></thead>
     <tbody>
@@ -500,7 +504,7 @@ description: "An interactive map of Fairhaven — fishing waters, foraging patch
 <section class="fm-ledger" data-kind="forage" data-spot="westshore" data-name="West Shore" data-x="17" data-y="69"
          data-where="The shore below Lightfoot Farm, the quiet neighbor's land — a witch's berth of a beach.">
   <h3 id="westshore">🕯️ West Shore (below Lightfoot Farm)</h3>
-  <div style="overflow-x:auto">
+  <div class="table-scroll">
   <table>
     <thead><tr><th>Forage</th><th>Season</th><th class="num">Sells for</th></tr></thead>
     <tbody>
@@ -514,7 +518,7 @@ description: "An interactive map of Fairhaven — fishing waters, foraging patch
 <section class="fm-ledger" data-kind="forage" data-spot="mountain-forage" data-name="The Mountain" data-x="25" data-y="16"
          data-where="The high paths beyond the bridge — the island's whole herb rack and nut pantry.">
   <h3 id="mountain-forage">⛰️ The Mountain</h3>
-  <div style="overflow-x:auto">
+  <div class="table-scroll">
   <table>
     <thead><tr><th>Forage</th><th>Season</th><th class="num">Sells for</th></tr></thead>
     <tbody>
@@ -535,7 +539,7 @@ description: "An interactive map of Fairhaven — fishing waters, foraging patch
 <section class="fm-ledger" data-kind="forage" data-spot="gloaming-forage" data-name="The Gloaming" data-x="88" data-y="68" data-otherworld="true"
          data-where="Not on any mundane map — otherworldly pickings for the coven's rituals.">
   <h3 id="gloaming-forage">🌙 The Gloaming</h3>
-  <div style="overflow-x:auto">
+  <div class="table-scroll">
   <table>
     <thead><tr><th>Forage</th><th>Season</th><th class="num">Sells for</th></tr></thead>
     <tbody>
@@ -550,7 +554,7 @@ description: "An interactive map of Fairhaven — fishing waters, foraging patch
 <section class="fm-ledger" data-kind="forage" data-spot="mine-forage" data-name="The Mine" data-x="38" data-y="39"
          data-where="Even the dark grows a crop — shiitake on the deep shelves, floors 16–20.">
   <h3 id="mine-forage">⛏️ The Mine</h3>
-  <div style="overflow-x:auto">
+  <div class="table-scroll">
   <table>
     <thead><tr><th>Forage</th><th>Season</th><th class="num">Sells for</th></tr></thead>
     <tbody>
@@ -566,7 +570,7 @@ description: "An interactive map of Fairhaven — fishing waters, foraging patch
 
 <section class="fm-places" data-kind="place" data-group="shop">
   <h3 id="shops">🏪 Shops</h3>
-  <div style="overflow-x:auto">
+  <div class="table-scroll">
   <table>
     <thead><tr><th>Shop</th><th>Proprietor</th><th>What it's for</th><th>Sell here</th></tr></thead>
     <tbody>
@@ -621,7 +625,7 @@ description: "An interactive map of Fairhaven — fishing waters, foraging patch
 
 <section class="fm-places" data-kind="place" data-group="landmark">
   <h3 id="landmarks">📍 Landmarks</h3>
-  <div style="overflow-x:auto">
+  <div class="table-scroll">
   <table>
     <thead><tr><th>Place</th><th>What it is</th></tr></thead>
     <tbody>
@@ -807,6 +811,8 @@ description: "An interactive map of Fairhaven — fishing waters, foraging patch
       var word = spot.kind === "fish" ? " fish" : (n === 1 ? " find" : " finds");
       spot.pins.forEach(function (pin) {
         pin.querySelector(".fm-count").textContent = n + word;
+        pin.setAttribute("aria-label", spot.name +
+          (spot.kind === "fish" ? " fishing spot, " : " foraging spot, ") + n + word);
         pin.classList.toggle("dimmed", n === 0);
       });
     });
@@ -836,7 +842,16 @@ description: "An interactive map of Fairhaven — fishing waters, foraging patch
       });
     });
 
-    tipTitle.textContent = spot.kind === "place" ? spot.emoji + " " + spot.name : spot.name;
+    tipTitle.textContent = "";
+    if (spot.kind === "place") {
+      var titleEmoji = document.createElement("span");
+      titleEmoji.setAttribute("aria-hidden", "true");
+      titleEmoji.textContent = spot.emoji + " ";
+      tipTitle.appendChild(titleEmoji);
+      tipTitle.appendChild(document.createTextNode(spot.name));
+    } else {
+      tipTitle.textContent = spot.name;
+    }
     tipWhere.textContent = spot.where;
     tipList.innerHTML = "";
 
@@ -847,6 +862,7 @@ description: "An interactive map of Fairhaven — fishing waters, foraging patch
         var li = document.createElement("li");
         var icon = document.createElement("span");
         icon.className = "fm-noimg";
+        icon.setAttribute("aria-hidden", "true");
         icon.textContent = line[0];
         li.appendChild(icon);
         var txt = document.createElement("span");
