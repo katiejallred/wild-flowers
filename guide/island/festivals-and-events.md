@@ -1,5 +1,7 @@
 ---
 title: "🗓️ Festivals & Events"
+description: "Every seasonal festival and event on Fairhaven Island — Spring Fling, the Summer Festival, Harvest Festival, and more."
+image: /assets/images/card-festivals.jpg
 ---
 # 🗓️ Festivals & Events
 
