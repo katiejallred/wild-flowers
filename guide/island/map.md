@@ -45,7 +45,7 @@ The Town Hall is where civic life happens; keep an eye on the bulletin board cul
 
 ## ⚓ The Docks & Beach
 
-South of town, the island meets the sea. The beach is prime territory for [fishing](../farming/fishing.md) and beachcombing for forageables and shells, and the docks are where boats (and the occasional new arrival) come in. Kai Hoapili, the island's friendly merchant, keeps his wares near here — see [Shops & Services](shops.md).
+South of town, the island meets the sea. The beach is prime territory for [fishing](../farming/fishing.md) and beachcombing for forageables and shells (the [Interactive Fishing Map](fishing-map.html) marks every cast-worthy shore), and the docks are where boats (and the occasional new arrival) come in. Kai Hoapili, the island's friendly merchant, keeps his wares near here — see [Shops & Services](shops.md).
 
 ## 🌲 The Woods
 

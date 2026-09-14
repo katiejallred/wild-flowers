@@ -1,0 +1,653 @@
+---
+title: "🗺️🎣 Interactive Fishing Map"
+description: "An interactive map of Fairhaven's fishing spots — hover over any water to see every fish that bites there, which bait tempts it, and what it sells for."
+---
+<h1>🗺️🎣 Interactive Fishing Map</h1>
+
+<p>The <a href="../farming/fishing.html">fishing notes</a> hold the theory; this plate is the field chart. Hover over (or tap) any marked water on the map below and the compendium opens to that page — every fish that bites there, the bait that tempts it, and what Bruno pays. Remember Fairhaven's great mercy: <strong>only place and bait matter.</strong> No seasons, no weather, no clocks.</p>
+
+<blockquote>Fish records pressed from the <a href="https://wylde-flowers.fandom.com" rel="external nofollow">community wiki</a> (<a href="https://creativecommons.org/licenses/by-sa/3.0/" rel="external nofollow license">CC BY-SA 3.0</a>, as is this ledger).</blockquote>
+
+<style>
+  /* ── controls ─────────────────────────────────────── */
+  .fm-controls {
+    background: rgba(216, 205, 234, 0.18);
+    border: 1px solid var(--line);
+    padding: 0.9rem 1.1rem;
+    margin: 1.2rem 0 1rem;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.9rem 2rem;
+    align-items: flex-end;
+  }
+  .fm-controls .fm-label {
+    display: block;
+    font-family: "Cormorant Garamond", Garamond, serif;
+    font-size: 0.8rem;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: var(--ink-soft);
+    margin-bottom: 0.35rem;
+  }
+  .fm-baits { display: flex; flex-wrap: wrap; gap: 0.5rem; }
+  .fm-baits input { position: absolute; opacity: 0; pointer-events: none; }
+  .fm-baits label {
+    display: inline-block;
+    padding: 0.22em 0.85em;
+    border: 1px solid var(--line);
+    border-radius: 999px;
+    background: var(--sheet);
+    cursor: pointer;
+    font-size: 0.95rem;
+    user-select: none;
+  }
+  .fm-baits input:checked + label {
+    border-color: var(--amethyst);
+    background: rgba(138, 111, 196, 0.14);
+    color: var(--amethyst);
+    font-weight: 600;
+  }
+  .fm-baits input:focus-visible + label { outline: 2px solid var(--amethyst); outline-offset: 2px; }
+  .fm-search { flex: 1 1 220px; max-width: 320px; }
+  .fm-search input {
+    width: 100%;
+    font: inherit;
+    color: var(--ink);
+    padding: 0.3em 0.6em;
+    border: 1px solid var(--line);
+    background: var(--sheet);
+  }
+
+  /* ── the map ──────────────────────────────────────── */
+  .fm-map {
+    position: relative;
+    margin: 0 0 1.2rem;
+    border: 1px solid var(--line);
+    background: var(--sheet);
+    padding: 6px;
+    box-shadow: 0 2px 10px rgba(var(--shadow), 0.12);
+  }
+  /* pins are placed in % of the image alone — the stage holds nothing else,
+     so the static detail card below can't stretch their coordinate space */
+  .fm-stage { position: relative; }
+  .fm-stage > img { display: block; width: 100%; height: auto; }
+
+  .fm-pin {
+    position: absolute;
+    transform: translate(-50%, -50%);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2px;
+    background: none;
+    border: 0;
+    padding: 0;
+    cursor: pointer;
+    font-family: var(--font-body);
+    z-index: 2;
+  }
+  .fm-pin .fm-dot {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background: var(--amethyst);
+    border: 2.5px solid #fff;
+    box-shadow: 0 0 0 2px rgba(109, 79, 166, 0.45), 0 2px 6px rgba(var(--shadow), 0.4);
+    position: relative;
+  }
+  .fm-pin .fm-dot::after {
+    content: "";
+    position: absolute;
+    inset: -8px;
+    border-radius: 50%;
+    border: 2px solid rgba(109, 79, 166, 0.5);
+    animation: fm-pulse 2.4s ease-out infinite;
+  }
+  @keyframes fm-pulse {
+    0%   { transform: scale(0.55); opacity: 0.9; }
+    70%  { transform: scale(1.15); opacity: 0; }
+    100% { transform: scale(1.15); opacity: 0; }
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .fm-pin .fm-dot::after { animation: none; opacity: 0; }
+  }
+  .fm-pin.gloaming .fm-dot {
+    background: var(--plum);
+    box-shadow: 0 0 0 2px rgba(156, 95, 143, 0.5), 0 2px 6px rgba(var(--shadow), 0.4);
+  }
+  .fm-pin.gloaming .fm-dot::after { border-color: rgba(156, 95, 143, 0.55); border-style: dashed; }
+  .fm-pin .fm-tag {
+    background: rgba(251, 249, 254, 0.92);
+    border: 1px solid var(--line);
+    border-radius: 999px;
+    padding: 0.05em 0.6em;
+    font-size: 0.72rem;
+    font-weight: 700;
+    letter-spacing: 0.04em;
+    color: var(--ink);
+    white-space: nowrap;
+    box-shadow: 0 1px 3px rgba(var(--shadow), 0.25);
+  }
+  .fm-pin .fm-count { color: var(--amethyst); }
+  .fm-pin:hover .fm-dot, .fm-pin:focus-visible .fm-dot,
+  .fm-pin.active .fm-dot { background: var(--ochre); }
+  .fm-pin:focus-visible { outline: 2px solid var(--amethyst); outline-offset: 4px; }
+  .fm-pin.dimmed { opacity: 0.4; }
+
+  /* ── the tooltip card ─────────────────────────────── */
+  .fm-tip {
+    position: absolute;
+    z-index: 3;
+    width: min(340px, 86%);
+    background: var(--sheet);
+    border: 1px solid var(--line);
+    box-shadow: 0 6px 18px rgba(var(--shadow), 0.3);
+    padding: 0.8rem 0.95rem 0.7rem;
+    display: none;
+  }
+  .fm-tip.open { display: block; }
+  .fm-tip h3 {
+    margin: 0 0 0.1rem;
+    font-size: 1.15rem;
+    color: var(--amethyst);
+  }
+  .fm-tip .fm-tip-where {
+    margin: 0 0 0.55rem;
+    font-size: 0.85rem;
+    color: var(--ink-soft);
+    font-style: italic;
+  }
+  .fm-tip ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    max-height: 260px;
+    overflow-y: auto;
+  }
+  .fm-tip li {
+    display: flex;
+    align-items: center;
+    gap: 0.55em;
+    padding: 0.22em 0.1em;
+    border-top: 1px dashed var(--line);
+    font-size: 0.93rem;
+  }
+  .fm-tip li:first-child { border-top: 0; }
+  .fm-tip li img, .fm-tip li .fm-noimg {
+    width: 30px;
+    height: 30px;
+    flex: 0 0 30px;
+    object-fit: contain;
+    background: #f3ecdd;
+    border: 1px solid var(--line);
+    border-radius: 4px;
+  }
+  .fm-tip li .fm-noimg { display: inline-flex; align-items: center; justify-content: center; font-size: 1rem; }
+  .fm-tip li .fm-fish-name { font-weight: 700; flex: 1 1 auto; }
+  .fm-tip li .fm-fish-bait { color: var(--ink-soft); font-size: 0.86em; white-space: nowrap; }
+  .fm-tip li .fm-fish-price { color: var(--ochre); font-weight: 700; font-variant-numeric: tabular-nums; white-space: nowrap; }
+  .fm-tip li.fm-hit { background: rgba(255, 207, 64, 0.25); }
+  .fm-tip li.fm-filtered { display: none; }
+  .fm-tip .fm-tip-empty { color: var(--ink-soft); font-style: italic; font-size: 0.9rem; margin: 0.2rem 0; display: none; }
+  .fm-tip .fm-tip-close {
+    position: absolute;
+    top: 0.3rem;
+    right: 0.45rem;
+    border: 0;
+    background: none;
+    font: inherit;
+    font-size: 1.05rem;
+    color: var(--ink-soft);
+    cursor: pointer;
+    padding: 0.1em 0.3em;
+  }
+  .fm-tip .fm-tip-close:hover { color: var(--plum); }
+
+  /* on narrow screens the card sits under the map instead of floating */
+  @media (max-width: 700px) {
+    .fm-tip {
+      position: relative; /* keeps the ✕ inside the card, not the map corner */
+      width: auto;
+      margin-top: 0.6rem;
+    }
+    .fm-pin .fm-tag { font-size: 0.62rem; }
+  }
+
+  .fm-hint {
+    font-family: "Caveat", "Segoe Script", cursive;
+    font-size: 1.25rem;
+    color: var(--ink-soft);
+    margin: 0.2rem 0 0;
+  }
+
+  /* ── the printed ledger below ─────────────────────── */
+  .fm-ledger td.num, .fm-ledger th.num { text-align: right; font-variant-numeric: tabular-nums; }
+</style>
+
+<div class="fm-controls" id="fm-controls" hidden>
+  <div>
+    <span class="fm-label" id="fm-bait-label">Tie on a bait</span>
+    <div class="fm-baits" role="radiogroup" aria-labelledby="fm-bait-label">
+      <input type="radio" name="fm-bait" id="fm-bait-any" value="any" checked><label for="fm-bait-any">All baits</label>
+      <input type="radio" name="fm-bait" id="fm-bait-worm" value="worm"><label for="fm-bait-worm">🪱 Worm</label>
+      <input type="radio" name="fm-bait" id="fm-bait-cricket" value="cricket"><label for="fm-bait-cricket">🦗 Cricket</label>
+      <input type="radio" name="fm-bait" id="fm-bait-chub" value="chub"><label for="fm-bait-chub">🐟 Chub</label>
+    </div>
+  </div>
+  <div class="fm-search">
+    <label class="fm-label" for="fm-find">Chasing one fish?</label>
+    <input type="text" id="fm-find" list="fm-fish-list" placeholder="Type a fish — e.g. Halibut" autocomplete="off">
+    <datalist id="fm-fish-list"></datalist>
+  </div>
+</div>
+
+<div class="fm-map" id="fm-map">
+  <div class="fm-stage" id="fm-stage">
+    <img src="{{ '/assets/images/wiki/island/map-of-fairhaven.png' | relative_url }}" alt="The illustrated map of Fairhaven island, with fishing spots marked." id="fm-map-img">
+    <div id="fm-pins"></div>
+  </div>
+  <div class="fm-tip" id="fm-tip" role="region" aria-live="polite">
+    <button type="button" class="fm-tip-close" id="fm-tip-close" aria-label="Close">✕</button>
+    <h3 id="fm-tip-title"></h3>
+    <p class="fm-tip-where" id="fm-tip-where"></p>
+    <ul id="fm-tip-list"></ul>
+    <p class="fm-tip-empty" id="fm-tip-empty">Nothing takes this bait here — try another lure.</p>
+  </div>
+</div>
+
+<p class="fm-hint" id="fm-hint" hidden>hover a pin to open that water's page of the compendium — tap to pin it 🎣</p>
+
+<hr>
+
+<h2>The Ledger, Pressed Flat</h2>
+
+<p>The same records in plain ink, for readers who prefer their maps in rows — grouped by water, with every bait and price. (The interactive plate above reads from these very tables.)</p>
+
+<section class="fm-ledger" data-spot="river" data-name="The River" data-x="17" data-y="36"
+         data-where="On the Wylde Farm — your own front-door water, no travel required.">
+  <h3 id="river">🌾 The River (the Farm)</h3>
+  <div style="overflow-x:auto">
+  <table>
+    <thead><tr><th>Fish</th><th>Bait</th><th class="num">Sells for</th></tr></thead>
+    <tbody>
+      <tr data-fish="Minnow" data-bait="worm" data-price="20" data-img="minnow"><td>Minnow</td><td>🪱 Worm</td><td class="num">20</td></tr>
+      <tr data-fish="Pupfish" data-bait="chub worm" data-price="20" data-img="pupfish"><td>Pupfish</td><td>🐟 Chub / 🪱 Worm</td><td class="num">20</td></tr>
+      <tr data-fish="Smelt" data-bait="chub cricket" data-price="20"><td>Smelt</td><td>🐟 Chub / 🦗 Cricket</td><td class="num">20</td></tr>
+      <tr data-fish="Studfish" data-bait="worm cricket chub" data-price="20"><td>Studfish</td><td>Any</td><td class="num">20</td></tr>
+      <tr data-fish="Darter" data-bait="chub worm" data-price="35" data-img="darter"><td>Darter</td><td>🐟 Chub / 🪱 Worm</td><td class="num">35</td></tr>
+      <tr data-fish="Gar" data-bait="worm cricket chub" data-price="35" data-img="gar"><td>Gar</td><td>Any</td><td class="num">35</td></tr>
+      <tr data-fish="Perch" data-bait="chub worm" data-price="15" data-img="perch"><td>Perch</td><td>🐟 Chub / 🪱 Worm</td><td class="num">15</td></tr>
+      <tr data-fish="Shiner" data-bait="chub worm" data-price="5"><td>Shiner</td><td>🐟 Chub / 🪱 Worm</td><td class="num">5</td></tr>
+      <tr data-fish="Walleye" data-bait="worm cricket chub" data-price="5"><td>Walleye</td><td>Any</td><td class="num">5</td></tr>
+      <tr data-fish="Shad" data-bait="worm cricket chub" data-price="15"><td>Shad</td><td>Any</td><td class="num">15</td></tr>
+      <tr data-fish="Sucker" data-bait="worm cricket chub" data-price="20"><td>Sucker</td><td>Any</td><td class="num">20</td></tr>
+      <tr data-fish="Crawfish" data-bait="worm cricket chub" data-price="25" data-img="crawfish"><td>Crawfish</td><td>Any</td><td class="num">25</td></tr>
+      <tr data-fish="Eel" data-bait="chub cricket" data-price="45" data-img="eel"><td>Eel</td><td>🐟 Chub / 🦗 Cricket</td><td class="num">45</td></tr>
+    </tbody>
+  </table>
+  </div>
+</section>
+
+<section class="fm-ledger" data-spot="lake" data-name="Forest Lake" data-x="81" data-y="34"
+         data-where="In the Woods, among the mushrooms and the seer's haunts.">
+  <h3 id="lake">🌲 Forest Lake (the Woods)</h3>
+  <div style="overflow-x:auto">
+  <table>
+    <thead><tr><th>Fish</th><th>Bait</th><th class="num">Sells for</th></tr></thead>
+    <tbody>
+      <tr data-fish="Char" data-bait="worm cricket chub" data-price="35" data-img="char"><td>Char</td><td>Any</td><td class="num">35</td></tr>
+      <tr data-fish="Bluegill" data-bait="chub cricket" data-price="20" data-img="bluegill"><td>Bluegill</td><td>🐟 Chub / 🦗 Cricket</td><td class="num">20</td></tr>
+      <tr data-fish="Brown Trout" data-bait="chub cricket" data-price="35" data-img="brown-trout"><td>Brown Trout</td><td>🐟 Chub / 🦗 Cricket</td><td class="num">35</td></tr>
+      <tr data-fish="Catfish" data-bait="worm cricket chub" data-price="20" data-img="catfish"><td>Catfish</td><td>Any</td><td class="num">20</td></tr>
+      <tr data-fish="Black Crappie" data-bait="chub cricket" data-price="35" data-img="black-crappie"><td>Black Crappie</td><td>🐟 Chub / 🦗 Cricket</td><td class="num">35</td></tr>
+      <tr data-fish="Carp" data-bait="chub worm" data-price="5" data-img="carp"><td>Carp</td><td>🐟 Chub / 🪱 Worm</td><td class="num">5</td></tr>
+    </tbody>
+  </table>
+  </div>
+</section>
+
+<section class="fm-ledger" data-spot="ocean" data-name="The Ocean" data-x="26" data-y="82" data-x2="51" data-y2="86"
+         data-where="Cast from the Beach, or from the shore south of the Town Center — same salt, same fish.">
+  <h3 id="ocean">🌊 The Ocean (Beach &amp; south of town)</h3>
+  <div style="overflow-x:auto">
+  <table>
+    <thead><tr><th>Fish</th><th>Bait</th><th class="num">Sells for</th></tr></thead>
+    <tbody>
+      <tr data-fish="Dab" data-bait="chub worm" data-price="35" data-img="dab"><td>Dab</td><td>🐟 Chub / 🪱 Worm</td><td class="num">35</td></tr>
+      <tr data-fish="Sardine" data-bait="chub worm" data-price="3"><td>Sardine</td><td>🐟 Chub / 🪱 Worm</td><td class="num">3</td></tr>
+      <tr data-fish="Sole" data-bait="chub cricket" data-price="20"><td>Sole</td><td>🐟 Chub / 🦗 Cricket</td><td class="num">20</td></tr>
+      <tr data-fish="Whiting" data-bait="chub cricket" data-price="20"><td>Whiting</td><td>🐟 Chub / 🦗 Cricket</td><td class="num">20</td></tr>
+      <tr data-fish="Flounder" data-bait="chub cricket" data-price="40" data-img="flounder"><td>Flounder</td><td>🐟 Chub / 🦗 Cricket</td><td class="num">40</td></tr>
+      <tr data-fish="Haddock" data-bait="chub cricket" data-price="20" data-img="haddock"><td>Haddock</td><td>🐟 Chub / 🦗 Cricket</td><td class="num">20</td></tr>
+      <tr data-fish="Herring" data-bait="worm cricket chub" data-price="3" data-img="herring"><td>Herring</td><td>Any</td><td class="num">3</td></tr>
+      <tr data-fish="Mackerel" data-bait="worm cricket chub" data-price="20" data-img="mackerel"><td>Mackerel</td><td>Any</td><td class="num">20</td></tr>
+      <tr data-fish="Snapper" data-bait="chub cricket" data-price="15"><td>Snapper</td><td>🐟 Chub / 🦗 Cricket</td><td class="num">15</td></tr>
+      <tr data-fish="Bonito" data-bait="chub cricket" data-price="35" data-img="bonito"><td>Bonito</td><td>🐟 Chub / 🦗 Cricket</td><td class="num">35</td></tr>
+      <tr data-fish="Dorado" data-bait="cricket" data-price="40" data-img="dorado"><td>Dorado</td><td>🦗 Cricket</td><td class="num">40</td></tr>
+      <tr data-fish="Halibut" data-bait="chub cricket" data-price="50" data-img="halibut"><td>Halibut</td><td>🐟 Chub / 🦗 Cricket</td><td class="num">50</td></tr>
+      <tr data-fish="Scup" data-bait="chub" data-price="20"><td>Scup</td><td>🐟 Chub</td><td class="num">20</td></tr>
+      <tr data-fish="Sea Bass" data-bait="worm cricket chub" data-price="25"><td>Sea Bass</td><td>Any</td><td class="num">25</td></tr>
+      <tr data-fish="Skate" data-bait="chub cricket" data-price="20"><td>Skate</td><td>🐟 Chub / 🦗 Cricket</td><td class="num">20</td></tr>
+      <tr data-fish="Sturgeon" data-bait="chub worm" data-price="20"><td>Sturgeon</td><td>🐟 Chub / 🪱 Worm</td><td class="num">20</td></tr>
+      <tr data-fish="Tuna" data-bait="worm cricket chub" data-price="10"><td>Tuna</td><td>Any</td><td class="num">10</td></tr>
+      <tr data-fish="Clam" data-bait="worm cricket chub" data-price="35" data-img="clam"><td>Clam</td><td>Any</td><td class="num">35</td></tr>
+      <tr data-fish="Lobster" data-bait="chub cricket" data-price="50" data-img="lobster"><td>Lobster</td><td>🐟 Chub / 🦗 Cricket</td><td class="num">50</td></tr>
+      <tr data-fish="Mussel" data-bait="chub cricket" data-price="20" data-img="mussel"><td>Mussel</td><td>🐟 Chub / 🦗 Cricket</td><td class="num">20</td></tr>
+      <tr data-fish="Oyster" data-bait="chub cricket" data-price="20" data-img="oyster"><td>Oyster</td><td>🐟 Chub / 🦗 Cricket</td><td class="num">20</td></tr>
+      <tr data-fish="Scallop" data-bait="chub" data-price="20"><td>Scallop</td><td>🐟 Chub</td><td class="num">20</td></tr>
+      <tr data-fish="Sea Urchin" data-bait="cricket" data-price="80"><td>Sea Urchin</td><td>🦗 Cricket</td><td class="num">80</td></tr>
+      <tr data-fish="Shrimp" data-bait="worm cricket chub" data-price="50"><td>Shrimp</td><td>Any</td><td class="num">50</td></tr>
+      <tr data-fish="Squid" data-bait="worm cricket chub" data-price="40"><td>Squid</td><td>Any</td><td class="num">40</td></tr>
+    </tbody>
+  </table>
+  </div>
+</section>
+
+<section class="fm-ledger" data-spot="mountain" data-name="The Mountain" data-x="27" data-y="21"
+         data-where="Across the repaired bridge — cold pools below the falls. Opens with the story.">
+  <h3 id="mountain">⛰️ The Mountain</h3>
+  <div style="overflow-x:auto">
+  <table>
+    <thead><tr><th>Fish</th><th>Bait</th><th class="num">Sells for</th></tr></thead>
+    <tbody>
+      <tr data-fish="Chub" data-bait="chub worm" data-price="3" data-img="chub"><td>Chub</td><td>🐟 Chub / 🪱 Worm</td><td class="num">3</td></tr>
+      <tr data-fish="Dace" data-bait="worm cricket chub" data-price="35" data-img="dace"><td>Dace</td><td>Any</td><td class="num">35</td></tr>
+      <tr data-fish="Pike" data-bait="worm cricket chub" data-price="25" data-img="pike"><td>Pike</td><td>Any</td><td class="num">25</td></tr>
+      <tr data-fish="Rainbow Trout" data-bait="worm cricket chub" data-price="50" data-img="rainbow-trout"><td>Rainbow Trout</td><td>Any</td><td class="num">50</td></tr>
+      <tr data-fish="Salmon" data-bait="worm cricket chub" data-price="60"><td>Salmon</td><td>Any</td><td class="num">60</td></tr>
+      <tr data-fish="Sunfish" data-bait="worm cricket chub" data-price="20"><td>Sunfish</td><td>Any</td><td class="num">20</td></tr>
+    </tbody>
+  </table>
+  </div>
+</section>
+
+<section class="fm-ledger" data-spot="gloaming" data-name="The Gloaming" data-x="88" data-y="68" data-otherworld="true"
+         data-where="Not on any mundane map — a twilight otherworld, reached only by magic.">
+  <h3 id="gloaming">🌙 The Gloaming</h3>
+  <div style="overflow-x:auto">
+  <table>
+    <thead><tr><th>Fish</th><th>Bait</th><th class="num">Sells for</th></tr></thead>
+    <tbody>
+      <tr data-fish="Complifish" data-bait="worm cricket chub" data-price="" data-img="complifish"><td>Complifish</td><td>Any</td><td class="num">—</td></tr>
+    </tbody>
+  </table>
+  </div>
+</section>
+
+<section class="fm-ledger" data-spot="mine" data-name="The Mine (level 20)" data-x="38" data-y="39"
+         data-where="The pool at the very bottom — level 20. Earn your way down with the pickaxe.">
+  <h3 id="mine">⛏️ The Mine (level 20)</h3>
+  <div style="overflow-x:auto">
+  <table>
+    <thead><tr><th>Fish</th><th>Bait</th><th class="num">Sells for</th></tr></thead>
+    <tbody>
+      <tr data-fish="Grotto Sculpin" data-bait="worm cricket chub" data-price="20" data-img="grotto-sculpin"><td>Grotto Sculpin</td><td>Any</td><td class="num">20</td></tr>
+      <tr data-fish="Loach" data-bait="worm cricket chub" data-price="20" data-img="loach"><td>Loach</td><td>Any</td><td class="num">20</td></tr>
+      <tr data-fish="Blind Eel" data-bait="worm cricket chub" data-price="35" data-img="blind-eel"><td>Blind Eel</td><td>Any</td><td class="num">35</td></tr>
+      <tr data-fish="Golden Catfish" data-bait="worm cricket chub" data-price="20" data-img="golden-catfish"><td>Golden Catfish</td><td>Any</td><td class="num">20</td></tr>
+      <tr data-fish="Blindcat" data-bait="worm cricket chub" data-price="35" data-img="blindcat"><td>Blindcat</td><td>Any</td><td class="num">35</td></tr>
+    </tbody>
+  </table>
+  </div>
+</section>
+
+<p>For the craft itself — leveling, bait economics, and where the rare ones hide — turn back to the <a href="../farming/fishing.html">Fishing</a> pages; for everything around the water, the <a href="map.html">Map of Fairhaven</a>.</p>
+
+<span class="handwritten">sign-off tip: the pins never lie — but if the water seems empty, it's the bait, not the map 🎣</span>
+
+<script>
+(function () {
+  "use strict";
+
+  var FISH_IMG_BASE = "{{ '/assets/images/wiki/fish/' | relative_url }}";
+  var BAIT_LABEL = { worm: "🪱 Worm", cricket: "🦗 Cricket", chub: "🐟 Chub" };
+
+  // ── Read the printed ledger: it is the single source of truth. ──
+  var spots = [];
+  var fishIndex = {}; // lowercased name -> { spotId, name }
+  document.querySelectorAll("section.fm-ledger").forEach(function (sec) {
+    var spot = {
+      id: sec.dataset.spot,
+      name: sec.dataset.name,
+      where: sec.dataset.where,
+      x: parseFloat(sec.dataset.x),
+      y: parseFloat(sec.dataset.y),
+      x2: sec.dataset.x2 ? parseFloat(sec.dataset.x2) : null,
+      y2: sec.dataset.y2 ? parseFloat(sec.dataset.y2) : null,
+      otherworld: sec.dataset.otherworld === "true",
+      anchor: sec.querySelector("h3") ? sec.querySelector("h3").id : null,
+      fish: []
+    };
+    sec.querySelectorAll("tbody tr").forEach(function (tr) {
+      var f = {
+        name: tr.dataset.fish,
+        baits: tr.dataset.bait.split(" "),
+        price: tr.dataset.price,
+        img: tr.dataset.img || null
+      };
+      spot.fish.push(f);
+      fishIndex[f.name.toLowerCase()] = { spotId: spot.id, name: f.name };
+    });
+    spots.push(spot);
+  });
+
+  var map = document.getElementById("fm-map");
+  var stage = document.getElementById("fm-stage");
+  var pinsHost = document.getElementById("fm-pins");
+  var tip = document.getElementById("fm-tip");
+  var tipTitle = document.getElementById("fm-tip-title");
+  var tipWhere = document.getElementById("fm-tip-where");
+  var tipList = document.getElementById("fm-tip-list");
+  var tipEmpty = document.getElementById("fm-tip-empty");
+
+  var currentBait = "any";
+  var activeSpotId = null;
+  var pinned = false;
+  var highlightFish = null;
+
+  function fishMatches(f) {
+    return currentBait === "any" || f.baits.indexOf(currentBait) !== -1;
+  }
+
+  function spotById(id) {
+    for (var i = 0; i < spots.length; i++) if (spots[i].id === id) return spots[i];
+    return null;
+  }
+
+  // ── Pins ──
+  function makePin(spot, x, y) {
+    var btn = document.createElement("button");
+    btn.type = "button";
+    btn.className = "fm-pin" + (spot.otherworld ? " gloaming" : "");
+    btn.style.left = x + "%";
+    btn.style.top = y + "%";
+    btn.dataset.spot = spot.id;
+    btn.setAttribute("aria-expanded", "false");
+    btn.innerHTML =
+      '<span class="fm-dot" aria-hidden="true"></span>' +
+      '<span class="fm-tag">' + spot.name + " · <span class=\"fm-count\"></span></span>";
+    btn.setAttribute("aria-label", spot.name + " fishing spot");
+
+    btn.addEventListener("mouseenter", function () { if (!pinned) showSpot(spot.id, btn); });
+    btn.addEventListener("focus", function () { if (!pinned) showSpot(spot.id, btn); });
+    btn.addEventListener("click", function (e) {
+      e.stopPropagation();
+      if (pinned && activeSpotId === spot.id) { pinned = false; hideTip(); }
+      else { pinned = true; showSpot(spot.id, btn); }
+    });
+    pinsHost.appendChild(btn);
+    return btn;
+  }
+
+  spots.forEach(function (spot) {
+    spot.pins = [makePin(spot, spot.x, spot.y)];
+    if (spot.x2 !== null) spot.pins.push(makePin(spot, spot.x2, spot.y2));
+  });
+
+  function updatePinCounts() {
+    spots.forEach(function (spot) {
+      var n = spot.fish.filter(fishMatches).length;
+      spot.pins.forEach(function (pin) {
+        pin.querySelector(".fm-count").textContent = n + " fish";
+        pin.classList.toggle("dimmed", n === 0);
+      });
+    });
+  }
+
+  // ── Tooltip ──
+  function showSpot(id, nearPin) {
+    var spot = spotById(id);
+    if (!spot) return;
+    activeSpotId = id;
+
+    spots.forEach(function (s) {
+      s.pins.forEach(function (p) {
+        var on = s.id === id;
+        p.classList.toggle("active", on);
+        p.setAttribute("aria-expanded", on ? "true" : "false");
+      });
+    });
+
+    tipTitle.textContent = spot.name;
+    tipWhere.textContent = spot.where;
+    tipList.innerHTML = "";
+    var shown = 0;
+    spot.fish.forEach(function (f) {
+      var li = document.createElement("li");
+      if (!fishMatches(f)) li.className = "fm-filtered"; else shown++;
+      if (highlightFish && f.name.toLowerCase() === highlightFish) li.classList.add("fm-hit");
+
+      var thumb;
+      if (f.img) {
+        thumb = document.createElement("img");
+        thumb.src = FISH_IMG_BASE + f.img + ".png";
+        thumb.alt = "";
+        thumb.loading = "lazy";
+      } else {
+        thumb = document.createElement("span");
+        thumb.className = "fm-noimg";
+        thumb.textContent = "🐟";
+      }
+      li.appendChild(thumb);
+
+      var nm = document.createElement("span");
+      nm.className = "fm-fish-name";
+      nm.textContent = f.name;
+      li.appendChild(nm);
+
+      var bait = document.createElement("span");
+      bait.className = "fm-fish-bait";
+      bait.textContent = f.baits.length === 3 ? "any bait" :
+        f.baits.map(function (b) { return BAIT_LABEL[b]; }).join(" / ");
+      li.appendChild(bait);
+
+      var price = document.createElement("span");
+      price.className = "fm-fish-price";
+      price.textContent = f.price ? f.price + "c" : "—";
+      li.appendChild(price);
+
+      tipList.appendChild(li);
+    });
+    tipEmpty.style.display = shown === 0 ? "block" : "none";
+
+    tip.classList.add("open");
+    positionTip(nearPin || spot.pins[0]);
+
+    var hit = tipList.querySelector(".fm-hit");
+    if (hit) hit.scrollIntoView({ block: "nearest" });
+  }
+
+  function positionTip(pin) {
+    // On narrow screens the card flows under the map (CSS); skip the math.
+    if (window.getComputedStyle(tip).position !== "absolute") {
+      tip.style.left = "";
+      tip.style.top = "";
+      return;
+    }
+    var mapW = map.clientWidth, mapH = stage.offsetTop + stage.offsetHeight;
+    var px = stage.offsetLeft + pin.offsetLeft, py = stage.offsetTop + pin.offsetTop;
+    var tw = tip.offsetWidth, th = tip.offsetHeight;
+    var left = px + 24;
+    if (left + tw > mapW - 8) left = px - tw - 24;
+    if (left < 8) left = 8;
+    var top = py - th / 2;
+    if (top < 8) top = 8;
+    if (top + th > mapH - 8) top = mapH - th - 8;
+    tip.style.left = left + "px";
+    tip.style.top = top + "px";
+  }
+
+  function hideTip() {
+    tip.classList.remove("open");
+    activeSpotId = null;
+    highlightFish = null;
+    spots.forEach(function (s) {
+      s.pins.forEach(function (p) {
+        p.classList.remove("active");
+        p.setAttribute("aria-expanded", "false");
+      });
+    });
+  }
+
+  document.getElementById("fm-tip-close").addEventListener("click", function (e) {
+    e.stopPropagation();
+    pinned = false;
+    hideTip();
+  });
+  tip.addEventListener("click", function (e) { e.stopPropagation(); });
+  map.addEventListener("mouseleave", function () { if (!pinned) hideTip(); });
+  document.addEventListener("click", function (e) {
+    if (pinned && !map.contains(e.target)) { pinned = false; hideTip(); }
+  });
+  document.addEventListener("keydown", function (e) {
+    if (e.key === "Escape") { pinned = false; hideTip(); }
+  });
+  window.addEventListener("resize", function () {
+    if (activeSpotId) {
+      var s = spotById(activeSpotId);
+      if (s) positionTip(s.pins[0]);
+    }
+  });
+
+  // ── Bait filter ──
+  document.querySelectorAll('input[name="fm-bait"]').forEach(function (radio) {
+    radio.addEventListener("change", function () {
+      currentBait = radio.value;
+      updatePinCounts();
+      if (activeSpotId) showSpot(activeSpotId);
+    });
+  });
+
+  // ── Fish finder ──
+  var datalist = document.getElementById("fm-fish-list");
+  Object.keys(fishIndex).sort().forEach(function (key) {
+    var opt = document.createElement("option");
+    opt.value = fishIndex[key].name;
+    datalist.appendChild(opt);
+  });
+  var findInput = document.getElementById("fm-find");
+  function runFind() {
+    var q = findInput.value.trim().toLowerCase();
+    if (!q) return;
+    var entry = fishIndex[q];
+    if (!entry) {
+      // forgiving prefix match
+      var keys = Object.keys(fishIndex).filter(function (k) { return k.indexOf(q) === 0; });
+      if (keys.length === 1) entry = fishIndex[keys[0]];
+    }
+    if (entry) {
+      highlightFish = entry.name.toLowerCase();
+      pinned = true;
+      showSpot(entry.spotId);
+      map.scrollIntoView({ behavior: "smooth", block: "nearest" });
+    }
+  }
+  findInput.addEventListener("change", runFind);
+  findInput.addEventListener("keydown", function (e) { if (e.key === "Enter") runFind(); });
+
+  // ── Go ──
+  updatePinCounts();
+  document.getElementById("fm-controls").hidden = false;
+  document.getElementById("fm-hint").hidden = false;
+})();
+</script>

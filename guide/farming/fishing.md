@@ -35,6 +35,8 @@ The island offers seven fishing areas, and each hosts its own category of fish:
 | The Gloaming | Fairhaven's otherworldly corner | Gloaming fish |
 | The Mine | Level 20, at the very bottom | Mine fish |
 
+Prefer your charts drawn rather than tabled? The [Interactive Fishing Map](../island/fishing-map.html) marks every one of these waters on the island map — hover a pin and its full roster opens, bait and prices and all.
+
 The deeper spots are progression rewards in themselves — you'll need the story and your pickaxe to reach the Mine's pool ([Mining & Foraging](mining-and-foraging.md)), and the Gloaming belongs to the witchier half of your life ([Island Map](../island/map.md)).
 
 > The Gloaming's waters are not quite of this world. Neither, strictly speaking, are the fish.
