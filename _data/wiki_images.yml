@@ -1,5 +1,6 @@
 # Index of wiki item art under /assets/images/wiki/<category>/
-# Generated from the uploaded Wylde Flowers wiki image archive (parts 1–2, A–R).
+# Generated from the uploaded Wylde Flowers wiki image archive (parts 1–2, A–R);
+# fish S–Z fetched from the archived wiki image URLs (_wiki-archive/data/image_urls.json).
 # Each entry: item title -> image filename within its category folder.
 animals:
   - title: "Alpaca"
@@ -963,6 +964,48 @@ fish:
     file: pupfish.png
   - title: "Rainbow Trout"
     file: rainbow-trout.png
+  - title: "Salmon"
+    file: salmon.png
+  - title: "Sardine"
+    file: sardine.png
+  - title: "Scallop"
+    file: scallop.png
+  - title: "Scup"
+    file: scup.png
+  - title: "Sea Bass"
+    file: sea-bass.png
+  - title: "Sea Urchin"
+    file: sea-urchin.png
+  - title: "Shad"
+    file: shad.png
+  - title: "Shiner"
+    file: shiner.png
+  - title: "Shrimp"
+    file: shrimp.png
+  - title: "Skate"
+    file: skate.png
+  - title: "Smelt"
+    file: smelt.png
+  - title: "Snapper"
+    file: snapper.png
+  - title: "Sole"
+    file: sole.png
+  - title: "Squid"
+    file: squid.png
+  - title: "Studfish"
+    file: studfish.png
+  - title: "Sturgeon"
+    file: sturgeon.png
+  - title: "Sucker"
+    file: sucker.png
+  - title: "Sunfish"
+    file: sunfish.png
+  - title: "Tuna"
+    file: tuna.png
+  - title: "Walleye"
+    file: walleye.png
+  - title: "Whiting"
+    file: whiting.png
 food:
   - title: "Anzac Biscuit"
     file: anzac-biscuit.png

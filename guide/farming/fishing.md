@@ -136,7 +136,7 @@ Rare catches are worth more at [Bruno's counter](../island/shops.md), dearer sti
 
 ## The Compendium So Far
 
-Pressed between these pages: the island's fish as the compendium paints them, filed A through R. The last letters of the alphabet are still swimming — this plate will grow as the archive does.
+Pressed between these pages: the island's fish as the compendium paints them, filed A through Z. Every last one has been landed, painted, and pinned — the plate is complete.
 
 <div class="specimen-grid parchment">
   <figure>
@@ -278,6 +278,90 @@ Pressed between these pages: the island's fish as the compendium paints them, fi
   <figure>
     <img src="{{ '/assets/images/wiki/fish/rainbow-trout.png' | relative_url }}" alt="Rainbow Trout, as painted in the fishing compendium" loading="lazy">
     <figcaption>Rainbow Trout</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/fish/salmon.png' | relative_url }}" alt="Salmon, as painted in the fishing compendium" loading="lazy">
+    <figcaption>Salmon</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/fish/sardine.png' | relative_url }}" alt="Sardine, as painted in the fishing compendium" loading="lazy">
+    <figcaption>Sardine</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/fish/scallop.png' | relative_url }}" alt="Scallop, as painted in the fishing compendium" loading="lazy">
+    <figcaption>Scallop</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/fish/scup.png' | relative_url }}" alt="Scup, as painted in the fishing compendium" loading="lazy">
+    <figcaption>Scup</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/fish/sea-bass.png' | relative_url }}" alt="Sea Bass, as painted in the fishing compendium" loading="lazy">
+    <figcaption>Sea Bass</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/fish/sea-urchin.png' | relative_url }}" alt="Sea Urchin, as painted in the fishing compendium" loading="lazy">
+    <figcaption>Sea Urchin</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/fish/shad.png' | relative_url }}" alt="Shad, as painted in the fishing compendium" loading="lazy">
+    <figcaption>Shad</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/fish/shiner.png' | relative_url }}" alt="Shiner, as painted in the fishing compendium" loading="lazy">
+    <figcaption>Shiner</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/fish/shrimp.png' | relative_url }}" alt="Shrimp, as painted in the fishing compendium" loading="lazy">
+    <figcaption>Shrimp</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/fish/skate.png' | relative_url }}" alt="Skate, as painted in the fishing compendium" loading="lazy">
+    <figcaption>Skate</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/fish/smelt.png' | relative_url }}" alt="Smelt, as painted in the fishing compendium" loading="lazy">
+    <figcaption>Smelt</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/fish/snapper.png' | relative_url }}" alt="Snapper, as painted in the fishing compendium" loading="lazy">
+    <figcaption>Snapper</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/fish/sole.png' | relative_url }}" alt="Sole, as painted in the fishing compendium" loading="lazy">
+    <figcaption>Sole</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/fish/squid.png' | relative_url }}" alt="Squid, as painted in the fishing compendium" loading="lazy">
+    <figcaption>Squid</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/fish/studfish.png' | relative_url }}" alt="Studfish, as painted in the fishing compendium" loading="lazy">
+    <figcaption>Studfish</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/fish/sturgeon.png' | relative_url }}" alt="Sturgeon, as painted in the fishing compendium" loading="lazy">
+    <figcaption>Sturgeon</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/fish/sucker.png' | relative_url }}" alt="Sucker, as painted in the fishing compendium" loading="lazy">
+    <figcaption>Sucker</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/fish/sunfish.png' | relative_url }}" alt="Sunfish, as painted in the fishing compendium" loading="lazy">
+    <figcaption>Sunfish</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/fish/tuna.png' | relative_url }}" alt="Tuna, as painted in the fishing compendium" loading="lazy">
+    <figcaption>Tuna</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/fish/walleye.png' | relative_url }}" alt="Walleye, as painted in the fishing compendium" loading="lazy">
+    <figcaption>Walleye</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/fish/whiting.png' | relative_url }}" alt="Whiting, as painted in the fishing compendium" loading="lazy">
+    <figcaption>Whiting</figcaption>
   </figure>
 </div>
 
