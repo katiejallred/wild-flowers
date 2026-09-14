@@ -44,6 +44,10 @@ Animals are steady, low-effort income once established: daily eggs, milk, and wo
 
 Fishing is honest supplementary income — no seeds to buy, no beds to water. Catches vary in value by species and location, and rarer fish fetch better prices. It shines early game (before your farm scales up) and as a use for evening hours. See [Fishing](../farming/fishing.md).
 
+- **Fish sticks are the fisher's cloth.** The kitchen's **fish sticks** recipe accepts *any* fish, so a bucketful of cheap, common catches cooks up into dishes worth more than the fish that went into them ([Cooking](../crafting/cooking.md)). Batch-cook the everyday catch and sell the sticks; save the rare fish for the compendium, [gifts](../characters/gift-preferences.md), and quests.
+
+<span class="handwritten">the river is on your own farm — a free bait-to-fish-sticks pipeline before breakfast 🐟</span>
+
 ## ⛏️ Mining & Gems
 
 The mine beside your farmhouse runs many levels deep:
@@ -58,6 +62,28 @@ Neighbors' **to-do quests** pay coins for things you're often producing anyway. 
 
 ---
 
+## 🏪 Where to Sell What
+
+A harvest only becomes coins once it finds the right counter. Fairhaven's shopkeepers each deal in their own trade, so match the item to its shop ([Shops & Services](../island/shops.md)):
+
+| What you're selling | Take it to |
+|---|---|
+| **Crops, produce & artisan goods** (cheese, candles) | **Dahl General Store** — Lina's counter is the farm's main outlet |
+| **Fish** | **Soft and Son's Fish & Tackle** — Bruno pays honest rates for the catch |
+| **Cooked dishes** (fish sticks included) | **Cafe Moretti** — Sophia buys what her kitchen respects |
+| **Baked goods** | **Seton's Bakery** — Angus happily buys your desserts |
+| **Cloth & finery** | **Kai's Treasures** — the merchant with an eye for fine fabric |
+| **Meat & adult animals** | **Kim's Local Butcher and Deli** — or Marty, for the well-loved |
+| **Forage & beach finds** | **Shelby's Scraps and Sundries**, in the woods |
+| **Ores, ingots & gems** | **The Blacksmith** — Natalia knows what a stone is worth |
+
+Two habits keep the ledger honest:
+
+- **Check the to-do board before the till.** A neighbor's quest often pays more for the same item than any shop will — in coins *and* [friendship](../characters/friendship.md).
+- **Shops keep daytime hours.** Plan selling errands into your town rounds rather than making a special evening trip to a locked door.
+
+---
+
 ## 🗓️ A Season-by-Season Sketch
 
 | Season | Money strategy |
@@ -66,16 +92,6 @@ Neighbors' **to-do quests** pay coins for things you're often producing anyway. 
 | **Summer** | Sunflowers for bees and sale; cotton for the loom. |
 | **Fall** | Fennel fields; harvest everything before any ritual. |
 | **Winter** | More fennel; lean on artisan goods, animals, and the mine. |
-
-## 🏪 Sell to the Right Counter
-
-| Goods | Buyer |
-|---|---|
-| Crops & produce | Lina, at the Dahl General Store |
-| Baked goods | Angus, at Seton's Bakery — he'll happily buy your desserts |
-| Cloth & finery | Kai, at Kai's Treasures |
-| Forage & beach finds | Shelby, at Scraps and Sundries in the woods |
-| Retiring livestock | Kim or Marty — better prices for well-loved animals |
 
 > Lore aside: Hazel kept this farm afloat for decades without min-maxing a single coin. Profit is lovely, but in Fairhaven the real currency is casseroles delivered to neighbors.
 
