@@ -23,7 +23,7 @@ Kim buys and sells meat products, and will also **buy adult animals** from your 
 
 ## 🍝 Cafe Moretti
 
-**Proprietor:** Sophia Moretti
+**Proprietor:** Sophia Moretti — this is the beloved "diner" you'll see mentioned throughout this guide
 
 Sophia's diner serves hearty cooked meals — useful when your energy is flagging and your own [kitchen](../crafting/cooking.md) is bare. It's also one of the town's great gathering spots; you'll overhear plenty of island life over a plate here.
 

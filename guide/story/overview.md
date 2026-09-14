@@ -48,7 +48,7 @@ The game doesn't formally number its chapters — the To-Do quests simply flow �
 
 The story does not end with the first year. **New story quests begin in Spring of Year 2**, when Fairhaven prepares its Spring Fling and Tara takes on new responsibilities within the coven — including the power to turn the seasons at will. Each season still brings its festivals and seasonal recipes, and there is always another neighbour to befriend.
 
-Studio Drydock has also tended this game like a perennial bed: **major free updates** have added further story — most notably **Ravenwood Hollow**, a hidden community of magical folk (a werewolf bookkeeper among them), plus new arrivals such as hairdresser Eury Sinclair, new romances, endless seasons, and magical creatures for the farm.
+Studio Drydock has also tended this game like a perennial bed: **major free updates** have added further story — most notably **Ravenwood Hollow**, a hidden community of magical folk (a werewolf bookseller among them), plus new arrivals such as hairdresser Eury Sinclair, new romances, endless seasons, and magical creatures for the farm.
 
 ---
 

@@ -49,7 +49,7 @@ You can get to know and flirt with the candidates while unattached, but Fairhave
 
 ### Who are the romance options?
 
-Eight candidates, all genders romanceable by Tara: **Kai Hoapili, Kim Izumi, Amira Syed, Cameron Conner, Giva Joshi, Damon Mthembu-Haas**, plus later arrivals **Eury Sinclair** (Year 2) and **Westley Vuk** (Ravenwood Hollow).
+Eight candidates, all genders romanceable by Tara: **Kai Hoapili, Kim Izumi, Amira Syed, Cameron Conner, Giva, Damon Mthembu-Haas**, plus later arrivals **Eury Sinclair** (Year 2) and **Westley Vuk** (Ravenwood Hollow).
 
 ### Do other characters have friendship levels?
 
