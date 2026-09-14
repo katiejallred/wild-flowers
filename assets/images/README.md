@@ -102,10 +102,11 @@ to 1280px JPEGs for the web. © Studio Drydock Pty Ltd.
 
 ## Social-share images
 
-`og-image-alt.jpg` (default `og:image` / Twitter card), `twitter-card.jpg` (2:1),
-and `social-square.jpg` (1:1) are cropped from the press kit's **Alt Key Art** —
-the illustrated broomstick-over-the-farm artwork. `og-image.jpg` is the earlier
-16:9 key art, kept as a fallback. All © Studio Drydock Pty Ltd.
+`og-image-alt.jpg` (default `og:image` / Twitter card), `og-image.jpg` (identical
+fallback), `twitter-card.jpg` (2:1), and `social-square.jpg` (1:1) match the
+homepage cover: the AI-generated "supper & spellwork" witch's-kitchen fan art
+(`fan-art-witchs-kitchen.jpg`, made with Ideogram) behind the Guide's title
+plate, typeset in the site's Lora / Nunito / Caveat.
 
 ## Per-page share cards
 
