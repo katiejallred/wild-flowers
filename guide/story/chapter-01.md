@@ -1,5 +1,6 @@
+---
+title: "📜 Chapter 1: A New Leaf"
+---
 # 📜 Chapter 1: A New Leaf
 
-> 🚧 This page is a seedling — content coming soon!
-
-[⬅ Back to Table of Contents](../../README.md)
+<p class="seedling">🌱 This page is a seedling — content coming soon!</p>

@@ -1,0 +1,14 @@
+title: The Fairhaven Field Guide
+description: A pressed-flower field guide & walkthrough for Wylde Flowers
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: false
+exclude:
+  - README.md
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: journal
