@@ -13,6 +13,7 @@
   <link rel="stylesheet" href="{{ '/assets/css/journal.css' | relative_url }}">
 </head>
 <body>
+  <a class="skip-link" href="#main">Skip to content</a>
   {%- comment -%} Locate this page in the nav: its section, and prev/next pages. {%- endcomment -%}
   {%- assign all_pages = "" | split: "" -%}
   {%- assign current_section = nil -%}
@@ -30,15 +31,15 @@
   {%- endfor -%}
 
   <header class="journal-header">
-    <a class="site-title" href="{{ '/' | relative_url }}">❀ The Fairhaven Field Guide ❀</a>
+    <a class="site-title" href="{{ '/' | relative_url }}"><span aria-hidden="true">❀</span> The Fairhaven Field Guide <span aria-hidden="true">❀</span></a>
   </header>
 
   <div class="journal-body">
     <nav class="site-nav" aria-label="Guide sections">
       <input type="checkbox" id="menu-toggle" class="menu-toggle">
-      <label for="menu-toggle" class="menu-label">✦ Menu</label>
+      <label for="menu-toggle" class="menu-label"><span aria-hidden="true">✦</span> Menu</label>
       <div class="nav-groups">
-        <form class="nav-search" role="search" action="{{ '/search.html' | relative_url }}" method="get">
+        <form class="nav-search" role="search" aria-label="Quick search" action="{{ '/search.html' | relative_url }}" method="get">
           <input type="search" name="q" placeholder="Search the guide…" aria-label="Search the guide">
         </form>
         <div class="nav-group nav-group-home">
@@ -59,11 +60,11 @@
       </div>
     </nav>
 
-    <main class="sheet">
+    <main id="main" tabindex="-1" class="sheet">
     {% unless page.url == "/" %}
     <nav class="breadcrumb" aria-label="Breadcrumb">
       <a href="{{ '/' | relative_url }}">Table of Contents</a>
-      {%- if current_section %} <span class="crumb-sep">✿</span> <span class="crumb-here">{{ current_section.title }}</span>{% endif %}
+      {%- if current_section %} <span class="crumb-sep" aria-hidden="true">✿</span> <span class="crumb-here">{{ current_section.title }}</span>{% endif %}
     </nav>
     {% endunless %}
     {{ content }}
@@ -75,7 +76,7 @@
       {%- if page_index > 0 -%}
       {%- assign prev_page = all_pages[prev_index] -%}
       <a class="turn-prev" href="{{ prev_page.url | relative_url }}" rel="prev">
-        <span class="specimen-label">← Previous leaf</span>
+        <span class="specimen-label"><span aria-hidden="true">←</span> Previous leaf</span>
         <span class="turn-title">{{ prev_page.title }}</span>
       </a>
       {%- else -%}
@@ -84,7 +85,7 @@
       {%- if next_index < all_pages.size -%}
       {%- assign next_page = all_pages[next_index] -%}
       <a class="turn-next" href="{{ next_page.url | relative_url }}" rel="next">
-        <span class="specimen-label">Next leaf →</span>
+        <span class="specimen-label">Next leaf <span aria-hidden="true">→</span></span>
         <span class="turn-title">{{ next_page.title }}</span>
       </a>
       {%- else -%}
@@ -95,8 +96,57 @@
     </main>
   </div>
 
+  <script>
+  // Wide tables scroll sideways inside their own frame on small screens.
+  // A scrollable frame must be reachable by keyboard, so wrap each table
+  // and make the wrapper focusable only while it actually scrolls.
+  (function () {
+    "use strict";
+    // Markdown task-list checkboxes are disabled decorations; the text of
+    // each item carries the meaning, so hide the boxes from screen readers.
+    document.querySelectorAll(".task-list-item-checkbox[disabled]").forEach(function (box) {
+      box.setAttribute("aria-hidden", "true");
+    });
+
+    var wraps = [];
+    document.querySelectorAll("main table").forEach(function (table) {
+      var wrap = table.parentElement;
+      if (!wrap.classList.contains("table-scroll") && !wrap.classList.contains("calc-table-wrap")) {
+        wrap = document.createElement("div");
+        wrap.className = "table-scroll";
+        table.parentNode.insertBefore(wrap, table);
+        wrap.appendChild(table);
+      }
+      var label = "Data table";
+      var el = wrap.previousElementSibling;
+      while (el) {
+        if (/^H[1-4]$/.test(el.tagName)) { label = el.textContent.trim(); break; }
+        el = el.previousElementSibling;
+      }
+      wraps.push({ wrap: wrap, label: label });
+    });
+    function update() {
+      wraps.forEach(function (w) {
+        if (w.wrap.scrollWidth > w.wrap.clientWidth + 1) {
+          w.wrap.setAttribute("tabindex", "0");
+          w.wrap.setAttribute("role", "region");
+          w.wrap.setAttribute("aria-label", w.label);
+        } else {
+          w.wrap.removeAttribute("tabindex");
+          w.wrap.removeAttribute("role");
+          w.wrap.removeAttribute("aria-label");
+        }
+      });
+    }
+    window.addEventListener("resize", update);
+    window.addEventListener("load", update);
+    document.addEventListener("input", function () { setTimeout(update, 0); });
+    update();
+  })();
+  </script>
+
   <footer class="journal-footer">
-    <div class="flourish">❦</div>
+    <div class="flourish" aria-hidden="true">❦</div>
     <p>An unofficial fan guide, pressed with love.<br>
     <em>Wylde Flowers</em> is created by Studio Drydock.</p>
     <p>Game data drawn in part from the <a href="https://wylde-flowers.fandom.com" rel="external nofollow">Wylde Flowers Wiki</a>,
