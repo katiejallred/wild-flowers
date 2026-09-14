@@ -31,6 +31,8 @@ Spring is your tutorial season. Beyond wheat, profits are modest across the boar
 | Corn | Tall, golden, and reliable. |
 | Onion | A humble workhorse for the stockpot. |
 | Sunflower | The best-profit **flower** of summer — and flowers left blooming feed your beehives ([Beekeeping & Orchards](bees-and-orchards.md)). |
+| **Cotton** | Summer's sleeper champion — worthless at the stall, priceless at the loom. See the ledger below. Seeds from Thomas, not the general store. |
+| Green Beans | Thomas's other specialty seed; a dependable kitchen crop. |
 
 <span class="handwritten">strawberries for the purse, sunflowers for the bees 🌻</span>
 
@@ -44,8 +46,9 @@ Spring is your tutorial season. Beyond wheat, profits are modest across the boar
 | Eggplant | A glossy autumn regular. |
 | Carrot | Sweetens the fall table and several recipes besides. |
 | Sweet Potato | Hearty autumn fare. |
+| **Primrose** | The winter flower — and the most profitable flower in the entire game. Cold weather suits it. |
 
-Winter's list is short, which is precisely why fennel deserves whole rows to itself.
+Winter's list is short, which is precisely why fennel and primrose deserve whole rows to themselves.
 
 ---
 

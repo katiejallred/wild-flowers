@@ -3,7 +3,7 @@ title: "🎁 Gift Preferences"
 ---
 # 🎁 Gift Preferences
 
-A gift, properly chosen, is friendship in concentrate. Fairhaven's residents all appreciate a token from your pocket — but each keeps a short, secret list of **favorites** that work on the heart like fertilizer works on a seedling. This page covers the mechanics we've verified in the field; the per-resident almanac is still being pressed, and we'd rather leave a blank page than an invented one.
+A gift, properly chosen, is friendship in concentrate. Fairhaven's residents all appreciate a token from your pocket — but each keeps a short, secret list of **favorites** that work on the heart like fertilizer works on a seedling. This page covers the gifting mechanics **and** the full per-resident favorites almanac, cross-checked against the community's field records — with the few still-unconfirmed entries honestly marked rather than invented.
 
 For where gifting fits in the larger tending routine, see the [Friendship Guide](friendship.md); for gifting with intent, the [Romance Guide](romance.md).
 
@@ -52,14 +52,39 @@ Until the per-character almanac fills in, these principles will carry you far:
 
 ## The Per-Resident Almanac
 
-*Being filled in as research continues.* Individual favorite-food lists exist for every resident — three to five dishes each — but this guide only presses what it has personally verified, and per-character lists are still under observation in the field. Until then:
+Pressed, labelled, and cross-checked against the community's field records. Each resident keeps three to five favorites; a 🌱 marks a list still partly under observation.
 
-| If you're courting… | A verified head start |
+### The Romanceables
+
+| Resident | Favorite dishes |
 | --- | --- |
-| Anyone | Their silhouettes are visible in their profile from early on — start guessing with dishes you can already cook |
-| A romanceable resident | Use the crystal ball early; their revealed favorites list is a full season's courtship plan |
+| **Amira Syed** | Honey Mint Cooler · Fesenjan (Pomegranate Walnut Stew) · Jeweled Rice · Zeytoon Parvardeh (Marinated Olives) · Oatmeal Raisin Cookie |
+| **Cameron Conner** | Pumpkin Spice Latte · Sweet Potato Fries · Sweet Potato and Coriander Pizza · Avocado Toast · Pumpkin Bread |
+| **Damon Mthembu-Haas** | Sweet Potato Vodka · Slap Chips · Cape Malay Curry · Bobotie · Chakalaka |
+| **Eury Sinclair** 🌱 | Jambalaya · *(remainder under observation)* |
+| **Giva Joshi** | Chai · Prawns Koliwada · Chicken Tikka Masala · Vada Pav (Bombay Burger) · Pav Bhaji |
+| **Kai Hoapili** | Loco Moco · Haupia (Coconut Pudding) · Blue Hawaii Cocktail · Manapua (Pork Dumpling) · Poke Bowl |
+| **Kim Izumi** | Sushi · Rice Wine · Ramen · Buddha's Delight · Miso Soup |
+| **Westley Vuk** | Wine · Roast Beef · Roast Pork · Roast Salmon · Scottiglia (Mixed Meat Stew) |
 
-Have your own confirmed sightings? Note them in your margin and check back — this almanac grows a page at a time.
+### The Rest of Town
+
+| Resident | Favorite dishes |
+| --- | --- |
+| **Angus** | Whiskey · Skirlie · Rumbledethumps · Black Pudding · Pierogi |
+| **Francis Calderón** | Arroz con Gandules · Asopao (Chicken & Rice) · Empanada · Flan · Piña Colada |
+| **Gloria Miranda** 🌱 | Tabbouleh · *(remainder under observation)* |
+| **Lina Dahl-Johnson** | Apple Cider · Pumpkin Pie · Snickerdoodle · Lobster Roll · New England Chowder |
+| **Marty** | Banana Bread · Carrot Cake · Danish · Hot Chocolate |
+| **Otto Soft** | Cheese Soufflé · Fruit Punch · Lobster Thermidor · Beef Wellington |
+| **Parker Johnson** | Coffee · Pepperoni Pizza · Bagel · Cream Cheese Bagel · Chopped Cheese Sandwich |
+| **Sebastián Miranda** | Cheese Pizza · Orange Juice · Pancakes · Peanut Brittle |
+| **Shelby Demeter** | Fish Stew · Goulash · Bread Pudding · Tomato Soup |
+| **Sophia** | Strawberry Daiquiri · Precipizi · Seafood Fra Diavolo · Smoked Salmon Bagel · Chicken Soup |
+| **Thomas Lightfoot** | Corn Bread · Lemonade · Succotash · Three Sisters Stew · Cabbage Soup |
+| **Violet Miranda** | Berry Smoothie · Rice Pudding · Churros · Spanish Omelette · Arroz con Huevos |
+
+> 🌿 A few islanders — Hazel, later arrivals, and the folk of Ravenwood Hollow — are still being observed in the field; their pages will be pressed in as the lists are confirmed. Notice the pattern in the meantime: everyone's favorites echo their heritage and story, so when in doubt, cook from their homeland's table.
 
 ---
 
