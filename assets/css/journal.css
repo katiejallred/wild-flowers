@@ -446,6 +446,30 @@ img { max-width: 100%; height: auto; }
 
 .cover .pressed { display: block; margin: 1.1rem auto 0.2rem; }
 
+.cover .cover-search { margin: 1rem 0 0.4rem; }
+
+.cover .cover-search a {
+  display: inline-block;
+  font-family: var(--font-body);
+  font-weight: 800;
+  font-size: 0.85rem;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  text-decoration: none;
+  color: var(--amethyst);
+  background: var(--sheet);
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  padding: 0.5em 1.4em;
+  box-shadow: 0 1px 3px rgba(var(--shadow), 0.12);
+}
+
+.cover .cover-search a:hover {
+  color: var(--plum);
+  border-color: var(--lavender);
+  box-shadow: 0 0 0 3px rgba(138, 111, 196, 0.18);
+}
+
 /* specimen cards: one per section of the guide */
 .specimens {
   display: grid;
