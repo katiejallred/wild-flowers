@@ -77,6 +77,11 @@ As the story deepens, so does your toolkit. In rough order of appearance:
 - **A familiar** — a certain cat with opinions. See [Familiars](familiars.md).
 - **Stranger neighbors still** — later on, the island reveals it has more than one hidden community. Again: [Familiars & magical folk](familiars.md).
 
+<figure class="snapshot">
+  <img src="{{ '/assets/images/fan-art-night-flight.jpg' | relative_url }}" alt="Fan art of a witch on a broomstick with a black cat aboard, flying over a moonlit island village." loading="lazy">
+  <figcaption>night flight over Fairhaven, cat included — fan art, made with a little AI magic 🌙</figcaption>
+</figure>
+
 ## First Steps for a New Witch
 
 1. Follow the main story quests whenever one is available — magic is story-gated, and no amount of grinding substitutes.

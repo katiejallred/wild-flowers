@@ -30,6 +30,11 @@ Plenty of games let you water turnips. A few things set this one apart, like a r
 
 <span class="handwritten">no other sim lets you put the seasons themselves in your pocket 🌿</span>
 
+<figure class="snapshot">
+  <img src="{{ '/assets/images/fan-art-farm-twilight.jpg' | relative_url }}" alt="Fan art of a grandmother and granddaughter tending a garden beside a snug farmhouse at golden hour, lighthouse and sea beyond." loading="lazy">
+  <figcaption>Tara &amp; Hazel in the garden, as a fan imagines it — pressed here with a little AI magic 🌻</figcaption>
+</figure>
+
 ---
 
 ## Who you'll meet
