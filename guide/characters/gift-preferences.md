@@ -1,5 +1,7 @@
 ---
 title: "🎁 Gift Preferences"
+description: "The full favorite-foods almanac for Wylde Flowers — every resident's loved dishes, how gifting works, and the crystal-ball shortcut."
+image: /assets/images/card-gifts.jpg
 ---
 # 🎁 Gift Preferences
 
