@@ -74,6 +74,199 @@ Artisan goods are Fairhaven's social currency as much as its economic one:
 
 ---
 
+## The Goods Themselves
+
+The shed's output, illustrated — cloth and silk, leathers, glasswork, and the small luxuries in between.
+
+<div class="specimen-grid parchment">
+  <figure>
+    <img src="{{ '/assets/images/wiki/crafting/butter.png' | relative_url }}" alt="Butter icon" loading="lazy">
+    <figcaption>Butter</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crafting/coconut-oil.png' | relative_url }}" alt="Coconut Oil icon" loading="lazy">
+    <figcaption>Coconut Oil</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crafting/olive-oil.png' | relative_url }}" alt="Olive Oil icon" loading="lazy">
+    <figcaption>Olive Oil</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crafting/beeswax-candle.png' | relative_url }}" alt="Beeswax Candle icon" loading="lazy">
+    <figcaption>Beeswax Candle</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crafting/cloth.png' | relative_url }}" alt="Cloth icon" loading="lazy">
+    <figcaption>Cloth</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crafting/black-cloth.png' | relative_url }}" alt="Black Cloth icon" loading="lazy">
+    <figcaption>Black Cloth</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crafting/blue-cloth.png' | relative_url }}" alt="Blue Cloth icon" loading="lazy">
+    <figcaption>Blue Cloth</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crafting/green-cloth.png' | relative_url }}" alt="Green Cloth icon" loading="lazy">
+    <figcaption>Green Cloth</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crafting/orange-cloth.png' | relative_url }}" alt="Orange Cloth icon" loading="lazy">
+    <figcaption>Orange Cloth</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crafting/purple-cloth.png' | relative_url }}" alt="Purple Cloth icon" loading="lazy">
+    <figcaption>Purple Cloth</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crafting/rainbow-cloth.png' | relative_url }}" alt="Rainbow Cloth icon" loading="lazy">
+    <figcaption>Rainbow Cloth</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crafting/blue-dye.png' | relative_url }}" alt="Blue Dye icon" loading="lazy">
+    <figcaption>Blue Dye</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crafting/green-dye.png' | relative_url }}" alt="Green Dye icon" loading="lazy">
+    <figcaption>Green Dye</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crafting/orange-dye.png' | relative_url }}" alt="Orange Dye icon" loading="lazy">
+    <figcaption>Orange Dye</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crafting/black-ink.png' | relative_url }}" alt="Black Ink icon" loading="lazy">
+    <figcaption>Black Ink</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crafting/ink.png' | relative_url }}" alt="Ink icon" loading="lazy">
+    <figcaption>Ink</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crafting/black-silk.png' | relative_url }}" alt="Black Silk icon" loading="lazy">
+    <figcaption>Black Silk</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crafting/blue-silk.png' | relative_url }}" alt="Blue Silk icon" loading="lazy">
+    <figcaption>Blue Silk</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crafting/green-silk.png' | relative_url }}" alt="Green Silk icon" loading="lazy">
+    <figcaption>Green Silk</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crafting/orange-silk.png' | relative_url }}" alt="Orange Silk icon" loading="lazy">
+    <figcaption>Orange Silk</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crafting/purple-silk.png' | relative_url }}" alt="Purple Silk icon" loading="lazy">
+    <figcaption>Purple Silk</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crafting/black-silk-thread.png' | relative_url }}" alt="Black Silk Thread icon" loading="lazy">
+    <figcaption>Black Silk Thread</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crafting/blue-silk-thread.png' | relative_url }}" alt="Blue Silk Thread icon" loading="lazy">
+    <figcaption>Blue Silk Thread</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crafting/green-silk-thread.png' | relative_url }}" alt="Green Silk Thread icon" loading="lazy">
+    <figcaption>Green Silk Thread</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crafting/orange-silk-thread.png' | relative_url }}" alt="Orange Silk Thread icon" loading="lazy">
+    <figcaption>Orange Silk Thread</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crafting/purple-silk-thread.png' | relative_url }}" alt="Purple Silk Thread icon" loading="lazy">
+    <figcaption>Purple Silk Thread</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crafting/leather.png' | relative_url }}" alt="Leather icon" loading="lazy">
+    <figcaption>Leather</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crafting/black-leather.png' | relative_url }}" alt="Black leather icon" loading="lazy">
+    <figcaption>Black leather</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crafting/blue-leather.png' | relative_url }}" alt="Blue Leather icon" loading="lazy">
+    <figcaption>Blue Leather</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crafting/green-leather.png' | relative_url }}" alt="Green Leather icon" loading="lazy">
+    <figcaption>Green Leather</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crafting/orange-leather.png' | relative_url }}" alt="Orange Leather icon" loading="lazy">
+    <figcaption>Orange Leather</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crafting/purple-leather.png' | relative_url }}" alt="Purple Leather icon" loading="lazy">
+    <figcaption>Purple Leather</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crafting/fish-leather.png' | relative_url }}" alt="Fish Leather icon" loading="lazy">
+    <figcaption>Fish Leather</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crafting/mushroom-leather.png' | relative_url }}" alt="Mushroom Leather icon" loading="lazy">
+    <figcaption>Mushroom Leather</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crafting/animal-hide.png' | relative_url }}" alt="Animal Hide icon" loading="lazy">
+    <figcaption>Animal Hide</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crafting/golden-wool.png' | relative_url }}" alt="Golden Wool icon" loading="lazy">
+    <figcaption>Golden Wool</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crafting/rainbow-wool.png' | relative_url }}" alt="Rainbow Wool icon" loading="lazy">
+    <figcaption>Rainbow Wool</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crafting/glass.png' | relative_url }}" alt="Glass icon" loading="lazy">
+    <figcaption>Glass</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crafting/glass-bottle.jpeg' | relative_url }}" alt="Glass Bottle icon" loading="lazy">
+    <figcaption>Glass Bottle</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crafting/glass-pitcher.png' | relative_url }}" alt="Glass Pitcher icon" loading="lazy">
+    <figcaption>Glass Pitcher</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crafting/paper.png' | relative_url }}" alt="Paper icon" loading="lazy">
+    <figcaption>Paper</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crafting/parchment.png' | relative_url }}" alt="Parchment icon" loading="lazy">
+    <figcaption>Parchment</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crafting/flower-paper.png' | relative_url }}" alt="Flower Paper icon" loading="lazy">
+    <figcaption>Flower Paper</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crafting/fall-bouquet.png' | relative_url }}" alt="Fall Bouquet icon" loading="lazy">
+    <figcaption>Fall Bouquet</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crafting/mystic-bouquet.png' | relative_url }}" alt="Mystic Bouquet icon" loading="lazy">
+    <figcaption>Mystic Bouquet</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crafting/glass-bead.png' | relative_url }}" alt="Glass Bead icon" loading="lazy">
+    <figcaption>Glass Bead</figcaption>
+  </figure>
+</div>
+
+---
+
 For the full income strategy — crops, fishing, mining, and processing side by side — see the [Money-Making](../reference/money-making.md) guide.
 
 <span class="handwritten">sign-off tip: sell raw only what you cannot process, gift, or cook — the shed eats first, then the market 🌿</span>
