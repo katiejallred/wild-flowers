@@ -5,7 +5,7 @@ title: "🚜 Crop Guide"
 
 A pressed-and-labeled record of what grows in Fairhaven's soil, season by season. Remember the island's great mercy: seasons only change when the coven performs the ritual, so you may linger in any season as long as your ledger requires ([Farming 101](farming-101.md)). Just harvest everything before the ritual — out-of-season crops left in the ground wilt the moment the season turns.
 
-> This almanac is pressed from the community wiki's field records. **Coins/day** is their profitability measure: (sell price of a full harvest − seed cost) ÷ days to grow. Flowers left blooming (unpicked) also feed any nearby [beehive](bees-and-orchards.md).
+> This almanac is pressed from the [community wiki](https://wylde-flowers.fandom.com)'s field records ([CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/), as is this table). **Coins/day** is their profitability measure: (sell price of a full harvest − seed cost) ÷ days to grow. Flowers left blooming (unpicked) also feed any nearby [beehive](bees-and-orchards.md).
 
 ---
 

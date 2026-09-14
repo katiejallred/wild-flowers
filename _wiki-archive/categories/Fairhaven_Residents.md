@@ -1,0 +1,27 @@
+# Category: Fairhaven Residents
+
+23 pages.
+
+- [Amira Syed](../pages/Amira_Syed.md)
+- [Angus Seton](../pages/Angus_Seton.md)
+- [Bruno Soft](../pages/Bruno_Soft.md)
+- [Cameron Conner](../pages/Cameron_Conner.md)
+- [Cleocatra](../pages/Cleocatra.md)
+- [Damon Mthembu-Haas](../pages/Damon_Mthembu-Haas.md)
+- [Emmi Johnson](../pages/Emmi_Johnson.md)
+- [Finn Johnson](../pages/Finn_Johnson.md)
+- [Hazel Wylde](../pages/Hazel_Wylde.md)
+- [Kai Hoapili](../pages/Kai_Hoapili.md)
+- [Kim Izumi](../pages/Kim_Izumi.md)
+- [Lina Dahl-Johnson](../pages/Lina_Dahl-Johnson.md)
+- [Marty Emerson](../pages/Marty_Emerson.md)
+- [Natalia Kuznetsova](../pages/Natalia_Kuznetsova.md)
+- [Otto Soft](../pages/Otto_Soft.md)
+- [Parker Johnson](../pages/Parker_Johnson.md)
+- [Sebastián Miranda](../pages/Sebasti%C3%A1n_Miranda.md)
+- [Shelby Demeter](../pages/Shelby_Demeter.md)
+- [Sophia Moretti](../pages/Sophia_Moretti.md)
+- [Tara Wylde](../pages/Tara_Wylde.md)
+- [Thomas Lightfoot](../pages/Thomas_Lightfoot.md)
+- [Vanessa Soft](../pages/Vanessa_Soft.md)
+- [Violet Miranda](../pages/Violet_Miranda.md)
