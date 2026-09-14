@@ -601,3 +601,12 @@ figure.snapshot figcaption {
   max-width: 720px;
   margin: 1.8rem auto 0.6rem;
 }
+
+/* ── Wide tables scroll within their own frame on small screens ── */
+@media (max-width: 900px) {
+  table {
+    display: block;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+  }
+}
