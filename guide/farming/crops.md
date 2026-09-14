@@ -1,5 +1,7 @@
 ---
 title: "🚜 Crop Guide"
+description: "Every Wylde Flowers crop by season — seed cost, growth time, sell price, and coins per day — plus the fruit-tree ledger and the greenhouse."
+image: /assets/images/card-crops.jpg
 ---
 # 🚜 Crop Guide
 
