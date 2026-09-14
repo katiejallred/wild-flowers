@@ -89,6 +89,6 @@ commit history.
 ## Contact
 
 Questions about this policy? Write to
-**[katie@katieallred.com](mailto:katie@katieallred.com)**.
+**<span class="obf-email" data-user="support" data-domain="fairhavenfieldguide.com">support [at] fairhavenfieldguide [dot] com</span>**.
 
 <p class="handwritten">pressed, dated, and filed under S for "seriously, we don't want your data" 🌿</p>

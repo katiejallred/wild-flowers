@@ -83,6 +83,6 @@ Guide after a change means you accept the updated terms.
 ## 9. Contact
 
 Questions, corrections, or takedown requests:
-**[katie@katieallred.com](mailto:katie@katieallred.com)**.
+**<span class="obf-email" data-user="support" data-domain="fairhavenfieldguide.com">support [at] fairhavenfieldguide [dot] com</span>**.
 
 <p class="handwritten">signed in pressed ink, somewhere on Fairhaven Island 🌙</p>
