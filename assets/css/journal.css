@@ -482,25 +482,19 @@ img { max-width: 100%; }
 }
 
 .specimen h2 {
-  margin: 0 3.4rem 0.1rem 0;
-  font-size: 1.45rem;
-  /* same sunny outlined treatment as h1, scaled down for card size */
-  color: var(--sunny);
-  -webkit-text-stroke: 1.5px var(--outline);
-  paint-order: stroke fill;
-  text-shadow:
-    -1px -1px 0 var(--outline),  1px -1px 0 var(--outline),
-    -1px  1px 0 var(--outline),  1px  1px 0 var(--outline),
-     0 -1.5px 0 var(--outline),  0 1.5px 0 var(--outline),
-    -1.5px 0 0 var(--outline),  1.5px 0 0 var(--outline),
-     0 2.5px 0 var(--outline);
-}
-
-@supports (paint-order: stroke) {
-  .specimen h2 {
-    -webkit-text-stroke: 4px var(--outline);
-    text-shadow: 0 2.5px 0 var(--outline);
-  }
+  /* dark ink on a yellow highlighter swipe — outlined yellow gets
+     muddy at card size, so the marker looks better and reads better */
+  width: fit-content;
+  max-width: 100%;
+  margin: 0 3.4rem 0.2rem 0;
+  padding: 0.02em 0.45em 0.08em;
+  font-size: 1.5rem;
+  color: var(--ink);
+  background: linear-gradient(104deg,
+    transparent 0.5%, rgba(255, 207, 64, 0.85) 3%,
+    var(--sunny) 50%, rgba(255, 207, 64, 0.9) 97%, transparent 99.5%);
+  border-radius: 0.4em 0.7em 0.5em 0.8em / 0.7em 0.4em 0.8em 0.5em;
+  transform: rotate(-0.6deg);
 }
 
 .specimen .latin {
