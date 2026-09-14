@@ -1,9 +1,9 @@
 ---
-title: "🐈‍⬛ Familiars & Kim the Cat"
+title: "🐈‍⬛ Familiars & Cleocatra"
 ---
-# 🐈‍⬛ Familiars & Kim the Cat
+# 🐈‍⬛ Familiars & Cleocatra
 
-A confession before we begin: for one whole season, this journal's keeper called the little black-furred menace of Fairhaven "Kim," in honor of a certain excellent deli. The cat has since made her actual name known, and it is far grander. Consider the heading above a pressed flower from an earlier, less-informed draft — and read on for the truth about Fairhaven's magical creatures.
+A confession before we begin: for one whole season, this journal's keeper called the little black-furred menace of Fairhaven "Kim," in honor of a certain excellent deli. The cat has since made her actual name known, and it is far grander — an earlier draft of this very page bore the wrong name, now pressed flat and filed under "lessons." Read on for the truth about Fairhaven's magical creatures.
 
 ## Cleocatra, the Familiar
 

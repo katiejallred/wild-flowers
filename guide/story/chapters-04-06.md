@@ -15,7 +15,7 @@ With Hazel gone and the summer ritual cast, the coven takes Tara firmly under it
 - Cauldron work picks up — keep ingredients stocked; see [Potions](../witchcraft/potions.md).
 - Coven members reveal more of themselves with every task. You'll come to know the people behind several masks, and to understand how much of Fairhaven's ordinary life the coven quietly keeps in bloom.
 
-Between rites, it's still a farm: summer crops, [bees and orchards](../farming/bees-and-orchards.md), and the season's [festivals and recipes](../island/festivals-and-events.md) all want your attention. Every season brings its own festival days and seasonal dishes — don't let the witching crowd them out.
+Between rites, it's still a farm: summer crops, [bees and orchards](../farming/bees-and-orchards.md), and the season's [festivals and recipes](../island/festivals-and-events.md) all want your attention. The summer's centerpiece arrives by post — a letter announcing the **Fairhaven Summer Festival** and starting a **15-day countdown** of town-wide preparations, capped by the crowning of the year's **Summertide Star**. Every season brings its own festival days and seasonal dishes — don't let the witching crowd them out.
 
 > 🌻 **Field note:** the seasons wait for you. Until you brew and cast the next ritual, summer simply continues — so linger as long as your ledger likes.
 

@@ -27,7 +27,9 @@ The single most important piece of magic in the game, and the one every new witc
 
 > **Seasons in Fairhaven change only when the coven performs the season-change ritual.** No ritual, no autumn. The calendar waits on the witches.
 
-Each turning has its own ritual incantation — the **Fall Ritual Incantation**, for instance, is the working that carries Fairhaven from summer into fall — and these are cast **at the coven circle**, together, as a coven. The story teaches you the ceremony; ritual preparations may also call for brewed components from your [cauldron](potions.md), so keep it warm.
+Each turning has its own ritual incantation — the **Fall Ritual Incantation**, for instance, is the working that carries Fairhaven from summer into fall — and these are cast **at the coven circle**, together, as a coven. The story teaches you the ceremony; ritual preparations also call for brewed components from your [cauldron](potions.md), so keep it warm.
+
+Your first turning (*To Summer it Up For You*) teaches the supply chain's shape: the **Spirit Flame** it requires wants an **Essence of Copper** (2 copper ore, run through the distillery) and **Powdered Calcium** (2 seashells, ground at the mortar and pestle). Which is to say — the mine and the beach are ritual suppliers. Stock both.
 
 ### Before you say the words
 

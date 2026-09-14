@@ -41,6 +41,12 @@ A pressed and labeled collection of Fairhaven's terms of art — the words you'l
 **Season Ritual**
 : The coven ceremony, cast at the coven circle, that is the **only** way seasons change. You gather offerings; you choose when to cast ([Energy, Time & Seasons](../getting-started/energy-time-seasons.md)).
 
+**The Wellspring**
+: The deep source of the island's magic, tended by the coven. The story orbits it; this glossary won't say more. 🌙
+
+**Spirit Flame**
+: A brewed ritual component the seasonal rites require — the classic recipe wants distilled ore essence and powdered seashell ([Potions](../witchcraft/potions.md)).
+
 **Keeper of the Wheel**
 : The role Tara later assumes: steward of the turning seasons, making offerings to the Wellspring so the ritual can proceed.
 

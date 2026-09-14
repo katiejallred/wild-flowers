@@ -9,7 +9,7 @@ If the kitchen is the heart of the farmhouse, the tool shed is its workshop — 
 
 Crafting stations aren't handed to you all at once; they arrive the way most good things do in Fairhaven — through story progress, seasons turning, and quests for your neighbors. Once a station's blueprint is available, building it costs a bundle of materials (typically wood, iron ingots smelted from ore, and sometimes rarer components) plus a coin fee. Natalia Kuznetsova, the blacksmith, is your friend here: ore from the [mines](../farming/mining-and-foraging.md) becomes the ingots most stations demand.
 
-Space matters too. Each station occupies a footprint in the tool shed, and the shed itself can be upgraded as your operation grows — plan your floor like a garden bed, with the stations you visit daily nearest the door.
+Space matters too. Each station occupies a footprint in the tool shed — the Juice Press fits a tidy 1×1 (20× Wood, 2× Iron Bar, 150 coins to build), while the Loom claims a 2×2 (15× Wood, 3× Iron Bar, 30 coins) — and the shed itself can be upgraded as your operation grows. Plan your floor like a garden bed, with the stations you visit daily nearest the door.
 
 > The tool shed predates Tara's arrival, but under her hands it wakes up. Hazel remembers when half these contraptions stood silent and dusty.
 

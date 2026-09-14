@@ -22,7 +22,7 @@ Recipes are seeds: you gather them from many soils, and your collection grows ov
 | Cookbooks from Sophia | Sophia Moretti, who runs the diner, sells cookbooks that unlock batches of recipes at once |
 | Quest rewards | Villagers often thank you for favors and story quests with a recipe |
 | New ingredients | Picking up an unfamiliar ingredient can spark a recipe idea on its own |
-| Exploration & chests | Recipe pages turn up in hidden spots and in treasure chests found while [mining](../farming/mining-and-foraging.md) |
+| Exploration & chests | Recipe pages turn up in hidden spots and treasure chests found while [mining](../farming/mining-and-foraging.md) — and smashing big stones, digging up dirt piles, and fishing the ocean can all surface recipes too |
 | Friendship | Growing close to a villager sometimes earns you a family dish |
 
 <span class="handwritten">visit Sophia's diner early — her cookbooks are the fastest way to fill a bare recipe binder 🌿</span>

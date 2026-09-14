@@ -18,7 +18,7 @@ New to tending relationships at all? Root yourself in the [Friendship Guide](fri
 | Amira Syed | The doctor — flirty, sharp, and a member of the coven besides. |
 | Cameron Conner | 34, former child actor, now the fervent leader of the League of the Conscious Mind. A thornier courtship than most. |
 | Damon Mthembu-Haas | 24, keeper of Fairhaven's bar, originally from Johannesburg. |
-| Giva | Smart, a little awkward, sweetly shy. Slow to open — worth the patience. |
+| Giva Joshi | The island's meteorologist — smart, a little awkward, sweetly shy. Slow to open — worth the patience. |
 | Eury Sinclair | Arrives in Year 2 to open the hair salon. Late bloomers are still bloomers. |
 | Westley | Bookseller of Ravenwood Hollow, raised in Alaska. See the spoiler pressing below. |
 

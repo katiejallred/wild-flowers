@@ -3,7 +3,7 @@ title: "🏆 Achievements & Milestones"
 ---
 # 🏆 Achievements & Milestones
 
-Yes — Wylde Flowers has achievements on platforms that support them. The **Steam version carries 40 achievements** (with counterparts tracked on Xbox and other platforms), a healthy number of them hidden to protect story surprises. This page records what's verified and, rather than spoil the hidden ones, maps the *kinds* of long-term goals the game rewards.
+Yes — Wylde Flowers has achievements on platforms that support them. The **Steam version carries 40 achievements** (on PlayStation that's 32 bronze, 2 silver, 5 gold, and the platinum; a full 1,000 Gamerscore's worth on Xbox), a healthy number of them hidden to protect story surprises. This page records what's verified and, rather than spoil the hidden ones, maps the *kinds* of long-term goals the game rewards.
 
 ---
 
@@ -64,6 +64,10 @@ The bulletin achievements (**Pocket Money** at 20, **Tycoon** at 100) make a hab
 Rituals, potions, and magical firsts thread through the story achievements — casting the initiation rite and turning your first season are both on the verified list ([Spells & Rituals](../witchcraft/spells-and-rituals.md)).
 
 ---
+
+## ⭐ The Collection Boards
+
+Alongside formal achievements, Tara keeps roughly **twenty collection boards** — fish, minerals, crops, dishes, and the island's other catalogues — each completable for a **gold star**. They're the true long game, and breadth is the fastest route through them: fish every water with every bait ([Fishing](../farming/fishing.md)), mine every depth ([Mining & Foraging](../farming/mining-and-foraging.md)), grow every crop in every season ([Crops](../farming/crops.md)), and cook everything cookable ([Cooking](../crafting/cooking.md)). Post-story Fairhaven — with all seasons freely yours — is the ideal era for board-filling.
 
 ## 🧭 Hunting Notes
 
