@@ -422,7 +422,7 @@ img { max-width: 100%; }
 
 .cover .pressed { margin: 1.1rem auto 0.2rem; }
 
-/* specimen cards: one per part of the guide */
+/* specimen cards: one per section of the guide */
 .specimens {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(min(340px, 100%), 1fr));
