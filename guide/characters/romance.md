@@ -20,7 +20,7 @@ New to tending relationships at all? Root yourself in the [Friendship Guide](fri
 | Damon Mthembu-Haas | 24, keeper of Fairhaven's bar, originally from Johannesburg. |
 | Giva | Smart, a little awkward, sweetly shy. Slow to open — worth the patience. |
 | Eury Sinclair | Arrives in Year 2 to open the hair salon. Late bloomers are still bloomers. |
-| Westley | Bookkeeper of Ravenwood Hollow, raised in Alaska. See the spoiler pressing below. |
+| Westley | Bookseller of Ravenwood Hollow, raised in Alaska. See the spoiler pressing below. |
 
 > ⚠️ **Spoilers — Ravenwood Hollow.** Westley only becomes available once you've found your way into Ravenwood Hollow, the hidden community added in a major update — and he is a werewolf, come to the island seeking a cure. Court him after the reveal, not before you've had it.
 
