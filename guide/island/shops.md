@@ -72,7 +72,7 @@ The Town Center holds several other verified businesses you'll come to know:
 
 ## 🧺 Selling Your Goods
 
-- **Crops** sell at the Dahl General Store; **animals and meat** through Kim's.
+- **Crops** sell at the Dahl General Store; **animals and meat** through Kim's; **fish** at Soft and Son's Fish & Tackle; **cooked dishes** at Cafe Moretti; **ores, ingots, and gems** at the Blacksmith. Full table in the [Money-Making Guide](../reference/money-making.md).
 - Processed [artisan goods](../crafting/artisan-goods.md) generally out-earn raw ingredients — see the [Money-Making Guide](../reference/money-making.md) before you sell a raw harvest.
 - Neighbors' to-do quests often pay in coins *and* goodwill; check them before dumping surplus at the store.
 
