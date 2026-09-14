@@ -28,6 +28,8 @@ A few pressed examples, so you know the genus when you see it:
 
 - **The Most Elaborate Icebreaker** — Mayor Otto's opening request that you greet every villager on the island; the seed from which all your friendships grow. ([Chapter 1](chapter-01.md))
 - **Incantation Vexation** — the Farseer's quest series introducing incantation crafting; coven side-work that doubles as your magical schooling. ([Chapter 3](chapter-03.md))
+- **Meant To Bee** — the quest that formalizes your beekeeping career, pun fully intended ([Bees & Orchards](../farming/bees-and-orchards.md)).
+- **Oh, Chute** — in which Giva's scientific enthusiasm becomes… kinetic. Giva quests are reliably a delight.
 - **The Silent Treatment** — a winter request from Thomas and Marty: brew a Silencing Potion for Westley, the resident werewolf, whose howling keeps the neighbourhood awake. Equal parts errand and kindness.
 - **Swept Off Your Feet** — Zephyr Grimspark's quest that unlocks **fast travel by broom**: bring her 1× Essence of Silver, 1× Levitation Potion, and the broom from Gramma's room. Every field botanist eventually earns her wings.
 - **A League of One's Own** — post-story, Cameron asks for 10× Paper and 2× Black Ink to write mending sermons. A small quest carrying a large heart. ([Final Chapters](final-chapters.md))

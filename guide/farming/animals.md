@@ -19,7 +19,7 @@ Animal-keeping unlocks in stages as you restore the farm's buildings:
 | **Expanded Coop** | Houses ducks as well as chickens, holds up to 10 birds in total, and includes an **incubator** for hatching eggs into new chicks. |
 | **Barn** | Unlocks after the coop is restored, via the upgrade quest *A Barn in Stable Condition*. Home to the larger residents — cows, sheep, and friends. |
 
-Animals themselves are purchased from the island's livestock-minded villagers once housing is ready; a good relationship with your animals also raises the price Kim or Marty will pay should you ever sell one on.
+Animals themselves are purchased from the island's livestock-minded villagers once housing is ready — Marty the rancher is your dealer for the big animals, with **calves at around 1,500 coins** (maturing to milk-giving adults in about a week) and **lambs at around 1,200 coins** (maturing in about 8 days). A good relationship with your animals also raises the price Kim or Marty will pay should you ever sell one on.
 
 ---
 
@@ -50,9 +50,16 @@ Eggs, milk, and wool feed straight into [Cooking](../crafting/cooking.md) and [A
 
 ---
 
-## Magical Animals
+## Magical Animals ✨
 
-Fairhaven would not be Fairhaven without them. As your witchcraft deepens, certain **magical animals** can join the farm — creatures a mundane barn could never hold. This journal keeps their particulars pressed in the witchcraft pages ([Introduction to Witchcraft](../witchcraft/introduction.md), [Familiars](../witchcraft/familiars.md)); suffice to say here that the barnyard gets stranger, and better, as the story goes on.
+Fairhaven would not be Fairhaven without them: there is a **magical variety of every farm animal**, and breeding one is a matter of devoted feeding rather than luck.
+
+1. Every animal has its own secret **favorite food** — and your **crystal ball** in the sanctum will hint at what each one craves (as of update 1.5, each animal's favorite is randomly assigned and unique to that individual).
+2. **Feed an expecting animal its favorite food every day** of its pregnancy. A properly pampered animal begins to visibly *sparkle*.
+3. A sparkling hen or duck lays a **sparkly egg**, which is guaranteed to hatch a magical chick or duckling in the incubator.
+4. **The current season decides the variety** (coloring) of the magical animal you get — a lovely excuse to breed across all four.
+
+The payoff is more than cosmetic: magical cows give **rainbow milk**, magical ducks lay **golden eggs**, and every magical product opens doors ordinary produce can't. For the witchier side of the menagerie, see [Familiars](../witchcraft/familiars.md).
 
 ---
 

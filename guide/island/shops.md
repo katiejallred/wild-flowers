@@ -63,7 +63,7 @@ The Town Center holds several other verified businesses you'll come to know:
 | **Soft and Son's Fish & Tackle** | The Softs' fishing shop — see [Fishing](../farming/fishing.md). |
 | **The Jewelry Box** | Fine things and gift material. |
 | **Violet's Violets** | The flower shop — fitting, for this island. |
-| **Nailed It!** | The town's nail salon. |
+| **Nailed It!** | Parker Johnson's carpentry business — your partner for the farm's building projects (the greenhouse among them). |
 | **The Bar** | Damon Mthembu-Haas pours here; a favorite evening haunt. |
 
 > A note from the margins: shopping in Fairhaven is never just shopping. Every purchase is a conversation, and conversations become [friendships](../characters/friendship.md).

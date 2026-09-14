@@ -63,7 +63,7 @@ Fairhaven's population is not a fixed pressing — new faces arrive as the seaso
 | Resident | Role | Field notes |
 | --- | --- | --- |
 | Eury Sinclair ♥ | Hair salon owner | Moves to town in Year 2 and opens a salon. Worth the wait. |
-| Giva ♥ | Notes pending further study | Smart, a little awkward, endearingly shy. Give this one time to open up. |
+| Giva Joshi ♥ | Meteorologist | Smart, a little awkward, endearingly shy — on the island to study why its weather is so famously quirky. We wish her the very best of luck with that. 🌙 |
 | Westley ♥ | Bookseller of Ravenwood Hollow | Grew up in Alaska. See below before reading further. |
 
 > ⚠️ **Spoilers — Ravenwood Hollow.** Ravenwood Hollow is a hidden community added in a major update, and its secrets are best discovered in the wild. Among them: Westley is a werewolf, and he came to the island seeking a cure.

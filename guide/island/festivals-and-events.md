@@ -21,7 +21,7 @@ Only festivals I could verify by name are pressed into this page; the town keeps
 
 ### The Fairhaven Summer Festival
 
-The island's flagship celebration. You'll receive a **letter announcing it about fifteen days in advance**, and the town spends that stretch preparing. The festival itself unfolds with traditional ceremony and community celebration in the town square and down at the beach — one of the warmest days of island life, in every sense.
+The island's flagship celebration. You'll receive a **letter announcing it about fifteen days in advance** (from Mayor Otto himself), and the town spends that stretch preparing. The festival itself unfolds with traditional ceremony and community celebration in the town square and down at the beach — crowned each year by the naming of the **Summertide Star**. One of the warmest days of island life, in every sense.
 
 ### The Spring Fling
 

@@ -40,7 +40,7 @@ The favorites are *dishes*, which makes your kitchen the island's most effective
 
 ## Verified General Guidance
 
-Until the per-character almanac fills in, these principles will carry you far:
+Alongside the almanac below, these principles will carry you far:
 
 - **Gift daily, talk daily.** Both raise relationship values; together they compound. No gift is ever *rejected* outright, so an imperfect gift still beats an empty hand.
 - **Coffee is the universal fallback.** Cheap to brew and beloved island-wide — a fresh cup lands nearly as well as a repeated favorite when your pantry has nothing better to offer.
