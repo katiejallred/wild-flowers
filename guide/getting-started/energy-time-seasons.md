@@ -1,64 +1,77 @@
 ---
 title: "🌱 Energy, Time & Seasons"
-description: "How Tara's energy bar, the daily clock, and Fairhaven's player-controlled seasons actually work."
 ---
 # 🌱 Energy, Time & Seasons
 
-Three clocks run in Fairhaven: the energy in Tara's body, the hours in the
-day, and the season on the island. Two of them you manage. The third one —
-delightfully — you *command*.
+Three forces shape every day on Fairhaven: the strength in Tara's arms, the turning of the clock, and the turning of the year. Learn how each one grows and you'll never feel hurried again — because in this game, remarkably, *you* hold the calendar.
 
-## Energy
+---
 
-Every swing of the axe, scoop of the trowel, and cast of the rod draws from
-Tara's **energy bar**. It starts modest and grows as the story progresses, so
-early days feel short — that's normal, not a mistake.
+## Energy: the day's true currency
 
-- **Food restores energy.** Cooked meals beat raw ingredients handily.
-- **Coffee is the thrifty witch's fuel.** It's cheap for the energy it
-  restores — a beloved staple of efficient farmers everywhere.
-- **Spend it all.** Energy doesn't bank overnight. If the bar isn't empty at
-  bedtime, chop some wood or clear some stones on the way in — future Tara
-  will thank you for the lumber.
+Nearly every honest labor costs energy — watering, harvesting, chopping wood, mining, and their kin. Chatting, walking, and shopping are free, so a "spent" Tara can still enjoy a full social evening.
 
-## The day
+**Restoring it:**
 
-The clock rolls on while you work. Around **midnight** the game will warn you
-it's bedtime; linger too long past that and Tara will eventually pass out
-where she stands, waking with less energy the next day. Respect the warning —
-especially out in the woods, because the walk home is longer than it looks
-when you're sleepy.
+- **Sleep** is the great restorative: go to bed and wake with a fresh meter.
+- **Food** refills energy during the day. Cooked meals restore more than raw nibbles — see [Cooking](../crafting/cooking.md) — and it's worth carrying a snack or two whenever you plan a big mining or clearing session.
+- **Coffee** from the diner is a famously economical pick-me-up: cheap, and nearly as restorative as far fancier plates.
+- **Potions**, once your other education begins, include brews that restore energy — a fine reason to keep the [cauldron](../witchcraft/potions.md) bubbling.
 
-Sleeping ends the day, saves your progress, and resets your energy. There's no
-prize for staying up late except regret.
+**Spending it wisely:**
 
-## Seasons — the part that surprises everyone
+- Early on your meter is small, so choose your labors. Watering and quest tasks first; speculative wood-chopping later.
+- Don't end the day with a full meter either — unspent energy is a harvest you left in the field. Forage, fish, or clear a little land with the surplus.
+- **Tool upgrades** (via Natalia at the forge) make chores cost less energy per swing — among the best investments in the game.
 
-Here is the thing to understand before any other planning: **seasons in
-Fairhaven do not change on their own.** There is no 28-day calendar ticking
-toward autumn. The island's seasons are maintained by witchcraft, and once
-Tara is far enough along in the story, changing the season becomes *her job* —
-a proper ritual, performed deliberately, when you decide it's time.
+> 🌿 *Lore aside:* witches speak of a second reservoir — magical energy — fed by other means entirely; the diner's cellar shelf is said to help. Ask the [coven](../witchcraft/introduction.md) about it when you're initiated in such things.
 
-Practical consequences:
+---
 
-- **A season lasts as long as you like.** Want three more weeks of spring to
-  finish your crop collection? Take them.
-- **Story gates the first changes.** Progress with the coven unlocks each
-  seasonal rite in turn; the main quests will walk you there.
-- **Changing seasons wilts out-of-season crops immediately.** Harvest
-  everything you care about *before* the ritual. The game will ask you to
-  confirm before the rite is performed — take the hint and check your fields.
-- **Later, the wheel turns freely.** Once the story concludes, you can cycle
-  seasons at will and settle into whatever rhythm suits you.
+## Time: the daily rhythm
 
-For the ritual itself — and the bits and bobs you'll brew for it — see
-[Spells & Rituals](../witchcraft/spells-and-rituals.html).
+- The clock runs while you play; residents and [shops](../island/shops.md) keep daily schedules, so the hour decides who you can see and where you can spend.
+- **Midnight is the soft curfew.** At 12 AM the game nudges you bedward; linger too long after (around 2 AM) and Tara collapses, waking with a reduced meter the next day. There's no other penalty — no lost items, no missed doom — but a groggy Tara gets less done.
+- Days are otherwise unhurried. Nothing on Fairhaven expires overnight, and story scenes wait patiently for you to trigger them.
 
-## How long is the whole game?
+---
 
-Playing at an unhurried pace, expect a long, full arc — the main story spans
-in-game years, and each day fills whatever real time you give it. This is a
-"pot of tea and a blanket" game, not a lunch-break game.
+## Seasons: the signature twist
 
-<p class="handwritten">turned the season today. felt enormous. watered the turnips after. 🌗</p>
+Here is the flower this game presses that no other does: **seasons never change on their own.** Spring lasts ten days, or fifty, or two hundred — however long you please — because the season only turns when *you* choose to perform the coven's **season-change ritual**, unlocked as the story progresses. (Yes: on Fairhaven, the turning of the year is literally the witches' doing.)
+
+What this means in practice:
+
+| Old habit (other farm sims) | New habit (Wylde Flowers) |
+| --- | --- |
+| Race the calendar before season's end | There is no calendar. Breathe. |
+| Miss a festival, wait a year | Nothing is missable; events wait for you |
+| Plant only what can mature "in time" | Plant anything in season, any day, freely |
+| Dread the season change | *Prepare* for it, then perform it when ready |
+
+**The one iron rule:** when the season changes, **out-of-season crops disappear from your beds.** The ritual is the only moment in the game where you can genuinely lose something. So before you cast it:
+
+1. **Harvest everything** — every Garden Bed, Vegetable Patch row, and greenhouse-bound straggler that won't survive the new season. (See [Crops](../farming/crops.md) for what grows when; the greenhouse is your friend for edge cases.)
+2. **Finish season-flavored business** you care about, though most things carry over just fine.
+3. **Stock up** on any in-season forage or seeds you'll want later.
+4. *Then* light the candles.
+
+<span class="handwritten">the ritual waits for you — the crops won't wait for the ritual 🍂</span>
+
+The main story does ask you to change seasons at certain points to move forward, so you can't stay in an eternal spring *and* finish the tale. But you choose the day, and there is never a reason to jump before your fields are bare and your pantry is full.
+
+---
+
+## A model day, pressed for reference
+
+| Hour | Doing |
+| --- | --- |
+| Morning | Water and harvest; feed anything that moos or clucks |
+| Midday | Town circuit — chats, gifts, shopping, quest steps |
+| Afternoon | Energy work: mining, chopping, [fishing](../farming/fishing.md), foraging |
+| Evening | Cooking, crafting, coven business, story scenes |
+| Before 12 AM | Journal check, then bed |
+
+---
+
+<span class="handwritten">Sign-off tip: treat the season ritual like moving house — you don't do it on a whim, you do it after the boxes are packed. 📦</span>

@@ -1,54 +1,50 @@
 ---
 title: "📜 Chapter 3: Joining the Coven"
-description: "The initiation rite, first incantations, and first brews — Tara becomes a witch. Early-game spoilers."
 ---
 # 📜 Chapter 3: Joining the Coven
 
-<p class="handwritten">spoiler level: 🌿 early-game — Tara's apprenticeship, no identities revealed.</p>
+> ⚠️ Spoilers ahead — the initiation, the first rituals, and a major late-spring loss.
 
-"You're not a witch. Not yet." The High Priestess is nothing if not
-direct: joining the Fairhaven coven isn't a matter of showing up with
-the right surname. **First, you must cast the initiation rite** — and in
-proper Fairhaven fashion, you'll craft every piece of it yourself.
+Here the story grafts Tara onto the old rootstock. The quests in this stretch carry her from curious granddaughter to initiated witch of the Fairhaven Coven — and then ask her heart to bear the hardest turn of the whole first year.
 
-## The apprenticeship
+## The Initiation
 
-The coven teaches by task, each masked member taking a hand in Tara's
-education:
+Joining the coven is a proper ceremony, and the To-Do quests walk you through each solemn step:
 
-- **Incantation lessons.** The **Farseer's** *Incantation Vexation*
-  quests are your formal schooling at the **desk** — ink, paper,
-  reagents, and the craft of writing spells you can carry in a pocket.
-  (Mechanics in [Spells & Rituals](../witchcraft/spells-and-rituals.html).)
-- **Brewing lessons.** Tasks like *Something's Brewing* put you to work
-  at the **cauldron** — brew a batch of **Miracle Grow Potion** and the
-  coven answers with the **Revitalizing Potion** recipe. The pattern
-  holds throughout the game: brew what they ask, and the book grows.
-  ([Potion Brewing](../witchcraft/potions.html) has the fuller picture.)
-- **Gathering, grinding, distilling.** Expect shopping lists — ores for
-  the distillery, shells for the mortar, herbs from the farm. A witch's
-  education is one part wonder, three parts logistics.
+1. **The vow.** Before anything else, Tara must promise never to reveal the location of the circle or the details of its rites, and to abide by the coven's covenants.
+2. **The incantation.** You'll prepare the incantation for the Initiation rite and bring it to the circle.
+3. **The casting.** The High Priestess directs you to give the incantation to **Elder Hazel** — by tradition, she must be the one to cast it over you.
+4. **The robes.** Hazel presents a family gift passed down through generations of Wyldes. When Tara tries on the robes, Hazel remarks that — like all who came before — they fit her beautifully.
 
-## The initiation
+> 🕯️ **Lore:** the coven's ranks have titles — Elder, High Priestess, and masked members known by their animal guises. One of them, the Farseer, will later become your tutor in the craft of incantations.
 
-When your studies suffice, the rite itself arrives: **cast the
-initiation rite** before the assembled coven in the grove. It's a
-milestone in every sense (the achievement list agrees), and the game
-gives the moment its full ceremonial due. Savor it — firsts only happen
-once, even on an island where you'll eventually control time itself.
+---
 
-## Standing in the circle
+## First Magic
 
-Initiated, Tara is the coven's newest member — youngest in standing,
-richest in chores. What you've truly joined:
+With the initiation cast, magic finally unlocks — and from here, **new spells are earned by completing magical tasks for coven members**. Each witch has something to teach, and their quests are how the grimoire fills. The Farseer's quest series **Incantation Vexation** is your formal introduction to crafting incantations.
 
-- **A duty**: the coven maintains the island — seasons, weather, and
-  the **Wellspring**, the source of Fairhaven's magic, of which much,
-  *much* more later.
-- **A mystery**: five masks, five familiar-sounding voices. The game of
-  who's-who begins in earnest now.
-- **A family**: which, given spring's final quests, is about to matter
-  more than you know. Steel yourself gently, and turn to
-  [Chapters 4–6](chapters-04-06.html) when you're ready.
+Get your bearings with:
 
-<p class="handwritten">initiated at moonrise. the masks bowed. one of them sounded like— no. surely not.</p>
+- [Spells & Rituals](../witchcraft/spells-and-rituals.md) — what each spell does and who teaches it
+- [Potions](../witchcraft/potions.md) — the cauldron work the coven will soon expect of you
+
+## Turning the Wheel
+
+You'll also learn the coven's greatest responsibility: **the seasons of Fairhaven only change when the coven performs the season ritual.** When spring has given all it can, the High Priestess sets you the quest **To Summer it Up For You** — brew a **Spirit Flame** potion for the rite that turns spring into summer. Harvest anything you'll miss before you light that flame.
+
+## The End of Spring
+
+Handle this pressing gently, reader. **At the end of the first spring, Hazel passes away.** She leaves everything to Tara — the farm, the house, and her place in the island's story. Her funeral is the first time you'll see all of Fairhaven, believers and skeptics alike, gathered in one place.
+
+It is also where her wish takes root in Tara: that the two halves of the island — coven and town — might one day be one community, unafraid of each other.
+
+Grief, too, is tended the Fairhaven way. Afterwards you can visit Hazel's grave in the town graveyard and **leave flowers**, and Tara is invited to a **grief support group** alongside other townsfolk who have lost someone — Violet, her little brother Sebastián, Juliet, and the mayor's wife among them — small, quiet scenes that are among the most gently written in the game. The town keeps Hazel's memory alive in much of what it does, and so should your margins.
+
+<span class="handwritten">Pressed here: one sprig of rosemary, for remembrance. 🌙</span>
+
+---
+
+**Previous:** [Chapter 2: The Family Secret](chapter-02.md) · **Next:** summer training and gathering clouds in [Chapters 4–6](chapters-04-06.md).
+
+<span class="handwritten">The robes fit. They always fit a Wylde. — K.</span>

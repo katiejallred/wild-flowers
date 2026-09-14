@@ -1,65 +1,68 @@
 ---
 title: "🗺️ Map of Fairhaven"
-description: "A walking tour of Fairhaven Island — farm, town, woods, beach, mountain, mine, and the places maps don't mention."
 ---
 # 🗺️ Map of Fairhaven
 
-Fairhaven is small enough to cross on foot and layered enough to keep
-surprising you for two in-game years. A walking tour, from your own gate
-outward:
+Every field guide needs a map pressed between its pages. Fairhaven is a small, multicultural seaside island — walkable end to end in a game day — and the more of it you restore, the more of it opens to you. Below is a walking tour, sketched region by region, the way a botanist annotates a transect: start at the farm gate and wander outward.
 
-## The farm
+---
 
-Hazel's land — soon yours in every sense. Garden beds, farmhouse (kitchen
-above, a *very* interesting basement below), tool shed, and in time the
-coop, barn, and hay field. A **river** runs through it (river fish live
-here), and a **lake** sits nearby with a certain dilapidated **boat** that
-will one day matter enormously. A bridge project opens the hills above.
+## 🌾 The Wylde Farm
 
-## Town center
+Your grandmother Hazel's farm sits at the heart of your story, on the west side of the island near the [Blacksmith](shops.md). Here you'll find:
 
-The island's beating heart: **Dahl General Store**, the bar, the
-butcher's, the bakery and jewelry shop side by side (as their owners
-prefer it), the doctor's practice, **Cafe Moretti**, **Kai's Treasures**,
-the salon, and **Soft and Son's Fish & Tackle** by the statues. The
-**Town Hall** anchors the square, with the **bulletin board** of requests
-beside it and the flower shop next door. Every business posts its weekly
-hours on a board out front. The shoreline south of town offers ocean
-fishing.
+- **The farmhouse**, with your bed, kitchen, and — eventually — a certain discovery in the basement that changes everything.
+- **Garden beds** for [crops](../farming/crops.md), plus room for orchard trees and beehives (flowers left blooming keep the bees in honey and beeswax — see [Bees & Orchards](../farming/bees-and-orchards.md)).
+- **The barn, coop, and ranch areas**, restorable as the story progresses ([Animals](../farming/animals.md)).
+- **The tool shed**, upgradeable into a proper workshop with crafting stations such as a candle maker and glass kiln ([Crafting Stations](../crafting/stations.md)).
+- **The mine entrance**, conveniently beside the house — many levels of ore and gems await ([Mining & Foraging](../farming/mining-and-foraging.md)).
 
-## The woods
+> Hazel Wylde tended this land for decades before you arrived. The island remembers her fondly — and so will you.
 
-Green, deep, and busier at night than by day. Here you'll find the lake's
-wilder shores, **Shelby's Scraps and Sundries** (the woods' one-man
-economy), and — for those who've earned the knowledge — the **coven's
-grove and stone circle**, where masked figures tend the island's seasons.
-Mind the walk home: it's about an hour and a half of game-time from the
-woods to your bed, which matters at midnight.
+## 🏘️ Town Center
 
-## The beach
+A short walk east brings you to the town square, home to nearly every business on the island. Verified storefronts include the **Dahl General Store**, **Kim's Local Butcher and Deli**, **Cafe Moretti**, the **Blacksmith**, **Dr. Syed's General Practice**, **Kai's Treasures**, **Soft and Son's Fish & Tackle**, **Seton's Bakery**, **The Jewelry Box**, **Violet's Violets**, **Nailed It!**, **The Bar**, the **school**, the **Official Fairhaven Town Hall**, and the headquarters of the **League of the Conscious Mind** — Cameron Conner's skeptics' club, which takes a dim view of anything unexplained. Full shopping notes live in [Shops & Services](shops.md).
 
-Sand, shells (a ritual ingredient, witches note), driftwood, and ocean
-fishing. The sea occasionally coughs up recipes and other surprises for
-patient anglers.
+The Town Hall is where civic life happens; keep an eye on the bulletin board culture of the town generally, since to-do quests for your neighbors are a steady trickle of coins and goodwill.
 
-## The mountain
+<span class="handwritten">the townsfolk keep predictable routines — learn them and you'll never miss a shopkeeper ❀</span>
 
-High country with its own forage, its own waters (home of the elusive
-salmon), and the entrance to the island's greatest vault:
+## ⚓ The Docks & Beach
 
-## The mine
+South of town, the island meets the sea. The beach is prime territory for [fishing](../farming/fishing.md) and beachcombing for forageables and shells, and the docks are where boats (and the occasional new arrival) come in. Kai Hoapili, the island's friendly merchant, keeps his wares near here — see [Shops & Services](shops.md).
 
-Twenty floors of iron, copper, silver, gold, and gems — mapped floor by
-floor in [Mining & Foraging](../farming/mining-and-foraging.html). The
-deepest levels are gated by more than rock; the coven holds the key,
-literally.
+## 🌲 The Woods
 
-## The places beyond the map's edge 🌙
+The forest blankets the island's interior — a forager's paradise of mushrooms, berries, and wild herbs that shift with the season. Early on, a broken **mountain bridge** blocks the path onward; repairing it is a story milestone that opens the mountain region (and brings a certain meteorologist, Giva, to the island).
 
-Fairhaven keeps two geographies the tourist board doesn't mention: the
-**Gloaming**, a magical realm known to witches, and — reached by that
-repaired boat on your lake — **Ravenwood Hollow**, home of the fair folk
-and their own remarkable townsfolk. Both belong to the later story, and
-the [story pages](../story/overview.html) hold their secrets properly.
+## ⛰️ The Mountain
 
-<p class="handwritten">every path on this island loops home eventually. like the island means it that way.</p>
+Beyond the repaired bridge, the mountain offers its own foraging, scenery, and story moments. Higher, wilder, and well worth the climb once the way is open.
+
+---
+
+## 🌙 Magical Places
+
+### The Coven Circle
+
+Hidden away from mundane eyes, the coven circle is where Fairhaven's witches gather. This is where seasonal rituals are cast — the **only** way the season ever changes in Wylde Flowers ([Energy, Time & Seasons](../getting-started/energy-time-seasons.md)). Later in your journey you take on the role of **Keeper of the Wheel**, making offerings so the ritual can be performed. See [Spells & Rituals](../witchcraft/spells-and-rituals.md).
+
+### The Gloaming
+
+A twilight otherworld reachable only by magic. The coven ventures here for rare ritual ingredients — Dragon's Blood among them — and it is unlike anywhere else on the island. Tread respectfully.
+
+### Ravenwood Hollow
+
+> ⚠️ **Spoilers** — Ravenwood Hollow was added in a major free update and is hidden until the story reveals it. Skip ahead if you'd rather be surprised!
+
+Ravenwood Hollow is a secret community of magical folk — fae and stranger neighbors still — tucked away from Fairhaven proper. Among its residents is **Westley Vuk**, a dapper, folklore-loving werewolf who keeps the Hollow's bookshop and has long sought a cure for his condition (he's also a [romance option](../characters/romance.md)). Once discovered, the Hollow becomes part of your regular rounds, with its own faces, favors, and wonders.
+
+---
+
+## 🧭 Getting Around
+
+- The island is compact; walking is pleasant, but a witch need not always walk. Broomstick flight, once learned, is the botanist's preferred survey method ([Introduction to Witchcraft](../witchcraft/introduction.md)).
+- Regions unlock with the story: restore, repair, and befriend, and the map keeps growing.
+- When in doubt about where someone is, check the time of day and their usual haunts — routines here are as reliable as the tides.
+
+<span class="handwritten">sign-off tip: fly the whole island at dusk once — you'll spot forage spots you never knew were there ❀</span>

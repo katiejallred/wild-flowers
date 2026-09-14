@@ -1,54 +1,75 @@
 ---
 title: "🚜 Animals & the Barn"
-description: "Raising chickens, ducks, cows, and sheep in Wylde Flowers — plus the secret to breeding magical animals."
 ---
 # 🚜 Animals & the Barn
 
-Once the story unlocks the coop and barn, Hazel's farm gains its heartbeat:
-clucking, mooing, and — if you play your cards exactly right — *sparkling*.
+No field journal is complete without its fauna. The Wylde farm keeps a warm-blooded ledger alongside the green one: hens fussing in the coop, cows steaming in the morning barn, and — this being Fairhaven — a few residents rather more magical than the average pullet.
 
-## Where animals come from
+> Hazel's farm remembers when these buildings were full. Restoring them is as much an act of family history as of husbandry.
 
-**Marty** is your livestock supplier. Young animals are an investment that
-matures:
+---
 
-| Animal | Bought as | Approx. cost | Matures in | Produces |
-|---|---|---|---|---|
-| Cow | Calf | 1,500 coins | about a week | Milk, at least one per day |
-| Sheep | Lamb | 1,200 coins | about 8 days | Wool, roughly every 3 days |
-| Chickens & ducks | Hatched from eggs in the coop | — | — | Eggs |
+## Acquiring & Housing
 
-Chickens come in a happy variety of colors, and breeding more is as simple as
-letting the coop hatch an egg.
+Animal-keeping unlocks in stages as you restore the farm's buildings:
 
-## Daily care
+| Building | Notes from the field |
+| --- | --- |
+| **Chicken Coop** | Your first restoration project — home to chickens. |
+| **Expanded Coop** | Houses ducks as well as chickens, holds up to 10 birds in total, and includes an **incubator** for hatching eggs into new chicks. |
+| **Barn** | Unlocks after the coop is restored, via the upgrade quest *A Barn in Stable Condition*. Home to the larger residents — cows, sheep, and friends. |
 
-- **Feed:** barn animals want a serving of **hay each day** — until you build
-  the **Hay Field**, after which they graze and feed themselves. Build the
-  hay field. Retire from the hay business.
-- **Pet everything daily.** Affection is real: animals you've befriended are
-  worth more if you ever sell them on (Kim and Marty are your buyers), and
-  the wool/milk/egg pipeline runs sweeter on a happy farm.
-- **Products fuel the artisan shed.** Milk becomes cheese, wool becomes cloth
-  — see [Artisan Goods](../crafting/artisan-goods.html).
+Animals themselves are purchased from the island's livestock-minded villagers once housing is ready — Marty the rancher is your dealer for the big animals, with **calves at around 1,500 coins** (maturing to milk-giving adults in about a week) and **lambs at around 1,200 coins** (maturing in about 8 days). A good relationship with your animals also raises the price Kim or Marty will pay should you ever sell one on.
 
-## ✨ Magical animals
+---
 
-The farm's best-kept secret, and it's worth every step. There is a **magical
-variety of every farm animal**, obtained through devoted feeding:
+## Daily Care
 
-1. Every animal has a secret **favorite food**. Your **crystal ball** in the
-   sanctum will hint at what each animal craves — yes, the witchcraft and the
-   farming halves of this game are friends.
-2. **Feed an expecting animal its favorite food every day** of its pregnancy.
-   A properly pampered animal begins to *sparkle*.
-3. A sparkling hen or duck lays a **sparkly egg** — which is guaranteed to
-   hatch a magical chick or duckling.
-4. The **season you're in decides the variety** (coloring) of the magical
-   animal you get — a lovely excuse to breed across all four.
+- **Feed the barn animals.** Cows and sheep each need one serving of hay per day — until you build the **Hay Field**, after which they graze for themselves and cross feeding off your morning list.
+- **Never skip a day.** An animal left unfed for a single day falls ill, and curing it requires a **Cure Animal Sickness Potion** from your cauldron ([Potions](../witchcraft/potions.md)). Prevention is considerably cheaper than the ingredient list.
+- **Pet everyone.** A daily pat raises your relationship with each animal.
 
-The payoff is more than cosmetic: magical cows give **rainbow milk**, magical
-ducks lay **golden eggs**, and every magical product opens doors ordinary
-produce can't.
+<span class="handwritten">the hay field pays for itself in saved mornings alone 🌾</span>
 
-<p class="handwritten">the magical calf arrived at dawn. iridescent. gramma would have wept. ✨🐄</p>
+A note for the efficiency-minded: affection does **not** change how much or how well your animals produce — the milk flows regardless. What petting improves is the animal's value if sold, and, frankly, the mood of the farm.
+
+---
+
+## The Produce Ledger
+
+| Animal | Produce | Rhythm |
+| --- | --- | --- |
+| Chicken | Eggs | Regular layers; eggs can also be incubated into chicks. |
+| Duck | Eggs | Lays like her coop-mate, with her own charm. |
+| Cow | Milk | At least one milk per day from each adult. |
+| Sheep | Wool | One wool roughly every 3 days per adult. |
+| Alpaca | Wool | Sheared just like a sheep. |
+| Pig | Truffles | An adult pig will *sometimes* present you a truffle when petted — affection with dividends. |
+
+Eggs, milk, and wool feed straight into [Cooking](../crafting/cooking.md) and [Artisan Goods](../crafting/artisan-goods.md) — cheese, cloth, and finer things — where their value multiplies. Wool pairs naturally with the cotton economy noted in the [Crop Guide](crops.md).
+
+---
+
+## Magical Animals ✨
+
+Fairhaven would not be Fairhaven without them: there is a **magical variety of every farm animal**, and breeding one is a matter of devoted feeding rather than luck.
+
+1. Every animal has its own secret **favorite food** — and your **crystal ball** in the sanctum will hint at what each one craves (as of update 1.5, each animal's favorite is randomly assigned and unique to that individual).
+2. **Feed an expecting animal its favorite food every day** of its pregnancy. A properly pampered animal begins to visibly *sparkle*.
+3. A sparkling hen or duck lays a **sparkly egg**, which is guaranteed to hatch a magical chick or duckling in the incubator.
+4. **The current season decides the variety** (coloring) of the magical animal you get — a lovely excuse to breed across all four.
+
+The payoff is more than cosmetic: magical cows give **rainbow milk**, magical ducks lay **golden eggs**, and every magical product opens doors ordinary produce can't. For the witchier side of the menagerie, see [Familiars](../witchcraft/familiars.md).
+
+---
+
+## A Morning Routine That Works
+
+1. Pet and feed the coop birds; collect eggs.
+2. Pet the barn crowd; deliver hay (or bless your Hay Field); collect milk and any wool due.
+3. Pet the pigs and hold out hope for truffles.
+4. Then to the beds and the Water Pot ([Farming 101](farming-101.md)).
+
+---
+
+<span class="handwritten">sign-off tip: keep one Cure Animal Sickness Potion on the shelf before you think you need it — sick cows keep no schedule 🐄</span>

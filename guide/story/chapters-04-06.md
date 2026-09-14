@@ -1,71 +1,50 @@
 ---
 title: "📜 Chapters 4–6"
-description: "Hazel's farewell, the first season ritual, the Summer Festival, and unmasking the coven. Major mid-game spoilers."
 ---
 # 📜 Chapters 4–6
 
-<p class="handwritten">spoiler level: 🍂 heavy — spring's ending, and every mask on the island. truly, turn back if unspoiled.</p>
+> ⚠️ Spoilers ahead — summer and autumn of Year 1: coven training, festivals, and the League's rising voice.
 
-## Chapter 4: The Longest Spring
+The middle seasons of the first year are the long, warm rows of this story: quest after quest of coven training and town life, with something colder germinating underneath. The game doesn't number these as formal chapters, so this page presses the whole summer-and-autumn stretch into one spread.
 
-The first spring ends, and the game breaks your heart with both hands:
-**Hazel dies.** Not as a twist — as a season turning. She leaves
-everything to Tara: the farm, the sanctum, the place in the coven, and
-an island's worth of people who loved her.
+## Summer: Apprentice Work
 
-The story's tenderest stretch follows. Tara is invited to a **grief
-support group**, and it's no throwaway scene — **Violet**, her little
-brother **Sebastian**, **Juliet**, and the mayor's wife share the room
-and their own losses. The game sits with grief honestly and
-unhurriedly, and it's among the finest writing in the genre. Don't rush
-this part. It isn't asking you to.
+With Hazel gone and the summer ritual cast, the coven takes Tara firmly under its wing. The quests in this stretch are largely **magical tasks for coven members** — each one deepens a bond and unlocks another page of your grimoire:
 
-*Practical note: the farm carries on, and so does the To-Do list —
-gently, deliberately. Working the land Hazel left you **is** the
-grieving.*
+- Incantation practice continues under the Farseer (the **Incantation Vexation** series, if you haven't finished it).
+- Cauldron work picks up — keep ingredients stocked; see [Potions](../witchcraft/potions.md).
+- Coven members reveal more of themselves with every task. You'll come to know the people behind several masks, and to understand how much of Fairhaven's ordinary life the coven quietly keeps in bloom.
 
-## Chapter 5: To Summer It Up For You
+Between rites, it's still a farm: summer crops, [bees and orchards](../farming/bees-and-orchards.md), and the season's [festivals and recipes](../island/festivals-and-events.md) all want your attention. The summer's centerpiece arrives by post — a letter announcing the **Fairhaven Summer Festival** and starting a **15-day countdown** of town-wide preparations, capped by the crowning of the year's **Summertide Star**. Every season brings its own festival days and seasonal dishes — don't let the witching crowd them out.
 
-Spring cannot end itself — that duty is now Tara's. The quest *To
-Summer It Up For You* teaches the island's grandest magic:
+> 🌻 **Field note:** the seasons wait for you. Until you brew and cast the next ritual, summer simply continues — so linger as long as your ledger likes.
 
-1. **Brew a Spirit Flame** — wanting an **Essence of Copper** (2 copper
-   ore, distilled) and **Powdered Calcium** (2 seashells, ground). The
-   mine and the beach are ritual suppliers now.
-2. **HARVEST EVERYTHING.** The rite wilts every spring crop instantly.
-   The High Priestess will ask if you're ready — check your fields
-   before you say yes.
-3. **Cast the Summer Ritual Incantation** at the stone circle, coven
-   assembled.
+---
 
-The season turns because *you* turned it (and the achievement list
-notes the milestone). Fairhaven's warmth answers immediately —
-including a letter from Mayor Otto: the **Summer Festival** is coming,
-fifteen days out. Preparations, town bustle, and the crowning of the
-year's **Summertide Star** follow. Be present for all of it.
+## Autumn: The League Grows Bolder
 
-## Chapter 6: The Unmasking
+As the year turns, the story's other strand thickens. **Cameron Conner** and his **League of the Conscious Mind** grow louder — sermons about unseen influences, warnings about hidden corruption on the island, and a widening wariness among the townsfolk. The quests in this stretch put Tara squarely in the middle: a public citizen by day, a masked witch by night, watching neighbours she loves drift toward suspicion of the very coven she belongs to.
 
-With Tara initiated and trusted, the coven's great parlor game opens:
-**identity quests**, one per mask, each a small investigation into a
-fellow witch. Solving them is the summer's connective tissue — and the
-reveals reward every suspicion you've been nursing:
+Play both sides of your life deliberately:
 
-| The mask | The face beneath |
-|---|---|
-| **The Farseer** | **Shelby** — the woods-dwelling dealer in scraps, sundries, and apparently *futures* |
-| **The Adept** | **Amira** — the good doctor's bedside manner extends to the arcane |
-| **The Journeyman** | **Damon** — the bar's quiet keeper, quieter about this |
-| **The Acolyte** | **Violet** — the flower shop was never *just* a flower shop |
-| **The High Priestess** | **Lina** — the general store's own, and Tara's oldest friend on the island |
+| Tend | How |
+| --- | --- |
+| The coven | Keep completing magical tasks; every spell earned now matters later |
+| The town | Keep [friendships](../characters/friendship.md) warm — including with League folk. Cameron himself is a neighbour, not a cartoon |
+| The farm | Autumn crops and preserves fund everything; see [Crops](../farming/crops.md) |
 
-Each unmasking deepens a friendship and opens new coven business —
-among the practical fruits, the coven's questline eventually yields the
-**Deep Mine key** that opens the mine below floor 14
-([Mining & Foraging](../farming/mining-and-foraging.html)).
+Autumn also crowds the town calendar with distinctly unmagical drama — an **election** stirs Town Hall, and a **wedding** brings out everyone's good coats. Fairhaven's ordinary life doesn't pause for witchcraft, which is rather the point of the whole story.
 
-Summer belongs to community. What comes next belongs to mystery — a
-rebuilt boat, a twilight realm, and a stranger called Raven.
-[Chapters 7–9](chapters-07-09.html) await.
+## The Turning Toward Winter
 
-<p class="handwritten">pressed beneath this page: one spring flower from her garden. the last one. 🌸</p>
+Autumn closes as every season must — by your own hand. The High Priestess sets **Season's Greetings**: craft a **Winter Ritual Incantation** and a **Spirit Flame** for the rite that brings the snow. Stock firewood and finish your harvest first.
+
+And note, in your steadiest hand: by now there are signs that something genuinely *is* wrong on the island — odd disturbances the coven cannot fully explain. The League blames witches. The witches suspect something older and angrier. Winter will tell.
+
+<span class="handwritten">Two gardens, one gardener. I water them both and hope neither notices the other. 🌙</span>
+
+---
+
+**Previous:** [Chapter 3: Joining the Coven](chapter-03.md) · **Next:** the frost and the fury in [Chapters 7–9](chapters-07-09.md).
+
+<span class="handwritten">Autumn's last entry: the bees are asleep, the town is not. — K.</span>

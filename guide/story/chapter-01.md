@@ -1,53 +1,53 @@
 ---
 title: "📜 Chapter 1: A New Leaf"
-description: "Tara's arrival on Fairhaven — the first days, first neighbors, and first quests. Nearly spoiler-free."
 ---
 # 📜 Chapter 1: A New Leaf
 
-<p class="handwritten">spoiler level: 🌱 the gentlest — nothing beyond the game's opening days.</p>
+> 🌱 Only the gentlest of spoilers here — this chapter covers the game's opening hours.
 
-The ferry brings Tara Wylde home to an island she barely remembers, to
-help the grandmother she loves: **Hazel** isn't doing so well, and the
-farm needs hands. That's the whole of chapter one — and it's lovelier
-than it sounds.
+Every pressed flower begins as a cutting from somewhere else. So it is with Tara Wylde, who steps off the boat at Fairhaven with city dust still on her boots, come to care for her grandmother Hazel — eighty-two years old, ailing, and utterly undimmed — and to keep the Wylde family farm from going to seed.
 
-## Walkthrough
+## Settling In at the Farm
 
-**Arrive, and be arrived at.** The opening walks you off the boat and
-into introductions. The town takes an immediate interest in Hazel's
-granddaughter — let it. Warmth is the local currency.
+Your first To-Do quests are the game's tutorial, and they are pure farmhand's work:
 
-**Learn the farm.** Hazel's tutorials cover the essentials: clearing
-beds, planting, watering, harvesting. Follow the To-Do list; it will
-pace you kindly. (Mechanical footnotes live in
-[Farming 101](../farming/farming-101.html).)
+- **Learn the land** — till a plot, plant seeds, water them, and harvest your first crops.
+- **Stock up** — visit Lina at the general store for seeds and supplies.
+- **Tend the homestead** — Hazel will point you toward the daily rhythms of the farm.
 
-**Meet everyone.** Mayor **Otto** asks Tara to introduce herself around
-town — do it thoroughly. Every introduction opens a friendship, several
-open quests, and meeting the whole town earns a milestone. The
-[Character Directory](../characters/directory.html) can help you keep
-names straight, and shop-front boards tell you when doors open.
+Don't rush this stretch. The habits you plant now — water in the morning, forage on the walk to town, sleep before your energy bottoms out — will carry you through the whole story. Root yourself with [Farming 101](../farming/farming-101.md) and [Energy, Time & Seasons](../getting-started/energy-time-seasons.md).
 
-**Pick up the rod.** **Bruno** at the tackle shop will start your
-fishing career with a free rod and bait — accept, and try the lake in
-the woods when he suggests it.
+> 🌾 The farm is Hazel's life's work. The game never says so outright in these first hours, but everything you plant here is a promise to her.
 
-**Check the bulletin board** beside the Town Hall for your first
-neighborly requests.
+---
 
-## What this chapter is really doing
+## Meeting the Town
 
-Quietly, beneath the tutorials: you're being introduced to a *home*. The
-game spends these days building what the rest of the story will draw
-on — your fondness for these people, this farm, and above all for Hazel
-herself. Talk to your grandmother every day. Not for the quest log.
+Once your hands are dirty, Fairhaven itself opens up. Mayor Otto Soft sets you one of the game's first and most charming quests — **The Most Elaborate Icebreaker** — which asks you to seek out and greet every villager on the island.
 
-## Signs of things to come 🌙
+Take it seriously, with a specimen-collector's patience:
 
-Attentive new arrivals may notice… a certain quality to Fairhaven.
-Odd weather. A grandmother who keeps her own hours. Doors in the
-farmhouse you haven't been shown behind. The journal writes no more
-here — turn to [Chapter 2](chapter-02.html) when the game shows you
-what's what.
+- Villagers keep their **own daily routines**, so a few are easy to miss — check the docks, the diner, the church grounds, and the beach at different hours.
+- Early on you can't enter most houses, so catch people while they're out and about.
+- Friendly faces like **Sophia** at the diner and **Damon** will help steer your earliest errands.
 
-<p class="handwritten">first entry. hands blistered. heart full. gramma hums at night — must ask about that.</p>
+A full pressing of who's who lives in the [Character Directory](../characters/directory.md), and the [Where-to-find-them tips in Welcome to Fairhaven](../getting-started/welcome-to-fairhaven.md) will save you some wandering.
+
+## Small Oddities, Carefully Noted
+
+Even in these sunny first days, an observant field botanist will spot things that don't quite belong: neighbours who trail off mid-sentence, a grandmother who seems to know more than she says, and a certain guardedness whenever the island's old stories come up. Note them in your margins. They will matter.
+
+<span class="handwritten">Hazel's tea smells of herbs I cannot name. Curious. 🌙</span>
+
+## Checklist Before Chapter 2
+
+- [ ] Farm tutorial quests complete, first harvest sold
+- [ ] The Most Elaborate Icebreaker finished — every villager greeted
+- [ ] A little pocket money saved (see [Money Making](../reference/money-making.md))
+- [ ] Time spent with Hazel whenever the story offers it
+
+---
+
+**Next:** the island's secrets begin to unfurl in [Chapter 2: The Family Secret](chapter-02.md). Or return to the [Chapter Guide Overview](overview.md).
+
+<span class="handwritten">First specimen collected: one new life, freshly transplanted. It seems to be taking root. — K.</span>

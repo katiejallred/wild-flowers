@@ -1,58 +1,50 @@
 ---
 title: "📜 Side Quests"
-description: "Fairhaven's To-Do quests beyond the main story — bulletin board favors, coven tasks, and beloved detours."
 ---
 # 📜 Side Quests
 
-<p class="handwritten">spoiler level: 🌱 mild — quest names and sources, no story surprises.</p>
+Between the great turnings of the main story, Fairhaven hums with smaller growth: character quests, favours, and requests. These are the wildflowers between the crop rows — entirely optional, and entirely the point.
 
-Between the story's great beats, Fairhaven hums with smaller business —
-and in this game, "side" never means "skippable filler." Side quests
-carry recipes, friendships, whole characters' inner lives, and some of
-the island's best jokes.
+## How Side Quests Sprout
 
-## Where side quests come from
+Villagers add their own entries to your **To-Do list** as you get to know them. They generally take a few familiar shapes:
 
-- **The bulletin board**, beside the Town Hall — the town's steady
-  stream of neighborly requests. Check it on every trip to the square.
-- **Letters** — the farmhouse mailbox delivers invitations, follow-ups,
-  and festival news. Read everything.
-- **Conversations** — friends confide needs directly as your bonds
-  deepen; many personal quest lines start as a chat.
-- **The coven** — beyond the main story, the masked keep a witch busy:
-  brewing assignments, gathering runs, and the beloved **identity
-  quests** (covered, with their spoilers, in
-  [Chapters 4–6](chapters-04-06.html)).
-- **The seasons** — each turn of the wheel surfaces its own batch of
-  seasonal tasks and event preparations.
+| Shape | What it looks like |
+| --- | --- |
+| Item requests | A neighbour asks for a crop, a dish, a potion, or a crafted good |
+| Favours & errands | Deliver something, fetch someone, help set up an event |
+| Story scenes | Multi-step personal quests that unfold a villager's own tale |
+| Coven tasks | Magical requests from fellow witches — these are also how [spells unlock](../witchcraft/spells-and-rituals.md) |
 
-## A sampler of detours
+The exchange rate is always in your favour: completing a character's quests **deepens your relationship** with them and **unlocks new scenes** — the confessions, backstories, and small comedies that are this game's real harvest. Higher friendship, in turn, tends to sprout further quests. See [Friendship](../characters/friendship.md) for the mechanics and [Gift Preferences](../characters/gift-preferences.md) for keeping everyone sweet between quests.
 
-A few named quests, spoiler-free, to show the range:
+> 🌼 **Field note:** many requests want cooked dishes or seasonal goods, so a well-stocked pantry is a social asset. Keep a shelf of crowd-pleasers from the [Cooking](../crafting/cooking.md) guide, and check the [seasonal recipes](../island/festivals-and-events.md) each season brings.
 
-- ***Incantation Vexation*** — the Farseer's course in spellcraft; part
-  tutorial, part personality showcase.
-- ***Something's Brewing*** — cauldron homework with a recipe reward
-  (see [Potion Brewing](../witchcraft/potions.html)).
-- ***Meant To Bee*** — the island's apiary interests, pursued with the
-  pun fully intended.
-- ***Oh, Chute*** — in which Giva's meteorological enthusiasm becomes…
-  kinetic. Giva quests are reliably a delight.
-- ***Steeped in Mystery*** and ***A Ship Saildom Seen*** — the road to
-  the fair folk, which promptly graduates from side business to main
-  plot ([Chapters 7–9](chapters-07-09.html)).
-- ***Witch Way Did She Go*** — filed here without comment, except to
-  say the title's pun is load-bearing.
+---
 
-## Side quest wisdom
+## Verified Specimens
 
-1. **Do favors promptly.** Quests done for a person build more
-   friendship than gifts — favors are the express lane.
-2. **Read quest names twice.** The puns are canon, constant, and
-   quietly excellent. Someone at Studio Drydock had *fun*.
-3. **Nothing respectable is lost by lingering.** Fairhaven's patience
-   extends to its errands; the board will hold your place.
-4. **Say yes to weird requests.** The odder the ask, the better the
-   scene at the end of it. This island rewards trust.
+A few pressed examples, so you know the genus when you see it:
 
-<p class="handwritten">today's board: deliver cheese, find a hat, assist with "a small weather experiment." ordinary tuesday.</p>
+- **The Most Elaborate Icebreaker** — Mayor Otto's opening request that you greet every villager on the island; the seed from which all your friendships grow. ([Chapter 1](chapter-01.md))
+- **Incantation Vexation** — the Farseer's quest series introducing incantation crafting; coven side-work that doubles as your magical schooling. ([Chapter 3](chapter-03.md))
+- **Meant To Bee** — the quest that formalizes your beekeeping career, pun fully intended ([Bees & Orchards](../farming/bees-and-orchards.md)).
+- **Oh, Chute** — in which Giva's scientific enthusiasm becomes… kinetic. Giva quests are reliably a delight.
+- **The Silent Treatment** — a winter request from Thomas and Marty: brew a Silencing Potion for Westley, the resident werewolf, whose howling keeps the neighbourhood awake. Equal parts errand and kindness.
+- **Swept Off Your Feet** — Zephyr Grimspark's quest that unlocks **fast travel by broom**: bring her 1× Essence of Silver, 1× Levitation Potion, and the broom from Gramma's room. Every field botanist eventually earns her wings.
+- **A League of One's Own** — post-story, Cameron asks for 10× Paper and 2× Black Ink to write mending sermons. A small quest carrying a large heart. ([Final Chapters](final-chapters.md))
+
+Character quest lines also grow around the island's couples and families — Angus and Francis, the Johnsons, the Softs — and around later arrivals like Eury Sinclair and the folk of Ravenwood Hollow, whose quest lines (such as the series that begins during Eury's *Glam-more* storyline) arrived with the free updates.
+
+## A Botanist's Advice
+
+1. **Say yes to everything.** Side quests are never wasted; even humble fetch-quests water a friendship.
+2. **Read your To-Do list daily.** Requests can arrive quietly, and some are seasonal — a winter favour won't wait through three summers gracefully.
+3. **Court the coven especially.** Their tasks are the only path to new spells.
+4. **Romancing someone?** Their personal quests are the trellis the whole [romance](../characters/romance.md) climbs.
+
+---
+
+**See also:** the [Chapter Guide Overview](overview.md) for how the main stalk grows, and the [Character Directory](../characters/directory.md) for who's who among your neighbours.
+
+<span class="handwritten">The main story is the oak. These are the mosses, and I love them more. — K. 🌙</span>

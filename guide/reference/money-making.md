@@ -1,66 +1,82 @@
 ---
 title: "💰 Money-Making Guide"
-description: "The best coin on Fairhaven, era by era — crops, cooking, cheese, gems, and the right buyer for everything."
 ---
 # 💰 Money-Making Guide
 
-Fairhaven never demands wealth — but wood, iron, and coin buy every
-upgrade, and upgrades buy time and joy. Here's how the coin flows,
-pressed in order of your farming career.
+Coins grow in Fairhaven the way anything grows: patiently, and best when you understand the soil. This page presses the island's most profitable specimens between its pages, from crop economics to gemstones. Remember the golden rule of Wylde Flowers finance: **because seasons only change when you cast the ritual, you can farm a profitable season for as long as you like.**
 
-## Early days: honest sweat
+---
 
-- **Quick crops.** Turnips (about 4 days, ~60 coins) teach the rhythm;
-  potatoes (about 7 days, ~80) fatten it. Every expansion of the garden
-  multiplies this whole page.
-- **Fish.** Zero seed money, steady returns, and dinner besides. The
-  rod pays from day one.
-- **Forage everything.** The beach, forest, and mountain are strewn
-  with free goods — and **Shelby** in the woods pays for exactly that
-  sort of thing.
-- **Spend energy to the last drop** — unspent energy is unearned coin.
+## 🌾 Crops: The Reliable Backbone
 
-## The middle game: work smarter
+Measured in coins earned per day of growth, the standouts are:
 
-- **Cook before selling.** A dish generally outsells its raw
-  ingredients — surplus crops want a saucepan on the way to market.
-  (And coffee-fueled long days are themselves an investment; see
-  [Beginner Tips](../getting-started/beginner-tips.html).)
-- **Regrowing crops win long seasons.** Since seasons last as long as
-  you like, crops that keep producing after maturity out-earn
-  single-harvest ones bed-for-bed. In the cold months, **fennel** is
-  the famous earner.
-- **The mine is a savings account with a ladder in it.** Ore funds
-  tools; gems are pure profit — sell sparkle to **Francis** the
-  jeweler. Upgrade the pickaxe first; it repays itself fast
-  ([Mining & Foraging](../farming/mining-and-foraging.html)).
+| Crop | Season | Approx. profit | Why it shines |
+|---|---|---|---|
+| **Cotton → Cloth** | (see [Crops](../farming/crops.md)) | ~39 coins/day | The best earner in the game — but only after processing into cloth on the loom |
+| **Fennel** | Fall & Winter | ~29.5 coins/day | The best straight-sale crop of the cold seasons |
+| **Sunflowers** | Summer | best summer flower | Strong sale price, and flowers feed your bees while they bloom |
 
-## The estate era: pipelines, not chores
+Working principles:
 
-- **Artisan goods are the endgame economy.** Milk → cheese, wool →
-  cloth, fruit → wine and juice, beeswax → candles: every station in
-  the shed adds margin while you're off living your life
-  ([Artisan Goods](../crafting/artisan-goods.html)).
-- **Magical animal products** — rainbow milk, golden eggs — crown the
-  price list ([Animals & the Barn](../farming/animals.html)).
-- **Orchards and hives** produce in every season with almost no labor:
-  the passive-income wing of the farm.
+- **Cotton is a manufacturing business, not a crop.** Raw cotton is unremarkable; woven into **cloth** it becomes the island's best money-per-day. Keep the loom busy ([Crafting Stations](../crafting/stations.md)).
+- **Fennel is the cold-season workhorse.** Plant it wall-to-wall in fall and winter and simply linger in those seasons while the coins accumulate.
+- **Flowers pay twice.** A blooming flower left unharvested feeds your **beehives**, producing honey and beeswax on the side ([Bees & Orchards](../farming/bees-and-orchards.md)). Sunflowers in summer are the pick of the bunch.
 
-## Sell to the right counter
+<span class="handwritten">don't cast the ritual while the fennel's still paying rent ❀</span>
+
+## 🧀 Artisan Processing
+
+As a rule of thumb across the island's economy: **processed goods out-earn raw ingredients.** Before selling anything raw, ask whether a crafting station could improve it first:
+
+- Milk and eggs into finished goods; ores into ingots at the [Blacksmith](../island/shops.md); beeswax into candles; cotton into cloth.
+- Cooking can also add value — some [recipes](../crafting/cooking.md) sell for more than the sum of their ingredients, and cooked food doubles as energy for longer working days.
+- See [Artisan Goods](../crafting/artisan-goods.md) for the full catalog of what transforms into what.
+
+## 🐄 Animal Products
+
+Animals are steady, low-effort income once established: daily eggs, milk, and wool with only feeding and affection asked in return. Two notes from the ledger:
+
+- Happy animals are productive animals — keep up the daily attention ([Animals](../farming/animals.md)).
+- Kim's butcher shop will **buy adult animals** for coins and resources, useful when the barn is full or the ledger is thin ([Shops](../island/shops.md)).
+
+## 🎣 Fishing
+
+Fishing is honest supplementary income — no seeds to buy, no beds to water. Catches vary in value by species and location, and rarer fish fetch better prices. It shines early game (before your farm scales up) and as a use for evening hours. See [Fishing](../farming/fishing.md).
+
+## ⛏️ Mining & Gems
+
+The mine beside your farmhouse runs many levels deep:
+
+- **Ores** are usually worth more as **ingots**, and more still as upgraded tools that speed up everything else — often the better "investment" than a straight sale.
+- **Gems** are the mine's cash crop: sell the spares, but note some are wanted for quests, gifts, and [witchcraft](../witchcraft/potions.md) — check before liquidating.
+- Details in [Mining & Foraging](../farming/mining-and-foraging.md).
+
+## 📋 Quests & To-Dos
+
+Neighbors' **to-do quests** pay coins for things you're often producing anyway. Completing them steadily is real income — the game even celebrates bulletin milestones — and every quest builds [friendship](../characters/friendship.md) alongside the fee. Check for new requests regularly and match them to your surplus.
+
+---
+
+## 🗓️ A Season-by-Season Sketch
+
+| Season | Money strategy |
+|---|---|
+| **Spring** | Establish crops and infrastructure; fish and forage to fill gaps. |
+| **Summer** | Sunflowers for bees and sale; cotton for the loom. |
+| **Fall** | Fennel fields; harvest everything before any ritual. |
+| **Winter** | More fennel; lean on artisan goods, animals, and the mine. |
+
+## 🏪 Sell to the Right Counter
 
 | Goods | Buyer |
 |---|---|
-| Crops & produce | **Lina**, Dahl General Store |
-| Baked goods | **Angus**, Seton's Bakery |
-| Gems | **Francis**, the jeweler |
-| Forage & beach finds | **Shelby**, Scraps and Sundries |
-| Retiring livestock | **Kim** or **Marty** — better prices for well-loved animals |
+| Crops & produce | Lina, at the Dahl General Store |
+| Baked goods | Angus, at Seton's Bakery — he'll happily buy your desserts |
+| Cloth & finery | Kai, at Kai's Treasures |
+| Forage & beach finds | Shelby, at Scraps and Sundries in the woods |
+| Retiring livestock | Kim or Marty — better prices for well-loved animals |
 
-## The philosophy of Fairhaven wealth
+> Lore aside: Hazel kept this farm afloat for decades without min-maxing a single coin. Profit is lovely, but in Fairhaven the real currency is casseroles delivered to neighbors.
 
-Every coin sink in the game — buildings, stations, boats — converts
-money into *capability*, and capability into free time. The correct
-amount of money is "enough for the next dream, plus tea." This island
-does not do stock tickers.
-
-<p class="handwritten">net worth: one farm, one boat, one coven, forty wheels of cheese. rich.</p>
+<span class="handwritten">sign-off tip: pick ONE engine per season — fennel, cloth, or bees — and let it run; scattered plots make scattered profits ❀</span>

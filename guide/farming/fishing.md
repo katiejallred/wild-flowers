@@ -1,51 +1,71 @@
 ---
 title: "🎣 Fishing"
-description: "How fishing works in Wylde Flowers — Bruno's tackle shop, bait types, and where each family of fish lives."
 ---
 # 🎣 Fishing
 
-Fishing in Fairhaven is mercifully unfussy: no perfect-timing minigame
-punishing your reflexes, no fish that only appears on rainy Tuesdays. Find
-water, bring bait, be patient.
+When the beds are watered and the animals fed, the water calls. Fishing in Fairhaven is a gentle, forgiving craft — and, pleasingly for a journal-keeper, a wonderfully *systematic* one. Every fish files itself neatly by location and bait, with none of the fickle luck other islands suffer.
 
-## Getting started
+---
 
-See **Bruno** at the fish and tackle shop in the middle of town, near the
-statues. He'll hand you your first **rod** and a few pieces of **bait**, and
-send you to the lake in the woods to learn the trade. From then on: stand by
-water, cast, wait for the bite, reel.
+## Getting Started
 
-## Bait
+Fishing unlocks when you meet **Bruno Soft**, the island's fisherman, whose shop sits in the middle of town near the statues. Speak with him and he'll hand you a rod and three baits to catch your first fish — Fairhaven's usual generosity at work.
 
-Three kinds of bait — **worms, crickets, and chub** — and different fish favor
-different bait. If a spot keeps giving you the same catches, change bait
-before you change location; the fish you're missing may simply be ordering
-off a different menu.
+From there: stand at a fishing spot, choose your bait, cast, and play the catch. Keep bait stocked and the rest is patience.
 
-## Where the fish live
+---
 
-Each body of water keeps its own family of fish:
+## Where to Cast
 
-| Waters | Where |
-|---|---|
-| **River fish** | The river on your farm |
-| **Lake fish** | The lake in the woods |
-| **Ocean fish** | The beach, and the shoreline south of town |
-| **Mountain fish** | Mountain waters — home of the elusive salmon |
-| **Mine fish** | Yes, there's water down there, and yes, things live in it |
-| **Gloaming fish** | For witches only… you'll understand later 🌙 |
+The island offers seven fishing areas, and each hosts its own category of fish:
 
-Two mercies for collectors: fish are **not** locked to time of day or season,
-so filling the collection board is a matter of bait and patience, not
-calendar-watching. And rare simply means rare — keep casting.
+| Fishing spot | Where you'll find it | Fish category |
+| --- | --- | --- |
+| River | On the Farm | River fish |
+| Forest Lake | In the Woods | Lake fish |
+| Ocean | The Beach, and south of the Town Center | Ocean fish |
+| Mountain | The Mountain | Mountain fish |
+| The Gloaming | Fairhaven's otherworldly corner | Gloaming fish |
+| The Mine | Level 20, at the very bottom | Mine fish |
 
-## Why fish at all?
+The deeper spots are progression rewards in themselves — you'll need the story and your pickaxe to reach the Mine's pool ([Mining & Foraging](mining-and-foraging.md)), and the Gloaming belongs to the witchier half of your life ([Island Map](../island/map.md)).
 
-- **Steady coin** from day one, with no seed money required.
-- **Cooking ingredients** — many recipes want a fresh catch.
-- **Surprises.** Ocean fishing occasionally hauls up more than fish —
-  including cooking recipes. Salt water keeps secrets.
-- **The collection board.** Around twenty boards on the island want filling,
-  and the fish board is among the most satisfying.
+> The Gloaming's waters are not quite of this world. Neither, strictly speaking, are the fish.
 
-<p class="handwritten">bruno says the salmon "respects persistence." bruno may be projecting.</p>
+---
+
+## Bait, and the Great Secret
+
+Three baits exist: **worms, crickets, and chub.** And here is the secret that simplifies everything:
+
+**Bait and location are the *only* factors.** Weather does not matter. Season does not matter. Time of day does not matter.
+
+Every fish is determined purely by *where* you cast and *what* you cast with. There is no waiting for a rainy winter night to complete your compendium — if you need a specific fish, go to its water, tie on the right bait, and keep casting until it takes.
+
+<span class="handwritten">no almanac needed — just the right worm in the right water 🎣</span>
+
+A practical corollary: carry a spread of all three baits when filling out the compendium, and work each location bait-by-bait to flush out its full roster.
+
+---
+
+## What Fish Are For
+
+| Use | Notes |
+| --- | --- |
+| **Cooking** | Fish anchor a healthy shelf of recipes — see [Cooking](../crafting/cooking.md). Cooked dishes generally out-earn raw ingredients. |
+| **Selling** | Honest coin, with rarer catches from the deeper spots fetching more ([Money-Making](../reference/money-making.md)). |
+| **Gifts** | Several villagers are delighted by a fresh catch — Bruno above all appreciates a kindred spirit. Consult [Gift Preferences](../characters/gift-preferences.md). |
+| **Quests** | Story and side quests periodically send you to the water; a stocked fish chest saves a trip. |
+
+---
+
+## A Fisher's Habits
+
+1. Buy or gather bait before it runs out mid-session — nothing sadder than a full pond and an empty tackle box.
+2. Fish the River early; it's on your own farm and costs no travel time.
+3. When a new area opens (Mountain, Gloaming, Mine 20), fish it promptly — new water means new compendium entries.
+4. Fishing spends energy like any labor; a snack from the kitchen keeps the afternoon going ([Energy, Time & Seasons](../getting-started/energy-time-seasons.md)).
+
+---
+
+<span class="handwritten">sign-off tip: chasing one missing fish? change the bait before you change the spot — it's usually the bait 🐟</span>

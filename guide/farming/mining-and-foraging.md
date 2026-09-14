@@ -1,62 +1,68 @@
 ---
 title: "⛏️ Mining & Foraging"
-description: "The twenty floors of the Fairhaven mine — which ores live where — plus foraging and Shelby's shop in the woods."
 ---
 # ⛏️ Mining & Foraging
 
-The mine is Fairhaven's bank vault, and the island's wild corners are its
-pantry. Between them, they fund and feed everything else you'll ever build.
+Not everything worth gathering grows in a bed. Beneath Fairhaven runs a mine twenty floors deep, and across its hills and woods the island scatters wild plants, mushrooms, and curiosities free for the picking. This page presses both pursuits — the pickaxe and the basket.
 
-## The mine: twenty floors
+---
 
-The mine descends through **twenty levels**, and the good stuff sorts itself
-by depth:
+## The Mine
 
-| Floors | What you'll find |
-|---|---|
-| 1–4 | **Iron ore** — the workhorse metal of every early upgrade |
-| 5–14 | **Copper ore** joins in (it's most abundant around floors 7–9) |
-| 10–14 | **Silver ore** enters the mix |
-| 15–20 | **Gold ore**, gems, and the mine's richest pickings |
+### The lay of the deep
 
-**Going deeper:** on most floors, breaking ore nodes eventually turns up the
-**key** to the next level down. The exceptions are floors **14** and **20** —
-floor 14's way down needs a special **Deep Mine key**, which comes through
-the coven's questline. (The witches know what's down there. The witches know
-what's down *everywhere*.)
+The mine descends floor by floor, each stratum with its own treasures. Progress is gated — deeper floors open as you find keys and advance the story — and the very bottom, level 20, even hides a fishing pool ([Fishing](fishing.md)).
 
-## Pickaxe upgrades
+| Depth | What the rock holds |
+| --- | --- |
+| Below floor 5 | **Iron ore** begins. |
+| Floors 5–14 | **Copper ore** (richest around floors 7–9). |
+| Floors 10–14 | **Silver ore** joins in. |
+| Floors 15–20 | **Gold ore**, plus the finest pickings. |
+| Floors 16–20 | Mine keys, shiitake mushrooms, and gems — **sapphires, rubies, emeralds, and diamonds**. |
 
-Upgrade the pickaxe the moment you can afford to — starting with **copper**.
-Every tier breaks rocks faster and pays for itself in saved energy, and the
-**gold pickaxe** cracks gem rocks in a single swing. The mine gets deeper;
-make sure your arm gets stronger.
+> **How the way down opens:** on most floors, breaking ore nodes eventually turns up the key to the next level. The exceptions are floors 14 and 20 — floor 14's way onward needs the special **Deep Mine key**, earned through the coven's questline. Floor 15 keeps itself locked until you've earned that way down; the key to floor 16 then hides nearby. The mine rewards the thorough.
 
-## Mining tips
+### Natalia and your tools
 
-- Mine on days when farm chores are light — a full energy bar goes far
-  underground.
-- Keep iron flowing even after copper appears; farm and station upgrades
-  devour iron bars forever.
-- Gems are pure profit and collection-board fodder. Smash every sparkle.
+**Natalia Kuznetsova**, the island's blacksmith, is the other half of every mining trip. Bring her ore and she smelts it into ingots; bring her ingots and coin and she upgrades your tools through the metals — copper, then onward to iron, silver, and gold.
+
+- **Prioritize the copper pickaxe** as soon as you've hauled up enough copper — every subsequent trip gets easier.
+- Upgrades reduce the **energy cost per swing**, which is the real currency of a mining day.
+- The **gold pickaxe** cracks gem rocks in a single hit instead of two — the diamond-hunter's best friend.
+
+Natalia's forge also produces crafted metalwork for story projects (she'll turn your copper into a soup kettle, among other things). Get to know her — the blacksmith is a farmer's truest ally ([Character Directory](../characters/directory.md)).
+
+<span class="handwritten">every ore run should end at Natalia's door 🔨</span>
+
+### What it's all for
+
+Ores and ingots feed tool upgrades, crafting stations ([Crafting Stations](../crafting/stations.md)), and quest projects; gems sell handsomely and make impressive gifts ([Gift Preferences](../characters/gift-preferences.md)).
+
+---
 
 ## Foraging
 
-The beach, forest, and mountain each scatter their own seasonal gifts —
-shells on the sand, mushrooms and berries under the trees, and stranger
-finds up high. Two habits worth forming:
+### The island provides
 
-- **Pick up everything.** Forage is free money, free cooking ingredients,
-  and free collection progress.
-- **Smash big stones and dig dirt piles** wherever you meet them — both
-  occasionally hide **recipes** and other treats.
+Walk anywhere with your eyes down and Fairhaven offers up wild plants, flowers, berries, and mushrooms — the woods and mountain paths are especially generous, and even the mine grows shiitake in its depths. Forageables respawn over time, so a regular circuit of the island keeps the basket full at the price of a pleasant walk.
 
-## Shelby's Scraps and Sundries
+### Uses in craft and cauldron
 
-Deep in the woods lives **Shelby**, a marvelous old fellow who buys and sells
-exactly the sort of things one finds on beaches, in forests, and up
-mountains. He is the natural buyer for your foraged surplus — and a fine
-source of odds and ends you haven't found yourself. Whether Shelby knows more
-than he lets on is not a matter for the farming chapter of this journal. 🌙
+| Destination | Why foragers matter |
+| --- | --- |
+| **The cauldron** | Wild plants and mushrooms are the backbone of potion-making — many brews call for ingredients no garden bed grows ([Potions](../witchcraft/potions.md)). |
+| **The kitchen** | Mushrooms and wild produce round out plenty of recipes ([Cooking](../crafting/cooking.md)). |
+| **Gifts & quests** | Villagers request forageables surprisingly often; a stocked chest saves a scavenger hunt. |
+| **Coin** | Free goods, honest profit — modest but effortless ([Money-Making](../reference/money-making.md)). |
 
-<p class="handwritten">floor 15 at last. the gold hums. or I've been underground too long.</p>
+### A forager's habits
+
+1. Pick everything you pass — it costs seconds and it all stores.
+2. Learn the rich routes: woods, mountain, shoreline ([Island Map](../island/map.md)).
+3. Keep a reserve of common wild plants and mushrooms for the cauldron before you need them mid-quest.
+4. Wild *flowers* are for picking freely — it's the flowers you *planted* near beehives that must stay in the ground ([Beekeeping & Orchards](bees-and-orchards.md)).
+
+---
+
+<span class="handwritten">sign-off tip: descend the mine with a nearly empty bag and climb out with a full one — hauling half a warehouse down twenty floors helps no one 💎</span>

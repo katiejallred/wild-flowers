@@ -1,52 +1,70 @@
 ---
 title: "🐝 Beekeeping & Orchards"
-description: "Beehives, flower patches, honey and beeswax — plus the year-round quiet income of fruit trees."
 ---
 # 🐝 Beekeeping & Orchards
 
-The gentlest corner of the farm. Nothing here needs daily watering or daily
-hay — just flowers, patience, and the occasional grateful harvest.
+Two of the farm's most patient economies share this page: the hum of the hive and the slow generosity of fruit trees. Neither needs daily fussing the way a turnip bed does — plant well, wait well, and they provide for years.
 
-## Beehives
+---
 
-A **beehive** costs a modest **10 wood and 50 coins** — build one early, and
-more later. Happy bees produce both **honey** and **beeswax**: the first is
-cooking gold, the second feeds crafts like candle-making.
+## The Beehive
 
-The entire art of beekeeping is this: **bees need flowers**.
+### Setting up
 
-- Keep **at least one patch of blooming flowers per hive**.
-- **More flower patches — and more *kinds* of flowers — make honey come
-  faster.** A hive surrounded by a riotous mixed garden out-produces a hive
-  staring at a lone marigold.
-- Flowers must be **fully grown** to count; a bed of sprouts feeds no one.
+A **Bee Hive** is a structure placed in the Garden, built for a modest **10 Wood and 50 Coins**. Once occupied, it produces the farm's two golden goods: **Honey** and **Beeswax**.
 
-So plant flowers like you mean it. They serve the bees, they serve as gifts,
-they serve certain witchy recipes, and — in a game about a witch named after
-them — they serve the soul.
+### How the bees actually work
 
-## Orchards
+The hive's speed depends entirely on the flowers around it. Bees need **fully grown flowers in bloom nearby** — the more blooming flowers, the faster the hive fills.
 
-Fruit trees are the farm's quietest overachievers:
+- **The magic ratio: about 12 blooming flowers per hive** keeps production ticking over daily.
+- Fewer flowers still work, just slower; a flowerless hive is a very quiet hive.
+- **Do not harvest your flowers.** This is the counterintuitive heart of beekeeping: a picked flower feeds no bees. Leave your blooms standing unless a quest specifically demands a cut flower.
 
-- **They grow and fruit in every season.** While your vegetable beds live
-  and die by the ritual calendar, the orchard simply *continues*.
-- **Plant once, harvest forever.** No replanting, no seed costs after the
-  first.
-- Fruit feeds recipes, juices (via the [Juice Press](../crafting/stations.html)),
-  and wines (via the fermentation barrel) — the backbone of the artisan
-  pipeline.
+<span class="handwritten">a flower in the basket is worth less than a flower in the bed 🐝</span>
 
-Because trees shrug off season changes, an established orchard is the perfect
-hedge against your own ambitious ritual schedule: turn the wheel as often as
-you like, the apples abide.
+Flower seeds come from Violet ([Shops](../island/shops.md)); sunflowers do double duty in summer as both the best-profit flower and bee fodder ([Crop Guide](crops.md)).
 
-## A modest master plan
+### What the harvest is for
 
-1. Early on: one beehive, one dedicated flower bed beside it.
-2. As coin allows: plant fruit trees along the field edges — space they
-   occupy is space you never re-till.
-3. Eventually: a proper flower garden ringed with hives, humming like a
-   cathedral. Sell the honey. Keep some for the tea.
+| Product | Uses |
+| --- | --- |
+| Honey | High sell price (Violet buys it), sweetens many [Cooking](../crafting/cooking.md) recipes, and makes a lovely gift. |
+| Beeswax | A crafting staple — candles and finer goods pass through it ([Artisan Goods](../crafting/artisan-goods.md)). |
 
-<p class="handwritten">the bees do not care about the coven. the bees have their own coven. 🐝</p>
+> Somewhere mid-story a quest called *Meant To Bee* formalizes your beekeeping career. The bees, naturally, were ready before you were.
+
+---
+
+## The Orchard
+
+### One seedling, endless fruit
+
+Fruit trees are Fairhaven's best long-term contract. **Kai** — the friendly merchant at Kai's Treasures — sells fruit tree seedlings for **125 coins apiece**, and unlike everything else in this journal:
+
+- They **grow and fruit in any season**, ritual or no ritual.
+- They **never need watering.**
+- Bought once, they produce **regularly, forever.**
+
+The trade-off is patience: an apple tree seedling, for instance, takes **15 days** in a garden bed to mature before the fruit begins. Plant seedlings early in your farm's life and let time do the work.
+
+### Field notes
+
+| Consideration | Advice |
+| --- | --- |
+| When to plant | As early as you can spare 125 coins — maturity time only passes while the tree is in the ground. |
+| Where | Garden beds, like other crops — but budget the space permanently; a tree is not a rotation crop. |
+| Season rituals | Trees shrug off the season change that erases out-of-season crops. The orchard is your one truly ritual-proof planting. |
+| Rare stock | Kai's shelves rotate. If you spot the rarer seedlings — pineapple and avocado show up only occasionally — buy them on sight. |
+
+Fruit slots neatly into [Cooking](../crafting/cooking.md), gifts ([Gift Preferences](../characters/gift-preferences.md)), and steady sales.
+
+---
+
+## Pairing the Two
+
+The Garden rewards a deliberate layout: hives among permanent flower beds, orchard rows standing guard behind them. Both systems are "set and collect" — a morning walk past hive and tree takes seconds and pays daily, leaving your energy for the Vegetable Patch, the [mine](mining-and-foraging.md), and the [fishing rod](fishing.md).
+
+---
+
+<span class="handwritten">sign-off tip: plant twelve flowers you promise never to pick, and one tree for every windfall of coins — future harvests are made of old patience 🍯</span>

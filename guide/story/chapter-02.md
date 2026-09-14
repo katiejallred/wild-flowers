@@ -1,53 +1,47 @@
 ---
 title: "📜 Chapter 2: The Family Secret"
-description: "The basement, the truth about Hazel, and Tara's first sight of the coven. Early-game spoilers."
 ---
 # 📜 Chapter 2: The Family Secret
 
-<p class="handwritten">spoiler level: 🌿 early-game — the reveal the whole game is named for.</p>
+> ⚠️ Spoilers ahead — this chapter reveals the coven and Hazel's true role in it.
 
-Every family has a room they don't show guests. The Wyldes have a
-**basement**.
+Some plants only bloom at night. So it is with Fairhaven: once the pleasantries of arrival are done, the To-Do quests in this stretch begin to show you the island after dark — and what grows there.
 
-## The reveal
+## Something Stirs on the Island
 
-Early in Tara's stay, the story leads her downstairs — and *Discovering
-Gramma's basement* is the hinge on which the whole game turns (yes,
-there's an achievement for the moment). Beneath the farmhouse waits a
-witch's sanctum: a cauldron, strange shelves, and the unmistakable
-evidence that Hazel Wylde's green thumb has never been entirely
-metaphorical.
+As you work through the early story quests, the oddities you pencilled into your margins in [Chapter 1](chapter-01.md) begin to connect. Hazel is more than a farmer. The quests here draw Tara — sometimes by invitation, sometimes by stubborn curiosity — toward the truth:
 
-Hazel, to her endless credit, doesn't dissemble long. Her granddaughter
-learns the truth: **Hazel is a witch** — and not a lone one. Fairhaven
-keeps a **coven**, robed and masked, meeting by night in a grove deep in
-the woods, tending the island's seasons and secrets. And the gift, it
-seems, runs in the family.
+- **Fairhaven has a coven.** A circle of witches, masked in animal guise, has quietly tended the island's magic for generations.
+- **Hazel is its Elder.** Your grandmother sits at the very heart of it.
+- **The Wylde line is a witching line.** Tara's own heritage has been waiting for her here all along.
 
-## Walkthrough
+> 🦉 **Lore, pressed and labelled:** the coven meets in secret and its members guard their identities behind masks. Even people you chat with daily in town may be among them — the shopkeeper who sells you seeds, the doctor who takes your pulse. Their secrecy is not vanity; it is survival.
 
-- **Follow the quests downstairs.** The story handles its own pacing —
-  there's no hidden trigger to hunt; live your farm life and the
-  basement will find you.
-- **Say yes to everything Hazel offers.** Her early lessons open the
-  sanctum's tools to you — the beginning of everything covered in
-  [The Craft: An Introduction](../witchcraft/introduction.html).
-- **Come to the grove when invited.** Tara's first visit to the coven's
-  clearing — five masked figures, titles instead of names — is the
-  story's proper threshold. The **High Priestess**, the **Farseer**, the
-  **Journeyman**, the **Adept**, and the **Acolyte** will remain masks
-  for a long while yet. (Guessing the faces beneath becomes one of the
-  game's great pleasures. No hints here — that's
-  [later chapters'](chapters-04-06.html) business.)
+---
 
-## What to feel about all this
+## Why the Masks?
 
-The game's neatest trick is that the secret *changes nothing* about the
-first chapter's warmth — Hazel is exactly who you thought she was; you
-simply hadn't seen all of her. The farm work continues. The neighbors
-still wave. Only now, past midnight, there's somewhere else to be.
+The same quests that reveal the coven also reveal why it hides. Not everyone in Fairhaven would welcome witches among them. A current of suspicion runs through part of the town — you'll have already met its most polished spokesman, **Cameron Conner**, and heard murmurs of his **League of the Conscious Mind**, a fervent spiritual movement with strong opinions about unseen influences.
 
-An invitation is coming — and an initiation. On to
-[Chapter 3](chapter-03.html).
+The game plants this tension gently here and lets it grow all year. Remember it when the weather turns.
 
-<p class="handwritten">the humming. it was spellwork. it was ALWAYS spellwork. oh, gramma.</p>
+## Playing This Stretch Well
+
+The quests in this stretch are mostly conversations, discoveries, and small errands rather than hard tasks, so let me offer field advice instead of a checklist:
+
+| Do | Because |
+| --- | --- |
+| Follow every story quest promptly | The coven storyline gates all magic — no spells unlock until you're through it |
+| Keep farming daily | Story scenes cost time, and coin keeps flowing only if crops do |
+| Talk to Hazel often | Her scenes in this stretch are among the loveliest in the game |
+| Befriend widely | Friendships planted now bloom into [character quests](side-quests.md) later |
+
+If you're curious what awaits on the other side of the veil, the [Introduction to Witchcraft](../witchcraft/introduction.md) covers the craft itself without treading further on the story.
+
+<span class="handwritten">The masks are animals. I have begun guessing who wears which. I am mostly wrong. 🌙</span>
+
+---
+
+**Previous:** [Chapter 1: A New Leaf](chapter-01.md) · **Next:** Tara takes her vows in [Chapter 3: Joining the Coven](chapter-03.md).
+
+<span class="handwritten">Some family recipes are for scones. Some are not. — K.</span>
