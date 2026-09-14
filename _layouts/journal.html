@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="theme-color" content="#f3ecdb">
+  <meta name="theme-color" content="#e7e0f2">
   {% seo %}
   <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='0.9em' font-size='90'%3E%F0%9F%8C%B8%3C/text%3E%3C/svg%3E">
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2065620637739110" crossorigin="anonymous"></script>
@@ -13,17 +13,76 @@
   <link rel="stylesheet" href="{{ '/assets/css/journal.css' | relative_url }}">
 </head>
 <body>
+  {%- comment -%} Locate this page in the nav: its section, and prev/next pages. {%- endcomment -%}
+  {%- assign all_pages = "" | split: "" -%}
+  {%- assign current_section = nil -%}
+  {%- for section in site.data.nav -%}
+    {%- assign all_pages = all_pages | concat: section.pages -%}
+    {%- if page.url contains section.path -%}
+      {%- assign current_section = section -%}
+    {%- endif -%}
+  {%- endfor -%}
+  {%- assign page_index = nil -%}
+  {%- for item in all_pages -%}
+    {%- if item.url == page.url -%}
+      {%- assign page_index = forloop.index0 -%}
+    {%- endif -%}
+  {%- endfor -%}
+
   <header class="journal-header">
     <a class="site-title" href="{{ '/' | relative_url }}">❀ The Fairhaven Field Guide ❀</a>
   </header>
 
+  <nav class="site-nav" aria-label="Guide sections">
+    <input type="checkbox" id="menu-toggle" class="menu-toggle">
+    <label for="menu-toggle" class="menu-label">✦ Menu</label>
+    <div class="nav-groups">
+      {%- for section in site.data.nav %}
+      <details class="nav-group">
+        <summary{% if section.title == current_section.title %} class="active"{% endif %}>{{ section.title }}</summary>
+        <ul>
+          {%- for item in section.pages %}
+          <li><a href="{{ item.url | relative_url }}"{% if item.url == page.url %} class="current" aria-current="page"{% endif %}>{{ item.title }}</a></li>
+          {%- endfor %}
+        </ul>
+      </details>
+      {%- endfor %}
+    </div>
+  </nav>
+
   <main class="sheet">
     {% unless page.url == "/" %}
-    <nav class="breadcrumb">
-      <a href="{{ '/' | relative_url }}">← Table of Contents</a>
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <a href="{{ '/' | relative_url }}">Table of Contents</a>
+      {%- if current_section %} <span class="crumb-sep">✿</span> <span class="crumb-here">{{ current_section.title }}</span>{% endif %}
     </nav>
     {% endunless %}
     {{ content }}
+
+    {%- if page_index -%}
+    {%- assign prev_index = page_index | minus: 1 -%}
+    {%- assign next_index = page_index | plus: 1 -%}
+    <nav class="page-turn" aria-label="Previous and next pages">
+      {%- if page_index > 0 -%}
+      {%- assign prev_page = all_pages[prev_index] -%}
+      <a class="turn-prev" href="{{ prev_page.url | relative_url }}" rel="prev">
+        <span class="specimen-label">← Previous leaf</span>
+        <span class="turn-title">{{ prev_page.title }}</span>
+      </a>
+      {%- else -%}
+      <span class="turn-spacer"></span>
+      {%- endif -%}
+      {%- if next_index < all_pages.size -%}
+      {%- assign next_page = all_pages[next_index] -%}
+      <a class="turn-next" href="{{ next_page.url | relative_url }}" rel="next">
+        <span class="specimen-label">Next leaf →</span>
+        <span class="turn-title">{{ next_page.title }}</span>
+      </a>
+      {%- else -%}
+      <span class="turn-spacer"></span>
+      {%- endif -%}
+    </nav>
+    {%- endif -%}
   </main>
 
   <footer class="journal-footer">
@@ -35,5 +94,25 @@
       <a href="{{ '/terms.html' | relative_url }}">Terms of Service</a>
     </p>
   </footer>
+
+  <script>
+    // Only one menu section open at a time; click outside to close.
+    (function () {
+      var groups = document.querySelectorAll('.nav-group');
+      groups.forEach(function (group) {
+        group.addEventListener('toggle', function () {
+          if (!group.open) return;
+          groups.forEach(function (other) {
+            if (other !== group) other.removeAttribute('open');
+          });
+        });
+      });
+      document.addEventListener('click', function (event) {
+        groups.forEach(function (group) {
+          if (group.open && !group.contains(event.target)) group.removeAttribute('open');
+        });
+      });
+    })();
+  </script>
 </body>
 </html>
