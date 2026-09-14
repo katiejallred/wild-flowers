@@ -19,7 +19,7 @@ Measured in coins earned per day of growth, the standouts are:
 | **Wheat** | Spring | ~20.8 coins/day | The pick of the spring beds |
 | **Sunflowers** | Summer | best summer flower | Strong sale price, and flowers feed your bees while they bloom |
 
-For the full per-season ledger — seed costs, growth times, and every crop's coins/day — see the [Crop Guide](../farming/crops.md).
+For the full per-season ledger — seed costs, growth times, and every crop's coins/day — see the [Crop Guide](../farming/crops.md). To run the numbers for *your* plan — your season, your length of stay, raw or processed — try the interactive [Crop Profit Calculator](crop-profit-calculator.html).
 
 Working principles:
 
