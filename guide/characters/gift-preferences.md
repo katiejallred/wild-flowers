@@ -52,39 +52,54 @@ Alongside the almanac below, these principles will carry you far:
 
 ## The Per-Resident Almanac
 
-Pressed, labelled, and cross-checked against the community's field records. Each resident keeps three to five favorites; a 🌱 marks a list still partly under observation.
+Pressed, labelled, and verified leaf-by-leaf against the community wiki's own gifting table. Each resident keeps three to five favorites.
 
 ### The Romanceables
 
 | Resident | Favorite dishes |
 | --- | --- |
-| **Amira Syed** | Honey Mint Cooler · Fesenjan (Pomegranate Walnut Stew) · Jeweled Rice · Zeytoon Parvardeh (Marinated Olives) · Oatmeal Raisin Cookie |
-| **Cameron Conner** | Pumpkin Spice Latte · Sweet Potato Fries · Sweet Potato and Coriander Pizza · Avocado Toast · Pumpkin Bread |
-| **Damon Mthembu-Haas** | Sweet Potato Vodka · Slap Chips · Cape Malay Curry · Bobotie · Chakalaka |
-| **Eury Sinclair** 🌱 | Jambalaya · *(remainder under observation)* |
-| **Giva Joshi** | Chai · Prawns Koliwada · Chicken Tikka Masala · Vada Pav (Bombay Burger) · Pav Bhaji |
-| **Kai Hoapili** | Loco Moco · Haupia (Coconut Pudding) · Blue Hawaii Cocktail · Manapua (Pork Dumpling) · Poke Bowl |
-| **Kim Izumi** | Sushi · Rice Wine · Ramen · Buddha's Delight · Miso Soup |
-| **Westley Vuk** | Wine · Roast Beef · Roast Pork · Roast Salmon · Scottiglia (Mixed Meat Stew) |
+| **Amira Syed** | Fesenjan (Pomegranate Walnut Stew) · Honey Mint Cooler · Jeweled Rice · Oatmeal Raisin Cookie · Zeytoon Parvardeh (Marinated Olives) |
+| **Cameron Conner** | Avocado Toast · Pumpkin Bread · Pumpkin Spice Latte · Sweet Potato and Coriander Pizza · Sweet Potato Fries |
+| **Damon Mthembu-Haas** | Bobotie · Cape Malay Curry · Chakalaka · Slap Chips · Sweet Potato Vodka |
+| **Eury Sinclair** | Pikliz · Praline Cookie · Jambalaya · Chicken Fricassée · Spanakopita |
+| **Giva Joshi** | Chai · Chicken Tikka Masala · Pav Bhaji · Prawns Koliwada · Vada Pav (Bombay Burger) |
+| **Kai Hoapili** | Blue Hawaii Cocktail · Haupia (Coconut Pudding) · Loco Moco · Manapua (Pork Dumpling) · Poke Bowl |
+| **Kim Izumi** | Buddha's Delight · Miso Soup · Ramen · Rice Wine · Sushi |
+| **Westley Vuk** | Roast Beef · Roast Pork · Roast Salmon · Scottiglia (Mixed Meat Stew) · Wine |
 
 ### The Rest of Town
 
 | Resident | Favorite dishes |
 | --- | --- |
-| **Angus** | Whiskey · Skirlie · Rumbledethumps · Black Pudding · Pierogi |
+| **Angus Seton** | Black Pudding · Pierogi · Rumbledethumps · Skirlie · Whiskey |
+| **Bruno Soft** | Beer · Fried Flounder Sandwich · Sauerkraut · Schnitzel |
+| **Emmi Johnson** | Chocolate Cupcake · Chocolate Milkshake · Fish Fingers |
+| **Finn Johnson** | Spaghetti Bolognese · Strawberry Shortcake · Strawberry Milkshake |
 | **Francis Calderón** | Arroz con Gandules · Asopao (Chicken & Rice) · Empanada · Flan · Piña Colada |
-| **Gloria Miranda** 🌱 | Tabbouleh · *(remainder under observation)* |
-| **Lina Dahl-Johnson** | Apple Cider · Pumpkin Pie · Snickerdoodle · Lobster Roll · New England Chowder |
-| **Marty** | Banana Bread · Carrot Cake · Danish · Hot Chocolate |
-| **Otto Soft** | Cheese Soufflé · Fruit Punch · Lobster Thermidor · Beef Wellington |
-| **Parker Johnson** | Coffee · Pepperoni Pizza · Bagel · Cream Cheese Bagel · Chopped Cheese Sandwich |
+| **Gloria Miranda** | Apple Martini · Coconut Rice · Capricciosa Pizza · Lemon Square · Truffled Mac and Cheese |
+| **Juliet Moretti** | Banana Smoothie · Lasagna · Mushroom Pizza · Tiramisu |
+| **Lina Dahl-Johnson** | Apple Cider · Lobster Roll · New England Chowder · Pumpkin Pie · Snickerdoodle |
+| **Marty Emerson** | Banana Bread · Carrot Cake · Danish · Hot Chocolate |
+| **Natalia Kuznetsova** | Beef Stroganoff · Chicken Kiev · Golubtsi (Stuffed Cabbage) · Syrniki (Russian Cheese Pancake) · Vodka |
+| **Otto Soft** | Beef Wellington · Cheese Soufflé · Fruit Punch · Lobster Thermidor |
+| **Parker Johnson** | Bagel · Chopped Cheese Sandwich · Coffee · Cream Cheese Bagel · Pepperoni Pizza |
 | **Sebastián Miranda** | Cheese Pizza · Orange Juice · Pancakes · Peanut Brittle |
-| **Shelby Demeter** | Fish Stew · Goulash · Bread Pudding · Tomato Soup |
-| **Sophia** | Strawberry Daiquiri · Precipizi · Seafood Fra Diavolo · Smoked Salmon Bagel · Chicken Soup |
-| **Thomas Lightfoot** | Corn Bread · Lemonade · Succotash · Three Sisters Stew · Cabbage Soup |
-| **Violet Miranda** | Berry Smoothie · Rice Pudding · Churros · Spanish Omelette · Arroz con Huevos |
+| **Shelby Demeter** | Bread Pudding · Fish Stew · Goulash · Tomato Soup |
+| **Sophia Moretti** | Chicken Soup · Precipizi · Seafood Fra Diavolo · Smoked Salmon Bagel · Strawberry Daiquiri |
+| **Thomas Lightfoot** | Cabbage Soup · Corn Bread · Lemonade · Succotash · Three Sisters Stew |
+| **Vanessa Soft** | Fennel Salad · Fruit Salad · Quiche · Spinach Smoothie |
+| **Violet Miranda** | Arroz con Huevos · Berry Smoothie · Churros · Rice Pudding · Spanish Omelette |
 
-> 🌿 A few islanders — Hazel, later arrivals, and the folk of Ravenwood Hollow — are still being observed in the field; their pages will be pressed in as the lists are confirmed. Notice the pattern in the meantime: everyone's favorites echo their heritage and story, so when in doubt, cook from their homeland's table.
+### The Fey & Familiar Folk
+
+| Resident | Favorite dishes |
+| --- | --- |
+| **Aryel** | Brigadeiro (Chocolate Coconut Truffles) · Caipirinha · Malasada · Paçoquinha (Peanut Rolls) |
+| **Cleocatra** (the cat) | Milk · Salmon · Tuna |
+| **Peri** | Baklava · Honey Lemon Tea · Persian Love Cake · Turkish Delight |
+| **Zephyr Grimspark** | Caramel Popcorn · Coconut Macaroon · Mint Julep · Nougat · Texas Brownie |
+
+> 🌿 Notice the pattern: everyone's favorites echo their heritage and story — Kai's Hawaiian table, Angus's Scottish spread, Eury's New Orleans kitchen. When in doubt, cook from their homeland's table.
 
 ---
 
