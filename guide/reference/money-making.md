@@ -1,5 +1,7 @@
 ---
 title: "💰 Money-Making Guide"
+description: "Reference and extras for Wylde Flowers — the best money-makers each season, achievements, FAQ, and a glossary of island terms."
+image: /assets/images/card-reference.jpg
 ---
 # 💰 Money-Making Guide
 
