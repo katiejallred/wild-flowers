@@ -114,4 +114,125 @@ Mulberry trees also give **mulberry leaves** (unsellable, but silkworms adore th
 
 ---
 
+## Pressed Specimens (A–G)
+
+The seed drawer and harvest shelf, illustrated — every crop, seed packet, and orchard fruit from the archive so far. Later letters of the alphabet join as more plates arrive.
+
+<div class="specimen-grid parchment">
+  <figure>
+    <img src="{{ '/assets/images/wiki/crops/anemone-seeds.png' | relative_url }}" alt="Anemone Seeds item icon" loading="lazy">
+    <figcaption>Anemone Seeds</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crops/apple-tree-seedling.png' | relative_url }}" alt="Apple Tree Seedling item icon" loading="lazy">
+    <figcaption>Apple Tree Seedling</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crops/apple.png' | relative_url }}" alt="Apple item icon" loading="lazy">
+    <figcaption>Apple</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crops/avocado.png' | relative_url }}" alt="Avocado item icon" loading="lazy">
+    <figcaption>Avocado</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crops/banana.png' | relative_url }}" alt="Banana item icon" loading="lazy">
+    <figcaption>Banana</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crops/black-tea-seeds.png' | relative_url }}" alt="Black Tea Seeds item icon" loading="lazy">
+    <figcaption>Black Tea Seeds</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crops/black-tea.png' | relative_url }}" alt="Black Tea item icon" loading="lazy">
+    <figcaption>Black Tea</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crops/blackberry.png' | relative_url }}" alt="Blackberry item icon" loading="lazy">
+    <figcaption>Blackberry</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crops/blueberry.png' | relative_url }}" alt="Blueberry item icon" loading="lazy">
+    <figcaption>Blueberry</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crops/cabbage-seeds.png' | relative_url }}" alt="Cabbage Seeds item icon" loading="lazy">
+    <figcaption>Cabbage Seeds</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crops/cabbage.png' | relative_url }}" alt="Cabbage item icon" loading="lazy">
+    <figcaption>Cabbage</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crops/carrot-seeds.png' | relative_url }}" alt="Carrot Seeds item icon" loading="lazy">
+    <figcaption>Carrot Seeds</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crops/carrot.png' | relative_url }}" alt="Carrot item icon" loading="lazy">
+    <figcaption>Carrot</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crops/cauliflower-seeds.png' | relative_url }}" alt="Cauliflower Seeds item icon" loading="lazy">
+    <figcaption>Cauliflower Seeds</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crops/cauliflower.png' | relative_url }}" alt="Cauliflower item icon" loading="lazy">
+    <figcaption>Cauliflower</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crops/chili.png' | relative_url }}" alt="Chili item icon" loading="lazy">
+    <figcaption>Chili</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crops/coconut.png' | relative_url }}" alt="Coconut item icon" loading="lazy">
+    <figcaption>Coconut</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crops/coriander.png' | relative_url }}" alt="Coriander item icon" loading="lazy">
+    <figcaption>Coriander</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crops/corn-seeds.png' | relative_url }}" alt="Corn Seeds item icon" loading="lazy">
+    <figcaption>Corn Seeds</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crops/corn.png' | relative_url }}" alt="Corn item icon" loading="lazy">
+    <figcaption>Corn</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crops/cotton-seeds.png' | relative_url }}" alt="Cotton Seeds item icon" loading="lazy">
+    <figcaption>Cotton Seeds</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crops/cotton.png' | relative_url }}" alt="Cotton item icon" loading="lazy">
+    <figcaption>Cotton</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crops/crocus-seeds.png' | relative_url }}" alt="Crocus Seeds item icon" loading="lazy">
+    <figcaption>Crocus Seeds</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crops/crocus.png' | relative_url }}" alt="Crocus item icon" loading="lazy">
+    <figcaption>Crocus</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crops/fennel-seeds.png' | relative_url }}" alt="Fennel Seeds item icon" loading="lazy">
+    <figcaption>Fennel Seeds</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crops/fennel.png' | relative_url }}" alt="Fennel item icon" loading="lazy">
+    <figcaption>Fennel</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crops/gladiolus-flower.jpeg' | relative_url }}" alt="Gladiolus Flower item icon" loading="lazy">
+    <figcaption>Gladiolus Flower</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crops/gladiolus-seed.jpg' | relative_url }}" alt="Gladiolus Seed item icon" loading="lazy">
+    <figcaption>Gladiolus Seed</figcaption>
+  </figure>
+</div>
+
+---
+
 <span class="handwritten">sign-off tip: strawberries all summer, fennel all winter, and a loom that never sleeps 🧵</span>

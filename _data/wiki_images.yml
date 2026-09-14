@@ -1,0 +1,979 @@
+# Index of wiki item art under /assets/images/wiki/<category>/
+# Generated from the uploaded Wylde Flowers wiki image archive (part 1, A–G).
+# Each entry: item title -> image filename within its category folder.
+animals:
+  - title: "Alpaca"
+    file: alpaca.png
+  - title: "Calf Buy Screen"
+    file: calf-buy-screen.png
+  - title: "Cat"
+    file: cat.png
+  - title: "Chick Buy Screen"
+    file: chick-buy-screen.png
+  - title: "Chicken"
+    file: chicken.png
+  - title: "Coop"
+    file: coop.png
+  - title: "Cow Buy Screen"
+    file: cow-buy-screen.png
+  - title: "Cow"
+    file: cow.png
+  - title: "Duck"
+    file: duck.png
+characters:
+  - title: "Amira Syed"
+    file: amira-syed-portrait.png
+  - title: "Amira Syed"
+    file: amira-syed-pt.png
+  - title: "Angus Seton"
+    file: angus-seton-pt.png
+  - title: "Angus Seton"
+    file: angus-seton.png
+  - title: "Aryel"
+    file: aryel.png
+  - title: "Basel"
+    file: basel.jpg
+  - title: "Bruno Soft"
+    file: bruno-soft-pt.png
+  - title: "Bruno Soft"
+    file: bruno-soft.png
+  - title: "Cameron Conner"
+    file: cameron-conner-portrait.png
+  - title: "Cameron Conner"
+    file: cameron-conner-pt.png
+  - title: "Cameron Conner"
+    file: cameron-conner.png
+  - title: "Damon Mthembu-Haas"
+    file: damon-mthembu-haas-portrait.png
+  - title: "Damon Mthembu-Haas"
+    file: damon-mthembu-haas-pt.png
+  - title: "Emmi Johnson"
+    file: emmi-johnson-pt.png
+  - title: "Emmi Johnson"
+    file: emmi-johnson.png
+  - title: "Eury Sinclair"
+    file: eury-sinclair-pt.png
+  - title: "Eury Sinclair"
+    file: eury-sinclair.png
+  - title: "Eury"
+    file: eury.jpg
+  - title: "Finn Johnson"
+    file: finn-johnson-pt.png
+  - title: "Finn Johnson"
+    file: finn-johnson.png
+  - title: "Francis Calderón"
+    file: francis-calderon-pt.png
+  - title: "Francis Calderón"
+    file: francis-calderon.png
+  - title: "Francis portrait suit"
+    file: francis-calderon-suit.png
+  - title: "Ginger"
+    file: ginger.jpg
+  - title: "Giva Joshi FULL"
+    file: giva-joshi-full.png
+  - title: "Giva Joshi"
+    file: giva-joshi-portrait.png
+  - title: "Giva Joshi"
+    file: giva-joshi-pt.png
+  - title: "Giva Joshi"
+    file: giva-joshi.jpeg
+  - title: "A3A1523D-24A8-41C6-965C-A722D432AAC4"
+    file: tara-wylde.jpg
+clothing:
+  - title: "Acacia and Denim Shorts"
+    file: acacia-and-denim-shorts-in-game.jpg
+  - title: "Acacia and Denim Shorts"
+    file: acacia-and-denim-shorts.png
+  - title: "Alloy Ahoy Romper"
+    file: alloy-ahoy-romper-in-game.jpg
+  - title: "Alloy Ahoy Romper"
+    file: alloy-ahoy-romper.png
+  - title: "Amethyst Glimmer Mini"
+    file: amethyst-glimmer-mini-in-game.jpg
+  - title: "Amethyst Glimmer Mini"
+    file: amethyst-glimmer-mini.png
+  - title: "Aurora's Glow Day Dress"
+    file: auroras-glow-day-dress-in-game.jpg
+  - title: "Aurora's Glow Day Dress"
+    file: auroras-glow-day-dress.png
+  - title: "Azure Glimmer Mini"
+    file: azure-glimmer-mini-in-game.jpg
+  - title: "Azure Glimmer Mini"
+    file: azure-glimmer-mini.png
+  - title: "Baby Blue Jean Jacket"
+    file: baby-blue-jean-jacket-in-game.jpg
+  - title: "Baby Blue Jean Jacket"
+    file: baby-blue-jean-jacket.png
+  - title: "Banana Split Overalls"
+    file: banana-split-overalls-in-game.jpg
+  - title: "Banana Split Overalls"
+    file: banana-split-overalls.png
+  - title: "Basil and Denim Overalls"
+    file: basil-and-denim-overalls-in-game.jpg
+  - title: "Basil and Denim Overalls"
+    file: basil-and-denim-overalls.png
+  - title: "Better Than A Tux Jacket"
+    file: better-than-a-tux-jacket-in-game.jpg
+  - title: "Better Than A Tux Jacket"
+    file: better-than-a-tux-jacket.png
+  - title: "Biscotti Blue Jacket"
+    file: biscotti-blue-jacket-in-game.jpg
+  - title: "Biscotti Blue Jacket"
+    file: biscotti-blue-jacket.png
+  - title: "Black Bead Bracelet"
+    file: black-bead-bracelet.png
+  - title: "Black Berry Mini"
+    file: black-berry-mini-in-game.jpg
+  - title: "Black Berry Mini"
+    file: black-berry-mini.png
+  - title: "Black Ginger Frilly"
+    file: black-ginger-frilly-in-game.jpg
+  - title: "Black Ginger Frilly"
+    file: black-ginger-frilly.png
+  - title: "Black Olive Long"
+    file: black-olive-long-in-game.jpg
+  - title: "Black Olive Long"
+    file: black-olive-long.png
+  - title: "Black Spruce Frilly"
+    file: black-spruce-frilly-in-game.jpg
+  - title: "Black Spruce Frilly"
+    file: black-spruce-frilly.png
+  - title: "Blue Bead Bracelet"
+    file: blue-bead-bracelet.png
+  - title: "Blue Mosaic Leggings"
+    file: blue-mosaic-leggings-in-game.jpg
+  - title: "Blue Mosaic Leggings"
+    file: blue-mosaic-leggings.png
+  - title: "Blue Ribbon Jean Jacket"
+    file: blue-ribbon-jean-jacket-in-game.jpg
+  - title: "Blue Ribbon Jean Jacket"
+    file: blue-ribbon-jean-jacket.png
+  - title: "Bluebell Breeze Frilly"
+    file: bluebell-breeze-frilly-in-game.jpg
+  - title: "Bluebell Breeze Frilly"
+    file: bluebell-breeze-frilly.png
+  - title: "Bubblegum Blossom Jacket"
+    file: bubblegum-blossom-jacket-in-game.jpg
+  - title: "Bubblegum Blossom Jacket"
+    file: bubblegum-blossom-jacket.png
+  - title: "Business Leopard Midi"
+    file: business-leopard-midi-in-game.jpg
+  - title: "Business Leopard Midi"
+    file: business-leopard-midi.png
+  - title: "Busy Bee Slacks"
+    file: busy-bee-slacks-in-game.jpg
+  - title: "Busy Bee Slacks"
+    file: busy-bee-slacks.png
+  - title: "Butter Daisy Day Dress"
+    file: butter-daisy-day-dress-in-game.jpg
+  - title: "Butter Daisy Day Dress"
+    file: butter-daisy-day-dress.png
+  - title: "Caffe Latte Midi"
+    file: caffe-latte-midi-in-game.jpg
+  - title: "Caffe Latte Midi"
+    file: caffe-latte-midi.png
+  - title: "Candy Apple Day Dress"
+    file: candy-apple-day-dress-in-game.jpg
+  - title: "Candy Apple Day Dress"
+    file: candy-apple-day-dress.png
+  - title: "Caramel Fudge Leggings"
+    file: caramel-fudge-leggings-in-game.jpg
+  - title: "Caramel Fudge Leggings"
+    file: caramel-fudge-leggings.png
+  - title: "Cardinal Comet Midi"
+    file: cardinal-comet-midi-in-game.jpg
+  - title: "Cardinal Comet Midi"
+    file: cardinal-comet-midi.png
+  - title: "Carnation Blouse Frilly"
+    file: carnation-blouse-frilly-in-game.jpg
+  - title: "Carnation Blouse Frilly"
+    file: carnation-blouse-frilly.png
+  - title: "Celestial Gold Jacket"
+    file: celestial-gold-jacket-in-game.jpg
+  - title: "Celestial Gold Jacket"
+    file: celestial-gold-jacket.png
+  - title: "Cherry Vogue Slacks"
+    file: cherry-vogue-slacks-in-game.jpg
+  - title: "Cherry Vogue Slacks"
+    file: cherry-vogue-slacks.png
+  - title: "Cinnamon Jacket and Dress"
+    file: cinnamon-jacket-and-dress-in-game.jpg
+  - title: "Cinnamon Jacket and Dress"
+    file: cinnamon-jacket-and-dress.png
+  - title: "Clementine Cordial Frilly"
+    file: clementine-cordial-frilly-in-game.jpg
+  - title: "Clementine Cordial Frilly"
+    file: clementine-cordial-frilly.png
+  - title: "Cloudy Sky Shorts"
+    file: cloudy-sky-shorts-in-game.jpg
+  - title: "Cloudy Sky Shorts"
+    file: cloudy-sky-shorts.png
+  - title: "Colorful Bangles"
+    file: colorful-bangles.png
+  - title: "Concrete Rose Leggings"
+    file: concrete-rose-leggings-in-game.jpg
+  - title: "Concrete Rose Leggings"
+    file: concrete-rose-leggings.png
+  - title: "Cookies and Cream Overalls"
+    file: cookies-and-cream-overalls-in-game.jpg
+  - title: "Cookies and Cream Overalls"
+    file: cookies-and-cream-overalls.png
+  - title: "Coral Cuteness Long"
+    file: coral-cuteness-long-in-game.jpg
+  - title: "Coral Cuteness Long"
+    file: coral-cuteness-long.png
+  - title: "Cosmic Carmine Frilly"
+    file: cosmic-carmine-frilly-in-game.jpg
+  - title: "Cosmic Carmine Frilly"
+    file: cosmic-carmine-frilly.png
+  - title: "Cosmic Carmine Long"
+    file: cosmic-carmine-long-in-game.jpg
+  - title: "Cosmic Carmine Long"
+    file: cosmic-carmine-long.png
+  - title: "Cotton Candy Romper"
+    file: cotton-candy-romper-in-game.jpg
+  - title: "Cotton Candy Romper"
+    file: cotton-candy-romper.png
+  - title: "Cute As A Button Shorts"
+    file: cute-as-a-button-shorts-in-game.jpg
+  - title: "Cute As A Button Shorts"
+    file: cute-as-a-button-shorts.png
+  - title: "Dear Denim Romper"
+    file: dear-denim-romper-in-game.jpg
+  - title: "Dear Denim Romper"
+    file: dear-denim-romper.png
+  - title: "Desert Cactus Shorts"
+    file: desert-cactus-shorts-in-game.jpg
+  - title: "Desert Cactus Shorts"
+    file: desert-cactus-shorts.png
+  - title: "Divine Dandelion Jacket"
+    file: divine-dandelion-jacket-in-game.jpg
+  - title: "Divine Dandelion Jacket"
+    file: divine-dandelion-jacket.png
+  - title: "Ebony Flora Frilly"
+    file: ebony-flora-frilly-in-game.jpg
+  - title: "Ebony Flora Frilly"
+    file: ebony-flora-frilly.png
+  - title: "Emerald Green Day Dress"
+    file: emerald-green-day-dress-in-game.jpg
+  - title: "Emerald Green Day Dress"
+    file: emerald-green-day-dress.png
+  - title: "Evergreen Midi"
+    file: evergreen-midi-in-game.jpg
+  - title: "Evergreen Midi"
+    file: evergreen-midi.png
+  - title: "Fern Baby Fern Leggings"
+    file: fern-baby-fern-leggings-in-game.jpg
+  - title: "Fern Baby Fern Leggings"
+    file: fern-baby-fern-leggings.png
+  - title: "Flowers n' Cream Day Dress"
+    file: flowers-n-cream-day-dress-in-game.jpg
+  - title: "Flowers n' Cream Day Dress"
+    file: flowers-n-cream-day-dress.png
+  - title: "Garnet Glimmer Mini"
+    file: garnet-glimmer-mini-in-game.jpg
+  - title: "Garnet Glimmer Mini"
+    file: garnet-glimmer-mini.png
+  - title: "Gilded Tinsel Midi"
+    file: gilded-tinsel-midi-in-game.jpg
+  - title: "Gilded Tinsel Midi"
+    file: gilded-tinsel-midi.png
+  - title: "Gloaming Garden Jacket and Dress"
+    file: gloaming-garden-jacket-and-dress.png
+crafting:
+  - title: "Adder Stone"
+    file: adder-stone.png
+  - title: "Alpaca Wool"
+    file: alpaca-wool.png
+  - title: "Amethyst"
+    file: amethyst.png
+  - title: "Animal Hide"
+    file: animal-hide.png
+  - title: "Aryel's Hair"
+    file: aryels-hair.png
+  - title: "Beeswax Candle"
+    file: beeswax-candle.png
+  - title: "Black Cloth"
+    file: black-cloth.png
+  - title: "Black Hair Color"
+    file: black-hair-color.png
+  - title: "Black Ink"
+    file: black-ink.png
+  - title: "Black leather"
+    file: black-leather.png
+  - title: "Black Silk Thread"
+    file: black-silk-thread.png
+  - title: "Black Silk"
+    file: black-silk.png
+  - title: "Blonde Hair Color"
+    file: blonde-hair-color.png
+  - title: "Blue Cloth"
+    file: blue-cloth.png
+  - title: "Blue Dye"
+    file: blue-dye.png
+  - title: "Blue Dyed Egg"
+    file: blue-dyed-egg.png
+  - title: "Blue Hair Color"
+    file: blue-hair-color.png
+  - title: "Blue Leather"
+    file: blue-leather.png
+  - title: "Blue Silk Thread"
+    file: blue-silk-thread.png
+  - title: "Blue Silk"
+    file: blue-silk.png
+  - title: "Bone"
+    file: bone.png
+  - title: "Butter"
+    file: butter.png
+  - title: "Chicken Feather"
+    file: chicken-feather.png
+  - title: "Chicken feed"
+    file: chicken-feed.png
+  - title: "Cinnamon"
+    file: cinnamon.png
+  - title: "Clay"
+    file: clay.png
+  - title: "Cloth"
+    file: cloth.png
+  - title: "Coal"
+    file: coal.png
+  - title: "Coconut Oil"
+    file: coconut-oil.png
+  - title: "Copper Ingot"
+    file: copper-ingot.png
+  - title: "Copper Ore"
+    file: copper-ore.png
+  - title: "Cricket"
+    file: cricket.png
+  - title: "Diamond"
+    file: diamond.png
+  - title: "Duck Feather"
+    file: duck-feather.png
+  - title: "Enchanted Hair Color"
+    file: enchanted-hair-color.png
+  - title: "Fall Bouquet"
+    file: fall-bouquet.png
+  - title: "Fine Sand"
+    file: fine-sand.png
+  - title: "Fish Leather"
+    file: fish-leather.png
+  - title: "Flower Paper"
+    file: flower-paper.png
+  - title: "Glass Bead"
+    file: glass-bead.png
+  - title: "Glass Bottle"
+    file: glass-bottle.jpeg
+  - title: "Glass Pitcher"
+    file: glass-pitcher.png
+  - title: "Glass"
+    file: glass.png
+crops:
+  - title: "Anemone Seeds"
+    file: anemone-seeds.png
+  - title: "Apple Tree Seedling"
+    file: apple-tree-seedling.png
+  - title: "Apple"
+    file: apple.png
+  - title: "Avocado"
+    file: avocado.png
+  - title: "Banana"
+    file: banana.png
+  - title: "Beef"
+    file: beef.png
+  - title: "Beeswax"
+    file: beeswax.png
+  - title: "Black Tea Seeds"
+    file: black-tea-seeds.png
+  - title: "Black Tea"
+    file: black-tea.png
+  - title: "Blackberry"
+    file: blackberry.png
+  - title: "Blueberry"
+    file: blueberry.png
+  - title: "Cabbage Seeds"
+    file: cabbage-seeds.png
+  - title: "Cabbage"
+    file: cabbage.png
+  - title: "Carrot Seeds"
+    file: carrot-seeds.png
+  - title: "Carrot"
+    file: carrot.png
+  - title: "Cauliflower Seeds"
+    file: cauliflower-seeds.png
+  - title: "Cauliflower"
+    file: cauliflower.png
+  - title: "Cheese"
+    file: cheese.png
+  - title: "Chicken Fillet"
+    file: chicken-fillet.png
+  - title: "Chili"
+    file: chili.png
+  - title: "Chocolate"
+    file: chocolate.png
+  - title: "Coconut"
+    file: coconut.png
+  - title: "Coriander"
+    file: coriander.png
+  - title: "Corn Seeds"
+    file: corn-seeds.png
+  - title: "Corn"
+    file: corn.png
+  - title: "Cotton Seeds"
+    file: cotton-seeds.png
+  - title: "Cotton"
+    file: cotton.png
+  - title: "Crocus Seeds"
+    file: crocus-seeds.png
+  - title: "Crocus"
+    file: crocus.png
+  - title: "Dragon's Blood Vial"
+    file: dragons-blood-vial.png
+  - title: "Egg"
+    file: egg.png
+  - title: "Fennel Seeds"
+    file: fennel-seeds.png
+  - title: "Fennel"
+    file: fennel.png
+  - title: "Flour"
+    file: flour.png
+  - title: "Gladiolus Flower"
+    file: gladiolus-flower.jpeg
+  - title: "Gladiolus Seed"
+    file: gladiolus-seed.jpg
+fish:
+  - title: "Black Crappie"
+    file: black-crappie.png
+  - title: "Blind Eel"
+    file: blind-eel.png
+  - title: "Blindcat"
+    file: blindcat.png
+  - title: "Bluegill"
+    file: bluegill.png
+  - title: "Bonito"
+    file: bonito.png
+  - title: "Brown Trout"
+    file: brown-trout.png
+  - title: "Carp"
+    file: carp.png
+  - title: "Catfish"
+    file: catfish.png
+  - title: "Char"
+    file: char.png
+  - title: "Chub"
+    file: chub.png
+  - title: "Clam"
+    file: clam.png
+  - title: "Complifish"
+    file: complifish.png
+  - title: "Crawfish"
+    file: crawfish.png
+  - title: "Dab"
+    file: dab.png
+  - title: "Dace"
+    file: dace.png
+  - title: "Darter"
+    file: darter.png
+  - title: "Dorado"
+    file: dorado.png
+  - title: "Eel"
+    file: eel.png
+  - title: "Flounder"
+    file: flounder.png
+  - title: "Gar"
+    file: gar.png
+food:
+  - title: "Anzac Biscuit"
+    file: anzac-biscuit.png
+  - title: "Apple Cider"
+    file: apple-cider.png
+  - title: "Apple Juice"
+    file: apple-juice.png
+  - title: "Apple Martini"
+    file: apple-martini.png
+  - title: "Apple Pie"
+    file: apple-pie.png
+  - title: "Arroz con Gandules"
+    file: arroz-con-gandules.png
+  - title: "Arroz con Huevos"
+    file: arroz-con-huevos.png
+  - title: "Asopao (Chicken & Rice)"
+    file: asopao-chicken-and-rice.png
+  - title: "Avocado Toast"
+    file: avocado-toast.png
+  - title: "Avolatte"
+    file: avolatte.png
+  - title: "Bagel"
+    file: bagel.png
+  - title: "Baklava"
+    file: baklava.png
+  - title: "Banana Bread"
+    file: banana-bread.png
+  - title: "Banana Cake"
+    file: banana-cake.png
+  - title: "Banana Smoothie"
+    file: banana-smoothie.png
+  - title: "Beef And Shiitake"
+    file: beef-and-shiitake.png
+  - title: "Beef Stroganoff"
+    file: beef-stroganoff.png
+  - title: "Beef Wellington"
+    file: beef-wellington.png
+  - title: "Beer"
+    file: beer.png
+  - title: "Beesting Cake"
+    file: beesting-cake.png
+  - title: "Beignet"
+    file: beignet.png
+  - title: "Berry Smoothie"
+    file: berry-smoothie.png
+  - title: "Berry Streusel Cake"
+    file: berry-streusel-cake.png
+  - title: "Black Pudding"
+    file: black-pudding.png
+  - title: "Blackberry Cheesecake"
+    file: blackberry-cheesecake.png
+  - title: "Blue Hawaii Cocktail"
+    file: blue-hawaii-cocktail.png
+  - title: "Blueberry Tart"
+    file: blueberry-tart.png
+  - title: "Bobotie"
+    file: bobotie.png
+  - title: "Bon-Bon Candy"
+    file: bon-bon-candy.png
+  - title: "Bottled Water"
+    file: bottled-water.png
+  - title: "Bread Pudding"
+    file: bread-pudding.png
+  - title: "Bread"
+    file: bread.png
+  - title: "Brigadeiro (Chocolate Coconut Truffles)"
+    file: brigadeiro-chocolate-coconut-truffles.png
+  - title: "Buddha's Delight"
+    file: buddhas-delight.png
+  - title: "Cabbage Soup"
+    file: cabbage-soup.png
+  - title: "Caipirinha"
+    file: caipirinha.png
+  - title: "Cape Malay Curry"
+    file: cape-malay-curry.png
+  - title: "Cappuccino"
+    file: cappuccino.png
+  - title: "Capricciosa Pizza"
+    file: capricciosa-pizza.png
+  - title: "Caramel Apple"
+    file: caramel-apple.jpg
+  - title: "Caramel Candy"
+    file: caramel-candy.png
+  - title: "Caramel Popcorn"
+    file: caramel-popcorn.png
+  - title: "Carrot Cake"
+    file: carrot-cake.png
+  - title: "Carrot Juice"
+    file: carrot-juice.png
+  - title: "Cauliflower Soup"
+    file: cauliflower-soup.png
+  - title: "Chai"
+    file: chai.png
+  - title: "Chakalaka"
+    file: chakalaka.png
+  - title: "Cheese Pizza"
+    file: cheese-pizza.png
+  - title: "Cheese Souffle"
+    file: cheese-souffle.png
+  - title: "Chicken Fricassèe"
+    file: chicken-fricassee.png
+  - title: "Chicken Kiev"
+    file: chicken-kiev.png
+  - title: "Chicken Soup"
+    file: chicken-soup.png
+  - title: "Chicken Tikka Masala"
+    file: chicken-tikka-masala.png
+  - title: "Chocolate Cupcake"
+    file: chocolate-cupcake.png
+  - title: "Chocolate Milkshake"
+    file: chocolate-milkshake.png
+  - title: "Chopped Cheese Sandwich"
+    file: chopped-cheese-sandwich.png
+  - title: "Churros"
+    file: churros.png
+  - title: "Coconut Macaroon"
+    file: coconut-macaroon.png
+  - title: "Coconut Rice"
+    file: coconut-rice.png
+  - title: "Coffee"
+    file: coffee.png
+  - title: "Coquito Cake"
+    file: coquito-cake.png
+  - title: "Coquito"
+    file: coquito.jpg
+  - title: "Corn Bread"
+    file: corn-bread.png
+  - title: "Corn Soup"
+    file: corn-soup.png
+  - title: "Cornbread Pot Pie"
+    file: cornbread-pot-pie.png
+  - title: "Cream Cheese Bagel"
+    file: cream-cheese-bagel.png
+  - title: "Cream Cheese"
+    file: cream-cheese.jpg
+  - title: "Cream of Mushroom Soup"
+    file: cream-of-mushroom-soup.png
+  - title: "Croissant"
+    file: croissant.png
+  - title: "Danish"
+    file: danish.png
+  - title: "Duck à l'Orange"
+    file: duck-a-l-orange.jpg
+  - title: "Empanada"
+    file: empanada.png
+  - title: "Fennel Salad"
+    file: fennel-salad.png
+  - title: "Fesenjan (Pomegranate Walnut Stew)"
+    file: fesenjan-pomegranate-walnut-stew.png
+  - title: "Fish Chowder"
+    file: fish-chowder.png
+  - title: "Fish Fingers"
+    file: fish-fingers.png
+  - title: "Fish Stew"
+    file: fish-stew.png
+  - title: "Flan"
+    file: flan.png
+  - title: "Fried Flounder Sandwich"
+    file: fried-flounder-sandwich.png
+  - title: "Fruit Punch"
+    file: fruit-punch.png
+  - title: "Fruit Salad"
+    file: fruit-salad.png
+  - title: "Damon - Slap Chips"
+    file: slap-chips-damon.png
+forage:
+  - title: "Almond"
+    file: almond.png
+  - title: "Beacon Bulb"
+    file: beacon-bulb.jpeg
+  - title: "Conch Shell"
+    file: conch-shell.png
+  - title: "Emerald"
+    file: emerald.png
+  - title: "Gem Finder"
+    file: gem-finder.png
+  - title: "Giant Lotus"
+    file: giant-lotus.png
+hair:
+  - title: "Azalea Mane Wolf Cut"
+    file: azalea-mane-wolf-cut-all.png
+  - title: "Azalea Mane Wolf Cut"
+    file: azalea-mane-wolf-cut.png
+  - title: "Blonde Bow Tied Bob"
+    file: blonde-bow-tied-bob-all.png
+  - title: "Blonde Bow Tied Bob"
+    file: blonde-bow-tied-bob.png
+  - title: "Blonde Classic Cut"
+    file: blonde-classic-cut-all.png
+  - title: "Blonde Classic Cut"
+    file: blonde-classic-cut.png
+  - title: "Blonde High Bun"
+    file: blonde-high-bun-all.png
+  - title: "Blonde High Bun"
+    file: blonde-high-bun.png
+  - title: "Blonde Ponytail"
+    file: blonde-ponytail-all.png
+  - title: "Blonde Ponytail"
+    file: blonde-ponytail.png
+  - title: "Blonde Short Shag"
+    file: blonde-short-shag-all.png
+  - title: "Blonde Short Shag"
+    file: blonde-short-shag.png
+  - title: "Blonde Space Buns"
+    file: blonde-space-buns-all.png
+  - title: "Blonde Space Buns"
+    file: blonde-space-buns.png
+  - title: "Blonde Tresses"
+    file: blonde-tresses-all.png
+  - title: "Blonde Tresses"
+    file: blonde-tresses.png
+  - title: "Blonde Twin Braids"
+    file: blonde-twin-braids-all.png
+  - title: "Blonde Twin Braids"
+    file: blonde-twin-braids.png
+  - title: "Blonde Wolf Cut"
+    file: blonde-wolf-cut-all.png
+  - title: "Blonde Wolf Cut"
+    file: blonde-wolf-cut.png
+  - title: "Cascading Crimson Tresses"
+    file: cascading-crimson-tresses-all.png
+  - title: "Cascading Crimson Tresses"
+    file: cascading-crimson-tresses.png
+  - title: "Classic Auburn Bow Tied Bob"
+    file: classic-auburn-bow-tied-bob-all.png
+  - title: "Classic Auburn Bow Tied Bob"
+    file: classic-auburn-bow-tied-bob.png
+  - title: "Classic Auburn High Bun"
+    file: classic-auburn-high-bun-all.png
+  - title: "Classic Auburn High Bun"
+    file: classic-auburn-high-bun.png
+  - title: "Classic Auburn Ponytail"
+    file: classic-auburn-ponytail-all.png
+  - title: "Classic Auburn Ponytail"
+    file: classic-auburn-ponytail.png
+  - title: "Classic Auburn Short Shag"
+    file: classic-auburn-short-shag-all.png
+  - title: "Classic Auburn Short Shag"
+    file: classic-auburn-short-shag.png
+  - title: "Classic Auburn Space Buns"
+    file: classic-auburn-space-buns-all.png
+  - title: "Classic Auburn Space Buns"
+    file: classic-auburn-space-buns.png
+  - title: "Classic Auburn Tresses"
+    file: classic-auburn-tresses-all.png
+  - title: "Classic Auburn Tresses"
+    file: classic-auburn-tresses.png
+  - title: "Classic Auburn Twin Braids"
+    file: classic-auburn-twin-braids-all.png
+  - title: "Classic Auburn Twin Braids"
+    file: classic-auburn-twin-braids.png
+  - title: "Classic Auburn Wolf Cut"
+    file: classic-auburn-wolf-cut-all.png
+  - title: "Classic Auburn Wolf Cut"
+    file: classic-auburn-wolf-cut.png
+  - title: "Comet Atcha Space Buns"
+    file: comet-atcha-space-buns-all.png
+  - title: "Comet Atcha Space Buns"
+    file: comet-atcha-space-buns.png
+  - title: "Copper Bow Tied Bob"
+    file: copper-bow-tied-bob-all.png
+  - title: "Copper Bow Tied Bob"
+    file: copper-bow-tied-bob.png
+  - title: "Copper Classic Cut"
+    file: copper-classic-cut-all.png
+  - title: "Copper Classic Cut"
+    file: copper-classic-cut.png
+  - title: "Copper High Bun"
+    file: copper-high-bun-all.png
+  - title: "Copper High Bun"
+    file: copper-high-bun.png
+  - title: "Copper Ponytail"
+    file: copper-ponytail-all.png
+  - title: "Copper Ponytail"
+    file: copper-ponytail.png
+  - title: "Copper Short Shag"
+    file: copper-short-shag-all.png
+  - title: "Copper Short Shag"
+    file: copper-short-shag.png
+  - title: "Copper Space Buns"
+    file: copper-space-buns-all.png
+  - title: "Copper Space Buns"
+    file: copper-space-buns.png
+  - title: "Copper Tresses"
+    file: copper-tresses-all.png
+  - title: "Copper Tresses"
+    file: copper-tresses.png
+  - title: "Copper Twin Braids"
+    file: copper-twin-braids-all.png
+  - title: "Copper Twin Braids"
+    file: copper-twin-braids.png
+  - title: "Copper Wolf Cut"
+    file: copper-wolf-cut-all.png
+  - title: "Copper Wolf Cut"
+    file: copper-wolf-cut.png
+  - title: "Fairy Floss Ponytail"
+    file: fairy-floss-ponytail-all.png
+  - title: "Fairy Floss Ponytail"
+    file: fairy-floss-ponytail.png
+  - title: "Flowing Fantasy Tresses"
+    file: flowing-fantasy-tresses-all.png
+  - title: "Flowing Fantasy Tresses"
+    file: flowing-fantasy-tresses.png
+  - title: "Fuschia Firefly Twin Braids"
+    file: fuschia-firefly-twin-braids-all.png
+  - title: "Fuschia Firefly Twin Braids"
+    file: fuschia-firefly-twin-braids.png
+island:
+  - title: "Echo-peri-lighthouse"
+    file: echo-peri-lighthouse.png
+  - title: "Fairhaven-Background"
+    file: fairhaven-background.jpg
+  - title: "Fairhaven Town"
+    file: fairhaven-town.jpg
+  - title: "Fairhaven Woods"
+    file: fairhaven-woods.jpg
+  - title: "Forest1"
+    file: forest-1.png
+  - title: "Forest2"
+    file: forest-2.png
+  - title: "ForestWinter(2)"
+    file: forest-winter.png
+  - title: "Garden Pic"
+    file: garden.png
+  - title: "Chalkboard in Ravenwood by Kate Blackshear"
+    file: ravenwood-chalkboard.jpg
+magic:
+  - title: "Acolyte"
+    file: acolyte.png
+  - title: "Adept"
+    file: adept.png
+  - title: "Alcohol-Free Ale"
+    file: alcohol-free-ale.png
+  - title: "Amethyst Wand"
+    file: amethyst-wand.jpg
+  - title: "Anemone Flower"
+    file: anemone-flower.png
+  - title: "Angus' Wraith Banishment Spell"
+    file: angus-wraith-banishment-spell.png
+  - title: "Animal Growth Booster"
+    file: animal-growth-booster.png
+  - title: "Animal Shapeshifting Spell"
+    file: animal-shapeshifting-spell.png
+  - title: "Anti-Shapeshifting Spell"
+    file: anti-shapeshifting-spell.png
+  - title: "Ardor-Cooling Potion"
+    file: ardor-cooling-potion.png
+  - title: "Aryel's Distilled Scream"
+    file: aryels-distilled-scream.jpeg
+  - title: "Aryel's Scream"
+    file: aryels-scream.jpeg
+  - title: "Atonement Incantation"
+    file: atonement-incantation.png
+  - title: "Basic Wand"
+    file: basic-wand.png
+  - title: "Blue Candle"
+    file: blue-candle.jpeg
+  - title: "Bone Meal"
+    file: bone-meal.png
+  - title: "Boost Harvest Potion"
+    file: boost-harvest-potion.png
+  - title: "Bumper Harvest Potion"
+    file: bumper-harvest-potion.png
+  - title: "Cat Fur"
+    file: cat-fur.png
+  - title: "Cauldron"
+    file: cauldron.png
+  - title: "Charming Potion"
+    file: charming-potion.png
+  - title: "Concentrated Levitation Potion"
+    file: concentrated-levitation-potion.png
+  - title: "Conditioner"
+    file: conditioner.png
+  - title: "Create Wand"
+    file: create-wand.png
+  - title: "Cryptography Incantation"
+    file: cryptography-incantation.png
+  - title: "Crystal Ball Potion"
+    file: crystal-ball-potion.png
+  - title: "Crystal Ball"
+    file: crystal-ball.png
+  - title: "Cure Animal Sickness Potion"
+    file: cure-animal-sickness-potion.png
+  - title: "Desk"
+    file: desk.png
+  - title: "Distillery"
+    file: distillery.png
+  - title: "Enchanted Silk Thread"
+    file: enchanted-silk-thread.png
+  - title: "Enchanted Silk"
+    file: enchanted-silk.png
+  - title: "Enchanted Silver Wire"
+    file: enchanted-silver-wire.jpg
+  - title: "Enhanced Scrying Potion"
+    file: enhanced-scrying-potion.jpeg
+  - title: "Essence of Copper"
+    file: essence-of-copper.png
+  - title: "Essence of Gold"
+    file: essence-of-gold.png
+  - title: "Essence of Joy"
+    file: essence-of-joy.png
+  - title: "Essence of Sight"
+    file: essence-of-sight-green.jpg
+  - title: "Essence of Sight"
+    file: essence-of-sight.png
+  - title: "Essence of Silver"
+    file: essence-of-silver.png
+  - title: "Essence of Stillness"
+    file: essence-of-stillness.jpeg
+  - title: "Fall Ritual Incantation"
+    file: fall-ritual-incantation.png
+  - title: "Farseer"
+    file: farseer.png
+  - title: "Fealty to the Fair Folk Spell"
+    file: fealty-to-the-fair-folk-spell.png
+  - title: "Fennel Powder"
+    file: fennel-powder.png
+  - title: "Festival Offering Cake"
+    file: festival-offering-cake.png
+  - title: "Freeze Time"
+    file: freeze-time.png
+  - title: "Glimmer Coating"
+    file: glimmer-coating.png
+quests:
+  - title: "A Change of Recipe"
+    file: a-change-of-recipe.jpg
+  - title: "A Need for Steed"
+    file: a-need-for-steed.jpg
+  - title: "Baby Baku Formula"
+    file: baby-baku-formula.jpg
+  - title: "Baby Baku Teeth"
+    file: baby-baku-teeth.jpeg
+  - title: "Don't Take Mines For Granite"
+    file: dont-take-mines-for-granite.jpg
+  - title: "Fairy Poor Sleep Habits"
+    file: fairy-poor-sleep-habits.jpg
+  - title: "Forget Me Not"
+    file: forget-me-not.png
+  - title: "From Bud To Spud"
+    file: from-bud-to-spud.jpg
+stations:
+  - title: "Bee Hive"
+    file: bee-hive.png
+  - title: "Bouquet Table"
+    file: bouquet-table.png
+  - title: "Butter Churn"
+    file: butter-churn.png
+  - title: "Candlemaker"
+    file: candlemaker.png
+  - title: "Candy Puller"
+    file: candy-puller.png
+  - title: "Candy Pulling Station"
+    file: candy-pulling-station.png
+  - title: "Compost Bin"
+    file: compost-bin.png
+  - title: "Copper Pickaxe"
+    file: copper-pickaxe.png
+  - title: "Copper Wood Axe"
+    file: copper-wood-axe.png
+  - title: "Dyeing Bath"
+    file: dyeing-bath.png
+  - title: "Expanded Green House"
+    file: expanded-greenhouse.png
+  - title: "Feed Mill"
+    file: feed-mill.png
+  - title: "Fermentation Barrel"
+    file: fermentation-barrel.png
+  - title: "Fishing Rod"
+    file: fishing-rod.png
+  - title: "Fishing Whirligig"
+    file: fishing-whirligig.png
+  - title: "Garden Bed"
+    file: garden-bed.png
+  - title: "Glass Kiln"
+    file: glass-kiln.png
+ui:
+  - title: "BrewingIcon"
+    file: brewing-icon.png
+  - title: "Coin"
+    file: coin.png
+  - title: "ConversationIcon"
+    file: conversation-icon.png
+  - title: "CovenIcon"
+    file: coven-icon.png
+  - title: "ElectionIcon"
+    file: election-icon.png
+  - title: "Eyebrows"
+    file: eyebrows.png
+  - title: "GardeningIcon"
+    file: gardening-icon.png
+  - title: "Gloaming1Icon"
+    file: gloaming-1-icon.png
+  - title: "Gloaming2Icon"
+    file: gloaming-2-icon.png
+  - title: "Gloaming3Icon"
+    file: gloaming-3-icon.png

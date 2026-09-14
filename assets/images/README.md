@@ -9,6 +9,49 @@ assets/images/
   witchcraft/   e.g. cauldron-first-brew.jpg
   characters/   e.g. coven-unmasked.jpg
   island/       e.g. summer-festival.jpg
+  wiki/         item art from the wiki archive — see below
+```
+
+## The wiki art collection (`wiki/`)
+
+`wiki/` holds item icons, portraits, and artwork from the Wylde Flowers wiki
+archive (`_wiki-archive/`), organized by category with kebab-case filenames:
+
+```
+assets/images/wiki/
+  animals/     barn & coop art, buy screens
+  characters/  resident portraits (…-pt.png are transparent busts)
+  clothing/    outfit mannequin icons (.png) + in-game shots (…-in-game.jpg)
+  crafting/    ingredients, cloth, dyes, minerals
+  crops/       crops, seeds, produce
+  fish/        the fishing compendium paintings
+  food/        cooked dish icons
+  forage/      wild finds
+  hair/        hairstyle busts (…-all.png shows every color variant)
+  island/      scenery shots
+  magic/       potions, essences, spells, incantations, wands
+  quests/      side-quest artwork
+  stations/    crafting stations & tools
+  ui/          in-game interface icons
+```
+
+So far the collection covers the archive's **part 1 (items A–G)**; later
+parts slot into the same folders. Every file is indexed in
+`_data/wiki_images.yml` (item title → filename per category), so pages can
+look art up by name.
+
+To embed an icon grid, use the `specimen-grid` classes from `journal.css`
+(`parchment` for item icons, `portraits` for round-framed faces, `tall`
+for outfit mannequins):
+
+```html
+<div class="specimen-grid parchment">
+  <figure>
+    <img src="{{ '/assets/images/wiki/fish/carp.png' | relative_url }}"
+         alt="Carp, as painted in the fishing compendium" loading="lazy">
+    <figcaption>Carp</figcaption>
+  </figure>
+</div>
 ```
 
 ## How to add a screenshot

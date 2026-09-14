@@ -592,3 +592,73 @@ figure.snapshot figcaption {
   max-width: 720px;
   margin: 1.8rem auto 0.6rem;
 }
+
+/* ── Specimen art from the wiki archive (item icons & portraits) ── */
+
+/* small inline icon, e.g. beside a name in a table cell */
+img.wiki-icon {
+  width: 44px;
+  height: 44px;
+  object-fit: cover;
+  border-radius: 8px;
+  border: 1px solid var(--line);
+  background: #f3ecdd; /* parchment behind the painted icons */
+  vertical-align: middle;
+  margin-right: 0.4em;
+  box-shadow: 0 1px 2px rgba(var(--shadow), 0.12);
+}
+
+/* a grid of labelled specimens, like a page of pressed samples */
+.specimen-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(118px, 1fr));
+  gap: 0.9rem;
+  margin: 1.4rem 0 1.8rem;
+}
+
+.specimen-grid figure {
+  margin: 0;
+  background: var(--sheet);
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  padding: 0.55rem 0.45rem 0.5rem;
+  text-align: center;
+  box-shadow: 0 2px 6px rgba(var(--shadow), 0.10);
+}
+
+.specimen-grid img {
+  width: 76px;
+  height: 76px;
+  object-fit: contain;
+  border-radius: 8px;
+}
+
+/* item icons ship with a baked-in parchment square; frame it gently */
+.specimen-grid.parchment img {
+  object-fit: cover;
+  background: #f3ecdd;
+  border: 1px solid var(--line);
+}
+
+/* taller cells for outfit mannequins */
+.specimen-grid.tall img {
+  width: 84px;
+  height: 112px;
+}
+
+/* round frames for the residents' portraits */
+.specimen-grid.portraits img {
+  object-fit: cover;
+  object-position: top;
+  border-radius: 50%;
+  border: 2px solid var(--line);
+  background: var(--sheet);
+}
+
+.specimen-grid figcaption {
+  font-size: 0.78rem;
+  color: var(--ink-soft);
+  margin-top: 0.35rem;
+  line-height: 1.3;
+  overflow-wrap: break-word;
+}

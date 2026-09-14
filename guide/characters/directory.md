@@ -11,6 +11,71 @@ Talk to everyone, every day, the way you'd water every pot on the sill. For rais
 
 ---
 
+## Field Portraits
+
+A first page of faces for the census, pasted in from the archive — residents, one witch of Ravenwood, one very good cat-adjacent basilisk. More portraits will be pressed in as the archive's later volumes arrive.
+
+<div class="specimen-grid portraits">
+  <figure>
+    <img src="{{ '/assets/images/wiki/characters/tara-wylde.jpg' | relative_url }}" alt="Tara Wylde, portrait" loading="lazy">
+    <figcaption>Tara Wylde</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/characters/amira-syed-pt.png' | relative_url }}" alt="Amira Syed, portrait" loading="lazy">
+    <figcaption>Amira Syed</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/characters/angus-seton-pt.png' | relative_url }}" alt="Angus Seton, portrait" loading="lazy">
+    <figcaption>Angus Seton</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/characters/bruno-soft-pt.png' | relative_url }}" alt="Bruno Soft, portrait" loading="lazy">
+    <figcaption>Bruno Soft</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/characters/cameron-conner-pt.png' | relative_url }}" alt="Cameron Conner, portrait" loading="lazy">
+    <figcaption>Cameron Conner</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/characters/damon-mthembu-haas-pt.png' | relative_url }}" alt="Damon Mthembu-Haas, portrait" loading="lazy">
+    <figcaption>Damon Mthembu-Haas</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/characters/emmi-johnson-pt.png' | relative_url }}" alt="Emmi Johnson, portrait" loading="lazy">
+    <figcaption>Emmi Johnson</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/characters/finn-johnson-pt.png' | relative_url }}" alt="Finn Johnson, portrait" loading="lazy">
+    <figcaption>Finn Johnson</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/characters/francis-calderon-pt.png' | relative_url }}" alt="Francis Calderon, portrait" loading="lazy">
+    <figcaption>Francis Calderon</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/characters/giva-joshi-pt.png' | relative_url }}" alt="Giva Joshi, portrait" loading="lazy">
+    <figcaption>Giva Joshi</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/characters/eury-sinclair-pt.png' | relative_url }}" alt="Eury Sinclair, portrait" loading="lazy">
+    <figcaption>Eury Sinclair</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/characters/ginger.jpg' | relative_url }}" alt="Ginger, portrait" loading="lazy">
+    <figcaption>Ginger</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/characters/aryel.png' | relative_url }}" alt="Aryel, portrait" loading="lazy">
+    <figcaption>Aryel</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/characters/basel.jpg' | relative_url }}" alt="Basel the basilisk, portrait" loading="lazy">
+    <figcaption>Basel</figcaption>
+  </figure>
+</div>
+
+---
+
 ## The Wylde Farm
 
 | Resident | Role | Field notes |

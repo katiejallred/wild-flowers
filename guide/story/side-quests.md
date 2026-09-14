@@ -45,6 +45,47 @@ Character quest lines also grow around the island's couples and families — Ang
 
 ---
 
+## From the Quest Journal
+
+Sketches clipped from the quest journal's early pages — moments from the side stories above and a few still waiting to be written up.
+
+<div class="specimen-grid">
+  <figure>
+    <img src="{{ '/assets/images/wiki/quests/a-change-of-recipe.jpg' | relative_url }}" alt="A Change of Recipe side quest artwork" loading="lazy">
+    <figcaption>A Change of Recipe</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/quests/a-need-for-steed.jpg' | relative_url }}" alt="A Need for Steed side quest artwork" loading="lazy">
+    <figcaption>A Need for Steed</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/quests/baby-baku-formula.jpg' | relative_url }}" alt="Baby Baku Formula side quest artwork" loading="lazy">
+    <figcaption>Baby Baku Formula</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/quests/baby-baku-teeth.jpeg' | relative_url }}" alt="Baby Baku Teeth side quest artwork" loading="lazy">
+    <figcaption>Baby Baku Teeth</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/quests/dont-take-mines-for-granite.jpg' | relative_url }}" alt="Don't Take Mines For Granite side quest artwork" loading="lazy">
+    <figcaption>Don't Take Mines For Granite</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/quests/fairy-poor-sleep-habits.jpg' | relative_url }}" alt="Fairy Poor Sleep Habits side quest artwork" loading="lazy">
+    <figcaption>Fairy Poor Sleep Habits</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/quests/forget-me-not.png' | relative_url }}" alt="Forget Me Not side quest artwork" loading="lazy">
+    <figcaption>Forget Me Not</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/quests/from-bud-to-spud.jpg' | relative_url }}" alt="From Bud To Spud side quest artwork" loading="lazy">
+    <figcaption>From Bud To Spud</figcaption>
+  </figure>
+</div>
+
+---
+
 **See also:** the [Chapter Guide Overview](overview.md) for how the main stalk grows, and the [Character Directory](../characters/directory.md) for who's who among your neighbours.
 
 <span class="handwritten">The main story is the oak. These are the mosses, and I love them more. — K. 🌙</span>
