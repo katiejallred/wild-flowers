@@ -11,6 +11,10 @@ pressed-flower botanical journal. 🌿
 - **The site** is built with [Jekyll](https://jekyllrb.com/), which GitHub Pages runs
   automatically — no build step, no toolchain. Enable it under
   **Settings → Pages → Deploy from a branch**.
+- **Local preview:** with Ruby installed, run `bundle install` once, then
+  `bundle exec jekyll serve` and open <http://localhost:4000>. The
+  [`Gemfile`](Gemfile) uses the `github-pages` gem, so the preview matches
+  exactly what GitHub Pages will publish.
 - **[`index.html`](index.html)** — the journal cover & table of contents.
 - **[`guide/`](guide/)** — all content pages, written in plain Markdown, organized into
   eight sections: getting started, story, farming, witchcraft, crafting, characters,
