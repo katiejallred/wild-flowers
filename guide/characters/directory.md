@@ -13,7 +13,7 @@ Talk to everyone, every day, the way you'd water every pot on the sill. For rais
 
 ## Field Portraits
 
-The census now has faces: nearly every resident, a witch or two of Ravenwood, a coven mask, and one very good basilisk, all pasted in from the archive.
+The census is complete: every resident, the witches of Ravenwood, a coven mask, one very good basilisk, and even Zoey the baby baku, all pasted in from the archive.
 
 <div class="specimen-grid portraits">
   <figure>
@@ -101,6 +101,38 @@ The census now has faces: nearly every resident, a witch or two of Ravenwood, a 
     <figcaption>Eury Sinclair</figcaption>
   </figure>
   <figure>
+    <img src="{{ '/assets/images/wiki/characters/sebastian-miranda-pt.png' | relative_url }}" alt="Sebastián Miranda, portrait" loading="lazy">
+    <figcaption>Sebastián Miranda</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/characters/shelby-demeter-pt.png' | relative_url }}" alt="Shelby Demeter, portrait" loading="lazy">
+    <figcaption>Shelby Demeter</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/characters/sophia-moretti-pt.png' | relative_url }}" alt="Sophia Moretti, portrait" loading="lazy">
+    <figcaption>Sophia Moretti</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/characters/thomas-lightfoot-pt.png' | relative_url }}" alt="Thomas Lightfoot, portrait" loading="lazy">
+    <figcaption>Thomas Lightfoot</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/characters/vanessa-soft-pt.png' | relative_url }}" alt="Vanessa Soft, portrait" loading="lazy">
+    <figcaption>Vanessa Soft</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/characters/violet-miranda-pt.png' | relative_url }}" alt="Violet Miranda, portrait" loading="lazy">
+    <figcaption>Violet Miranda</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/characters/westley-vuk-pt.png' | relative_url }}" alt="Westley Vuk, portrait" loading="lazy">
+    <figcaption>Westley Vuk</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/characters/zephyr-grimspark.png' | relative_url }}" alt="Zephyr Grimspark, portrait" loading="lazy">
+    <figcaption>Zephyr Grimspark</figcaption>
+  </figure>
+  <figure>
     <img src="{{ '/assets/images/wiki/characters/peri.png' | relative_url }}" alt="Peri, portrait" loading="lazy">
     <figcaption>Peri</figcaption>
   </figure>
@@ -119,6 +151,10 @@ The census now has faces: nearly every resident, a witch or two of Ravenwood, a 
   <figure>
     <img src="{{ '/assets/images/wiki/characters/basel.jpg' | relative_url }}" alt="Basel, portrait" loading="lazy">
     <figcaption>Basel</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/characters/zoey.jpg' | relative_url }}" alt="Zoey, portrait" loading="lazy">
+    <figcaption>Zoey</figcaption>
   </figure>
 </div>
 

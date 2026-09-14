@@ -65,7 +65,7 @@ Fairhaven's seasons turn only when the coven wills it, which gives you unusual l
 
 ---
 
-## The Recipe Box (A–R)
+## The Recipe Box (A–Z)
 
 Every dish from the archive's first two drawers, Anzac Biscuit through Pumpkin Spice Latte — proof that Fairhaven's kitchens cook from every corner of the world. Recipes from later in the alphabet will be pasted in as the archive grows.
 
@@ -669,6 +669,266 @@ Every dish from the archive's first two drawers, Anzac Biscuit through Pumpkin S
   <figure>
     <img src="{{ '/assets/images/wiki/food/ramen.png' | relative_url }}" alt="Ramen dish icon" loading="lazy">
     <figcaption>Ramen</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/restorative-tea.png' | relative_url }}" alt="Restorative Tea dish icon" loading="lazy">
+    <figcaption>Restorative Tea</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/rice-cracker.png' | relative_url }}" alt="Rice Cracker dish icon" loading="lazy">
+    <figcaption>Rice Cracker</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/rice-pudding.png' | relative_url }}" alt="Rice Pudding dish icon" loading="lazy">
+    <figcaption>Rice Pudding</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/rice-wine.png' | relative_url }}" alt="Rice Wine dish icon" loading="lazy">
+    <figcaption>Rice Wine</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/roast-beef.png' | relative_url }}" alt="Roast Beef dish icon" loading="lazy">
+    <figcaption>Roast Beef</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/roast-pork.png' | relative_url }}" alt="Roast Pork dish icon" loading="lazy">
+    <figcaption>Roast Pork</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/roast-salmon.png' | relative_url }}" alt="Roast Salmon dish icon" loading="lazy">
+    <figcaption>Roast Salmon</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/rum.png' | relative_url }}" alt="Rum dish icon" loading="lazy">
+    <figcaption>Rum</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/rumbledethumps.png' | relative_url }}" alt="Rumbledethumps dish icon" loading="lazy">
+    <figcaption>Rumbledethumps</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/samosas.png' | relative_url }}" alt="Samosas dish icon" loading="lazy">
+    <figcaption>Samosas</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/satay-noodles.png' | relative_url }}" alt="Satay Noodles dish icon" loading="lazy">
+    <figcaption>Satay Noodles</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/sauerkraut.png' | relative_url }}" alt="Sauerkraut dish icon" loading="lazy">
+    <figcaption>Sauerkraut</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/sausage-rolls.png' | relative_url }}" alt="Sausage Rolls dish icon" loading="lazy">
+    <figcaption>Sausage Rolls</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/schnitzel.png' | relative_url }}" alt="Schnitzel dish icon" loading="lazy">
+    <figcaption>Schnitzel</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/scottiglia-mixed-meat-stew.jpg' | relative_url }}" alt="Scottiglia (Mixed Meat Stew) dish icon" loading="lazy">
+    <figcaption>Scottiglia (Mixed Meat Stew)</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/scottiglia.png' | relative_url }}" alt="Scottiglia (Mixed Meat Stew) dish icon" loading="lazy">
+    <figcaption>Scottiglia (Mixed Meat Stew)</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/seafood-fra-diavolo.png' | relative_url }}" alt="Seafood Fra Diavolo dish icon" loading="lazy">
+    <figcaption>Seafood Fra Diavolo</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/seafood-paella.png' | relative_url }}" alt="Seafood Paella dish icon" loading="lazy">
+    <figcaption>Seafood Paella</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/seitan.png' | relative_url }}" alt="Seitan dish icon" loading="lazy">
+    <figcaption>Seitan</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/shrimp-rangoons.png' | relative_url }}" alt="Shrimp Rangoons dish icon" loading="lazy">
+    <figcaption>Shrimp Rangoons</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/skirlie.png' | relative_url }}" alt="Skirlie dish icon" loading="lazy">
+    <figcaption>Skirlie</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/slap-chips.png' | relative_url }}" alt="Slap Chips dish icon" loading="lazy">
+    <figcaption>Slap Chips</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/smoked-salmon-bagel.png' | relative_url }}" alt="Smoked Salmon Bagel dish icon" loading="lazy">
+    <figcaption>Smoked Salmon Bagel</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/snickerdoodle.png' | relative_url }}" alt="Snickerdoodle dish icon" loading="lazy">
+    <figcaption>Snickerdoodle</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/soy-candle.png' | relative_url }}" alt="Soy Candle dish icon" loading="lazy">
+    <figcaption>Soy Candle</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/soy-milk.png' | relative_url }}" alt="Soy Milk dish icon" loading="lazy">
+    <figcaption>Soy Milk</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/spaghetti-bolognese.png' | relative_url }}" alt="Spaghetti Bolognese dish icon" loading="lazy">
+    <figcaption>Spaghetti Bolognese</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/spaghetti-puttanesca.png' | relative_url }}" alt="Spaghetti Puttanesca dish icon" loading="lazy">
+    <figcaption>Spaghetti Puttanesca</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/spanakopita.png' | relative_url }}" alt="Spanakopita dish icon" loading="lazy">
+    <figcaption>Spanakopita</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/spanish-omelette.png' | relative_url }}" alt="Spanish Omelette dish icon" loading="lazy">
+    <figcaption>Spanish Omelette</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/spinach-smoothie.png' | relative_url }}" alt="Spinach Smoothie dish icon" loading="lazy">
+    <figcaption>Spinach Smoothie</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/spring-stew.png' | relative_url }}" alt="Spring Stew dish icon" loading="lazy">
+    <figcaption>Spring Stew</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/strawberry-candy.png' | relative_url }}" alt="Strawberry Candy dish icon" loading="lazy">
+    <figcaption>Strawberry Candy</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/strawberry-daiquiri.png' | relative_url }}" alt="Strawberry Daiquiri dish icon" loading="lazy">
+    <figcaption>Strawberry Daiquiri</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/strawberry-milkshake.png' | relative_url }}" alt="Strawberry Milkshake dish icon" loading="lazy">
+    <figcaption>Strawberry Milkshake</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/strawberry-shortcake.png' | relative_url }}" alt="Strawberry Shortcake dish icon" loading="lazy">
+    <figcaption>Strawberry Shortcake</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/succotash.png' | relative_url }}" alt="Succotash dish icon" loading="lazy">
+    <figcaption>Succotash</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/sugar.png' | relative_url }}" alt="Sugar dish icon" loading="lazy">
+    <figcaption>Sugar</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/sushi.png' | relative_url }}" alt="Sushi dish icon" loading="lazy">
+    <figcaption>Sushi</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/sweet-and-sour-pork.png' | relative_url }}" alt="Sweet and Sour Pork dish icon" loading="lazy">
+    <figcaption>Sweet and Sour Pork</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/sweet-potato-and-coriander-pizza.png' | relative_url }}" alt="Sweet Potato and Coriander Pizza dish icon" loading="lazy">
+    <figcaption>Sweet Potato and Coriander Pizza</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/sweet-potato-casserole.png' | relative_url }}" alt="Sweet Potato Casserole dish icon" loading="lazy">
+    <figcaption>Sweet Potato Casserole</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/sweet-potato-coriander-pizza.png' | relative_url }}" alt="Sweet Potato & Coriander Pizza dish icon" loading="lazy">
+    <figcaption>Sweet Potato & Coriander Pizza</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/sweet-potato-fries.png' | relative_url }}" alt="Sweet Potato Fries dish icon" loading="lazy">
+    <figcaption>Sweet Potato Fries</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/sweet-potato-vodka.png' | relative_url }}" alt="Sweet Potato Vodka dish icon" loading="lazy">
+    <figcaption>Sweet Potato Vodka</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/syrniki-russian-cheese-pancake.png' | relative_url }}" alt="Syrniki (Russian Cheese Pancake) dish icon" loading="lazy">
+    <figcaption>Syrniki (Russian Cheese Pancake)</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/tabbouleh.png' | relative_url }}" alt="Tabbouleh dish icon" loading="lazy">
+    <figcaption>Tabbouleh</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/texas-brownie.png' | relative_url }}" alt="Texas Brownie dish icon" loading="lazy">
+    <figcaption>Texas Brownie</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/the-welcome-refresher.png' | relative_url }}" alt="The Welcome Refresher dish icon" loading="lazy">
+    <figcaption>The Welcome Refresher</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/three-sisters-stew.png' | relative_url }}" alt="Three Sisters Stew dish icon" loading="lazy">
+    <figcaption>Three Sisters Stew</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/tiramisu.png' | relative_url }}" alt="Tiramisu dish icon" loading="lazy">
+    <figcaption>Tiramisu</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/tofu.png' | relative_url }}" alt="Tofu dish icon" loading="lazy">
+    <figcaption>Tofu</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/tomato-soup.png' | relative_url }}" alt="Tomato Soup dish icon" loading="lazy">
+    <figcaption>Tomato Soup</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/truffled-duck-eggs-on-toast.jpg' | relative_url }}" alt="Truffled Duck Eggs on Toast dish icon" loading="lazy">
+    <figcaption>Truffled Duck Eggs on Toast</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/truffled-mac-and-cheese.png' | relative_url }}" alt="Truffled Mac And Cheese dish icon" loading="lazy">
+    <figcaption>Truffled Mac And Cheese</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/truffled-mashed-potatoes.jpg' | relative_url }}" alt="Truffled Mashed Potatoes dish icon" loading="lazy">
+    <figcaption>Truffled Mashed Potatoes</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/truffled-mushroom-soup.jpg' | relative_url }}" alt="Truffled Mushroom Soup dish icon" loading="lazy">
+    <figcaption>Truffled Mushroom Soup</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/turkish-delight.png' | relative_url }}" alt="Turkish Delight dish icon" loading="lazy">
+    <figcaption>Turkish Delight</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/vada-pav-bombay-burger.png' | relative_url }}" alt="Vada Pav (Bombay Burger) dish icon" loading="lazy">
+    <figcaption>Vada Pav (Bombay Burger)</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/vodka.png' | relative_url }}" alt="Vodka dish icon" loading="lazy">
+    <figcaption>Vodka</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/wedding-cake.png' | relative_url }}" alt="Wedding Cake dish icon" loading="lazy">
+    <figcaption>Wedding Cake</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/whiskey.png' | relative_url }}" alt="Whiskey dish icon" loading="lazy">
+    <figcaption>Whiskey</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/wine.png' | relative_url }}" alt="Wine dish icon" loading="lazy">
+    <figcaption>Wine</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/wylde-flower-shrimp.jpg' | relative_url }}" alt="Wylde Flower Shrimp dish icon" loading="lazy">
+    <figcaption>Wylde Flower Shrimp</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/food/zeytoon-parvardeh.png' | relative_url }}" alt="Zeytoon Parvardeh (Marinated Olives) dish icon" loading="lazy">
+    <figcaption>Zeytoon Parvardeh (Marinated Olives)</figcaption>
   </figure>
 </div>
 

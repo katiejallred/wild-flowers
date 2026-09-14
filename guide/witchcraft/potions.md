@@ -181,6 +181,70 @@ Bottles from the archive — brews, essences, and one distilled scream (long sto
     <img src="{{ '/assets/images/wiki/magic/miracle-grow-potion.png' | relative_url }}" alt="Miracle Grow Potion icon" loading="lazy">
     <figcaption>Miracle Grow Potion</figcaption>
   </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/magic/restore-magic-potion.png' | relative_url }}" alt="Restore Magic Potion icon" loading="lazy">
+    <figcaption>Restore Magic Potion</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/magic/revitalizing-potion.png' | relative_url }}" alt="Revitalizing Potion icon" loading="lazy">
+    <figcaption>Revitalizing Potion</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/magic/reviving-potion.png' | relative_url }}" alt="Reviving Potion icon" loading="lazy">
+    <figcaption>Reviving Potion</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/magic/scrying-potion.png' | relative_url }}" alt="Scrying Potion icon" loading="lazy">
+    <figcaption>Scrying Potion</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/magic/shrinking-potion.jpg' | relative_url }}" alt="Shrinking Potion icon" loading="lazy">
+    <figcaption>Shrinking Potion</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/magic/silencing-potion.png' | relative_url }}" alt="Silencing Potion icon" loading="lazy">
+    <figcaption>Silencing Potion</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/magic/sparkle-coating.png' | relative_url }}" alt="Sparkle Coating icon" loading="lazy">
+    <figcaption>Sparkle Coating</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/magic/spectare-potion.png' | relative_url }}" alt="Spectare Potion icon" loading="lazy">
+    <figcaption>Spectare Potion</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/magic/stretching-potion.jpg' | relative_url }}" alt="Stretching Potion icon" loading="lazy">
+    <figcaption>Stretching Potion</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/magic/transformation-cure.png' | relative_url }}" alt="Transformation Cure icon" loading="lazy">
+    <figcaption>Transformation Cure</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/magic/truth-serum-malasada.png' | relative_url }}" alt="Truth Serum Malasada icon" loading="lazy">
+    <figcaption>Truth Serum Malasada</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/magic/ultra-miracle-grow-potion.png' | relative_url }}" alt="Ultra Miracle Grow Potion icon" loading="lazy">
+    <figcaption>Ultra Miracle Grow Potion</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/magic/very-charming-potion.png' | relative_url }}" alt="Very Charming Potion icon" loading="lazy">
+    <figcaption>Very Charming Potion</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/magic/wellspring-balancing-potion.jpeg' | relative_url }}" alt="Wellspring Balancing Potion icon" loading="lazy">
+    <figcaption>Wellspring Balancing Potion</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/magic/werewolf-suppression-potion.png' | relative_url }}" alt="Werewolf Suppression Potion icon" loading="lazy">
+    <figcaption>Werewolf Suppression Potion</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/magic/woodland-medicinal-potion.jpg' | relative_url }}" alt="Woodland Medicinal Potion icon" loading="lazy">
+    <figcaption>Woodland Medicinal Potion</figcaption>
+  </figure>
 </div>
 
 <span class="handwritten">tip: label nothing, sniff everything — kidding. drink the green one only if you brewed the green one 🌙</span>

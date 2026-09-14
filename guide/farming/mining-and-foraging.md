@@ -114,12 +114,40 @@ From the mine's dark shelves — ores, gems, and oddities:
     <figcaption>Iron Ingot</figcaption>
   </figure>
   <figure>
+    <img src="{{ '/assets/images/wiki/crafting/silver-ore.png' | relative_url }}" alt="Silver Ore icon" loading="lazy">
+    <figcaption>Silver Ore</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crafting/silver-ingot.png' | relative_url }}" alt="Silver Ingot icon" loading="lazy">
+    <figcaption>Silver Ingot</figcaption>
+  </figure>
+  <figure>
     <img src="{{ '/assets/images/wiki/crafting/diamond.png' | relative_url }}" alt="Diamond icon" loading="lazy">
     <figcaption>Diamond</figcaption>
   </figure>
   <figure>
+    <img src="{{ '/assets/images/wiki/crafting/ruby.png' | relative_url }}" alt="Ruby icon" loading="lazy">
+    <figcaption>Ruby</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crafting/sapphire.png' | relative_url }}" alt="Sapphire icon" loading="lazy">
+    <figcaption>Sapphire</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crafting/topaz.png' | relative_url }}" alt="Topaz icon" loading="lazy">
+    <figcaption>Topaz</figcaption>
+  </figure>
+  <figure>
     <img src="{{ '/assets/images/wiki/crafting/fine-sand.png' | relative_url }}" alt="Fine Sand icon" loading="lazy">
     <figcaption>Fine Sand</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crafting/sandstone.png' | relative_url }}" alt="Sandstone icon" loading="lazy">
+    <figcaption>Sandstone</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crafting/stone.png' | relative_url }}" alt="Stone icon" loading="lazy">
+    <figcaption>Stone</figcaption>
   </figure>
   <figure>
     <img src="{{ '/assets/images/wiki/crafting/pearl-dust.png' | relative_url }}" alt="Pearl Dust icon" loading="lazy">
@@ -221,6 +249,50 @@ And from the open air, the forager's basket:
   <figure>
     <img src="{{ '/assets/images/wiki/forage/poppy-flower.png' | relative_url }}" alt="Poppy Flower icon" loading="lazy">
     <figcaption>Poppy Flower</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/forage/seashell.png' | relative_url }}" alt="Seashell icon" loading="lazy">
+    <figcaption>Seashell</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/forage/seaweed.png' | relative_url }}" alt="Seaweed icon" loading="lazy">
+    <figcaption>Seaweed</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/forage/shiitake-mushroom.png' | relative_url }}" alt="Shiitake Mushroom icon" loading="lazy">
+    <figcaption>Shiitake Mushroom</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/forage/thistle.png' | relative_url }}" alt="Thistle icon" loading="lazy">
+    <figcaption>Thistle</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/forage/toadstool.png' | relative_url }}" alt="Toadstool icon" loading="lazy">
+    <figcaption>Toadstool</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/forage/trompette-de-la-mort.png' | relative_url }}" alt="Trompette de la Mort icon" loading="lazy">
+    <figcaption>Trompette de la Mort</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/forage/walnut.png' | relative_url }}" alt="Walnut icon" loading="lazy">
+    <figcaption>Walnut</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/forage/weed.png' | relative_url }}" alt="Weed icon" loading="lazy">
+    <figcaption>Weed</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/forage/witch-weed.png' | relative_url }}" alt="Witch Weed icon" loading="lazy">
+    <figcaption>Witch Weed</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/forage/wolfsbane.png' | relative_url }}" alt="Wolfsbane icon" loading="lazy">
+    <figcaption>Wolfsbane</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/forage/wool-weed.png' | relative_url }}" alt="Wool Weed icon" loading="lazy">
+    <figcaption>Wool Weed</figcaption>
   </figure>
 </div>
 

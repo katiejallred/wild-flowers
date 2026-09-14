@@ -129,6 +129,10 @@ Portraits from the barn and coop, as the archive paints them.
     <figcaption>Pig</figcaption>
   </figure>
   <figure>
+    <img src="{{ '/assets/images/wiki/animals/sheep.png' | relative_url }}" alt="Sheep icon" loading="lazy">
+    <figcaption>Sheep</figcaption>
+  </figure>
+  <figure>
     <img src="{{ '/assets/images/wiki/animals/coop.png' | relative_url }}" alt="Coop icon" loading="lazy">
     <figcaption>Coop</figcaption>
   </figure>

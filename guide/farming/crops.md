@@ -118,9 +118,9 @@ Mulberry trees also give **mulberry leaves** (unsellable, but silkworms adore th
 
 ---
 
-## Pressed Specimens (A–R)
+## Pressed Specimens (A–Z)
 
-The seed drawer and harvest shelf, illustrated — every crop, seed packet, and orchard fruit from the archive so far. Later letters of the alphabet join as more plates arrive.
+The seed drawer and harvest shelf, illustrated — every crop, seed packet, and orchard fruit in the archive, A through Z, rice paddy to tulip bed.
 
 <div class="specimen-grid parchment">
   <figure>
@@ -354,6 +354,114 @@ The seed drawer and harvest shelf, illustrated — every crop, seed packet, and 
   <figure>
     <img src="{{ '/assets/images/wiki/crops/pumpkin.png' | relative_url }}" alt="Pumpkin item icon" loading="lazy">
     <figcaption>Pumpkin</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crops/rice.png' | relative_url }}" alt="Rice item icon" loading="lazy">
+    <figcaption>Rice</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crops/snowdrop-seeds.png' | relative_url }}" alt="Snowdrop Seeds item icon" loading="lazy">
+    <figcaption>Snowdrop Seeds</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crops/snowdrop.png' | relative_url }}" alt="Snowdrop item icon" loading="lazy">
+    <figcaption>Snowdrop</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crops/soybean-seeds.png' | relative_url }}" alt="Soybean Seeds item icon" loading="lazy">
+    <figcaption>Soybean Seeds</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crops/soybean.png' | relative_url }}" alt="Soybean item icon" loading="lazy">
+    <figcaption>Soybean</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crops/spinach-seeds.png' | relative_url }}" alt="Spinach Seeds item icon" loading="lazy">
+    <figcaption>Spinach Seeds</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crops/spinach.png' | relative_url }}" alt="Spinach item icon" loading="lazy">
+    <figcaption>Spinach</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crops/strawberry-seeds.png' | relative_url }}" alt="Strawberry Seeds item icon" loading="lazy">
+    <figcaption>Strawberry Seeds</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crops/strawberry.png' | relative_url }}" alt="Strawberry item icon" loading="lazy">
+    <figcaption>Strawberry</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crops/sugarcane-seeds.png' | relative_url }}" alt="Sugarcane Seeds item icon" loading="lazy">
+    <figcaption>Sugarcane Seeds</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crops/sugarcane.png' | relative_url }}" alt="Sugarcane item icon" loading="lazy">
+    <figcaption>Sugarcane</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crops/sunflower-seeds.png' | relative_url }}" alt="Sunflower Seeds item icon" loading="lazy">
+    <figcaption>Sunflower Seeds</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crops/sunflower.png' | relative_url }}" alt="Sunflower item icon" loading="lazy">
+    <figcaption>Sunflower</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crops/sweet-potato-seeds.png' | relative_url }}" alt="Sweet Potato Seeds item icon" loading="lazy">
+    <figcaption>Sweet Potato Seeds</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crops/sweet-potato.png' | relative_url }}" alt="Sweet Potato item icon" loading="lazy">
+    <figcaption>Sweet Potato</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crops/tiger-lily-bulbs.png' | relative_url }}" alt="Tiger Lily Bulbs item icon" loading="lazy">
+    <figcaption>Tiger Lily Bulbs</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crops/tiger-lily.png' | relative_url }}" alt="Tiger Lily item icon" loading="lazy">
+    <figcaption>Tiger Lily</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crops/tomato-seeds.png' | relative_url }}" alt="Tomato Seeds item icon" loading="lazy">
+    <figcaption>Tomato Seeds</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crops/tomato.png' | relative_url }}" alt="Tomato item icon" loading="lazy">
+    <figcaption>Tomato</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crops/truffle.png' | relative_url }}" alt="Truffle item icon" loading="lazy">
+    <figcaption>Truffle</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crops/tulip-bulbs.png' | relative_url }}" alt="Tulip Bulbs item icon" loading="lazy">
+    <figcaption>Tulip Bulbs</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crops/tulip.png' | relative_url }}" alt="Tulip item icon" loading="lazy">
+    <figcaption>Tulip</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crops/turtlehead-flower-seeds.png' | relative_url }}" alt="Turtlehead Flower Seeds item icon" loading="lazy">
+    <figcaption>Turtlehead Flower Seeds</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crops/turtlehead-flower.png' | relative_url }}" alt="Turtlehead Flower item icon" loading="lazy">
+    <figcaption>Turtlehead Flower</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crops/wheat-seeds.png' | relative_url }}" alt="Wheat Seeds item icon" loading="lazy">
+    <figcaption>Wheat Seeds</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crops/wheat.png' | relative_url }}" alt="Wheat item icon" loading="lazy">
+    <figcaption>Wheat</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crops/white-truffle.png' | relative_url }}" alt="White Truffle item icon" loading="lazy">
+    <figcaption>White Truffle</figcaption>
   </figure>
 </div>
 

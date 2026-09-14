@@ -186,6 +186,42 @@ Stations and tools from the archive — the working wall of a well-kept shed.
     <img src="{{ '/assets/images/wiki/stations/paper-press.png' | relative_url }}" alt="Paper Press station icon" loading="lazy">
     <figcaption>Paper Press</figcaption>
   </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/stations/rusty-pickaxe.png' | relative_url }}" alt="Rusty Pickaxe station icon" loading="lazy">
+    <figcaption>Rusty Pickaxe</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/stations/rusty-watering-can.png' | relative_url }}" alt="Rusty Watering Can station icon" loading="lazy">
+    <figcaption>Rusty Watering Can</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/stations/rusty-wood-axe.png' | relative_url }}" alt="Rusty Wood Axe station icon" loading="lazy">
+    <figcaption>Rusty Wood Axe</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/stations/sewing-machine.png' | relative_url }}" alt="Sewing Machine station icon" loading="lazy">
+    <figcaption>Sewing Machine</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/stations/shovel.png' | relative_url }}" alt="Shovel station icon" loading="lazy">
+    <figcaption>Shovel</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/stations/silkworm-box.png' | relative_url }}" alt="Silkworm Box station icon" loading="lazy">
+    <figcaption>Silkworm Box</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/stations/silver-pickaxe.png' | relative_url }}" alt="Silver Pickaxe station icon" loading="lazy">
+    <figcaption>Silver Pickaxe</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/stations/silver-wood-axe.png' | relative_url }}" alt="Silver Wood Axe station icon" loading="lazy">
+    <figcaption>Silver Wood Axe</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/stations/tanning-station.png' | relative_url }}" alt="Tanning Station station icon" loading="lazy">
+    <figcaption>Tanning Station</figcaption>
+  </figure>
 </div>
 
 ---

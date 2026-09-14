@@ -92,8 +92,20 @@ The shed's output, illustrated — cloth and silk, leathers, glasswork, and the 
     <figcaption>Olive Oil</figcaption>
   </figure>
   <figure>
+    <img src="{{ '/assets/images/wiki/crafting/rose-water.png' | relative_url }}" alt="Rose Water icon" loading="lazy">
+    <figcaption>Rose Water</figcaption>
+  </figure>
+  <figure>
     <img src="{{ '/assets/images/wiki/crafting/beeswax-candle.png' | relative_url }}" alt="Beeswax Candle icon" loading="lazy">
     <figcaption>Beeswax Candle</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crafting/tallow-candle.png' | relative_url }}" alt="Tallow Candle icon" loading="lazy">
+    <figcaption>Tallow Candle</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crafting/yellow-candle.jpeg' | relative_url }}" alt="Yellow Candle icon" loading="lazy">
+    <figcaption>Yellow Candle</figcaption>
   </figure>
   <figure>
     <img src="{{ '/assets/images/wiki/crafting/cloth.png' | relative_url }}" alt="Cloth icon" loading="lazy">
@@ -124,6 +136,18 @@ The shed's output, illustrated — cloth and silk, leathers, glasswork, and the 
     <figcaption>Rainbow Cloth</figcaption>
   </figure>
   <figure>
+    <img src="{{ '/assets/images/wiki/crafting/red-cloth.png' | relative_url }}" alt="Red Cloth icon" loading="lazy">
+    <figcaption>Red Cloth</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crafting/shiny-cloth.png' | relative_url }}" alt="Shiny Cloth icon" loading="lazy">
+    <figcaption>Shiny Cloth</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crafting/yellow-cloth.png' | relative_url }}" alt="Yellow Cloth icon" loading="lazy">
+    <figcaption>Yellow Cloth</figcaption>
+  </figure>
+  <figure>
     <img src="{{ '/assets/images/wiki/crafting/blue-dye.png' | relative_url }}" alt="Blue Dye icon" loading="lazy">
     <figcaption>Blue Dye</figcaption>
   </figure>
@@ -136,12 +160,24 @@ The shed's output, illustrated — cloth and silk, leathers, glasswork, and the 
     <figcaption>Orange Dye</figcaption>
   </figure>
   <figure>
+    <img src="{{ '/assets/images/wiki/crafting/red-dye.png' | relative_url }}" alt="Red Dye icon" loading="lazy">
+    <figcaption>Red Dye</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crafting/yellow-dye.png' | relative_url }}" alt="Yellow Dye icon" loading="lazy">
+    <figcaption>Yellow Dye</figcaption>
+  </figure>
+  <figure>
     <img src="{{ '/assets/images/wiki/crafting/black-ink.png' | relative_url }}" alt="Black Ink icon" loading="lazy">
     <figcaption>Black Ink</figcaption>
   </figure>
   <figure>
     <img src="{{ '/assets/images/wiki/crafting/ink.png' | relative_url }}" alt="Ink icon" loading="lazy">
     <figcaption>Ink</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crafting/silk.png' | relative_url }}" alt="Silk icon" loading="lazy">
+    <figcaption>Silk</figcaption>
   </figure>
   <figure>
     <img src="{{ '/assets/images/wiki/crafting/black-silk.png' | relative_url }}" alt="Black Silk icon" loading="lazy">
@@ -164,6 +200,18 @@ The shed's output, illustrated — cloth and silk, leathers, glasswork, and the 
     <figcaption>Purple Silk</figcaption>
   </figure>
   <figure>
+    <img src="{{ '/assets/images/wiki/crafting/red-silk.png' | relative_url }}" alt="Red Silk icon" loading="lazy">
+    <figcaption>Red Silk</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crafting/yellow-silk.png' | relative_url }}" alt="Yellow Silk icon" loading="lazy">
+    <figcaption>Yellow Silk</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crafting/silk-thread.png' | relative_url }}" alt="Silk Thread icon" loading="lazy">
+    <figcaption>Silk Thread</figcaption>
+  </figure>
+  <figure>
     <img src="{{ '/assets/images/wiki/crafting/black-silk-thread.png' | relative_url }}" alt="Black Silk Thread icon" loading="lazy">
     <figcaption>Black Silk Thread</figcaption>
   </figure>
@@ -182,6 +230,14 @@ The shed's output, illustrated — cloth and silk, leathers, glasswork, and the 
   <figure>
     <img src="{{ '/assets/images/wiki/crafting/purple-silk-thread.png' | relative_url }}" alt="Purple Silk Thread icon" loading="lazy">
     <figcaption>Purple Silk Thread</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crafting/red-silk-thread.png' | relative_url }}" alt="Red Silk Thread icon" loading="lazy">
+    <figcaption>Red Silk Thread</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crafting/yellow-silk-thread.png' | relative_url }}" alt="Yellow Silk Thread icon" loading="lazy">
+    <figcaption>Yellow Silk Thread</figcaption>
   </figure>
   <figure>
     <img src="{{ '/assets/images/wiki/crafting/leather.png' | relative_url }}" alt="Leather icon" loading="lazy">
@@ -208,6 +264,14 @@ The shed's output, illustrated — cloth and silk, leathers, glasswork, and the 
     <figcaption>Purple Leather</figcaption>
   </figure>
   <figure>
+    <img src="{{ '/assets/images/wiki/crafting/red-leather.png' | relative_url }}" alt="Red Leather icon" loading="lazy">
+    <figcaption>Red Leather</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crafting/yellow-leather.png' | relative_url }}" alt="Yellow Leather icon" loading="lazy">
+    <figcaption>Yellow Leather</figcaption>
+  </figure>
+  <figure>
     <img src="{{ '/assets/images/wiki/crafting/fish-leather.png' | relative_url }}" alt="Fish Leather icon" loading="lazy">
     <figcaption>Fish Leather</figcaption>
   </figure>
@@ -220,12 +284,20 @@ The shed's output, illustrated — cloth and silk, leathers, glasswork, and the 
     <figcaption>Animal Hide</figcaption>
   </figure>
   <figure>
+    <img src="{{ '/assets/images/wiki/crafting/tanning-solution.png' | relative_url }}" alt="Tanning Solution icon" loading="lazy">
+    <figcaption>Tanning Solution</figcaption>
+  </figure>
+  <figure>
     <img src="{{ '/assets/images/wiki/crafting/golden-wool.png' | relative_url }}" alt="Golden Wool icon" loading="lazy">
     <figcaption>Golden Wool</figcaption>
   </figure>
   <figure>
     <img src="{{ '/assets/images/wiki/crafting/rainbow-wool.png' | relative_url }}" alt="Rainbow Wool icon" loading="lazy">
     <figcaption>Rainbow Wool</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crafting/wool.png' | relative_url }}" alt="Wool icon" loading="lazy">
+    <figcaption>Wool</figcaption>
   </figure>
   <figure>
     <img src="{{ '/assets/images/wiki/crafting/glass.png' | relative_url }}" alt="Glass icon" loading="lazy">
@@ -240,6 +312,10 @@ The shed's output, illustrated — cloth and silk, leathers, glasswork, and the 
     <figcaption>Glass Pitcher</figcaption>
   </figure>
   <figure>
+    <img src="{{ '/assets/images/wiki/crafting/small-glass-bulb.png' | relative_url }}" alt="Small Glass Bulb icon" loading="lazy">
+    <figcaption>Small Glass Bulb</figcaption>
+  </figure>
+  <figure>
     <img src="{{ '/assets/images/wiki/crafting/paper.png' | relative_url }}" alt="Paper icon" loading="lazy">
     <figcaption>Paper</figcaption>
   </figure>
@@ -248,12 +324,28 @@ The shed's output, illustrated — cloth and silk, leathers, glasswork, and the 
     <figcaption>Parchment</figcaption>
   </figure>
   <figure>
+    <img src="{{ '/assets/images/wiki/crafting/vellum.png' | relative_url }}" alt="Vellum icon" loading="lazy">
+    <figcaption>Vellum</figcaption>
+  </figure>
+  <figure>
     <img src="{{ '/assets/images/wiki/crafting/flower-paper.png' | relative_url }}" alt="Flower Paper icon" loading="lazy">
     <figcaption>Flower Paper</figcaption>
   </figure>
   <figure>
     <img src="{{ '/assets/images/wiki/crafting/fall-bouquet.png' | relative_url }}" alt="Fall Bouquet icon" loading="lazy">
     <figcaption>Fall Bouquet</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crafting/spring-bouquet.png' | relative_url }}" alt="Spring Bouquet icon" loading="lazy">
+    <figcaption>Spring Bouquet</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crafting/summer-bouquet.png' | relative_url }}" alt="Summer Bouquet icon" loading="lazy">
+    <figcaption>Summer Bouquet</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/crafting/winter-bouquet.png' | relative_url }}" alt="Winter Bouquet icon" loading="lazy">
+    <figcaption>Winter Bouquet</figcaption>
   </figure>
   <figure>
     <img src="{{ '/assets/images/wiki/crafting/mystic-bouquet.png' | relative_url }}" alt="Mystic Bouquet icon" loading="lazy">

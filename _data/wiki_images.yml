@@ -1,6 +1,5 @@
 # Index of wiki item art under /assets/images/wiki/<category>/
-# Generated from the uploaded Wylde Flowers wiki image archive (parts 1–2, A–R);
-# fish S–Z fetched from the archived wiki image URLs (_wiki-archive/data/image_urls.json).
+# Generated from the uploaded Wylde Flowers wiki image archive (parts 1–3, A–Z).
 # Each entry: item title -> image filename within its category folder.
 animals:
   - title: "Alpaca"
@@ -31,6 +30,10 @@ animals:
     file: pig.png
   - title: "Poultry Feed"
     file: poultry-feed.png
+  - title: "Sheep Buy Screen"
+    file: sheep-buy-screen.png
+  - title: "Sheep"
+    file: sheep.png
 characters:
   - title: "Amira Syed"
     file: amira-syed-portrait.png
@@ -54,6 +57,8 @@ characters:
     file: cameron-conner-pt.png
   - title: "Cameron Conner"
     file: cameron-conner.png
+  - title: "Character Group"
+    file: character-group-portrait.png
   - title: "Damon Mthembu-Haas"
     file: damon-mthembu-haas-portrait.png
   - title: "Damon Mthembu-Haas"
@@ -132,8 +137,56 @@ characters:
     file: peri.png
   - title: "Raven"
     file: raven.png
+  - title: "Sebastián Miranda"
+    file: sebastian-miranda-pt.png
+  - title: "Sebastián Miranda"
+    file: sebastian-miranda.png
+  - title: "Shelby Demeter"
+    file: shelby-demeter-pt.png
+  - title: "Shelby Demeter"
+    file: shelby-demeter.png
+  - title: "Sophia Moretti"
+    file: sophia-moretti-pt.png
+  - title: "Sophia Moretti"
+    file: sophia-moretti.png
+  - title: "Tara and Gramma"
+    file: tara-and-gramma.webp
+  - title: "Tara Wylde"
+    file: tara-wylde-full.png
+  - title: "Tara Wylde"
+    file: tara-wylde-portrait.png
+  - title: "Tara Wylde"
+    file: tara-wylde-pt.png
+  - title: "Tara Wylde"
+    file: tara-wylde.jpeg
   - title: "A3A1523D-24A8-41C6-965C-A722D432AAC4"
     file: tara-wylde.jpg
+  - title: "Tara Wylde"
+    file: tara.png
+  - title: "Thomas Lightfoot"
+    file: thomas-lightfoot-pt.png
+  - title: "Thomas Lightfoot"
+    file: thomas-lightfoot.png
+  - title: "Vanessa Soft"
+    file: vanessa-soft-pt.png
+  - title: "Vanessa Soft"
+    file: vanessa-soft.png
+  - title: "Violet Miranda"
+    file: violet-miranda-pt.png
+  - title: "Violet Miranda"
+    file: violet-miranda.png
+  - title: "Westley Vuk"
+    file: westley-vuk-full.png
+  - title: "Westley Vuk"
+    file: westley-vuk-portrait.png
+  - title: "Westley Vuk"
+    file: westley-vuk-pt.png
+  - title: "Westley Vuk"
+    file: westley-vuk.png
+  - title: "Zephyr Grimspark"
+    file: zephyr-grimspark.png
+  - title: "Zoey"
+    file: zoey.jpg
 clothing:
   - title: "Acacia and Denim Shorts"
     file: acacia-and-denim-shorts-in-game.jpg
@@ -563,6 +616,172 @@ clothing:
     file: raspberry-citrus-shorts-in-game.jpg
   - title: "Raspberry Citrus Shorts"
     file: raspberry-citrus-shorts.png
+  - title: "Red Bead Bracelet"
+    file: red-bead-bracelet.png
+  - title: "Rippling Twilight Romper"
+    file: rippling-twilight-romper-in-game.jpg
+  - title: "Rippling Twilight Romper"
+    file: rippling-twilight-romper.png
+  - title: "Rockin' Rosette Shorts"
+    file: rockin-rosette-shorts-in-game.jpg
+  - title: "Rockin' Rosette Shorts"
+    file: rockin-rosette-shorts.png
+  - title: "Rose Lace Mini"
+    file: rose-lace-mini-in-game.jpg
+  - title: "Rose Lace Mini"
+    file: rose-lace-mini.png
+  - title: "Rose Quartz Jeans"
+    file: rose-quartz-jeans-in-game.jpg
+  - title: "Rose Quartz Jeans"
+    file: rose-quartz-jeans.png
+  - title: "Rough n' Tawny Jacket"
+    file: rough-n-tawny-jacket-in-game.jpg
+  - title: "Rough n' Tawny Jacket"
+    file: rough-n-tawny-jacket.png
+  - title: "Royal Purple Jacket and Dress"
+    file: royal-purple-jacket-and-dress-in-game.jpg
+  - title: "Royal Purple Jacket and Dress"
+    file: royal-purple-jacket-and-dress.png
+  - title: "Ruby Red Midi"
+    file: ruby-red-midi-in-game.jpg
+  - title: "Ruby Red Midi"
+    file: ruby-red-midi.png
+  - title: "Ruby Rules Slacks"
+    file: ruby-rules-slacks-in-game.jpg
+  - title: "Ruby Rules Slacks"
+    file: ruby-rules-slacks.png
+  - title: "Saffron Tee and Jeans"
+    file: saffron-tee-and-jeans-in-game.jpg
+  - title: "Saffron Tee and Jeans"
+    file: saffron-tee-and-jeans.png
+  - title: "Sage Sprout Frilly"
+    file: sage-sprout-frilly-in-game.jpg
+  - title: "Sage Sprout Frilly"
+    file: sage-sprout-frilly.png
+  - title: "Sakura Suited Slacks"
+    file: sakura-suited-slacks-in-game.jpg
+  - title: "Sakura Suited Slacks"
+    file: sakura-suited-slacks.png
+  - title: "Salt and Pepper Jeans"
+    file: salt-and-pepper-jeans-in-game.jpg
+  - title: "Salt and Pepper Jeans"
+    file: salt-and-pepper-jeans.png
+  - title: "Sandstorm Long"
+    file: sandstorm-long-in-game.jpg
+  - title: "Sandstorm Long"
+    file: sandstorm-long.png
+  - title: "Scratched Chalkboard Jacket"
+    file: scratched-chalkboard-jacket-front.png
+  - title: "Scratched Chalkboard Jacket"
+    file: scratched-chalkboard-jacket-in-game.jpg
+  - title: "Scratched Chalkboard Jacket"
+    file: scratched-chalkboard-jacket.png
+  - title: "Seafoam Spritz Jacket and Dress"
+    file: seafoam-spritz-jacket-and-dress-in-game.jpg
+  - title: "Seafoam Spritz Jacket and Dress"
+    file: seafoam-spritz-jacket-and-dress.png
+  - title: "Signature Wylde Jacket and Dress"
+    file: signature-wylde-jacket-and-dress.png
+  - title: "Silver Amethyst Necklace"
+    file: silver-amethyst-necklace.png
+  - title: "Silver Amethyst Ring"
+    file: silver-amethyst-ring.png
+  - title: "Silver Diamond Necklace"
+    file: silver-diamond-necklace.png
+  - title: "Silver Diamond Ring"
+    file: silver-diamond-ring.png
+  - title: "Silver Pearl Necklace"
+    file: silver-pearl-necklace.png
+  - title: "Silver Pearl Ring"
+    file: silver-pearl-ring.png
+  - title: "Sleek Pomelo Slacks"
+    file: sleek-pomelo-slacks-in-game.jpg
+  - title: "Sleek Pomelo Slacks"
+    file: sleek-pomelo-slacks.png
+  - title: "Snow Leopard Midi"
+    file: snow-leopard-midi-in-game.jpg
+  - title: "Snow Leopard Midi"
+    file: snow-leopard-midi.png
+  - title: "Soft Blush Long"
+    file: soft-blush-long-in-game.jpg
+  - title: "Soft Blush Long"
+    file: soft-blush-long.png
+  - title: "Solar Flare Jacket and Dress"
+    file: solar-flare-jacket-and-dress-in-game.jpg
+  - title: "Solar Flare Jacket and Dress"
+    file: solar-flare-jacket-and-dress.png
+  - title: "Speckled Sky Day Dress"
+    file: speckled-sky-day-dress-in-game.jpg
+  - title: "Speckled Sky Day Dress"
+    file: speckled-sky-day-dress.png
+  - title: "Starry Skies Day Dress"
+    file: starry-skies-day-dress-in-game.jpg
+  - title: "Starry Skies Day Dress"
+    file: starry-skies-day-dress.png
+  - title: "Stellar Sterling Long"
+    file: stellar-sterling-long-in-game.jpg
+  - title: "Stellar Sterling Long"
+    file: stellar-sterling-long.png
+  - title: "Strawberry Mousse Midi"
+    file: strawberry-mousse-midi-in-game.jpg
+  - title: "Strawberry Mousse Midi"
+    file: strawberry-mousse-midi.png
+  - title: "Striking Sapphire Day Dress"
+    file: striking-sapphire-day-dress-in-game.jpg
+  - title: "Striking Sapphire Day Dress"
+    file: striking-sapphire-day-dress.png
+  - title: "Sugar Plum Peony Overalls"
+    file: sugar-plum-peony-overalls-in-game.jpg
+  - title: "Sugar Plum Peony Overalls"
+    file: sugar-plum-peony-overalls.png
+  - title: "Sumac Tee and Jeans"
+    file: sumac-tee-and-jeans-in-game.jpg
+  - title: "Sumac Tee and Jeans"
+    file: sumac-tee-and-jeans.png
+  - title: "Sunflower Denim Jacket and Dress"
+    file: sunflower-denim-jacket-and-dress-in-game.jpg
+  - title: "Sunflower Denim Jacket and Dress"
+    file: sunflower-denim-jacket-and-dress.png
+  - title: "Sunshine Romper"
+    file: sunshine-romper-in-game.jpg
+  - title: "Sunshine Romper"
+    file: sunshine-romper.png
+  - title: "Taupe Sprig Leggings"
+    file: taupe-sprig-leggings-in-game.jpg
+  - title: "Taupe Sprig Leggings"
+    file: taupe-sprig-leggings.png
+  - title: "Truly Truffle Jacket and Dress"
+    file: truly-truffle-jacket-and-dress-in-game.jpg
+  - title: "Truly Truffle Jacket and Dress"
+    file: truly-truffle-jacket-and-dress.png
+  - title: "Turmeric Tee and Jeans"
+    file: turmeric-tee-and-jeans-in-game.jpg
+  - title: "Turmeric Tee and Jeans"
+    file: turmeric-tee-and-jeans.png
+  - title: "Twinkling Tides Day Dress"
+    file: twinkling-tides-day-dress-in-game.jpg
+  - title: "Twinkling Tides Day Dress"
+    file: twinkling-tides-day-dress.png
+  - title: "Vanilla Chai Leggings"
+    file: vanilla-chai-leggings-in-game.jpg
+  - title: "Vanilla Chai Leggings"
+    file: vanilla-chai-leggings.png
+  - title: "Vine Fresh Strawberry Leggings"
+    file: vine-fresh-strawberry-leggings-in-game.jpg
+  - title: "Vine Fresh Strawberry Leggings"
+    file: vine-fresh-strawberry-leggings.png
+  - title: "Viridian Glimmer Mini"
+    file: viridian-glimmer-mini-in-game.jpg
+  - title: "Viridian Glimmer Mini"
+    file: viridian-glimmer-mini.png
+  - title: "Wild Berry Shorts"
+    file: wild-berry-shorts-in-game.jpg
+  - title: "Wild Berry Shorts"
+    file: wild-berry-shorts.png
+  - title: "Wooden Bangles"
+    file: wooden-bangles.png
+  - title: "Yellow Bead Bracelet"
+    file: yellow-bead-bracelet.png
 crafting:
   - title: "Adder Stone"
     file: adder-stone.png
@@ -744,6 +963,98 @@ crafting:
     file: rainbow-dyed-egg.png
   - title: "Rainbow Wool"
     file: rainbow-wool.png
+  - title: "Recipes for Bakers"
+    file: recipes-for-bakers.png
+  - title: "Recipes for Beverage Buffs"
+    file: recipes-for-beverage-buffs.jpg
+  - title: "Recipes for Fish Fans"
+    file: recipes-for-fish-fans.jpg
+  - title: "Recipes for Meat-Lovers"
+    file: recipes-for-meat-lovers.jpg
+  - title: "Recipes for Pizza Chefs"
+    file: recipes-for-pizza-chefs.jpg
+  - title: "Red Cloth"
+    file: red-cloth.png
+  - title: "Red Dye"
+    file: red-dye.png
+  - title: "Red Hair Color"
+    file: red-hair-color.png
+  - title: "Red Leather"
+    file: red-leather.png
+  - title: "Red Silk Thread"
+    file: red-silk-thread.png
+  - title: "Red Silk"
+    file: red-silk.png
+  - title: "Rice Flour"
+    file: rice-flour.jpeg
+  - title: "Rose Water"
+    file: rose-water.png
+  - title: "Ruby"
+    file: ruby.png
+  - title: "Saffron"
+    file: saffron.png
+  - title: "Sandstone"
+    file: sandstone.png
+  - title: "Sapphire"
+    file: sapphire.png
+  - title: "Seton Family Portrait"
+    file: seton-family-portrait.png
+  - title: "Shiny Cloth"
+    file: shiny-cloth.png
+  - title: "Silk Thread"
+    file: silk-thread.png
+  - title: "Silk"
+    file: silk.png
+  - title: "Silkworm"
+    file: silkworm.png
+  - title: "Silver Ingot"
+    file: silver-ingot.png
+  - title: "Silver Ore"
+    file: silver-ore.png
+  - title: "Small Glass Bulb"
+    file: small-glass-bulb.png
+  - title: "Soil"
+    file: soil.png
+  - title: "Spile"
+    file: spile.png
+  - title: "Spring Bouquet"
+    file: spring-bouquet.png
+  - title: "Stone"
+    file: stone.png
+  - title: "Striped Dyed Egg"
+    file: striped-dyed-egg.png
+  - title: "Summer Bouquet"
+    file: summer-bouquet.png
+  - title: "Tallow Candle"
+    file: tallow-candle.png
+  - title: "Tanning Solution"
+    file: tanning-solution.png
+  - title: "Topaz"
+    file: topaz.png
+  - title: "Vellum"
+    file: vellum.png
+  - title: "Winter Bouquet"
+    file: winter-bouquet.png
+  - title: "Wood"
+    file: wood.png
+  - title: "Wool"
+    file: wool.png
+  - title: "Worm"
+    file: worm.png
+  - title: "Yeast"
+    file: yeast.png
+  - title: "Yellow Candle"
+    file: yellow-candle.jpeg
+  - title: "Yellow Cloth"
+    file: yellow-cloth.png
+  - title: "Yellow Dye"
+    file: yellow-dye.png
+  - title: "Yellow Leather"
+    file: yellow-leather.png
+  - title: "Yellow Silk Thread"
+    file: yellow-silk-thread.png
+  - title: "Yellow Silk"
+    file: yellow-silk.png
 crops:
   - title: "Anemone Seeds"
     file: anemone-seeds.png
@@ -893,6 +1204,64 @@ crops:
     file: rainbow-egg.png
   - title: "Rainbow Milk"
     file: rainbow-milk.png
+  - title: "Rice"
+    file: rice.png
+  - title: "Snowdrop Seeds"
+    file: snowdrop-seeds.png
+  - title: "Snowdrop"
+    file: snowdrop.png
+  - title: "Soybean Seeds"
+    file: soybean-seeds.png
+  - title: "Soybean"
+    file: soybean.png
+  - title: "Sparkly Chicken Egg"
+    file: sparkly-chicken-egg.png
+  - title: "Sparkly Duck Egg"
+    file: sparkly-duck-egg.png
+  - title: "Spinach Seeds"
+    file: spinach-seeds.png
+  - title: "Spinach"
+    file: spinach.png
+  - title: "Strawberry Seeds"
+    file: strawberry-seeds.png
+  - title: "Strawberry"
+    file: strawberry.png
+  - title: "Sugarcane Seeds"
+    file: sugarcane-seeds.png
+  - title: "Sugarcane"
+    file: sugarcane.png
+  - title: "Sunflower Seeds"
+    file: sunflower-seeds.png
+  - title: "Sunflower"
+    file: sunflower.png
+  - title: "Sweet Potato Seeds"
+    file: sweet-potato-seeds.png
+  - title: "Sweet Potato"
+    file: sweet-potato.png
+  - title: "Tiger Lily Bulbs"
+    file: tiger-lily-bulbs.png
+  - title: "Tiger Lily"
+    file: tiger-lily.png
+  - title: "Tomato Seeds"
+    file: tomato-seeds.png
+  - title: "Tomato"
+    file: tomato.png
+  - title: "Truffle"
+    file: truffle.png
+  - title: "Tulip Bulbs"
+    file: tulip-bulbs.png
+  - title: "Tulip"
+    file: tulip.png
+  - title: "Turtlehead Flower Seeds"
+    file: turtlehead-flower-seeds.png
+  - title: "Turtlehead Flower"
+    file: turtlehead-flower.png
+  - title: "Wheat Seeds"
+    file: wheat-seeds.png
+  - title: "Wheat"
+    file: wheat.png
+  - title: "White Truffle"
+    file: white-truffle.png
 fish:
   - title: "Black Crappie"
     file: black-crappie.png
@@ -1307,8 +1676,138 @@ food:
     file: quiche.png
   - title: "Ramen"
     file: ramen.png
+  - title: "Restorative Tea"
+    file: restorative-tea.png
+  - title: "Rice Cracker"
+    file: rice-cracker.png
+  - title: "Rice Pudding"
+    file: rice-pudding.png
+  - title: "Rice Wine"
+    file: rice-wine.png
+  - title: "Roast Beef"
+    file: roast-beef.png
+  - title: "Roast Pork"
+    file: roast-pork.png
+  - title: "Roast Salmon"
+    file: roast-salmon.png
+  - title: "Rum"
+    file: rum.png
+  - title: "Rumbledethumps"
+    file: rumbledethumps.png
+  - title: "Samosas"
+    file: samosas.png
+  - title: "Satay Noodles"
+    file: satay-noodles.png
+  - title: "Sauerkraut"
+    file: sauerkraut.png
+  - title: "Sausage Rolls"
+    file: sausage-rolls.png
+  - title: "Schnitzel"
+    file: schnitzel.png
+  - title: "Scottiglia (Mixed Meat Stew)"
+    file: scottiglia-mixed-meat-stew.jpg
+  - title: "Scottiglia (Mixed Meat Stew)"
+    file: scottiglia.png
+  - title: "Seafood Fra Diavolo"
+    file: seafood-fra-diavolo.png
+  - title: "Seafood Paella"
+    file: seafood-paella.png
+  - title: "Seitan"
+    file: seitan.png
+  - title: "Shrimp Rangoons"
+    file: shrimp-rangoons.png
+  - title: "Skirlie"
+    file: skirlie.png
   - title: "Damon - Slap Chips"
     file: slap-chips-damon.png
+  - title: "Slap Chips"
+    file: slap-chips.png
+  - title: "Smoked Salmon Bagel"
+    file: smoked-salmon-bagel.png
+  - title: "Snickerdoodle"
+    file: snickerdoodle.png
+  - title: "Soy Candle"
+    file: soy-candle.png
+  - title: "Soy Milk"
+    file: soy-milk.png
+  - title: "Spaghetti Bolognese"
+    file: spaghetti-bolognese.png
+  - title: "Spaghetti Puttanesca"
+    file: spaghetti-puttanesca.png
+  - title: "Spanakopita"
+    file: spanakopita.png
+  - title: "Spanish Omelette"
+    file: spanish-omelette.png
+  - title: "Spinach Smoothie"
+    file: spinach-smoothie.png
+  - title: "Spring Stew"
+    file: spring-stew.png
+  - title: "Strawberry Candy"
+    file: strawberry-candy.png
+  - title: "Strawberry Daiquiri"
+    file: strawberry-daiquiri.png
+  - title: "Strawberry Milkshake"
+    file: strawberry-milkshake.png
+  - title: "Strawberry Shortcake"
+    file: strawberry-shortcake.png
+  - title: "Succotash"
+    file: succotash.png
+  - title: "Sugar"
+    file: sugar.png
+  - title: "Sushi"
+    file: sushi.png
+  - title: "Sweet and Sour Pork"
+    file: sweet-and-sour-pork.png
+  - title: "Sweet Potato and Coriander Pizza"
+    file: sweet-potato-and-coriander-pizza.png
+  - title: "Sweet Potato Casserole"
+    file: sweet-potato-casserole.png
+  - title: "Sweet Potato & Coriander Pizza"
+    file: sweet-potato-coriander-pizza.png
+  - title: "Sweet Potato Fries"
+    file: sweet-potato-fries.png
+  - title: "Sweet Potato Vodka"
+    file: sweet-potato-vodka.png
+  - title: "Syrniki (Russian Cheese Pancake)"
+    file: syrniki-russian-cheese-pancake.png
+  - title: "Tabbouleh"
+    file: tabbouleh.png
+  - title: "Texas Brownie"
+    file: texas-brownie.png
+  - title: "The Welcome Refresher"
+    file: the-welcome-refresher.png
+  - title: "Three Sisters Stew"
+    file: three-sisters-stew.png
+  - title: "Tiramisu"
+    file: tiramisu.png
+  - title: "Tofu"
+    file: tofu.png
+  - title: "Tomato Soup"
+    file: tomato-soup.png
+  - title: "Truffled Duck Eggs on Toast"
+    file: truffled-duck-eggs-on-toast.jpg
+  - title: "Truffled Mac And Cheese"
+    file: truffled-mac-and-cheese.png
+  - title: "Truffled Mashed Potatoes"
+    file: truffled-mashed-potatoes.jpg
+  - title: "Truffled Mushroom Soup"
+    file: truffled-mushroom-soup.jpg
+  - title: "Turkish Delight"
+    file: turkish-delight.png
+  - title: "Vada Pav (Bombay Burger)"
+    file: vada-pav-bombay-burger.png
+  - title: "Vodka"
+    file: vodka.png
+  - title: "Wedding Cake"
+    file: wedding-cake.png
+  - title: "Whiskey"
+    file: whiskey.png
+  - title: "Wine"
+    file: wine.png
+  - title: "Wylde Flower Shrimp"
+    file: wylde-flower-shrimp.jpg
+  - title: "Zeytoon Parvardeh (Marinated Olives)"
+    file: zeytoon-parvardeh.png
 forage:
   - title: "Almond"
     file: almond.png
@@ -1352,6 +1851,28 @@ forage:
     file: pistachio.png
   - title: "Poppy Flower"
     file: poppy-flower.png
+  - title: "Seashell"
+    file: seashell.png
+  - title: "Seaweed"
+    file: seaweed.png
+  - title: "Shiitake Mushroom"
+    file: shiitake-mushroom.png
+  - title: "Thistle"
+    file: thistle.png
+  - title: "Toadstool"
+    file: toadstool.png
+  - title: "Trompette de la Mort"
+    file: trompette-de-la-mort.png
+  - title: "Walnut"
+    file: walnut.png
+  - title: "Weed"
+    file: weed.png
+  - title: "Witch Weed"
+    file: witch-weed.png
+  - title: "Wolfsbane"
+    file: wolfsbane.png
+  - title: "Wool Weed"
+    file: wool-weed.png
 hair:
   - title: "Azalea Mane Wolf Cut"
     file: azalea-mane-wolf-cut-all.png
@@ -1574,7 +2095,37 @@ hair:
   - title: "Raven Twin Braids"
     file: raven-twin-braids.png
   - title: "Raven Wolf Cut"
+    file: raven-wolf-cut-all.png
+  - title: "Raven Wolf Cut"
     file: raven-wolf-cut.png
+  - title: "Sparkling Wisteria Wolf Cut"
+    file: sparkling-wisteria-wolf-cut-all.png
+  - title: "Sparkling Wisteria Wolf Cut"
+    file: sparkling-wisteria-wolf-cut.png
+  - title: "Sugary Pink Wolf Cut"
+    file: sugary-pink-wolf-cut-all.png
+  - title: "Sugary Pink Wolf Cut"
+    file: sugary-pink-wolf-cut.png
+  - title: "Sunspot Space Buns"
+    file: sunspot-space-buns-all.png
+  - title: "Sunspot Space Buns"
+    file: sunspot-space-buns.png
+  - title: "Twinkling Mauve Bow Tied Bob"
+    file: twinkling-mauve-bow-tied-bob-all.png
+  - title: "Twinkling Mauve Bow Tied Bob"
+    file: twinkling-mauve-bow-tied-bob.png
+  - title: "Wellspring Classic Cut"
+    file: wellspring-classic-cut-all.png
+  - title: "Wellspring Classic Cut"
+    file: wellspring-classic-cut.png
+  - title: "Winking Red Short Shag"
+    file: winking-red-short-shag-all.png
+  - title: "Winking Red Short Shag"
+    file: winking-red-short-shag.png
+  - title: "Wylde Classic Cut"
+    file: wylde-classic-cut-all.png
+  - title: "Wylde Classic Cut"
+    file: wylde-classic-cut.png
 island:
   - title: "Echo-peri-lighthouse"
     file: echo-peri-lighthouse.png
@@ -1612,6 +2163,12 @@ island:
     file: peri-lighthouse-candle.png
   - title: "Chalkboard in Ravenwood by Kate Blackshear"
     file: ravenwood-chalkboard.jpg
+  - title: "Wylde Farm"
+    file: wylde-farm.jpg
+  - title: "Wylde Flowers Header Art"
+    file: wylde-flowers-header.jpg
+  - title: "Wylde Flowers Title Art"
+    file: wylde-flowers-title-pic.jpg
 magic:
   - title: "Acolyte"
     file: acolyte.png
@@ -1765,6 +2322,78 @@ magic:
     file: purple-candle.jpeg
   - title: "Purple Dye"
     file: purple-dye.png
+  - title: "Repair Bramble"
+    file: repair-bramble.png
+  - title: "Restore Magic Potion"
+    file: restore-magic-potion.png
+  - title: "Reverse Time Spell"
+    file: reverse-time-spell.png
+  - title: "Revitalizing Potion"
+    file: revitalizing-potion.png
+  - title: "Reviving Potion"
+    file: reviving-potion.png
+  - title: "Scrying Bowl"
+    file: scrying-bowl.png
+  - title: "Scrying Potion"
+    file: scrying-potion.png
+  - title: "Shrinking Potion"
+    file: shrinking-potion.jpg
+  - title: "Silencing Potion"
+    file: silencing-potion.png
+  - title: "Sparkle Coating"
+    file: sparkle-coating.png
+  - title: "Spectare Potion"
+    file: spectare-potion.png
+  - title: "Speed Boost Longer"
+    file: speed-boost-longer.png
+  - title: "Speed Boost Spell"
+    file: speed-boost-spell.png
+  - title: "Speed Time Spell"
+    file: speed-time-spell.png
+  - title: "Spirit Flame"
+    file: spirit-flame.png
+  - title: "Spring Ritual Incantation"
+    file: spring-ritual-incantation.png
+  - title: "Stretching Potion"
+    file: stretching-potion.jpg
+  - title: "Summer Ritual Incantation"
+    file: summer-ritual-incantation.png
+  - title: "Summon Night Spell"
+    file: summon-night-spell.png
+  - title: "Summon Rain Spell"
+    file: summon-rain-spell.png
+  - title: "Summon Small Things Longer"
+    file: summon-small-things-longer.jpg
+  - title: "Summon Small Things"
+    file: summon-small-things.png
+  - title: "Summon Storm Spell"
+    file: summon-storm-spell.png
+  - title: "Summon Wind Spell"
+    file: summon-wind-spell.png
+  - title: "Summon Witch Incantation"
+    file: summon-witch-incantation.png
+  - title: "Sunny Day Spell"
+    file: sunny-day-spell.png
+  - title: "Thaw Incantation"
+    file: thaw-incantation.png
+  - title: "Transformation Cure"
+    file: transformation-cure.png
+  - title: "Truth Serum Malasada"
+    file: truth-serum-malasada.png
+  - title: "Ultra Miracle Grow Potion"
+    file: ultra-miracle-grow-potion.png
+  - title: "Vanessa's Wraith Banishment Spell"
+    file: vanessas-wraith-banishment-spell.png
+  - title: "Very Charming Potion"
+    file: very-charming-potion.png
+  - title: "Wellspring Balancing Potion"
+    file: wellspring-balancing-potion.jpeg
+  - title: "Werewolf Suppression Potion"
+    file: werewolf-suppression-potion.png
+  - title: "Winter Ritual Incantation"
+    file: winter-ritual-incantation.png
+  - title: "Woodland Medicinal Potion"
+    file: woodland-medicinal-potion.jpg
 quests:
   - title: "A Change of Recipe"
     file: a-change-of-recipe.jpg
@@ -1800,6 +2429,38 @@ quests:
     file: nuts-about-you.jpg
   - title: "Otto's Wedding Ring"
     file: ottos-wedding-ring.png
+  - title: "Rice and Shine"
+    file: rice-and-shine.jpg
+  - title: "Shelby's Broken Watch"
+    file: shelbys-broken-watch.png
+  - title: "Shelby's Watch"
+    file: shelbys-watch.png
+  - title: "Sophia's Wedding Bouquet"
+    file: sophias-wedding-bouquet.png
+  - title: "Steeped In Mystery"
+    file: steeped-in-mystery.jpg
+  - title: "The Fungus Among Us"
+    file: the-fungus-among-us.jpg
+  - title: "The Most Elaborate Ice Breaker"
+    file: the-most-elaborate-ice-breaker.jpg
+  - title: "This Isn't the City"
+    file: this-isnt-the-city.jpg
+  - title: "Thistle Be The Best Bouquet Ever"
+    file: thistle-be-the-best-bouquet-ever.jpg
+  - title: "Truffle In Paradise"
+    file: truffle-in-paradise.jpg
+  - title: "Up to the Tusk"
+    file: up-to-the-tusk.jpg
+  - title: "Vanessa's Gloves"
+    file: vanessas-gloves.png
+  - title: "What is the Wellspring"
+    file: what-is-the-wellspring.jpg
+  - title: "Where Have You Bean"
+    file: where-have-you-bean.jpg
+  - title: "Wood-n't You Know It"
+    file: wood-nt-you-know-it.jpg
+  - title: "You Must Be Plotting Something"
+    file: you-must-be-plotting-something.jpg
 stations:
   - title: "Bee Hive"
     file: bee-hive.png
@@ -1863,6 +2524,24 @@ stations:
     file: mining-whirligig.png
   - title: "Paper Press"
     file: paper-press.png
+  - title: "Rusty Pickaxe"
+    file: rusty-pickaxe.png
+  - title: "Rusty Watering Can"
+    file: rusty-watering-can.png
+  - title: "Rusty Wood Axe"
+    file: rusty-wood-axe.png
+  - title: "Sewing Machine"
+    file: sewing-machine.png
+  - title: "Shovel"
+    file: shovel.png
+  - title: "Silkworm Box"
+    file: silkworm-box.png
+  - title: "Silver Pickaxe"
+    file: silver-pickaxe.png
+  - title: "Silver Wood Axe"
+    file: silver-wood-axe.png
+  - title: "Tanning Station"
+    file: tanning-station.png
 ui:
   - title: "BrewingIcon"
     file: brewing-icon.png
@@ -1894,3 +2573,23 @@ ui:
     file: plant-icon.png
   - title: "Quests"
     file: quest-journal.png
+  - title: "Ravenwood"
+    file: ravenwood-icon.png
+  - title: "Romance"
+    file: romance-icon.png
+  - title: "Summer Festival"
+    file: summer-festival-icon.png
+  - title: "Technology"
+    file: technology-icon.png
+  - title: "Town"
+    file: town-icon.png
+  - title: "Wedding"
+    file: wedding-icon.png
+  - title: "Winter Feast"
+    file: winter-feast-icon.png
+  - title: "Wraith"
+    file: wraith-icon.png
+  - title: "Wylde Flowers App Icon"
+    file: wylde-flowers-app-icon.jpg
+  - title: "Wylde Flowers Logo"
+    file: wylde-flowers-logo.png

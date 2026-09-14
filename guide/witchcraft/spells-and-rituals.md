@@ -86,7 +86,7 @@ Yes, you get the broom. Broom flight arrives via the story (a broom in working o
 
 ## Scrolls & Wands from the Archive
 
-Spell scrolls, incantations, and the wands that cast them, as illustrated in the archive so far (A–R).
+Spell scrolls, incantations, and the wands that cast them, as illustrated across the whole archive (A–Z).
 
 <div class="specimen-grid parchment">
   <figure>
@@ -160,6 +160,86 @@ Spell scrolls, incantations, and the wands that cast them, as illustrated in the
   <figure>
     <img src="{{ '/assets/images/wiki/magic/minor-animal-blessing.png' | relative_url }}" alt="Minor Animal Blessing icon" loading="lazy">
     <figcaption>Minor Animal Blessing</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/magic/repair-bramble.png' | relative_url }}" alt="Repair Bramble icon" loading="lazy">
+    <figcaption>Repair Bramble</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/magic/reverse-time-spell.png' | relative_url }}" alt="Reverse Time Spell icon" loading="lazy">
+    <figcaption>Reverse Time Spell</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/magic/scrying-bowl.png' | relative_url }}" alt="Scrying Bowl icon" loading="lazy">
+    <figcaption>Scrying Bowl</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/magic/speed-boost-longer.png' | relative_url }}" alt="Speed Boost Longer icon" loading="lazy">
+    <figcaption>Speed Boost Longer</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/magic/speed-boost-spell.png' | relative_url }}" alt="Speed Boost Spell icon" loading="lazy">
+    <figcaption>Speed Boost Spell</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/magic/speed-time-spell.png' | relative_url }}" alt="Speed Time Spell icon" loading="lazy">
+    <figcaption>Speed Time Spell</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/magic/spirit-flame.png' | relative_url }}" alt="Spirit Flame icon" loading="lazy">
+    <figcaption>Spirit Flame</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/magic/spring-ritual-incantation.png' | relative_url }}" alt="Spring Ritual Incantation icon" loading="lazy">
+    <figcaption>Spring Ritual Incantation</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/magic/summer-ritual-incantation.png' | relative_url }}" alt="Summer Ritual Incantation icon" loading="lazy">
+    <figcaption>Summer Ritual Incantation</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/magic/summon-night-spell.png' | relative_url }}" alt="Summon Night Spell icon" loading="lazy">
+    <figcaption>Summon Night Spell</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/magic/summon-rain-spell.png' | relative_url }}" alt="Summon Rain Spell icon" loading="lazy">
+    <figcaption>Summon Rain Spell</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/magic/summon-small-things-longer.jpg' | relative_url }}" alt="Summon Small Things Longer icon" loading="lazy">
+    <figcaption>Summon Small Things Longer</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/magic/summon-small-things.png' | relative_url }}" alt="Summon Small Things icon" loading="lazy">
+    <figcaption>Summon Small Things</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/magic/summon-storm-spell.png' | relative_url }}" alt="Summon Storm Spell icon" loading="lazy">
+    <figcaption>Summon Storm Spell</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/magic/summon-wind-spell.png' | relative_url }}" alt="Summon Wind Spell icon" loading="lazy">
+    <figcaption>Summon Wind Spell</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/magic/summon-witch-incantation.png' | relative_url }}" alt="Summon Witch Incantation icon" loading="lazy">
+    <figcaption>Summon Witch Incantation</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/magic/sunny-day-spell.png' | relative_url }}" alt="Sunny Day Spell icon" loading="lazy">
+    <figcaption>Sunny Day Spell</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/magic/thaw-incantation.png' | relative_url }}" alt="Thaw Incantation icon" loading="lazy">
+    <figcaption>Thaw Incantation</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/magic/vanessas-wraith-banishment-spell.png' | relative_url }}" alt="Vanessa's Wraith Banishment Spell icon" loading="lazy">
+    <figcaption>Vanessa's Wraith Banishment Spell</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/magic/winter-ritual-incantation.png' | relative_url }}" alt="Winter Ritual Incantation icon" loading="lazy">
+    <figcaption>Winter Ritual Incantation</figcaption>
   </figure>
 </div>
 

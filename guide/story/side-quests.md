@@ -118,6 +118,70 @@ Sketches clipped from the quest journal — moments from the side stories above 
     <img src="{{ '/assets/images/wiki/quests/ottos-wedding-ring.png' | relative_url }}" alt="Otto's Wedding Ring side quest artwork" loading="lazy">
     <figcaption>Otto's Wedding Ring</figcaption>
   </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/quests/rice-and-shine.jpg' | relative_url }}" alt="Rice and Shine side quest artwork" loading="lazy">
+    <figcaption>Rice and Shine</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/quests/shelbys-broken-watch.png' | relative_url }}" alt="Shelby's Broken Watch side quest artwork" loading="lazy">
+    <figcaption>Shelby's Broken Watch</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/quests/shelbys-watch.png' | relative_url }}" alt="Shelby's Watch side quest artwork" loading="lazy">
+    <figcaption>Shelby's Watch</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/quests/sophias-wedding-bouquet.png' | relative_url }}" alt="Sophia's Wedding Bouquet side quest artwork" loading="lazy">
+    <figcaption>Sophia's Wedding Bouquet</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/quests/steeped-in-mystery.jpg' | relative_url }}" alt="Steeped In Mystery side quest artwork" loading="lazy">
+    <figcaption>Steeped In Mystery</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/quests/the-fungus-among-us.jpg' | relative_url }}" alt="The Fungus Among Us side quest artwork" loading="lazy">
+    <figcaption>The Fungus Among Us</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/quests/the-most-elaborate-ice-breaker.jpg' | relative_url }}" alt="The Most Elaborate Ice Breaker side quest artwork" loading="lazy">
+    <figcaption>The Most Elaborate Ice Breaker</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/quests/this-isnt-the-city.jpg' | relative_url }}" alt="This Isn't the City side quest artwork" loading="lazy">
+    <figcaption>This Isn't the City</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/quests/thistle-be-the-best-bouquet-ever.jpg' | relative_url }}" alt="Thistle Be The Best Bouquet Ever side quest artwork" loading="lazy">
+    <figcaption>Thistle Be The Best Bouquet Ever</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/quests/truffle-in-paradise.jpg' | relative_url }}" alt="Truffle In Paradise side quest artwork" loading="lazy">
+    <figcaption>Truffle In Paradise</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/quests/up-to-the-tusk.jpg' | relative_url }}" alt="Up to the Tusk side quest artwork" loading="lazy">
+    <figcaption>Up to the Tusk</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/quests/vanessas-gloves.png' | relative_url }}" alt="Vanessa's Gloves side quest artwork" loading="lazy">
+    <figcaption>Vanessa's Gloves</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/quests/what-is-the-wellspring.jpg' | relative_url }}" alt="What is the Wellspring side quest artwork" loading="lazy">
+    <figcaption>What is the Wellspring</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/quests/where-have-you-bean.jpg' | relative_url }}" alt="Where Have You Bean side quest artwork" loading="lazy">
+    <figcaption>Where Have You Bean</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/quests/wood-nt-you-know-it.jpg' | relative_url }}" alt="Wood-n't You Know It side quest artwork" loading="lazy">
+    <figcaption>Wood-n't You Know It</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/wiki/quests/you-must-be-plotting-something.jpg' | relative_url }}" alt="You Must Be Plotting Something side quest artwork" loading="lazy">
+    <figcaption>You Must Be Plotting Something</figcaption>
+  </figure>
 </div>
 
 ---
