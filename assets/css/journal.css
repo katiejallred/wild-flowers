@@ -759,6 +759,13 @@ img.wiki-icon {
 
 @media (max-width: 900px) {
   .nav-search { padding-top: 0.55rem; }
+
+  /* ≥16px text so iOS doesn't zoom on focus; 44px touch height */
+  .nav-search input,
+  .search-form input {
+    font-size: 1rem;
+    min-height: 44px;
+  }
 }
 
 /* the search page itself */
