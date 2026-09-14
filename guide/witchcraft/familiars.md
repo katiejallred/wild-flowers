@@ -9,6 +9,11 @@ A confession before we begin: for one whole season, this journal's keeper called
 
 Fairhaven has a cat, and the cat has *opinions*. Her name is **Cleocatra** — friendly, food-motivated, and possessed of a natural affinity for magic. Spend time winning her over (patience and kindness, as with all the best relationships) and she can be **adopted**, at which point she becomes **Tara's familiar** — the game's one true, formal familiar.
 
+<figure class="snapshot">
+  <img src="{{ '/assets/images/witchcraft/petting-cleocatra.jpg' | relative_url }}" alt="Tara kneels to pet Cleocatra, a black cat." loading="lazy">
+  <figcaption>her majesty accepts tribute 🐈‍⬛</figcaption>
+</figure>
+
 And being a witch's familiar here is no honorary title:
 
 | Perk of the partnership | What it means for you |

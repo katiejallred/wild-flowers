@@ -7,6 +7,17 @@ Some friendships, given enough sun and patience, flower into something rarer. Ei
 
 New to tending relationships at all? Root yourself in the [Friendship Guide](friendship.md) first — romance grows from the same soil.
 
+<div class="snapshot-row">
+<figure class="snapshot">
+  <img src="{{ '/assets/images/characters/romance-amira.jpg' | relative_url }}" alt="Tara and Amira share a quiet romantic moment." loading="lazy">
+  <figcaption>a quiet moment with Amira 💛</figcaption>
+</figure>
+<figure class="snapshot">
+  <img src="{{ '/assets/images/characters/wedding-francis-angus.jpg' | relative_url }}" alt="Francis and Angus kiss beneath a flowered arch at their woodland wedding while the town celebrates." loading="lazy">
+  <figcaption>Francis &amp; Angus, under the willow 🎊</figcaption>
+</figure>
+</div>
+
 ---
 
 ## The Eight Eligible Residents

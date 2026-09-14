@@ -5,6 +5,11 @@ title: "🎣 Fishing"
 
 When the beds are watered and the animals fed, the water calls. Fishing in Fairhaven is a gentle, forgiving craft — and, pleasingly for a journal-keeper, a wonderfully *systematic* one. Every fish files itself neatly by location and bait, with none of the fickle luck other islands suffer.
 
+<figure class="snapshot">
+  <img src="{{ '/assets/images/farming/winter-fishing.jpg' | relative_url }}" alt="Tara fishes from a snowy shore in winter." loading="lazy">
+  <figcaption>yes, they still bite in the snow ❄️</figcaption>
+</figure>
+
 ---
 
 ## Getting Started

@@ -9,6 +9,11 @@ Here we press the showiest blooms in the whole garden: the spells. Where [potion
 
 An **incantation** in Wylde Flowers is a spell written down and then *read aloud*. The writing is the expensive part: Tara composes incantations at the **desk** in her workroom, and each one demands a good deal of magic plus special ingredients at the moment of writing. Once read aloud, the incantation is **consumed** — one scroll, one casting. Plan accordingly.
 
+<figure class="snapshot">
+  <img src="{{ '/assets/images/witchcraft/ritual.jpg' | relative_url }}" alt="The coven performs a ritual around a stone circle at night." loading="lazy">
+  <figcaption>the wheel of the year, mid-turn 🌙</figcaption>
+</figure>
+
 | Stage | Where | What it costs |
 | --- | --- | --- |
 | Learn the spell | Story quests & coven tasks | Progress, favors, friendship |

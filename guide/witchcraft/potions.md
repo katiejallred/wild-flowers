@@ -5,6 +5,11 @@ title: "🧪 Potion Brewing"
 
 Beneath Hazel's perfectly respectable farmhouse sits a perfectly unrespectable **basement**: a witch's workroom with a cauldron already bubbling in the corner. This page is your brewer's companion — what goes in the pot, what comes out, and why your pantry is secretly a spell component chest.
 
+<figure class="snapshot">
+  <img src="{{ '/assets/images/witchcraft/cauldron.jpg' | relative_url }}" alt="Tara raises a glowing wand beside a bubbling cauldron in the basement workroom." loading="lazy">
+  <figcaption>the workroom at midnight — something green and promising 🧪</figcaption>
+</figure>
+
 ## The Workroom & the Cauldron
 
 The basement opens up as the main story pulls Tara into the craft (see [The Craft: An Introduction](introduction.md)). It comes equipped with **one cauldron**; the ability to build additional cauldrons unlocks later in the game — the quest *To Summer it Up For You* rewards you with a cauldron blueprint, at which point your production line can finally match your ambitions.

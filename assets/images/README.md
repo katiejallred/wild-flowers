@@ -50,3 +50,9 @@ Screenshots of Wylde Flowers are © Studio Drydock. Prefer your own captures or
 assets from the official press kit (wyldeflowersgame.com), keep them in context
 with commentary (as a fan guide does), and keep the site's attribution footer
 intact.
+
+## Current image credits
+
+The screenshots currently in these folders come from Studio Drydock's official
+Wylde Flowers press kit (linked from wyldeflowersgame.com/press.html), resized
+to 1280px JPEGs for the web. © Studio Drydock Pty Ltd.

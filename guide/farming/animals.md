@@ -7,6 +7,11 @@ No field journal is complete without its fauna. The Wylde farm keeps a warm-bloo
 
 > Hazel's farm remembers when these buildings were full. Restoring them is as much an act of family history as of husbandry.
 
+<figure class="snapshot">
+  <img src="{{ '/assets/images/farming/animals.jpg' | relative_url }}" alt="Cows and other animals gathered in the farm paddock." loading="lazy">
+  <figcaption>the warm-blooded ledger, assembled for breakfast 🐄</figcaption>
+</figure>
+
 ---
 
 ## Acquiring & Housing
