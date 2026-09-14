@@ -1,12 +1,12 @@
 ---
-title: "🗺️🎣 Interactive Fishing Map"
-description: "An interactive map of Fairhaven's fishing spots — hover over any water to see every fish that bites there, which bait tempts it, and what it sells for."
+title: "🗺️ Interactive Fishing & Foraging Map"
+description: "An interactive map of Fairhaven — hover over any water or wild patch to see every fish and forageable found there, the bait or season it needs, and what it sells for."
 ---
-<h1>🗺️🎣 Interactive Fishing Map</h1>
+<h1>🗺️ Interactive Fishing &amp; Foraging Map</h1>
 
-<p>The <a href="../farming/fishing.html">fishing notes</a> hold the theory; this plate is the field chart. Hover over (or tap) any marked water on the map below and the compendium opens to that page — every fish that bites there, the bait that tempts it, and what Bruno pays. Remember Fairhaven's great mercy: <strong>only place and bait matter.</strong> No seasons, no weather, no clocks.</p>
+<p>The <a href="../farming/fishing.html">fishing notes</a> and the <a href="../farming/mining-and-foraging.html">forager's pages</a> hold the theory; this plate is the field chart. Choose your errand below — rod or basket — then hover over (or tap) any marked spot and the compendium opens to that page. Two different laws govern the two pursuits: <strong>fish care only for place and bait</strong> (no seasons, no weather, no clocks), while <strong>forage cares for place and season</strong> — the wheel must turn before some patches will give.</p>
 
-<blockquote>Fish records pressed from the <a href="https://wylde-flowers.fandom.com" rel="external nofollow">community wiki</a> (<a href="https://creativecommons.org/licenses/by-sa/3.0/" rel="external nofollow license">CC BY-SA 3.0</a>, as is this ledger).</blockquote>
+<blockquote>Fish and forage records pressed from the <a href="https://wylde-flowers.fandom.com" rel="external nofollow">community wiki</a> (<a href="https://creativecommons.org/licenses/by-sa/3.0/" rel="external nofollow license">CC BY-SA 3.0</a>, as is this ledger).</blockquote>
 
 <style>
   /* ── controls ─────────────────────────────────────── */
@@ -29,9 +29,9 @@ description: "An interactive map of Fairhaven's fishing spots — hover over any
     color: var(--ink-soft);
     margin-bottom: 0.35rem;
   }
-  .fm-baits { display: flex; flex-wrap: wrap; gap: 0.5rem; }
-  .fm-baits input { position: absolute; opacity: 0; pointer-events: none; }
-  .fm-baits label {
+  .fm-chips { display: flex; flex-wrap: wrap; gap: 0.5rem; }
+  .fm-chips input { position: absolute; opacity: 0; pointer-events: none; }
+  .fm-chips label {
     display: inline-block;
     padding: 0.22em 0.85em;
     border: 1px solid var(--line);
@@ -41,13 +41,19 @@ description: "An interactive map of Fairhaven's fishing spots — hover over any
     font-size: 0.95rem;
     user-select: none;
   }
-  .fm-baits input:checked + label {
+  .fm-chips input:checked + label {
     border-color: var(--amethyst);
     background: rgba(138, 111, 196, 0.14);
     color: var(--amethyst);
     font-weight: 600;
   }
-  .fm-baits input:focus-visible + label { outline: 2px solid var(--amethyst); outline-offset: 2px; }
+  .fm-chips.fm-mode input:checked + label { font-weight: 800; }
+  .fm-chips input:focus-visible + label { outline: 2px solid var(--amethyst); outline-offset: 2px; }
+  .fm-chips.fm-seasons input:checked + label {
+    border-color: var(--sage);
+    background: rgba(111, 139, 116, 0.16);
+    color: var(--sage);
+  }
   .fm-search { flex: 1 1 220px; max-width: 320px; }
   .fm-search input {
     width: 100%;
@@ -86,6 +92,7 @@ description: "An interactive map of Fairhaven's fishing spots — hover over any
     font-family: var(--font-body);
     z-index: 2;
   }
+  .fm-pin.fm-hidden { display: none; }
   .fm-pin .fm-dot {
     width: 20px;
     height: 20px;
@@ -111,6 +118,11 @@ description: "An interactive map of Fairhaven's fishing spots — hover over any
   @media (prefers-reduced-motion: reduce) {
     .fm-pin .fm-dot::after { animation: none; opacity: 0; }
   }
+  .fm-pin.forage .fm-dot {
+    background: var(--sage);
+    box-shadow: 0 0 0 2px rgba(111, 139, 116, 0.5), 0 2px 6px rgba(var(--shadow), 0.4);
+  }
+  .fm-pin.forage .fm-dot::after { border-color: rgba(111, 139, 116, 0.55); }
   .fm-pin.gloaming .fm-dot {
     background: var(--plum);
     box-shadow: 0 0 0 2px rgba(156, 95, 143, 0.5), 0 2px 6px rgba(var(--shadow), 0.4);
@@ -129,6 +141,7 @@ description: "An interactive map of Fairhaven's fishing spots — hover over any
     box-shadow: 0 1px 3px rgba(var(--shadow), 0.25);
   }
   .fm-pin .fm-count { color: var(--amethyst); }
+  .fm-pin.forage .fm-count { color: var(--sage); }
   .fm-pin:hover .fm-dot, .fm-pin:focus-visible .fm-dot,
   .fm-pin.active .fm-dot { background: var(--ochre); }
   .fm-pin:focus-visible { outline: 2px solid var(--amethyst); outline-offset: 4px; }
@@ -183,9 +196,10 @@ description: "An interactive map of Fairhaven's fishing spots — hover over any
     border-radius: 4px;
   }
   .fm-tip li .fm-noimg { display: inline-flex; align-items: center; justify-content: center; font-size: 1rem; }
-  .fm-tip li .fm-fish-name { font-weight: 700; flex: 1 1 auto; }
-  .fm-tip li .fm-fish-bait { color: var(--ink-soft); font-size: 0.86em; white-space: nowrap; }
-  .fm-tip li .fm-fish-price { color: var(--ochre); font-weight: 700; font-variant-numeric: tabular-nums; white-space: nowrap; }
+  .fm-tip li .fm-item-name { font-weight: 700; flex: 1 1 auto; }
+  .fm-tip li .fm-item-name small { font-weight: 400; color: var(--ink-soft); }
+  .fm-tip li .fm-item-when { color: var(--ink-soft); font-size: 0.86em; white-space: nowrap; }
+  .fm-tip li .fm-item-price { color: var(--ochre); font-weight: 700; font-variant-numeric: tabular-nums; white-space: nowrap; }
   .fm-tip li.fm-hit { background: rgba(255, 207, 64, 0.25); }
   .fm-tip li.fm-filtered { display: none; }
   .fm-tip .fm-tip-empty { color: var(--ink-soft); font-style: italic; font-size: 0.9rem; margin: 0.2rem 0; display: none; }
@@ -226,24 +240,41 @@ description: "An interactive map of Fairhaven's fishing spots — hover over any
 
 <div class="fm-controls" id="fm-controls" hidden>
   <div>
+    <span class="fm-label" id="fm-mode-label">Today's errand</span>
+    <div class="fm-chips fm-mode" role="radiogroup" aria-labelledby="fm-mode-label">
+      <input type="radio" name="fm-mode" id="fm-mode-fish" value="fish" checked><label for="fm-mode-fish">🎣 Fishing</label>
+      <input type="radio" name="fm-mode" id="fm-mode-forage" value="forage"><label for="fm-mode-forage">🧺 Foraging</label>
+    </div>
+  </div>
+  <div id="fm-bait-group">
     <span class="fm-label" id="fm-bait-label">Tie on a bait</span>
-    <div class="fm-baits" role="radiogroup" aria-labelledby="fm-bait-label">
+    <div class="fm-chips" role="radiogroup" aria-labelledby="fm-bait-label">
       <input type="radio" name="fm-bait" id="fm-bait-any" value="any" checked><label for="fm-bait-any">All baits</label>
       <input type="radio" name="fm-bait" id="fm-bait-worm" value="worm"><label for="fm-bait-worm">🪱 Worm</label>
       <input type="radio" name="fm-bait" id="fm-bait-cricket" value="cricket"><label for="fm-bait-cricket">🦗 Cricket</label>
       <input type="radio" name="fm-bait" id="fm-bait-chub" value="chub"><label for="fm-bait-chub">🐟 Chub</label>
     </div>
   </div>
+  <div id="fm-season-group" hidden>
+    <span class="fm-label" id="fm-season-label">Where the wheel stands</span>
+    <div class="fm-chips fm-seasons" role="radiogroup" aria-labelledby="fm-season-label">
+      <input type="radio" name="fm-season" id="fm-season-any" value="any" checked><label for="fm-season-any">All seasons</label>
+      <input type="radio" name="fm-season" id="fm-season-spring" value="spring"><label for="fm-season-spring">🌸 Spring</label>
+      <input type="radio" name="fm-season" id="fm-season-summer" value="summer"><label for="fm-season-summer">☀️ Summer</label>
+      <input type="radio" name="fm-season" id="fm-season-fall" value="fall"><label for="fm-season-fall">🍂 Fall</label>
+      <input type="radio" name="fm-season" id="fm-season-winter" value="winter"><label for="fm-season-winter">❄️ Winter</label>
+    </div>
+  </div>
   <div class="fm-search">
-    <label class="fm-label" for="fm-find">Chasing one fish?</label>
-    <input type="text" id="fm-find" list="fm-fish-list" placeholder="Type a fish — e.g. Halibut" autocomplete="off">
-    <datalist id="fm-fish-list"></datalist>
+    <label class="fm-label" for="fm-find">Chasing one thing?</label>
+    <input type="text" id="fm-find" list="fm-item-list" placeholder="Type it — Halibut, Mandrake…" autocomplete="off">
+    <datalist id="fm-item-list"></datalist>
   </div>
 </div>
 
 <div class="fm-map" id="fm-map">
   <div class="fm-stage" id="fm-stage">
-    <img src="{{ '/assets/images/wiki/island/map-of-fairhaven.png' | relative_url }}" alt="The illustrated map of Fairhaven island, with fishing spots marked." id="fm-map-img">
+    <img src="{{ '/assets/images/wiki/island/map-of-fairhaven.png' | relative_url }}" alt="The illustrated map of Fairhaven island, with fishing and foraging spots marked." id="fm-map-img">
     <div id="fm-pins"></div>
   </div>
   <div class="fm-tip" id="fm-tip" role="region" aria-live="polite">
@@ -251,163 +282,297 @@ description: "An interactive map of Fairhaven's fishing spots — hover over any
     <h3 id="fm-tip-title"></h3>
     <p class="fm-tip-where" id="fm-tip-where"></p>
     <ul id="fm-tip-list"></ul>
-    <p class="fm-tip-empty" id="fm-tip-empty">Nothing takes this bait here — try another lure.</p>
+    <p class="fm-tip-empty" id="fm-tip-empty"></p>
   </div>
 </div>
 
-<p class="fm-hint" id="fm-hint" hidden>hover a pin to open that water's page of the compendium — tap to pin it 🎣</p>
+<p class="fm-hint" id="fm-hint" hidden>hover a pin to open that spot's page of the compendium — tap to pin it 🎣🧺</p>
 
 <hr>
 
-<h2>The Ledger, Pressed Flat</h2>
+<h2>The Angler's Ledger, Pressed Flat</h2>
 
-<p>The same records in plain ink, for readers who prefer their maps in rows — grouped by water, with every bait and price. (The interactive plate above reads from these very tables.)</p>
+<p>The same records in plain ink, for readers who prefer their maps in rows — first the waters, then the wild patches. (The interactive plate above reads from these very tables.)</p>
 
-<section class="fm-ledger" data-spot="river" data-name="The River" data-x="17" data-y="36"
+<section class="fm-ledger" data-kind="fish" data-spot="river" data-name="The River" data-x="17" data-y="36"
          data-where="On the Wylde Farm — your own front-door water, no travel required.">
   <h3 id="river">🌾 The River (the Farm)</h3>
   <div style="overflow-x:auto">
   <table>
     <thead><tr><th>Fish</th><th>Bait</th><th class="num">Sells for</th></tr></thead>
     <tbody>
-      <tr data-fish="Minnow" data-bait="worm" data-price="20" data-img="minnow"><td>Minnow</td><td>🪱 Worm</td><td class="num">20</td></tr>
-      <tr data-fish="Pupfish" data-bait="chub worm" data-price="20" data-img="pupfish"><td>Pupfish</td><td>🐟 Chub / 🪱 Worm</td><td class="num">20</td></tr>
-      <tr data-fish="Smelt" data-bait="chub cricket" data-price="20"><td>Smelt</td><td>🐟 Chub / 🦗 Cricket</td><td class="num">20</td></tr>
-      <tr data-fish="Studfish" data-bait="worm cricket chub" data-price="20"><td>Studfish</td><td>Any</td><td class="num">20</td></tr>
-      <tr data-fish="Darter" data-bait="chub worm" data-price="35" data-img="darter"><td>Darter</td><td>🐟 Chub / 🪱 Worm</td><td class="num">35</td></tr>
-      <tr data-fish="Gar" data-bait="worm cricket chub" data-price="35" data-img="gar"><td>Gar</td><td>Any</td><td class="num">35</td></tr>
-      <tr data-fish="Perch" data-bait="chub worm" data-price="15" data-img="perch"><td>Perch</td><td>🐟 Chub / 🪱 Worm</td><td class="num">15</td></tr>
-      <tr data-fish="Shiner" data-bait="chub worm" data-price="5"><td>Shiner</td><td>🐟 Chub / 🪱 Worm</td><td class="num">5</td></tr>
-      <tr data-fish="Walleye" data-bait="worm cricket chub" data-price="5"><td>Walleye</td><td>Any</td><td class="num">5</td></tr>
-      <tr data-fish="Shad" data-bait="worm cricket chub" data-price="15"><td>Shad</td><td>Any</td><td class="num">15</td></tr>
-      <tr data-fish="Sucker" data-bait="worm cricket chub" data-price="20"><td>Sucker</td><td>Any</td><td class="num">20</td></tr>
-      <tr data-fish="Crawfish" data-bait="worm cricket chub" data-price="25" data-img="crawfish"><td>Crawfish</td><td>Any</td><td class="num">25</td></tr>
-      <tr data-fish="Eel" data-bait="chub cricket" data-price="45" data-img="eel"><td>Eel</td><td>🐟 Chub / 🦗 Cricket</td><td class="num">45</td></tr>
+      <tr data-item="Minnow" data-bait="worm" data-price="20" data-img="minnow"><td>Minnow</td><td>🪱 Worm</td><td class="num">20</td></tr>
+      <tr data-item="Pupfish" data-bait="chub worm" data-price="20" data-img="pupfish"><td>Pupfish</td><td>🐟 Chub / 🪱 Worm</td><td class="num">20</td></tr>
+      <tr data-item="Smelt" data-bait="chub cricket" data-price="20"><td>Smelt</td><td>🐟 Chub / 🦗 Cricket</td><td class="num">20</td></tr>
+      <tr data-item="Studfish" data-bait="worm cricket chub" data-price="20"><td>Studfish</td><td>Any</td><td class="num">20</td></tr>
+      <tr data-item="Darter" data-bait="chub worm" data-price="35" data-img="darter"><td>Darter</td><td>🐟 Chub / 🪱 Worm</td><td class="num">35</td></tr>
+      <tr data-item="Gar" data-bait="worm cricket chub" data-price="35" data-img="gar"><td>Gar</td><td>Any</td><td class="num">35</td></tr>
+      <tr data-item="Perch" data-bait="chub worm" data-price="15" data-img="perch"><td>Perch</td><td>🐟 Chub / 🪱 Worm</td><td class="num">15</td></tr>
+      <tr data-item="Shiner" data-bait="chub worm" data-price="5"><td>Shiner</td><td>🐟 Chub / 🪱 Worm</td><td class="num">5</td></tr>
+      <tr data-item="Walleye" data-bait="worm cricket chub" data-price="5"><td>Walleye</td><td>Any</td><td class="num">5</td></tr>
+      <tr data-item="Shad" data-bait="worm cricket chub" data-price="15"><td>Shad</td><td>Any</td><td class="num">15</td></tr>
+      <tr data-item="Sucker" data-bait="worm cricket chub" data-price="20"><td>Sucker</td><td>Any</td><td class="num">20</td></tr>
+      <tr data-item="Crawfish" data-bait="worm cricket chub" data-price="25" data-img="crawfish"><td>Crawfish</td><td>Any</td><td class="num">25</td></tr>
+      <tr data-item="Eel" data-bait="chub cricket" data-price="45" data-img="eel"><td>Eel</td><td>🐟 Chub / 🦗 Cricket</td><td class="num">45</td></tr>
     </tbody>
   </table>
   </div>
 </section>
 
-<section class="fm-ledger" data-spot="lake" data-name="Forest Lake" data-x="81" data-y="34"
+<section class="fm-ledger" data-kind="fish" data-spot="lake" data-name="Forest Lake" data-x="81" data-y="34"
          data-where="In the Woods, among the mushrooms and the seer's haunts.">
   <h3 id="lake">🌲 Forest Lake (the Woods)</h3>
   <div style="overflow-x:auto">
   <table>
     <thead><tr><th>Fish</th><th>Bait</th><th class="num">Sells for</th></tr></thead>
     <tbody>
-      <tr data-fish="Char" data-bait="worm cricket chub" data-price="35" data-img="char"><td>Char</td><td>Any</td><td class="num">35</td></tr>
-      <tr data-fish="Bluegill" data-bait="chub cricket" data-price="20" data-img="bluegill"><td>Bluegill</td><td>🐟 Chub / 🦗 Cricket</td><td class="num">20</td></tr>
-      <tr data-fish="Brown Trout" data-bait="chub cricket" data-price="35" data-img="brown-trout"><td>Brown Trout</td><td>🐟 Chub / 🦗 Cricket</td><td class="num">35</td></tr>
-      <tr data-fish="Catfish" data-bait="worm cricket chub" data-price="20" data-img="catfish"><td>Catfish</td><td>Any</td><td class="num">20</td></tr>
-      <tr data-fish="Black Crappie" data-bait="chub cricket" data-price="35" data-img="black-crappie"><td>Black Crappie</td><td>🐟 Chub / 🦗 Cricket</td><td class="num">35</td></tr>
-      <tr data-fish="Carp" data-bait="chub worm" data-price="5" data-img="carp"><td>Carp</td><td>🐟 Chub / 🪱 Worm</td><td class="num">5</td></tr>
+      <tr data-item="Char" data-bait="worm cricket chub" data-price="35" data-img="char"><td>Char</td><td>Any</td><td class="num">35</td></tr>
+      <tr data-item="Bluegill" data-bait="chub cricket" data-price="20" data-img="bluegill"><td>Bluegill</td><td>🐟 Chub / 🦗 Cricket</td><td class="num">20</td></tr>
+      <tr data-item="Brown Trout" data-bait="chub cricket" data-price="35" data-img="brown-trout"><td>Brown Trout</td><td>🐟 Chub / 🦗 Cricket</td><td class="num">35</td></tr>
+      <tr data-item="Catfish" data-bait="worm cricket chub" data-price="20" data-img="catfish"><td>Catfish</td><td>Any</td><td class="num">20</td></tr>
+      <tr data-item="Black Crappie" data-bait="chub cricket" data-price="35" data-img="black-crappie"><td>Black Crappie</td><td>🐟 Chub / 🦗 Cricket</td><td class="num">35</td></tr>
+      <tr data-item="Carp" data-bait="chub worm" data-price="5" data-img="carp"><td>Carp</td><td>🐟 Chub / 🪱 Worm</td><td class="num">5</td></tr>
     </tbody>
   </table>
   </div>
 </section>
 
-<section class="fm-ledger" data-spot="ocean" data-name="The Ocean" data-x="26" data-y="82" data-x2="51" data-y2="86"
+<section class="fm-ledger" data-kind="fish" data-spot="ocean" data-name="The Ocean" data-x="26" data-y="82" data-x2="51" data-y2="86"
          data-where="Cast from the Beach, or from the shore south of the Town Center — same salt, same fish.">
   <h3 id="ocean">🌊 The Ocean (Beach &amp; south of town)</h3>
   <div style="overflow-x:auto">
   <table>
     <thead><tr><th>Fish</th><th>Bait</th><th class="num">Sells for</th></tr></thead>
     <tbody>
-      <tr data-fish="Dab" data-bait="chub worm" data-price="35" data-img="dab"><td>Dab</td><td>🐟 Chub / 🪱 Worm</td><td class="num">35</td></tr>
-      <tr data-fish="Sardine" data-bait="chub worm" data-price="3"><td>Sardine</td><td>🐟 Chub / 🪱 Worm</td><td class="num">3</td></tr>
-      <tr data-fish="Sole" data-bait="chub cricket" data-price="20"><td>Sole</td><td>🐟 Chub / 🦗 Cricket</td><td class="num">20</td></tr>
-      <tr data-fish="Whiting" data-bait="chub cricket" data-price="20"><td>Whiting</td><td>🐟 Chub / 🦗 Cricket</td><td class="num">20</td></tr>
-      <tr data-fish="Flounder" data-bait="chub cricket" data-price="40" data-img="flounder"><td>Flounder</td><td>🐟 Chub / 🦗 Cricket</td><td class="num">40</td></tr>
-      <tr data-fish="Haddock" data-bait="chub cricket" data-price="20" data-img="haddock"><td>Haddock</td><td>🐟 Chub / 🦗 Cricket</td><td class="num">20</td></tr>
-      <tr data-fish="Herring" data-bait="worm cricket chub" data-price="3" data-img="herring"><td>Herring</td><td>Any</td><td class="num">3</td></tr>
-      <tr data-fish="Mackerel" data-bait="worm cricket chub" data-price="20" data-img="mackerel"><td>Mackerel</td><td>Any</td><td class="num">20</td></tr>
-      <tr data-fish="Snapper" data-bait="chub cricket" data-price="15"><td>Snapper</td><td>🐟 Chub / 🦗 Cricket</td><td class="num">15</td></tr>
-      <tr data-fish="Bonito" data-bait="chub cricket" data-price="35" data-img="bonito"><td>Bonito</td><td>🐟 Chub / 🦗 Cricket</td><td class="num">35</td></tr>
-      <tr data-fish="Dorado" data-bait="cricket" data-price="40" data-img="dorado"><td>Dorado</td><td>🦗 Cricket</td><td class="num">40</td></tr>
-      <tr data-fish="Halibut" data-bait="chub cricket" data-price="50" data-img="halibut"><td>Halibut</td><td>🐟 Chub / 🦗 Cricket</td><td class="num">50</td></tr>
-      <tr data-fish="Scup" data-bait="chub" data-price="20"><td>Scup</td><td>🐟 Chub</td><td class="num">20</td></tr>
-      <tr data-fish="Sea Bass" data-bait="worm cricket chub" data-price="25"><td>Sea Bass</td><td>Any</td><td class="num">25</td></tr>
-      <tr data-fish="Skate" data-bait="chub cricket" data-price="20"><td>Skate</td><td>🐟 Chub / 🦗 Cricket</td><td class="num">20</td></tr>
-      <tr data-fish="Sturgeon" data-bait="chub worm" data-price="20"><td>Sturgeon</td><td>🐟 Chub / 🪱 Worm</td><td class="num">20</td></tr>
-      <tr data-fish="Tuna" data-bait="worm cricket chub" data-price="10"><td>Tuna</td><td>Any</td><td class="num">10</td></tr>
-      <tr data-fish="Clam" data-bait="worm cricket chub" data-price="35" data-img="clam"><td>Clam</td><td>Any</td><td class="num">35</td></tr>
-      <tr data-fish="Lobster" data-bait="chub cricket" data-price="50" data-img="lobster"><td>Lobster</td><td>🐟 Chub / 🦗 Cricket</td><td class="num">50</td></tr>
-      <tr data-fish="Mussel" data-bait="chub cricket" data-price="20" data-img="mussel"><td>Mussel</td><td>🐟 Chub / 🦗 Cricket</td><td class="num">20</td></tr>
-      <tr data-fish="Oyster" data-bait="chub cricket" data-price="20" data-img="oyster"><td>Oyster</td><td>🐟 Chub / 🦗 Cricket</td><td class="num">20</td></tr>
-      <tr data-fish="Scallop" data-bait="chub" data-price="20"><td>Scallop</td><td>🐟 Chub</td><td class="num">20</td></tr>
-      <tr data-fish="Sea Urchin" data-bait="cricket" data-price="80"><td>Sea Urchin</td><td>🦗 Cricket</td><td class="num">80</td></tr>
-      <tr data-fish="Shrimp" data-bait="worm cricket chub" data-price="50"><td>Shrimp</td><td>Any</td><td class="num">50</td></tr>
-      <tr data-fish="Squid" data-bait="worm cricket chub" data-price="40"><td>Squid</td><td>Any</td><td class="num">40</td></tr>
+      <tr data-item="Dab" data-bait="chub worm" data-price="35" data-img="dab"><td>Dab</td><td>🐟 Chub / 🪱 Worm</td><td class="num">35</td></tr>
+      <tr data-item="Sardine" data-bait="chub worm" data-price="3"><td>Sardine</td><td>🐟 Chub / 🪱 Worm</td><td class="num">3</td></tr>
+      <tr data-item="Sole" data-bait="chub cricket" data-price="20"><td>Sole</td><td>🐟 Chub / 🦗 Cricket</td><td class="num">20</td></tr>
+      <tr data-item="Whiting" data-bait="chub cricket" data-price="20"><td>Whiting</td><td>🐟 Chub / 🦗 Cricket</td><td class="num">20</td></tr>
+      <tr data-item="Flounder" data-bait="chub cricket" data-price="40" data-img="flounder"><td>Flounder</td><td>🐟 Chub / 🦗 Cricket</td><td class="num">40</td></tr>
+      <tr data-item="Haddock" data-bait="chub cricket" data-price="20" data-img="haddock"><td>Haddock</td><td>🐟 Chub / 🦗 Cricket</td><td class="num">20</td></tr>
+      <tr data-item="Herring" data-bait="worm cricket chub" data-price="3" data-img="herring"><td>Herring</td><td>Any</td><td class="num">3</td></tr>
+      <tr data-item="Mackerel" data-bait="worm cricket chub" data-price="20" data-img="mackerel"><td>Mackerel</td><td>Any</td><td class="num">20</td></tr>
+      <tr data-item="Snapper" data-bait="chub cricket" data-price="15"><td>Snapper</td><td>🐟 Chub / 🦗 Cricket</td><td class="num">15</td></tr>
+      <tr data-item="Bonito" data-bait="chub cricket" data-price="35" data-img="bonito"><td>Bonito</td><td>🐟 Chub / 🦗 Cricket</td><td class="num">35</td></tr>
+      <tr data-item="Dorado" data-bait="cricket" data-price="40" data-img="dorado"><td>Dorado</td><td>🦗 Cricket</td><td class="num">40</td></tr>
+      <tr data-item="Halibut" data-bait="chub cricket" data-price="50" data-img="halibut"><td>Halibut</td><td>🐟 Chub / 🦗 Cricket</td><td class="num">50</td></tr>
+      <tr data-item="Scup" data-bait="chub" data-price="20"><td>Scup</td><td>🐟 Chub</td><td class="num">20</td></tr>
+      <tr data-item="Sea Bass" data-bait="worm cricket chub" data-price="25"><td>Sea Bass</td><td>Any</td><td class="num">25</td></tr>
+      <tr data-item="Skate" data-bait="chub cricket" data-price="20"><td>Skate</td><td>🐟 Chub / 🦗 Cricket</td><td class="num">20</td></tr>
+      <tr data-item="Sturgeon" data-bait="chub worm" data-price="20"><td>Sturgeon</td><td>🐟 Chub / 🪱 Worm</td><td class="num">20</td></tr>
+      <tr data-item="Tuna" data-bait="worm cricket chub" data-price="10"><td>Tuna</td><td>Any</td><td class="num">10</td></tr>
+      <tr data-item="Clam" data-bait="worm cricket chub" data-price="35" data-img="clam"><td>Clam</td><td>Any</td><td class="num">35</td></tr>
+      <tr data-item="Lobster" data-bait="chub cricket" data-price="50" data-img="lobster"><td>Lobster</td><td>🐟 Chub / 🦗 Cricket</td><td class="num">50</td></tr>
+      <tr data-item="Mussel" data-bait="chub cricket" data-price="20" data-img="mussel"><td>Mussel</td><td>🐟 Chub / 🦗 Cricket</td><td class="num">20</td></tr>
+      <tr data-item="Oyster" data-bait="chub cricket" data-price="20" data-img="oyster"><td>Oyster</td><td>🐟 Chub / 🦗 Cricket</td><td class="num">20</td></tr>
+      <tr data-item="Scallop" data-bait="chub" data-price="20"><td>Scallop</td><td>🐟 Chub</td><td class="num">20</td></tr>
+      <tr data-item="Sea Urchin" data-bait="cricket" data-price="80"><td>Sea Urchin</td><td>🦗 Cricket</td><td class="num">80</td></tr>
+      <tr data-item="Shrimp" data-bait="worm cricket chub" data-price="50"><td>Shrimp</td><td>Any</td><td class="num">50</td></tr>
+      <tr data-item="Squid" data-bait="worm cricket chub" data-price="40"><td>Squid</td><td>Any</td><td class="num">40</td></tr>
     </tbody>
   </table>
   </div>
 </section>
 
-<section class="fm-ledger" data-spot="mountain" data-name="The Mountain" data-x="27" data-y="21"
+<section class="fm-ledger" data-kind="fish" data-spot="mountain" data-name="The Mountain" data-x="27" data-y="21"
          data-where="Across the repaired bridge — cold pools below the falls. Opens with the story.">
   <h3 id="mountain">⛰️ The Mountain</h3>
   <div style="overflow-x:auto">
   <table>
     <thead><tr><th>Fish</th><th>Bait</th><th class="num">Sells for</th></tr></thead>
     <tbody>
-      <tr data-fish="Chub" data-bait="chub worm" data-price="3" data-img="chub"><td>Chub</td><td>🐟 Chub / 🪱 Worm</td><td class="num">3</td></tr>
-      <tr data-fish="Dace" data-bait="worm cricket chub" data-price="35" data-img="dace"><td>Dace</td><td>Any</td><td class="num">35</td></tr>
-      <tr data-fish="Pike" data-bait="worm cricket chub" data-price="25" data-img="pike"><td>Pike</td><td>Any</td><td class="num">25</td></tr>
-      <tr data-fish="Rainbow Trout" data-bait="worm cricket chub" data-price="50" data-img="rainbow-trout"><td>Rainbow Trout</td><td>Any</td><td class="num">50</td></tr>
-      <tr data-fish="Salmon" data-bait="worm cricket chub" data-price="60"><td>Salmon</td><td>Any</td><td class="num">60</td></tr>
-      <tr data-fish="Sunfish" data-bait="worm cricket chub" data-price="20"><td>Sunfish</td><td>Any</td><td class="num">20</td></tr>
+      <tr data-item="Chub" data-bait="chub worm" data-price="3" data-img="chub"><td>Chub</td><td>🐟 Chub / 🪱 Worm</td><td class="num">3</td></tr>
+      <tr data-item="Dace" data-bait="worm cricket chub" data-price="35" data-img="dace"><td>Dace</td><td>Any</td><td class="num">35</td></tr>
+      <tr data-item="Pike" data-bait="worm cricket chub" data-price="25" data-img="pike"><td>Pike</td><td>Any</td><td class="num">25</td></tr>
+      <tr data-item="Rainbow Trout" data-bait="worm cricket chub" data-price="50" data-img="rainbow-trout"><td>Rainbow Trout</td><td>Any</td><td class="num">50</td></tr>
+      <tr data-item="Salmon" data-bait="worm cricket chub" data-price="60"><td>Salmon</td><td>Any</td><td class="num">60</td></tr>
+      <tr data-item="Sunfish" data-bait="worm cricket chub" data-price="20"><td>Sunfish</td><td>Any</td><td class="num">20</td></tr>
     </tbody>
   </table>
   </div>
 </section>
 
-<section class="fm-ledger" data-spot="gloaming" data-name="The Gloaming" data-x="88" data-y="68" data-otherworld="true"
+<section class="fm-ledger" data-kind="fish" data-spot="gloaming" data-name="The Gloaming" data-x="88" data-y="68" data-otherworld="true"
          data-where="Not on any mundane map — a twilight otherworld, reached only by magic.">
   <h3 id="gloaming">🌙 The Gloaming</h3>
   <div style="overflow-x:auto">
   <table>
     <thead><tr><th>Fish</th><th>Bait</th><th class="num">Sells for</th></tr></thead>
     <tbody>
-      <tr data-fish="Complifish" data-bait="worm cricket chub" data-price="" data-img="complifish"><td>Complifish</td><td>Any</td><td class="num">—</td></tr>
+      <tr data-item="Complifish" data-bait="worm cricket chub" data-price="" data-img="complifish"><td>Complifish</td><td>Any</td><td class="num">—</td></tr>
     </tbody>
   </table>
   </div>
 </section>
 
-<section class="fm-ledger" data-spot="mine" data-name="The Mine (level 20)" data-x="38" data-y="39"
+<section class="fm-ledger" data-kind="fish" data-spot="mine" data-name="The Mine (level 20)" data-x="38" data-y="39"
          data-where="The pool at the very bottom — level 20. Earn your way down with the pickaxe.">
   <h3 id="mine">⛏️ The Mine (level 20)</h3>
   <div style="overflow-x:auto">
   <table>
     <thead><tr><th>Fish</th><th>Bait</th><th class="num">Sells for</th></tr></thead>
     <tbody>
-      <tr data-fish="Grotto Sculpin" data-bait="worm cricket chub" data-price="20" data-img="grotto-sculpin"><td>Grotto Sculpin</td><td>Any</td><td class="num">20</td></tr>
-      <tr data-fish="Loach" data-bait="worm cricket chub" data-price="20" data-img="loach"><td>Loach</td><td>Any</td><td class="num">20</td></tr>
-      <tr data-fish="Blind Eel" data-bait="worm cricket chub" data-price="35" data-img="blind-eel"><td>Blind Eel</td><td>Any</td><td class="num">35</td></tr>
-      <tr data-fish="Golden Catfish" data-bait="worm cricket chub" data-price="20" data-img="golden-catfish"><td>Golden Catfish</td><td>Any</td><td class="num">20</td></tr>
-      <tr data-fish="Blindcat" data-bait="worm cricket chub" data-price="35" data-img="blindcat"><td>Blindcat</td><td>Any</td><td class="num">35</td></tr>
+      <tr data-item="Grotto Sculpin" data-bait="worm cricket chub" data-price="20" data-img="grotto-sculpin"><td>Grotto Sculpin</td><td>Any</td><td class="num">20</td></tr>
+      <tr data-item="Loach" data-bait="worm cricket chub" data-price="20" data-img="loach"><td>Loach</td><td>Any</td><td class="num">20</td></tr>
+      <tr data-item="Blind Eel" data-bait="worm cricket chub" data-price="35" data-img="blind-eel"><td>Blind Eel</td><td>Any</td><td class="num">35</td></tr>
+      <tr data-item="Golden Catfish" data-bait="worm cricket chub" data-price="20" data-img="golden-catfish"><td>Golden Catfish</td><td>Any</td><td class="num">20</td></tr>
+      <tr data-item="Blindcat" data-bait="worm cricket chub" data-price="35" data-img="blindcat"><td>Blindcat</td><td>Any</td><td class="num">35</td></tr>
     </tbody>
   </table>
   </div>
 </section>
 
-<p>For the craft itself — leveling, bait economics, and where the rare ones hide — turn back to the <a href="../farming/fishing.html">Fishing</a> pages; for everything around the water, the <a href="map.html">Map of Fairhaven</a>.</p>
+<h2>The Forager's Ledger</h2>
 
-<span class="handwritten">sign-off tip: the pins never lie — but if the water seems empty, it's the bait, not the map 🎣</span>
+<p>And the basket's half of the chart. A blank season in the wiki's records is pressed here as year-round; "—" under coins means the compendium lists no price (or the item cannot be sold at all — witches' goods rarely can).</p>
+
+<section class="fm-ledger" data-kind="forage" data-spot="farm-forage" data-name="The Farm" data-x="28" data-y="44"
+         data-where="Hazel's fields and fencerows — the mushrooms and weeds underfoot at home.">
+  <h3 id="farm-forage">🌾 The Farm</h3>
+  <div style="overflow-x:auto">
+  <table>
+    <thead><tr><th>Forage</th><th>Season</th><th class="num">Sells for</th></tr></thead>
+    <tbody>
+      <tr data-item="Mushroom" data-season="spring summer fall winter" data-price="5" data-img="mushroom" data-note="also in the Woods"><td>Mushroom</td><td>Year-round</td><td class="num">5</td></tr>
+      <tr data-item="Toadstool" data-season="spring summer fall winter" data-price="3" data-note="also in the Woods"><td>Toadstool</td><td>Year-round</td><td class="num">3</td></tr>
+      <tr data-item="Thistle" data-season="spring summer fall winter" data-price="2" data-note="also in the Woods"><td>Thistle</td><td>Year-round</td><td class="num">2</td></tr>
+      <tr data-item="Poppy Flower" data-season="summer fall" data-price="" data-img="poppy-flower"><td>Poppy Flower</td><td>☀️ Summer / 🍂 Fall</td><td class="num">—</td></tr>
+      <tr data-item="Weed" data-season="spring summer fall winter" data-price=""><td>Weed</td><td>Year-round</td><td class="num">—</td></tr>
+    </tbody>
+  </table>
+  </div>
+</section>
+
+<section class="fm-ledger" data-kind="forage" data-spot="woods-forage" data-name="The Woods" data-x="72" data-y="26"
+         data-where="The forest interior — mushrooms, nuts, and the witchier herbs under the canopy.">
+  <h3 id="woods-forage">🌲 The Woods</h3>
+  <div style="overflow-x:auto">
+  <table>
+    <thead><tr><th>Forage</th><th>Season</th><th class="num">Sells for</th></tr></thead>
+    <tbody>
+      <tr data-item="Mandrake" data-season="spring summer fall winter" data-price="10" data-img="mandrake"><td>Mandrake</td><td>Year-round</td><td class="num">10</td></tr>
+      <tr data-item="Mistletoe" data-season="spring summer fall winter" data-price="" data-img="mistletoe"><td>Mistletoe</td><td>Year-round</td><td class="num">—</td></tr>
+      <tr data-item="Moon Flower" data-season="spring summer fall" data-price="" data-img="moon-flower"><td>Moon Flower</td><td>🌸 Spring / ☀️ Summer / 🍂 Fall</td><td class="num">—</td></tr>
+      <tr data-item="Forget-Me-Not" data-season="fall winter" data-price=""><td>Forget-Me-Not</td><td>🍂 Fall / ❄️ Winter</td><td class="num">—</td></tr>
+      <tr data-item="Peanut" data-season="spring summer fall winter" data-price="" data-img="peanut"><td>Peanut</td><td>Year-round</td><td class="num">—</td></tr>
+      <tr data-item="Walnut" data-season="fall winter" data-price=""><td>Walnut</td><td>🍂 Fall / ❄️ Winter</td><td class="num">—</td></tr>
+      <tr data-item="Mushroom" data-season="spring summer fall winter" data-price="5" data-img="mushroom" data-note="also on the Farm"><td>Mushroom</td><td>Year-round</td><td class="num">5</td></tr>
+      <tr data-item="Toadstool" data-season="spring summer fall winter" data-price="3" data-note="also on the Farm"><td>Toadstool</td><td>Year-round</td><td class="num">3</td></tr>
+      <tr data-item="Thistle" data-season="spring summer fall winter" data-price="2" data-note="also on the Farm"><td>Thistle</td><td>Year-round</td><td class="num">2</td></tr>
+    </tbody>
+  </table>
+  </div>
+</section>
+
+<section class="fm-ledger" data-kind="forage" data-spot="beach-forage" data-name="The Beach" data-x="26" data-y="80"
+         data-where="Sand, surf, and palm shade — beachcombing at its most literal.">
+  <h3 id="beach-forage">🏖️ The Beach</h3>
+  <div style="overflow-x:auto">
+  <table>
+    <thead><tr><th>Forage</th><th>Season</th><th class="num">Sells for</th></tr></thead>
+    <tbody>
+      <tr data-item="Banana" data-season="spring summer fall winter" data-price="15"><td>Banana</td><td>Year-round</td><td class="num">15</td></tr>
+      <tr data-item="Coconut" data-season="spring summer fall winter" data-price="20"><td>Coconut</td><td>Year-round</td><td class="num">20</td></tr>
+      <tr data-item="Blueberry" data-season="spring summer" data-price="5" data-note="by the lighthouse"><td>Blueberry <em>(by the lighthouse)</em></td><td>🌸 Spring / ☀️ Summer</td><td class="num">5</td></tr>
+      <tr data-item="Seaweed" data-season="spring summer fall winter" data-price="8"><td>Seaweed</td><td>Year-round</td><td class="num">8</td></tr>
+      <tr data-item="Seashell" data-season="spring summer fall winter" data-price="5"><td>Seashell</td><td>Year-round</td><td class="num">5</td></tr>
+      <tr data-item="Conch Shell" data-season="spring summer fall winter" data-price="10" data-img="conch-shell"><td>Conch Shell</td><td>Year-round</td><td class="num">10</td></tr>
+      <tr data-item="Pearl" data-season="spring summer fall winter" data-price="30" data-img="pearl"><td>Pearl</td><td>Year-round</td><td class="num">30</td></tr>
+    </tbody>
+  </table>
+  </div>
+</section>
+
+<section class="fm-ledger" data-kind="forage" data-spot="westshore" data-name="West Shore" data-x="17" data-y="69"
+         data-where="The shore below Lightfoot Farm, the quiet neighbor's land — a witch's berth of a beach.">
+  <h3 id="westshore">🕯️ West Shore (below Lightfoot Farm)</h3>
+  <div style="overflow-x:auto">
+  <table>
+    <thead><tr><th>Forage</th><th>Season</th><th class="num">Sells for</th></tr></thead>
+    <tbody>
+      <tr data-item="Heather" data-season="fall winter" data-price="" data-img="heather"><td>Heather</td><td>🍂 Fall / ❄️ Winter</td><td class="num">—</td></tr>
+      <tr data-item="Witch Weed" data-season="spring summer" data-price=""><td>Witch Weed</td><td>🌸 Spring / ☀️ Summer</td><td class="num">—</td></tr>
+    </tbody>
+  </table>
+  </div>
+</section>
+
+<section class="fm-ledger" data-kind="forage" data-spot="mountain-forage" data-name="The Mountain" data-x="25" data-y="16"
+         data-where="The high paths beyond the bridge — the island's whole herb rack and nut pantry.">
+  <h3 id="mountain-forage">⛰️ The Mountain</h3>
+  <div style="overflow-x:auto">
+  <table>
+    <thead><tr><th>Forage</th><th>Season</th><th class="num">Sells for</th></tr></thead>
+    <tbody>
+      <tr data-item="Almond" data-season="summer fall" data-price="" data-img="almond"><td>Almond</td><td>☀️ Summer / 🍂 Fall</td><td class="num">—</td></tr>
+      <tr data-item="Pecan" data-season="fall winter" data-price=""><td>Pecan</td><td>🍂 Fall / ❄️ Winter</td><td class="num">—</td></tr>
+      <tr data-item="Pistachio" data-season="fall winter" data-price="" data-img="pistachio"><td>Pistachio</td><td>🍂 Fall / ❄️ Winter</td><td class="num">—</td></tr>
+      <tr data-item="Blackberry" data-season="summer fall winter" data-price="8"><td>Blackberry</td><td>☀️ Summer / 🍂 Fall / ❄️ Winter</td><td class="num">8</td></tr>
+      <tr data-item="Mint" data-season="summer fall" data-price="" data-img="mint"><td>Mint</td><td>☀️ Summer / 🍂 Fall</td><td class="num">—</td></tr>
+      <tr data-item="Coriander" data-season="fall" data-price=""><td>Coriander</td><td>🍂 Fall</td><td class="num">—</td></tr>
+      <tr data-item="Nigella" data-season="summer fall" data-price="" data-img="nigella"><td>Nigella</td><td>☀️ Summer / 🍂 Fall</td><td class="num">—</td></tr>
+      <tr data-item="Parsley" data-season="winter" data-price="" data-img="parsley"><td>Parsley</td><td>❄️ Winter</td><td class="num">—</td></tr>
+      <tr data-item="Pinecone" data-season="fall winter" data-price="" data-img="pinecone"><td>Pinecone</td><td>🍂 Fall / ❄️ Winter</td><td class="num">—</td></tr>
+    </tbody>
+  </table>
+  </div>
+</section>
+
+<section class="fm-ledger" data-kind="forage" data-spot="gloaming-forage" data-name="The Gloaming" data-x="88" data-y="68" data-otherworld="true"
+         data-where="Not on any mundane map — otherworldly pickings for the coven's rituals.">
+  <h3 id="gloaming-forage">🌙 The Gloaming</h3>
+  <div style="overflow-x:auto">
+  <table>
+    <thead><tr><th>Forage</th><th>Season</th><th class="num">Sells for</th></tr></thead>
+    <tbody>
+      <tr data-item="Hedgehog Grass" data-season="spring summer fall winter" data-price="" data-img="hedgehog-grass"><td>Hedgehog Grass</td><td>Year-round</td><td class="num">—</td></tr>
+      <tr data-item="Wool Weed" data-season="spring summer fall winter" data-price="" data-note="2nd tier"><td>Wool Weed <em>(2nd tier)</em></td><td>Year-round</td><td class="num">—</td></tr>
+      <tr data-item="Wolfsbane" data-season="spring summer fall winter" data-price="" data-note="2nd tier"><td>Wolfsbane <em>(2nd tier)</em></td><td>Year-round</td><td class="num">—</td></tr>
+    </tbody>
+  </table>
+  </div>
+</section>
+
+<section class="fm-ledger" data-kind="forage" data-spot="mine-forage" data-name="The Mine" data-x="38" data-y="39"
+         data-where="Even the dark grows a crop — shiitake on the deep shelves, floors 16–20.">
+  <h3 id="mine-forage">⛏️ The Mine</h3>
+  <div style="overflow-x:auto">
+  <table>
+    <thead><tr><th>Forage</th><th>Season</th><th class="num">Sells for</th></tr></thead>
+    <tbody>
+      <tr data-item="Shiitake Mushroom" data-season="spring summer fall winter" data-price=""><td>Shiitake Mushroom</td><td>Year-round</td><td class="num">—</td></tr>
+    </tbody>
+  </table>
+  </div>
+</section>
+
+<p>For the craft itself — bait economics, leveling, and the forager's routes — turn back to <a href="../farming/fishing.html">Fishing</a> and <a href="../farming/mining-and-foraging.html">Mining &amp; Foraging</a>; for everything around the water and the woods, the <a href="map.html">Map of Fairhaven</a>.</p>
+
+<span class="handwritten">sign-off tip: the pins never lie — if the water seems empty it's the bait, and if the patch seems bare it's the season 🎣🧺</span>
 
 <script>
 (function () {
   "use strict";
 
-  var FISH_IMG_BASE = "{{ '/assets/images/wiki/fish/' | relative_url }}";
+  var IMG_BASE = {
+    fish: "{{ '/assets/images/wiki/fish/' | relative_url }}",
+    forage: "{{ '/assets/images/wiki/forage/' | relative_url }}"
+  };
+  var PLACEHOLDER = { fish: "🐟", forage: "🌿" };
+  var EMPTY_TEXT = {
+    fish: "Nothing takes this bait here — try another lure.",
+    forage: "Nothing grows here this season — wait for the wheel to turn."
+  };
   var BAIT_LABEL = { worm: "🪱 Worm", cricket: "🦗 Cricket", chub: "🐟 Chub" };
+  var SEASON_EMOJI = { spring: "🌸", summer: "☀️", fall: "🍂", winter: "❄️" };
 
-  // ── Read the printed ledger: it is the single source of truth. ──
+  // ── Read the printed ledgers: they are the single source of truth. ──
   var spots = [];
-  var fishIndex = {}; // lowercased name -> { spotId, name }
+  var itemIndex = {}; // lowercased name -> { spotId, name, kind }
   document.querySelectorAll("section.fm-ledger").forEach(function (sec) {
     var spot = {
       id: sec.dataset.spot,
+      kind: sec.dataset.kind,
       name: sec.dataset.name,
       where: sec.dataset.where,
       x: parseFloat(sec.dataset.x),
@@ -415,18 +580,21 @@ description: "An interactive map of Fairhaven's fishing spots — hover over any
       x2: sec.dataset.x2 ? parseFloat(sec.dataset.x2) : null,
       y2: sec.dataset.y2 ? parseFloat(sec.dataset.y2) : null,
       otherworld: sec.dataset.otherworld === "true",
-      anchor: sec.querySelector("h3") ? sec.querySelector("h3").id : null,
-      fish: []
+      items: []
     };
     sec.querySelectorAll("tbody tr").forEach(function (tr) {
-      var f = {
-        name: tr.dataset.fish,
-        baits: tr.dataset.bait.split(" "),
+      var it = {
+        name: tr.dataset.item,
+        baits: tr.dataset.bait ? tr.dataset.bait.split(" ") : null,
+        seasons: tr.dataset.season ? tr.dataset.season.split(" ") : null,
         price: tr.dataset.price,
-        img: tr.dataset.img || null
+        img: tr.dataset.img || null,
+        note: tr.dataset.note || null
       };
-      spot.fish.push(f);
-      fishIndex[f.name.toLowerCase()] = { spotId: spot.id, name: f.name };
+      spot.items.push(it);
+      // First spot listed wins for the finder (dupes like Mushroom appear twice)
+      var key = it.name.toLowerCase();
+      if (!itemIndex[key]) itemIndex[key] = { spotId: spot.id, name: it.name, kind: spot.kind };
     });
     spots.push(spot);
   });
@@ -440,13 +608,16 @@ description: "An interactive map of Fairhaven's fishing spots — hover over any
   var tipList = document.getElementById("fm-tip-list");
   var tipEmpty = document.getElementById("fm-tip-empty");
 
+  var currentMode = "fish";
   var currentBait = "any";
+  var currentSeason = "any";
   var activeSpotId = null;
   var pinned = false;
-  var highlightFish = null;
+  var highlightItem = null;
 
-  function fishMatches(f) {
-    return currentBait === "any" || f.baits.indexOf(currentBait) !== -1;
+  function itemMatches(spot, it) {
+    if (spot.kind === "fish") return currentBait === "any" || it.baits.indexOf(currentBait) !== -1;
+    return currentSeason === "any" || it.seasons.indexOf(currentSeason) !== -1;
   }
 
   function spotById(id) {
@@ -458,7 +629,9 @@ description: "An interactive map of Fairhaven's fishing spots — hover over any
   function makePin(spot, x, y) {
     var btn = document.createElement("button");
     btn.type = "button";
-    btn.className = "fm-pin" + (spot.otherworld ? " gloaming" : "");
+    btn.className = "fm-pin" +
+      (spot.kind === "forage" ? " forage" : "") +
+      (spot.otherworld ? " gloaming" : "");
     btn.style.left = x + "%";
     btn.style.top = y + "%";
     btn.dataset.spot = spot.id;
@@ -466,7 +639,7 @@ description: "An interactive map of Fairhaven's fishing spots — hover over any
     btn.innerHTML =
       '<span class="fm-dot" aria-hidden="true"></span>' +
       '<span class="fm-tag">' + spot.name + " · <span class=\"fm-count\"></span></span>";
-    btn.setAttribute("aria-label", spot.name + " fishing spot");
+    btn.setAttribute("aria-label", spot.name + " " + (spot.kind === "fish" ? "fishing" : "foraging") + " spot");
 
     btn.addEventListener("mouseenter", function () { if (!pinned) showSpot(spot.id, btn); });
     btn.addEventListener("focus", function () { if (!pinned) showSpot(spot.id, btn); });
@@ -486,12 +659,23 @@ description: "An interactive map of Fairhaven's fishing spots — hover over any
 
   function updatePinCounts() {
     spots.forEach(function (spot) {
-      var n = spot.fish.filter(fishMatches).length;
+      var n = spot.items.filter(function (it) { return itemMatches(spot, it); }).length;
+      var word = spot.kind === "fish" ? " fish" : (n === 1 ? " find" : " finds");
       spot.pins.forEach(function (pin) {
-        pin.querySelector(".fm-count").textContent = n + " fish";
+        pin.querySelector(".fm-count").textContent = n + word;
         pin.classList.toggle("dimmed", n === 0);
       });
     });
+  }
+
+  function applyMode() {
+    spots.forEach(function (spot) {
+      spot.pins.forEach(function (pin) {
+        pin.classList.toggle("fm-hidden", spot.kind !== currentMode);
+      });
+    });
+    document.getElementById("fm-bait-group").hidden = currentMode !== "fish";
+    document.getElementById("fm-season-group").hidden = currentMode !== "forage";
   }
 
   // ── Tooltip ──
@@ -512,42 +696,53 @@ description: "An interactive map of Fairhaven's fishing spots — hover over any
     tipWhere.textContent = spot.where;
     tipList.innerHTML = "";
     var shown = 0;
-    spot.fish.forEach(function (f) {
+    spot.items.forEach(function (it) {
       var li = document.createElement("li");
-      if (!fishMatches(f)) li.className = "fm-filtered"; else shown++;
-      if (highlightFish && f.name.toLowerCase() === highlightFish) li.classList.add("fm-hit");
+      if (!itemMatches(spot, it)) li.className = "fm-filtered"; else shown++;
+      if (highlightItem && it.name.toLowerCase() === highlightItem) li.classList.add("fm-hit");
 
       var thumb;
-      if (f.img) {
+      if (it.img) {
         thumb = document.createElement("img");
-        thumb.src = FISH_IMG_BASE + f.img + ".png";
+        thumb.src = IMG_BASE[spot.kind] + it.img + ".png";
         thumb.alt = "";
         thumb.loading = "lazy";
       } else {
         thumb = document.createElement("span");
         thumb.className = "fm-noimg";
-        thumb.textContent = "🐟";
+        thumb.textContent = PLACEHOLDER[spot.kind];
       }
       li.appendChild(thumb);
 
       var nm = document.createElement("span");
-      nm.className = "fm-fish-name";
-      nm.textContent = f.name;
+      nm.className = "fm-item-name";
+      nm.textContent = it.name;
+      if (it.note) {
+        var note = document.createElement("small");
+        note.textContent = " (" + it.note + ")";
+        nm.appendChild(note);
+      }
       li.appendChild(nm);
 
-      var bait = document.createElement("span");
-      bait.className = "fm-fish-bait";
-      bait.textContent = f.baits.length === 3 ? "any bait" :
-        f.baits.map(function (b) { return BAIT_LABEL[b]; }).join(" / ");
-      li.appendChild(bait);
+      var when = document.createElement("span");
+      when.className = "fm-item-when";
+      if (spot.kind === "fish") {
+        when.textContent = it.baits.length === 3 ? "any bait" :
+          it.baits.map(function (b) { return BAIT_LABEL[b]; }).join(" / ");
+      } else {
+        when.textContent = it.seasons.length === 4 ? "year-round" :
+          it.seasons.map(function (s) { return SEASON_EMOJI[s]; }).join(" ");
+      }
+      li.appendChild(when);
 
       var price = document.createElement("span");
-      price.className = "fm-fish-price";
-      price.textContent = f.price ? f.price + "c" : "—";
+      price.className = "fm-item-price";
+      price.textContent = it.price ? it.price + "c" : "—";
       li.appendChild(price);
 
       tipList.appendChild(li);
     });
+    tipEmpty.textContent = EMPTY_TEXT[spot.kind];
     tipEmpty.style.display = shown === 0 ? "block" : "none";
 
     tip.classList.add("open");
@@ -580,7 +775,7 @@ description: "An interactive map of Fairhaven's fishing spots — hover over any
   function hideTip() {
     tip.classList.remove("open");
     activeSpotId = null;
-    highlightFish = null;
+    highlightItem = null;
     spots.forEach(function (s) {
       s.pins.forEach(function (p) {
         p.classList.remove("active");
@@ -609,7 +804,18 @@ description: "An interactive map of Fairhaven's fishing spots — hover over any
     }
   });
 
-  // ── Bait filter ──
+  // ── Mode toggle ──
+  document.querySelectorAll('input[name="fm-mode"]').forEach(function (radio) {
+    radio.addEventListener("change", function () {
+      currentMode = radio.value;
+      pinned = false;
+      hideTip();
+      applyMode();
+      updatePinCounts();
+    });
+  });
+
+  // ── Bait & season filters ──
   document.querySelectorAll('input[name="fm-bait"]').forEach(function (radio) {
     radio.addEventListener("change", function () {
       currentBait = radio.value;
@@ -617,26 +823,39 @@ description: "An interactive map of Fairhaven's fishing spots — hover over any
       if (activeSpotId) showSpot(activeSpotId);
     });
   });
+  document.querySelectorAll('input[name="fm-season"]').forEach(function (radio) {
+    radio.addEventListener("change", function () {
+      currentSeason = radio.value;
+      updatePinCounts();
+      if (activeSpotId) showSpot(activeSpotId);
+    });
+  });
 
-  // ── Fish finder ──
-  var datalist = document.getElementById("fm-fish-list");
-  Object.keys(fishIndex).sort().forEach(function (key) {
+  // ── Item finder (both errands) ──
+  var datalist = document.getElementById("fm-item-list");
+  Object.keys(itemIndex).sort().forEach(function (key) {
     var opt = document.createElement("option");
-    opt.value = fishIndex[key].name;
+    opt.value = itemIndex[key].name;
     datalist.appendChild(opt);
   });
   var findInput = document.getElementById("fm-find");
   function runFind() {
     var q = findInput.value.trim().toLowerCase();
     if (!q) return;
-    var entry = fishIndex[q];
+    var entry = itemIndex[q];
     if (!entry) {
       // forgiving prefix match
-      var keys = Object.keys(fishIndex).filter(function (k) { return k.indexOf(q) === 0; });
-      if (keys.length === 1) entry = fishIndex[keys[0]];
+      var keys = Object.keys(itemIndex).filter(function (k) { return k.indexOf(q) === 0; });
+      if (keys.length === 1) entry = itemIndex[keys[0]];
     }
     if (entry) {
-      highlightFish = entry.name.toLowerCase();
+      if (entry.kind !== currentMode) {
+        currentMode = entry.kind;
+        document.getElementById(currentMode === "fish" ? "fm-mode-fish" : "fm-mode-forage").checked = true;
+        applyMode();
+        updatePinCounts();
+      }
+      highlightItem = entry.name.toLowerCase();
       pinned = true;
       showSpot(entry.spotId);
       map.scrollIntoView({ behavior: "smooth", block: "nearest" });
@@ -646,6 +865,7 @@ description: "An interactive map of Fairhaven's fishing spots — hover over any
   findInput.addEventListener("keydown", function (e) { if (e.key === "Enter") runFind(); });
 
   // ── Go ──
+  applyMode();
   updatePinCounts();
   document.getElementById("fm-controls").hidden = false;
   document.getElementById("fm-hint").hidden = false;
