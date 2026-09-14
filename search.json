@@ -1,0 +1,29 @@
+---
+layout: null
+permalink: /search.json
+sitemap: false
+---
+{%- comment -%}
+  Client-side search index: one entry per guide page, consumed by
+  /assets/js/search.js on the Search page. Interactive pages (raw .html,
+  e.g. the crop profit calculator) are indexed by title/description only,
+  since their markup is mostly script.
+{%- endcomment -%}
+[
+{%- assign first = true -%}
+{%- for p in site.pages -%}
+{%- if p.url contains "/guide/" and p.title -%}
+{%- unless first %},{% endunless -%}
+{%- assign first = false -%}
+{%- assign section_title = "" -%}
+{%- for section in site.data.nav -%}
+{%- if p.url contains section.path -%}{%- assign section_title = section.title -%}{%- endif -%}
+{%- endfor -%}
+{"title":{{ p.title | jsonify }},
+"url":{{ p.url | relative_url | jsonify }},
+"section":{{ section_title | jsonify }},
+"description":{{ p.description | default: "" | jsonify }},
+"content":{% if p.name contains ".md" %}{{ p.content | markdownify | strip_html | normalize_whitespace | jsonify }}{% else %}""{% endif %}}
+{%- endif -%}
+{%- endfor -%}
+]

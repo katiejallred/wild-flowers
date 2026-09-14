@@ -38,6 +38,9 @@
       <input type="checkbox" id="menu-toggle" class="menu-toggle">
       <label for="menu-toggle" class="menu-label">✦ Menu</label>
       <div class="nav-groups">
+        <form class="nav-search" role="search" action="{{ '/search.html' | relative_url }}" method="get">
+          <input type="search" name="q" placeholder="Search the guide…" aria-label="Search the guide">
+        </form>
         <div class="nav-group nav-group-home">
           <ul>
             <li><a href="{{ '/' | relative_url }}"{% if page.url == "/" %} class="current" aria-current="page"{% endif %}>Table of Contents</a></li>
