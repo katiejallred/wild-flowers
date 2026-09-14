@@ -5,6 +5,11 @@ title: "⛏️ Mining & Foraging"
 
 Not everything worth gathering grows in a bed. Beneath Fairhaven runs a mine twenty floors deep, and across its hills and woods the island scatters wild plants, mushrooms, and curiosities free for the picking. This page presses both pursuits — the pickaxe and the basket.
 
+<figure class="snapshot">
+  <img src="{{ '/assets/images/farming/mining.jpg' | relative_url }}" alt="Tara swings a pickaxe at an ore deposit in the underground mine." loading="lazy">
+  <figcaption>twenty floors of patience, one lantern ⛏️</figcaption>
+</figure>
+
 ---
 
 ## The Mine

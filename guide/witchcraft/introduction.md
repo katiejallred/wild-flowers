@@ -7,6 +7,17 @@ Press this page flat and keep it close, dear reader — it marks the moment your
 
 > Hazel Wylde, 82 years young, is not merely the island's most beloved grandmother. She is a witch — and the Elder of the Fairhaven Coven.
 
+<div class="snapshot-row">
+<figure class="snapshot">
+  <img src="{{ '/assets/images/witchcraft/coven-initiation.jpg' | relative_url }}" alt="Tara stands in a candlelit circle with the masked Fairhaven coven during her initiation." loading="lazy">
+  <figcaption>the circle, the masks, the vow 🕯️</figcaption>
+</figure>
+<figure class="snapshot">
+  <img src="{{ '/assets/images/witchcraft/broomstick.jpg' | relative_url }}" alt="Tara flies over Fairhaven on a broomstick." loading="lazy">
+  <figcaption>commuting, improved</figcaption>
+</figure>
+</div>
+
 ## Two Lives, One Tara
 
 The whole rhythm of the game grows from this discovery: **farm by day, witch by night**.

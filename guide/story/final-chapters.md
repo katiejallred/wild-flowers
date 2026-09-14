@@ -54,6 +54,11 @@ After Locket Up, the **Epilogue** unfolds in the spring of Tara's second year, a
 
 ## Beyond: Ravenwood Hollow and the Free Updates
 
+<figure class="snapshot">
+  <img src="{{ '/assets/images/story/ravenwood-boat.jpg' | relative_url }}" alt="Tara rides the repaired boat across the lake toward Ravenwood Hollow." loading="lazy">
+  <figcaption>the ferry between worlds, lately repaired ⛵</figcaption>
+</figure>
+
 Studio Drydock kept planting after the credits. Major free updates added whole new beds to this garden:
 
 - **Ravenwood Hollow** — a hidden realm that is home to magical beings, among them **Westley Vuk**, a werewolf who came seeking a cure for his lycanthropy and stayed on as the Hollow's bookseller (he manages with a suppression potion — and yes, he's romanceable). The way in is the Farseer's quest *Steeped in Mystery*: repair the dilapidated boat at the lake by your farm (15× Wood, 5× Iron Ingot, 2× Silver Ingot) and craft the **Fealty to the Fair Folk spell** at your desk (1× Black Ink, 1× Paper, 3× Amethyst) — after which the boat ferries you between your lake and the Hollow whenever you please. A verified taste of the new quests: **The Silent Treatment**, in which Thomas and Marty ask you to brew a Silencing Potion so Westley's night-time howling stops rattling the windows.

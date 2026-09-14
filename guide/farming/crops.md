@@ -7,6 +7,11 @@ A pressed-and-labeled record of what grows in Fairhaven's soil, season by season
 
 > This almanac is pressed from the community wiki's field records. **Coins/day** is their profitability measure: (sell price of a full harvest − seed cost) ÷ days to grow. Flowers left blooming (unpicked) also feed any nearby [beehive](bees-and-orchards.md).
 
+<figure class="snapshot">
+  <img src="{{ '/assets/images/farming/picking-produce.jpg' | relative_url }}" alt="Tara picks fresh produce from raised garden beds." loading="lazy">
+  <figcaption>harvest day — the ledger’s favorite entry</figcaption>
+</figure>
+
 ---
 
 ## Spring Specimens
@@ -96,6 +101,11 @@ Mulberry trees also give **mulberry leaves** (unsellable, but silkworms adore th
 5. **Wheat** (20.8/day) — best of spring.
 
 ### Practical notes
+
+<figure class="snapshot">
+  <img src="{{ '/assets/images/farming/greenhouse.jpg' | relative_url }}" alt="The greenhouse standing on the Wylde farm." loading="lazy">
+  <figcaption>glass over the cold seasons — it pays for itself</figcaption>
+</figure>
 
 - **The Greenhouse changes everything.** Thomas sets the **Greenhouse Affection** quest in winter: deliver 50× Wood, 20× Iron Ingot, 18× Glass, and 5,000 coins to Parker Johnson (you'll need a glassworks in your tool shed first — start stockpiling glass early). Once it stands, **Lina sells off-season seeds**, and in Thomas's own words, *"off-season crops fetch a higher price, too."* Parker will also ask you to grow him 4 marigolds — a burst of sunshine for the cold months.
 - **Seeds:** most crops from Lina at the Dahl General Store; flowers from Violet's Violets; cotton, soybean, and spinach from Thomas; tree seedlings from Kai's Treasures ([Shops](../island/shops.md)).

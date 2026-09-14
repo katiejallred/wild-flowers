@@ -5,6 +5,17 @@ title: "🗓️ Festivals & Events"
 
 Fairhaven does not let a season pass uncelebrated. Because the wheel of the year turns only when the coven turns it ([season rituals](../witchcraft/spells-and-rituals.md)), festivals arrive on *your* schedule, woven into the story rather than pinned to a fixed calendar date. When a celebration is coming, the town lets you know — often by letter or town chatter — and preparations become part of your to-do list.
 
+<div class="snapshot-row">
+<figure class="snapshot">
+  <img src="{{ '/assets/images/island/spring-fling.jpg' | relative_url }}" alt="Villagers celebrate the Spring Fling festival in the town square." loading="lazy">
+  <figcaption>Spring Fling in full bloom 🌸</figcaption>
+</figure>
+<figure class="snapshot">
+  <img src="{{ '/assets/images/island/harvest-festival.jpg' | relative_url }}" alt="Pumpkins and stalls decorate the Harvest Festival." loading="lazy">
+  <figcaption>pumpkins stacked for the Harvest Festival 🎃</figcaption>
+</figure>
+</div>
+
 ---
 
 ## 🌸 The Rhythm of the Year
