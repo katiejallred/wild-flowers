@@ -33,6 +33,39 @@ New to tending relationships at all? Root yourself in the [Friendship Guide](fri
 | Eury Sinclair | Arrives in Year 2 to open the hair salon. Late bloomers are still bloomers. |
 | Westley | Bookseller of Ravenwood Hollow, raised in Alaska. See the spoiler pressing below. |
 
+<div class="snapshot-row">
+<figure class="snapshot">
+  <img src="{{ '/assets/images/characters/romance-kai.jpg' | relative_url }}" alt="Tara and Kai share a romantic moment." loading="lazy">
+  <figcaption>Kai, mid-charm 🌊</figcaption>
+</figure>
+<figure class="snapshot">
+  <img src="{{ '/assets/images/characters/kim-bar-date.jpg' | relative_url }}" alt="Tara and Kim share drinks together at the bar." loading="lazy">
+  <figcaption>drinks with Kim 🍶</figcaption>
+</figure>
+</div>
+
+<div class="snapshot-row">
+<figure class="snapshot">
+  <img src="{{ '/assets/images/characters/romance-damon.jpg' | relative_url }}" alt="Tara and Damon share a romantic moment." loading="lazy">
+  <figcaption>Damon, after hours 🍸</figcaption>
+</figure>
+<figure class="snapshot">
+  <img src="{{ '/assets/images/characters/romance-giva.jpg' | relative_url }}" alt="Tara and Giva share a romantic moment." loading="lazy">
+  <figcaption>Giva forecasts a warm front 💛</figcaption>
+</figure>
+</div>
+
+<div class="snapshot-row">
+<figure class="snapshot">
+  <img src="{{ '/assets/images/characters/romance-westley.jpg' | relative_url }}" alt="Tara and Westley share a romantic moment." loading="lazy">
+  <figcaption>Westley, between chapters 📚</figcaption>
+</figure>
+<figure class="snapshot">
+  <img src="{{ '/assets/images/characters/cameron-gift-exchange.jpg' | relative_url }}" alt="Tara and Cameron exchange gifts." loading="lazy">
+  <figcaption>a gift exchange with Cameron 🎁</figcaption>
+</figure>
+</div>
+
 > ⚠️ **Spoilers — Ravenwood Hollow.** Westley only becomes available once you've found your way into Ravenwood Hollow, the hidden community added in a major update — and he is a werewolf, come to the island seeking a cure. Court him after the reveal, not before you've had it.
 
 ### Who *isn't* eligible — and why

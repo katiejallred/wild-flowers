@@ -26,6 +26,17 @@ Animal-keeping unlocks in stages as you restore the farm's buildings:
 
 Animals themselves are purchased from the island's livestock-minded villagers once housing is ready — Marty the rancher is your dealer for the big animals, with **calves at around 1,500 coins** (maturing to milk-giving adults in about a week) and **lambs at around 1,200 coins** (maturing in about 8 days). A good relationship with your animals also raises the price Kim or Marty will pay should you ever sell one on.
 
+<div class="snapshot-row">
+<figure class="snapshot">
+  <img src="{{ '/assets/images/farming/babypig-paint.jpg' | relative_url }}" alt="A spotted piglet stands in the farm pen." loading="lazy">
+  <figcaption>new arrival: one piglet, paint-spotted 🐷</figcaption>
+</figure>
+<figure class="snapshot">
+  <img src="{{ '/assets/images/farming/duck-baby.jpg' | relative_url }}" alt="A duckling paddles near the pond." loading="lazy">
+  <figcaption>the pond gains a very small admiral 🦆</figcaption>
+</figure>
+</div>
+
 ---
 
 ## Daily Care
@@ -65,6 +76,17 @@ Fairhaven would not be Fairhaven without them: there is a **magical variety of e
 4. **The current season decides the variety** (coloring) of the magical animal you get — a lovely excuse to breed across all four.
 
 The payoff is more than cosmetic: magical cows give **rainbow milk**, magical ducks lay **golden eggs**, and every magical product opens doors ordinary produce can't. For the witchier side of the menagerie, see [Familiars](../witchcraft/familiars.md).
+
+<div class="snapshot-row">
+<figure class="snapshot">
+  <img src="{{ '/assets/images/farming/cria-rainbow.jpg' | relative_url }}" alt="A rainbow-colored baby alpaca stands in the pasture." loading="lazy">
+  <figcaption>a rainbow cria — devotion, rewarded 🌈</figcaption>
+</figure>
+<figure class="snapshot">
+  <img src="{{ '/assets/images/farming/pig-flying.jpg' | relative_url }}" alt="A winged pig flies above the farm." loading="lazy">
+  <figcaption>yes, pigs fly here. next question 🪽</figcaption>
+</figure>
+</div>
 
 ---
 
