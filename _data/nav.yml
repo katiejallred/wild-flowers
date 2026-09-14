@@ -1,4 +1,4 @@
-# Site navigation — one entry per part of the guide.
+# Site navigation — one entry per section of the guide.
 # Drives the menu on every page, the breadcrumb, and prev/next page links.
 - title: Getting Started
   path: /guide/getting-started/
