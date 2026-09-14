@@ -105,5 +105,17 @@
     </p>
   </footer>
 
+  <script>
+    // The contact address is kept out of the static HTML so harvesters that
+    // scan page source for addresses come up empty; real visitors get a
+    // working mailto link, and without JavaScript the [at]/[dot] text stands.
+    document.querySelectorAll('.obf-email').forEach(function (el) {
+      var addr = el.dataset.user + '@' + el.dataset.domain;
+      var link = document.createElement('a');
+      link.href = 'mailto:' + addr;
+      link.textContent = addr;
+      el.replaceWith(link);
+    });
+  </script>
 </body>
 </html>
