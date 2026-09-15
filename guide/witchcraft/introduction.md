@@ -95,30 +95,48 @@ As the story deepens, so does your toolkit. In rough order of appearance:
 
 Rank insignia from the archive — a witch's path through the coven, from Initiate all the way to High Priestess.
 
-<div class="specimen-grid parchment">
-  <figure>
-    <img src="{{ '/assets/images/wiki/magic/initiate.jpg' | relative_url }}" alt="Initiate coven rank insignia" loading="lazy">
-    <figcaption>Initiate</figcaption>
+> ⚠️ **Spoilers, softly.** Hover over a mask (or tap it) and it slips off, revealing the witch beneath. The coven's identities are story secrets you uncover through their quests — peek at your own risk. Two members' portraits haven't reached the archive yet; their masks merely fade, keeping one last secret.
+
+<div class="specimen-grid portraits coven-reveal">
+  <figure tabindex="0">
+    <span class="specimen-flip">
+      <img class="mask" src="{{ '/assets/images/wiki/magic/initiate.jpg' | relative_url }}" alt="Initiate coven mask" loading="lazy">
+      <img class="identity" src="{{ '/assets/images/wiki/characters/tara-wylde.jpg' | relative_url }}" alt="Tara Wylde — you!, unmasked" loading="lazy">
+    </span>
+    <figcaption><span class="mask-label">Initiate</span><span class="identity-label">Tara Wylde — you!</span></figcaption>
   </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/magic/acolyte.png' | relative_url }}" alt="Acolyte coven rank insignia" loading="lazy">
-    <figcaption>Acolyte</figcaption>
+  <figure class="sealed" tabindex="0">
+    <span class="specimen-flip">
+      <img class="mask" src="{{ '/assets/images/wiki/magic/acolyte.png' | relative_url }}" alt="Acolyte coven mask" loading="lazy">
+    </span>
+    <figcaption><span class="mask-label">Acolyte</span><span class="identity-label">Violet Miranda</span></figcaption>
   </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/magic/adept.png' | relative_url }}" alt="Adept coven rank insignia" loading="lazy">
-    <figcaption>Adept</figcaption>
+  <figure tabindex="0">
+    <span class="specimen-flip">
+      <img class="mask" src="{{ '/assets/images/wiki/magic/adept.png' | relative_url }}" alt="Adept coven mask" loading="lazy">
+      <img class="identity" src="{{ '/assets/images/wiki/characters/amira-syed-pt.png' | relative_url }}" alt="Amira Syed, unmasked" loading="lazy">
+    </span>
+    <figcaption><span class="mask-label">Adept</span><span class="identity-label">Amira Syed</span></figcaption>
   </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/magic/journeyman.png' | relative_url }}" alt="Journeyman coven rank insignia" loading="lazy">
-    <figcaption>Journeyman</figcaption>
+  <figure tabindex="0">
+    <span class="specimen-flip">
+      <img class="mask" src="{{ '/assets/images/wiki/magic/journeyman.png' | relative_url }}" alt="Journeyman coven mask" loading="lazy">
+      <img class="identity" src="{{ '/assets/images/wiki/characters/damon-mthembu-haas-pt.png' | relative_url }}" alt="Damon Mthembu-Haas, unmasked" loading="lazy">
+    </span>
+    <figcaption><span class="mask-label">Journeyman</span><span class="identity-label">Damon Mthembu-Haas</span></figcaption>
   </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/magic/farseer.png' | relative_url }}" alt="Farseer coven rank insignia" loading="lazy">
-    <figcaption>Farseer</figcaption>
+  <figure class="sealed" tabindex="0">
+    <span class="specimen-flip">
+      <img class="mask" src="{{ '/assets/images/wiki/magic/farseer.png' | relative_url }}" alt="Farseer coven mask" loading="lazy">
+    </span>
+    <figcaption><span class="mask-label">Farseer</span><span class="identity-label">Shelby Demeter</span></figcaption>
   </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/magic/high-priestess.png' | relative_url }}" alt="High Priestess coven rank insignia" loading="lazy">
-    <figcaption>High Priestess</figcaption>
+  <figure tabindex="0">
+    <span class="specimen-flip">
+      <img class="mask" src="{{ '/assets/images/wiki/magic/high-priestess.png' | relative_url }}" alt="High Priestess coven mask" loading="lazy">
+      <img class="identity" src="{{ '/assets/images/wiki/characters/lina-dahl-johnson-pt.png' | relative_url }}" alt="Lina Dahl-Johnson, unmasked" loading="lazy">
+    </span>
+    <figcaption><span class="mask-label">High Priestess</span><span class="identity-label">Lina Dahl-Johnson</span></figcaption>
   </figure>
 </div>
 
