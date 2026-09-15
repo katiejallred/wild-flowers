@@ -223,6 +223,18 @@ img { max-width: 100%; height: auto; }
 
 .journal-header .site-title:hover { color: var(--amethyst); }
 
+/* keep the masthead on a single line on small screens: the wide
+   letter-spacing is the luxury we trade away first */
+@media (max-width: 520px) {
+  .journal-header { padding-left: 0.5rem; padding-right: 0.5rem; }
+
+  .journal-header .site-title {
+    white-space: nowrap;
+    font-size: clamp(0.72rem, 3.4vw, 1rem);
+    letter-spacing: 0.12em;
+  }
+}
+
 /* ── Sidebar + sheet layout ────────────────────────────────── */
 
 .journal-body {
