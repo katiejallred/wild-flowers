@@ -631,10 +631,6 @@ Every dish from the archive's first two drawers, Anzac Biscuit through Pumpkin S
     <figcaption>Prawns Koliwada</figcaption>
   </figure>
   <figure>
-    <img src="{{ '/assets/images/wiki/food/prawns-koliwanda.jpeg' | relative_url }}" alt="Prawns Koliwanda dish icon" loading="lazy">
-    <figcaption>Prawns Koliwanda</figcaption>
-  </figure>
-  <figure>
     <img src="{{ '/assets/images/wiki/food/precipizi.png' | relative_url }}" alt="Precipizi dish icon" loading="lazy">
     <figcaption>Precipizi</figcaption>
   </figure>
@@ -725,10 +721,6 @@ Every dish from the archive's first two drawers, Anzac Biscuit through Pumpkin S
   <figure>
     <img src="{{ '/assets/images/wiki/food/schnitzel.png' | relative_url }}" alt="Schnitzel dish icon" loading="lazy">
     <figcaption>Schnitzel</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/scottiglia-mixed-meat-stew.jpg' | relative_url }}" alt="Scottiglia (Mixed Meat Stew) dish icon" loading="lazy">
-    <figcaption>Scottiglia (Mixed Meat Stew)</figcaption>
   </figure>
   <figure>
     <img src="{{ '/assets/images/wiki/food/scottiglia.png' | relative_url }}" alt="Scottiglia (Mixed Meat Stew) dish icon" loading="lazy">

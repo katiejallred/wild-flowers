@@ -1656,8 +1656,6 @@ food:
     file: praline-cookie.png
   - title: "Prawns Koliwada"
     file: prawns-koliwada.png
-  - title: "Prawns Koliwanda"
-    file: prawns-koliwanda.jpeg
   - title: "Precipizi"
     file: precipizi.png
   - title: "Pumpkin Ale"
@@ -1704,8 +1702,6 @@ food:
     file: sausage-rolls.png
   - title: "Schnitzel"
     file: schnitzel.png
-  - title: "Scottiglia (Mixed Meat Stew)"
-    file: scottiglia-mixed-meat-stew.jpg
   - title: "Scottiglia (Mixed Meat Stew)"
     file: scottiglia.png
   - title: "Seafood Fra Diavolo"
