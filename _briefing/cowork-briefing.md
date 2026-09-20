@@ -64,6 +64,24 @@ Two working rules that follow from it:
    fishing, recipes, money-making) get improvement effort before any new
    section is proposed.
 
+### Ad placement policy
+
+Be long-term greedy: ads are judged by whether players come back, not by
+impressions this month. The mechanics live in `_includes/ad-unit.html`, with
+slot IDs configured under `adsense.slots` in `_config.yml` (an empty ID means
+the placement renders nothing, so the markup is safe to keep in place).
+
+1. **Never between the question and the answer.** No ad above a page's first
+   table, inside the "In a hurry?" → table path, or in search suggestions.
+2. **Lookup pages get the footer slot only** (rendered site-wide by the
+   layout, after the prev/next links). Players are in and out in seconds;
+   don't slow them down.
+3. **In-content slots go on long reading pages only** — story walkthroughs
+   and the getting-started reads, where people actually scroll — one per
+   page, at a section break.
+4. **No ads at all** on Search, Privacy, or Terms (`ads: false` front
+   matter).
+
 ## 3. Complete page directory
 
 Home/cover: https://fairhavenfieldguide.com/

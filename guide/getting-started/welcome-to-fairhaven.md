@@ -57,6 +57,8 @@ Later seasons of play bring newcomers too — a hairdresser, and stranger visito
 
 ---
 
+{% include ad-unit.html slot="incontent" %}
+
 ## How this field guide is organized
 
 - **Getting Started** (you are here): [Your First Week](first-week.md), [Controls & Interface](controls-and-interface.md), [Energy, Time & Seasons](energy-time-seasons.md), and [Beginner Tips](beginner-tips.md).

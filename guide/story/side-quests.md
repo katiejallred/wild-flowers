@@ -36,6 +36,8 @@ A few pressed examples, so you know the genus when you see it:
 
 Character quest lines also grow around the island's couples and families — Angus and Francis, the Johnsons, the Softs — and around later arrivals like Eury Sinclair and the folk of Ravenwood Hollow, whose quest lines (such as the series that begins during Eury's *Glam-more* storyline) arrived with the free updates.
 
+{% include ad-unit.html slot="incontent" %}
+
 ## A Botanist's Advice
 
 1. **Say yes to everything.** Side quests are never wasted; even humble fetch-quests water a friendship.

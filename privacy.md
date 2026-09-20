@@ -1,6 +1,7 @@
 ---
 title: "🔏 Privacy Policy"
 description: "How The Fairhaven Field Guide handles (and mostly doesn't handle) your data."
+ads: false
 ---
 # 🔏 Privacy Policy
 

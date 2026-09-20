@@ -1,0 +1,21 @@
+{%- comment -%}
+  One AdSense display unit. Usage: {% include ad-unit.html slot="footer" %}
+  where `slot` names a key under site.adsense.slots in _config.yml.
+  Renders nothing at all until that key holds a real slot ID, and never
+  on a page whose front matter sets `ads: false` — so these includes are
+  safe to keep in place while the account is still being approved.
+  Placement policy ("never between the question and the answer") lives
+  in _briefing/cowork-briefing.md.
+{%- endcomment -%}
+{%- assign ad_slot_id = site.adsense.slots[include.slot] -%}
+{%- if ad_slot_id and ad_slot_id != "" and page.ads != false %}
+<div class="ad-slot">
+  <span class="specimen-label">Advertisement</span>
+  <ins class="adsbygoogle" style="display:block"
+       data-ad-client="{{ site.adsense.publisher }}"
+       data-ad-slot="{{ ad_slot_id }}"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+{%- endif %}

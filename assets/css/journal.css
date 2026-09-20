@@ -980,6 +980,29 @@ img.wiki-icon {
   }
 }
 
+/* ── Ads ────────────────────────────────────────────────────── */
+/* Placement policy (briefing doc): never between the question and
+   the answer — one labelled slot at the foot of the sheet, plus
+   mid-page slots on long reading pages only. A slot renders nothing
+   until _config.yml carries its AdSense slot ID. */
+.ad-slot {
+  margin: 1.8rem 0 0.4rem;
+  padding-top: 0.6rem;
+  border-top: 1px solid var(--line);
+  text-align: center;
+}
+
+.ad-slot .specimen-label {
+  display: block;
+  margin-bottom: 0.35rem;
+  font-size: 0.6rem;
+}
+
+.ad-slot ins.adsbygoogle {
+  display: block;
+  min-height: 90px; /* reserve space so a late-loading ad doesn't shove the page */
+}
+
 /* the search page itself */
 .search-form { margin: 1.4rem 0 0.8rem; }
 

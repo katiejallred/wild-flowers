@@ -33,6 +33,8 @@ Two things surprise many new gardeners:
 1. **Seasons only turn by ritual.** Spring lasts as long as you like; the wheel of the year moves only when you and the coven perform the season-changing rite. Verified quest names such as *To Summer it Up For You* (brewing a Spirit Flame for the summer ritual) mark these turnings.
 2. **Quests gate nearly everything.** Spells, locations, some recipes, and whole stretches of the island stay closed until the story opens them. If something feels locked, check your To-Do list before you check your toolbox.
 
+{% include ad-unit.html slot="incontent" %}
+
 ## The Chapters in This Guide
 
 The game doesn't formally number its chapters — the To-Do quests simply flow — so this guide presses the story into readable chapters by its natural beats:
