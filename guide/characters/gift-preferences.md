@@ -9,6 +9,13 @@ A gift, properly chosen, is friendship in concentrate. Fairhaven's residents all
 
 For where gifting fits in the larger tending routine, see the [Friendship Guide](friendship.md); for gifting with intent, the [Romance Guide](romance.md).
 
+<nav class="quick-look" aria-label="Quick lookup">
+  <span class="specimen-label">In a hurry? ➺</span>
+  <a href="#romanceables">The Romanceables</a> ·
+  <a href="#townsfolk">The Rest of Town</a> ·
+  <a href="#fey-folk">Fey &amp; Familiars</a>
+</nav>
+
 ---
 
 ## How Gifting Works
@@ -58,7 +65,7 @@ Pressed, labelled, and verified leaf-by-leaf against the [community wiki](https:
 
 Prefer a chart you can prop against the teapot? The community pressed the whole almanac onto a single page: **[download the printable favorite-gifts chart (PDF)]({{ '/assets/docs/wylde-favorite-gifts.pdf' | relative_url }})** — from the wiki archive, CC BY-SA 3.0 like the tables above.
 
-### The Romanceables
+### The Romanceables {#romanceables}
 
 | Resident | Favorite dishes |
 | --- | --- |
@@ -71,7 +78,7 @@ Prefer a chart you can prop against the teapot? The community pressed the whole 
 | **Kim Izumi** | Buddha's Delight · Miso Soup · Ramen · Rice Wine · Sushi |
 | **Westley Vuk** | Roast Beef · Roast Pork · Roast Salmon · Scottiglia (Mixed Meat Stew) · Wine |
 
-### The Rest of Town
+### The Rest of Town {#townsfolk}
 
 | Resident | Favorite dishes |
 | --- | --- |
@@ -94,7 +101,7 @@ Prefer a chart you can prop against the teapot? The community pressed the whole 
 | **Vanessa Soft** | Fennel Salad · Fruit Salad · Quiche · Spinach Smoothie |
 | **Violet Miranda** | Arroz con Huevos · Berry Smoothie · Churros · Rice Pudding · Spanish Omelette |
 
-### The Fey & Familiar Folk
+### The Fey & Familiar Folk {#fey-folk}
 
 | Resident | Favorite dishes |
 | --- | --- |

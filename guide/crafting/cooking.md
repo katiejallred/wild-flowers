@@ -9,13 +9,20 @@ Every field botanist knows the truth of it: you cannot press flowers on an empty
 
 > Hazel's kitchen has fed Wyldes for generations. Long before Tara stirred her first cauldron, she stirred her first pot of soup in this very room — and some would say the two arts are not so different.
 
+<nav class="quick-look" aria-label="Quick lookup">
+  <span class="specimen-label">In a hurry? ➺</span>
+  <a href="#learning">Learning Recipes</a> ·
+  <a href="#seasons">Cooking with the Seasons</a> ·
+  <a href="#recipe-box">The Recipe Box A–Z</a>
+</nav>
+
 ## The Kitchen
 
 Cooking happens at the farmhouse kitchen, available from your earliest days on the farm. Open it, choose a recipe you've learned, and — provided your pantry holds the ingredients — the dish is yours. There's no minigame to fumble; the challenge lies in *collecting* recipes and *stocking* ingredients, not in the stirring itself.
 
 Keep a few cooked dishes in your satchel whenever you head out. Chopping wood, breaking stones, tilling soil, and swinging a pickaxe all drain [energy](../getting-started/energy-time-seasons.md), and a bite of something homemade restores it on the spot — far more gracefully than collapsing into bed at noon.
 
-## Learning Recipes
+## Learning Recipes {#learning}
 
 Recipes are seeds: you gather them from many soils, and your collection grows over a long while — well over a hundred dishes await the patient cook. The main sources:
 
@@ -57,7 +64,7 @@ A cooked dish makes a thoughtful gift, and many villagers have favorite meals th
 ### Quest ingredients
 Villagers will sometimes ask for a specific dish outright — a [side quest](../story/side-quests.md) hinging on a well-made meal is a Fairhaven tradition. Keeping a varied pantry means never having to say "come back tomorrow."
 
-## Cooking with the Seasons
+## Cooking with the Seasons {#seasons}
 
 Fairhaven's seasons turn only when the coven wills it, which gives you unusual leisure — but ingredients remain seasonal creatures. Some crops and forage appear only in their proper season, and so some dishes can only be assembled at certain times of year. Before you ask the [coven](../witchcraft/spells-and-rituals.md) to turn the wheel, take stock: harvest and cook the season's specialties, or squirrel away the ingredients, lest a quest catch you wanting a spring dish in the depths of winter.
 
@@ -65,7 +72,7 @@ Fairhaven's seasons turn only when the coven wills it, which gives you unusual l
 
 ---
 
-## The Recipe Box (A–Z)
+## The Recipe Box (A–Z) {#recipe-box}
 
 Every dish from the archive's first two drawers, Anzac Biscuit through Pumpkin Spice Latte — proof that Fairhaven's kitchens cook from every corner of the world. Recipes from later in the alphabet will be pasted in as the archive grows.
 

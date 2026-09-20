@@ -30,7 +30,21 @@ pressed-flower botanical journal. 🌿
 
 ## ✨ House style
 
-- **Spoiler policy:** story pages are clearly marked; everything else stays spoiler-light.
+- **What the Guide is for** (test every page and edit against this sentence):
+  *the fastest way to get an answer mid-game, without getting spoiled.*
+  - **Fastest** — a player with a Switch in one hand should reach the answer in
+    seconds: lead with tables and charts, keep preamble short, and give long
+    lookup pages an "In a hurry?" jump box to their tables.
+  - **An answer** — pages exist to settle questions ("what does Kai like?",
+    "what grows in winter?"), not to narrate. Prose is seasoning around the fact.
+  - **Without getting spoiled** — story pages are clearly marked; everything
+    else stays spoiler-light.
+- **Curation over collection:** the Guide is the walls, `_wiki-archive/` is the
+  collection in the drawers. A page earns its place by serving the sentence
+  above — never bulk-import archive material just because it exists.
 - **Voice:** warm, whimsical, a little witchy — like marginalia in a field journal.
+- **Polish the core before adding sections:** the pages players consult
+  mid-game every day (crops, gifts, fishing, recipes) deserve improvement
+  effort before any new section does.
 
 *This is an unofficial fan guide. Wylde Flowers is created by Studio Drydock.*

@@ -11,6 +11,16 @@ A pressed-and-labeled record of what grows in Fairhaven's soil, season by season
 
 Prefer to run the numbers for your own plan? The interactive [Crop Profit Calculator](../reference/crop-profit-calculator.html) ranks every crop by coins per day for whatever season and length of stay you choose.
 
+<nav class="quick-look" aria-label="Quick lookup">
+  <span class="specimen-label">In a hurry? ➺</span>
+  <a href="#spring">Spring</a> ·
+  <a href="#summer">Summer</a> ·
+  <a href="#fall">Fall</a> ·
+  <a href="#winter">Winter</a> ·
+  <a href="#orchard">Fruit Trees</a> ·
+  <a href="#ranked">Best Earners</a>
+</nav>
+
 <figure class="snapshot">
   <img src="{{ '/assets/images/farming/picking-produce.jpg' | relative_url }}" alt="Tara picks fresh produce from raised garden beds." loading="lazy">
   <figcaption>harvest day — the ledger’s favorite entry</figcaption>
@@ -18,7 +28,7 @@ Prefer to run the numbers for your own plan? The interactive [Crop Profit Calcul
 
 ---
 
-## Spring Specimens
+## Spring Specimens {#spring}
 
 | Crop | Seeds | Grows in | Sells for | Coins/day | Field notes |
 | --- | --- | --- | --- | --- | --- |
@@ -32,7 +42,7 @@ Prefer to run the numbers for your own plan? The interactive [Crop Profit Calcul
 
 ---
 
-## Summer Specimens
+## Summer Specimens {#summer}
 
 | Crop | Seeds | Grows in | Sells for | Coins/day | Field notes |
 | --- | --- | --- | --- | --- | --- |
@@ -47,7 +57,7 @@ Prefer to run the numbers for your own plan? The interactive [Crop Profit Calcul
 
 ---
 
-## Fall Specimens
+## Fall Specimens {#fall}
 
 | Crop | Seeds | Grows in | Sells for | Coins/day | Field notes |
 | --- | --- | --- | --- | --- | --- |
@@ -61,7 +71,7 @@ Prefer to run the numbers for your own plan? The interactive [Crop Profit Calcul
 
 ---
 
-## Winter Specimens
+## Winter Specimens {#winter}
 
 | Crop | Seeds | Grows in | Sells for | Coins/day | Field notes |
 | --- | --- | --- | --- | --- | --- |
@@ -73,7 +83,7 @@ Prefer to run the numbers for your own plan? The interactive [Crop Profit Calcul
 
 ---
 
-## The Orchard Ledger (Fruit Trees)
+## The Orchard Ledger (Fruit Trees) {#orchard}
 
 One seedling, bought once from **Kai's Treasures** for 125 coins, fruiting forever in **any season** — and trees never need watering. The wiki's coins/day for trees discounts the initial growing time:
 
@@ -96,7 +106,7 @@ Mulberry trees also give **mulberry leaves** (unsellable, but silkworms adore th
 
 **Cotton is the most profitable crop in the game — about 39 coins per day — but only once you turn it into cloth.** You cannot sell raw cotton at all; woven into cloth, one seed packet's worth returns around 273 coins (community-calculated), and the fabric sells at Kai's stall. Cotton seeds come from Thomas at his farm, not the general store. See [Artisan Goods](../crafting/artisan-goods.md) for the processing side of the ledger.
 
-### Ranked by coin-per-day
+### Ranked by coin-per-day {#ranked}
 
 1. **Cotton → cloth** (~39/day) — best overall, requires processing.
 2. **Strawberry** (28.7/day) — best unprocessed crop; summer.
