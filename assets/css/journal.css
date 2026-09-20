@@ -162,6 +162,25 @@ blockquote {
   color: var(--ink-soft);
 }
 
+/* a hurried reader's shortcut: pinned near the top of the longest
+   lookup pages, one tap straight to the tables further down */
+.quick-look {
+  margin: 1.2em 0;
+  padding: 0.65em 1.1em 0.7em;
+  background: var(--sheet);
+  border: 1px dashed var(--line-strong);
+  border-radius: 4px 10px 6px 8px / 8px 5px 9px 6px;
+  transform: rotate(-0.4deg);
+  font-size: 0.95em;
+}
+
+.quick-look .specimen-label { margin-right: 0.5em; }
+
+.quick-look a {
+  font-weight: 700;
+  white-space: nowrap;
+}
+
 hr {
   border: none;
   height: 1.2em;

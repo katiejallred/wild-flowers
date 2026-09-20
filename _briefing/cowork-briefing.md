@@ -43,6 +43,27 @@ When writing as/for the site (posts, replies, page copy):
   twist but is widely known and on the store page; coven member identities, later
   chapters, and the ending are true spoilers).
 
+### Editorial compass
+
+The Guide's core value, in one sentence — test every proposed page, edit, or
+feature against it: **the fastest way to get an answer mid-game, without getting
+spoiled.**
+
+- **Fastest:** a player with a Switch in one hand should reach the answer in
+  seconds. Lead with tables; long lookup pages carry an "In a hurry?" jump box
+  straight to their tables.
+- **An answer:** pages settle questions; prose is seasoning around the fact.
+- **Without getting spoiled:** the spoiler policy above.
+
+Two working rules that follow from it:
+
+1. **Curation over collection.** `guide/` is the walls; `_wiki-archive/` is the
+   drawers. A page must earn its place by serving the sentence — never suggest
+   bulk-importing archive material just because it exists.
+2. **Polish the core first.** The daily mid-game lookup pages (crops, gifts,
+   fishing, recipes, money-making) get improvement effort before any new
+   section is proposed.
+
 ## 3. Complete page directory
 
 Home/cover: https://fairhavenfieldguide.com/

@@ -7,6 +7,14 @@ image: /assets/images/card-fishing.jpg
 
 When the beds are watered and the animals fed, the water calls. Fishing in Fairhaven is a gentle, forgiving craft — and, pleasingly for a journal-keeper, a wonderfully *systematic* one. Every fish files itself neatly by location and bait, with none of the fickle luck other islands suffer.
 
+<nav class="quick-look" aria-label="Quick lookup">
+  <span class="specimen-label">In a hurry? ➺</span>
+  <a href="#where">Where to Cast</a> ·
+  <a href="#bait">Bait</a> ·
+  <a href="#rare-fish">Rare Fish</a> ·
+  <a href="#compendium">The Compendium</a>
+</nav>
+
 <figure class="snapshot">
   <img src="{{ '/assets/images/farming/winter-fishing.jpg' | relative_url }}" alt="Tara fishes from a snowy shore in winter." loading="lazy">
   <figcaption>yes, they still bite in the snow ❄️</figcaption>
@@ -22,7 +30,7 @@ From there: stand at a fishing spot, choose your bait, cast, and play the catch.
 
 ---
 
-## Where to Cast
+## Where to Cast {#where}
 
 The island offers seven fishing areas, and each hosts its own category of fish:
 
@@ -43,7 +51,7 @@ The deeper spots are progression rewards in themselves — you'll need the story
 
 ---
 
-## Bait, and the Great Secret
+## Bait, and the Great Secret {#bait}
 
 Three baits exist: **worms, crickets, and chub.** And here is the secret that simplifies everything:
 
@@ -92,7 +100,7 @@ Bruno teaches you about chub bait early in Spring, but you can't catch your own 
 
 ---
 
-## Where the Rare Fish Hide
+## Where the Rare Fish Hide {#rare-fish}
 
 Because bait and location are the only factors, rarity in Fairhaven is not luck — it is *geography plus tackle*. Two rules govern the whole hunt:
 
@@ -134,7 +142,7 @@ Rare catches are worth more at [Bruno's counter](../island/shops.md), dearer sti
 
 ---
 
-## The Compendium So Far
+## The Compendium So Far {#compendium}
 
 Pressed between these pages: the island's fish as the compendium paints them, filed A through Z. Every last one has been landed, painted, and pinned — the plate is complete.
 
