@@ -25,6 +25,8 @@ The same quests that reveal the coven also reveal why it hides. Not everyone in 
 
 The game plants this tension gently here and lets it grow all year. Remember it when the weather turns.
 
+{% include ad-unit.html slot="incontent" %}
+
 ## Playing This Stretch Well
 
 The quests in this stretch are mostly conversations, discoveries, and small errands rather than hard tasks, so let me offer field advice instead of a checklist:

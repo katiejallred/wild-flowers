@@ -43,6 +43,8 @@ To face the crisis, the coven does the unthinkable: **its members reveal their i
 
 ---
 
+{% include ad-unit.html slot="incontent" %}
+
 ## The Epilogue and Spring of Year 2
 
 After Locket Up, the **Epilogue** unfolds in the spring of Tara's second year, and the story keeps growing:

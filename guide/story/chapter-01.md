@@ -33,6 +33,8 @@ Take it seriously, with a specimen-collector's patience:
 
 A full pressing of who's who lives in the [Character Directory](../characters/directory.md), and the [Where-to-find-them tips in Welcome to Fairhaven](../getting-started/welcome-to-fairhaven.md) will save you some wandering.
 
+{% include ad-unit.html slot="incontent" %}
+
 ## Small Oddities, Carefully Noted
 
 Even in these sunny first days, an observant field botanist will spot things that don't quite belong: neighbours who trail off mid-sentence, a grandmother who seems to know more than she says, and a certain guardedness whenever the island's old stories come up. Note them in your margins. They will matter.

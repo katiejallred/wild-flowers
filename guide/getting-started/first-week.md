@@ -35,6 +35,8 @@ Every transplant needs a little time to take root, and so will you. Below is a g
 - To-do quests will start asking you to gather, chop, and craft. Follow them; they are the story's roots and they unlock everything else, including the game's *other* career.
 - If the town's early errands send you somewhere new — the woods, the beach — go. Exploration is never wasted here.
 
+{% include ad-unit.html slot="incontent" %}
+
 ## Day 5 — Something is different about grandma
 
 - Around this stretch of days (exactly when depends on your pace), the main story begins showing its true colors. Late-night noises. Odd errands. A grandmother with secrets.

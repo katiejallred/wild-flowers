@@ -22,6 +22,16 @@ exclude:
 twitter:
   card: summary_large_image
 
+# AdSense ad units. The loader script in the layout serves nothing by
+# itself; each slot below switches on its placement once it holds the
+# data-ad-slot number of a display unit created in the AdSense account.
+# Placement policy: _briefing/cowork-briefing.md → "Ad placement policy".
+adsense:
+  publisher: ca-pub-2065620637739110
+  slots:
+    footer: ""     # end-of-sheet unit on every page (except pages marked ads: false)
+    incontent: ""  # mid-page unit, long reading pages only
+
 defaults:
   - scope:
       path: ""

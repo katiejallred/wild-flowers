@@ -64,6 +64,8 @@ A cooked dish makes a thoughtful gift, and many villagers have favorite meals th
 ### Quest ingredients
 Villagers will sometimes ask for a specific dish outright — a [side quest](../story/side-quests.md) hinging on a well-made meal is a Fairhaven tradition. Keeping a varied pantry means never having to say "come back tomorrow."
 
+{% include ad-unit.html slot="incontent" %}
+
 ## Cooking with the Seasons {#seasons}
 
 Fairhaven's seasons turn only when the coven wills it, which gives you unusual leisure — but ingredients remain seasonal creatures. Some crops and forage appear only in their proper season, and so some dishes can only be assembled at certain times of year. Before you ask the [coven](../witchcraft/spells-and-rituals.md) to turn the wheel, take stock: harvest and cook the season's specialties, or squirrel away the ingredients, lest a quest catch you wanting a spring dish in the depths of winter.

@@ -29,6 +29,8 @@ Get your bearings with:
 - [Spells & Rituals](../witchcraft/spells-and-rituals.md) — what each spell does and who teaches it
 - [Potions](../witchcraft/potions.md) — the cauldron work the coven will soon expect of you
 
+{% include ad-unit.html slot="incontent" %}
+
 ## Turning the Wheel
 
 You'll also learn the coven's greatest responsibility: **the seasons of Fairhaven only change when the coven performs the season ritual.** When spring has given all it can, the High Priestess sets you the quest **To Summer it Up For You** — brew a **Spirit Flame** potion for the rite that turns spring into summer. Harvest anything you'll miss before you light that flame.

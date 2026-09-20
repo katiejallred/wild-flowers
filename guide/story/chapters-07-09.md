@@ -23,6 +23,8 @@ Tara walks a razor's edge in these quests: defending friends without unmasking t
 
 ---
 
+{% include ad-unit.html slot="incontent" %}
+
 ## The Rogue Witch
 
 Then the true culprit steps from the treeline. The disturbances trace back to **Vanessa** — a rogue witch in a raven's mask, remembered as the **Rude Raven** — who, years ago, was barred from joining the Fairhaven Coven by Lina's father, Markus. Bitter and brilliant, she has been using the wraiths as a distraction while she hunts the **heart of the Wellspring**, meaning to claim its power for herself.
