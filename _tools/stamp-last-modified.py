@@ -32,10 +32,23 @@ def pages():
         yield path
 
 
+def only_stamp_changed(diff):
+    """True when every added/removed line in a diff is a last_modified_at line."""
+    edits = [line for line in diff.splitlines()
+             if line[:1] in "+-" and not line.startswith(("+++", "---"))]
+    return bool(edits) and all("last_modified_at:" in line for line in edits)
+
+
 def page_date(path, changed):
     if str(path) in changed:
         return datetime.date.today().isoformat()
-    return git("log", "-1", "--format=%cs", "--", str(path)).strip() or datetime.date.today().isoformat()
+    # The newest commit that changed the page itself, skipping commits that
+    # only stamped its date (otherwise a stamping commit would re-date it).
+    for line in git("log", "--format=%H %cs", "--", str(path)).splitlines():
+        sha, date = line.split()
+        if not only_stamp_changed(git("show", "--format=", sha, "--", str(path))):
+            return date
+    return datetime.date.today().isoformat()
 
 
 def main():
@@ -46,12 +59,8 @@ def main():
         if not match:
             continue
         # A page whose only pending change is its own stamp keeps its old date.
-        if str(path) in changed:
-            diff = git("diff", "HEAD", "--", str(path))
-            edits = [l for l in diff.splitlines()
-                     if l[:1] in "+-" and not l.startswith(("+++", "---"))]
-            if edits and all("last_modified_at:" in l for l in edits):
-                changed.discard(str(path))
+        if str(path) in changed and only_stamp_changed(git("diff", "HEAD", "--", str(path))):
+            changed.discard(str(path))
         date = page_date(path, changed)
         front = match.group(1)
         if re.search(r"^last_modified_at:", front, re.M):

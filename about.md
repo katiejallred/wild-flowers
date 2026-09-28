@@ -43,10 +43,16 @@ wins. This guide is me putting that lesson to work for a game I love.
 
 ### How I play
 
-[KATIE: two or three sentences in your own words — for example, when you
-started playing, how many in-game years you've farmed, whether you're a
-fennel-and-cloth optimizer or a cozy one-season-forever player, your favorite
-resident, and the one thing you wish you'd known on day one.]
+I started playing *Wylde Flowers* last spring, and I'm a cozy player at
+heart. Once I find a season I love, I stay in it. Fairhaven lets you do that,
+because the seasons only change when the coven casts the ritual, and I take
+full advantage. There's no rush on this island, and this guide won't rush you
+either.
+
+If you play the same way, start with the
+[Orchard & Apiary plan]({{ '/guide/reference/farm-plans.html' | relative_url }}#orchard-apiary).
+It keeps earning in the background while you spend your days on the story and
+the people.
 
 ### How the Guide is kept
 
