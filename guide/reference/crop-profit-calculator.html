@@ -1,12 +1,13 @@
 ---
 title: "🧮 Crop Profit Calculator"
-description: "An interactive Wylde Flowers crop profit calculator — pick a season, say how long you'll stay, and rank every crop by coins per day, using the community wiki's field records."
+description: "An interactive Wylde Flowers crop profit calculator — pick a season, say how long you'll stay, and rank every crop by coins per day, using the Crop Guide's field records."
+last_modified_at: 2026-09-28
 ---
 <h1>🧮 Crop Profit Calculator</h1>
 
 <p>Because Fairhaven's seasons only turn when <em>you</em> cast the ritual, the question is never "what month is it?" — it's "how long will I stay?" Tell the ledger your season and your stay, and it will rank every specimen by coins per day.</p>
 
-<blockquote>This calculator runs on the same field records as the <a href="../farming/crops.html">Crop Guide</a>, pressed from the <a href="https://wylde-flowers.fandom.com" rel="external nofollow">community wiki</a> (<a href="https://creativecommons.org/licenses/by-sa/3.0/" rel="external nofollow license">CC BY-SA 3.0</a>, as is this ledger). <strong>Coins/day</strong> is the wiki's measure: (sell price of a full harvest − seed cost) ÷ days to grow — a full harvest is several items from one sowing, which is why a bed out-earns a single fruit.</blockquote>
+<blockquote>This calculator runs on the same field records as the <a href="../farming/crops.html">Crop Guide</a>. <strong>Coins/day</strong> is the Guide's measure: (sell price of a full harvest − seed cost) ÷ days to grow — a full harvest is several items from one sowing, which is why a bed out-earns a single fruit.</blockquote>
 
 <style>
   .calc-card {
@@ -141,7 +142,7 @@ description: "An interactive Wylde Flowers crop profit calculator — pick a sea
 
 <h2>The Orchard, Kept Separately</h2>
 
-<p>Fruit trees don't belong in the seasonal race above: one 125-coin seedling from Kai's Treasures fruits <strong>in every season, forever, and never needs watering</strong> — the ritual can't touch them. The wiki's coins/day for trees (initial growing time discounted) reads:</p>
+<p>Fruit trees don't belong in the seasonal race above: one 125-coin seedling from Kai's Treasures fruits <strong>in every season, forever, and never needs watering</strong> — the ritual can't touch them. Coins/day for trees (initial growing time discounted) reads:</p>
 
 <table>
   <thead>
@@ -161,11 +162,11 @@ description: "An interactive Wylde Flowers crop profit calculator — pick a sea
 
 <h2>How the ledger is kept</h2>
 <ul>
-  <li><strong>Profit per harvest</strong> is taken straight from the wiki's coins/day × days to grow — so a single sowing here always matches the <a href="../farming/crops.html">Crop Guide</a>'s tables exactly.</li>
+  <li><strong>Profit per harvest</strong> is taken straight from the Crop Guide's coins/day × days to grow — so a single sowing here always matches the <a href="../farming/crops.html">Crop Guide</a>'s tables exactly.</li>
   <li><strong>Net profit</strong> multiplies that by how many harvests fit in your stay (replanting after each one when the box is ticked) and by your number of beds. <strong>Coins/day</strong> divides it by the days of your stay.</li>
   <li><strong>Cotton 🧵 can't be sold raw.</strong> Its ~39 coins/day — the best in the game — exists only at the loom, as cloth sold to Kai. Untick "I have a loom" and cotton politely leaves the table. See <a href="../crafting/artisan-goods.html">Artisan Goods</a>.</li>
   <li><strong>Flowers 🌸 pay twice — if you don't pick them.</strong> A blooming flower left standing feeds your <a href="../farming/bees-and-orchards.html">beehives</a>; the coins/day above assumes you harvest and sell it instead. You can't have both from the same bloom.</li>
-  <li>Two specimens sit out for want of numbers: <strong>Hops</strong> can't be sold at all (it's for brewing), and the wiki ledger doesn't record <strong>Primrose</strong>'s seed price — though community guides call it the most profitable flower in the game.</li>
+  <li>Two specimens sit out for want of numbers: <strong>Hops</strong> can't be sold at all (it's for brewing), and the Guide's ledger doesn't yet record <strong>Primrose</strong>'s seed price — though community guides call it the most profitable flower in the game.</li>
   <li>Crops that can't finish a single harvest inside your stay sink to the bottom of the table, marked as such. And harvest <em>everything</em> before you cast the ritual — out-of-season crops wilt the moment it lands (<a href="../farming/farming-101.html">Farming 101</a>).</li>
 </ul>
 
@@ -174,7 +175,7 @@ description: "An interactive Wylde Flowers crop profit calculator — pick a sea
 <script>
 (function () {
   "use strict";
-  // Crop records from the community wiki (CC BY-SA 3.0), matching guide/farming/crops.md.
+  // Crop records matching guide/farming/crops.md.
   // [name, seasons, growDays, seedCost, sellEach (null = can't sell raw), wikiCoinsPerDay, tag]
   // Profit per harvest is derived as wikiCoinsPerDay × growDays, i.e. (full-harvest sale − seed).
   var CROPS = [

@@ -2,23 +2,39 @@
 title: "🔏 Privacy Policy"
 description: "How The Fairhaven Field Guide handles (and mostly doesn't handle) your data."
 ads: false
+last_modified_at: 2026-09-28
 ---
 # 🔏 Privacy Policy
 
-*Effective date: September 14, 2026*
+*Effective date: September 28, 2026*
 
 The Fairhaven Field Guide ("the Guide", "we") is a fan-made, static reference site
 for the video game *Wylde Flowers*. This page explains what information passes
 through the site when you visit, and what choices you have. The short version:
-**we don't ask for, collect, or store any personal information ourselves** — but
-our hosting provider and our advertising partner each process some data, and this
-page tells you exactly what and how to opt out.
+**we don't collect personal information unless you choose to send us a
+message** — and our hosting provider, advertising partner, and contact-form
+provider each process some data, and this page tells you exactly what and how
+to opt out.
 
 ## What we collect directly
 
-Nothing. The Guide has no accounts, no sign-ups, no comment forms, no newsletters,
-no analytics scripts of our own, and it sets no cookies of its own. You can read
-every page without telling us who you are.
+Only what you choose to send. The Guide has no accounts, no sign-ups, no
+comments, no newsletters, no analytics scripts of our own, and it sets no
+cookies of its own. You can read every page without telling us who you are.
+
+The one exception is the [contact page]({{ '/contact.html' | relative_url }}).
+If you send a message, we receive what you type into the form — your email
+address, your message, and optionally your name and the page you're writing
+about. We use it only to read and reply to your note, and we never sell it or
+add you to a mailing list.
+
+## Contact form (Tally)
+
+The contact form is provided by **Tally** (tally.so), which stores submissions
+on our behalf and loads its form, and a spam-prevention check, into the contact
+page. Tally receives standard request data (such as your IP address) when the
+form loads. See the [Tally Privacy Policy](https://tally.so/help/privacy-policy)
+for details. The form only loads on the contact page.
 
 ## Hosting (GitHub Pages)
 
@@ -60,7 +76,7 @@ file, Google receives standard request data (such as your IP address). See the
 ## Cookies and your choices
 
 The only cookies associated with this site come from the third-party advertising
-described above. You can:
+described above (and, on the contact page only, from Tally's form). You can:
 
 - opt out of ad personalization via the links in the advertising section
   (and, in the EEA, UK, and Switzerland, via the consent tool shown on
@@ -72,7 +88,8 @@ described above. You can:
 ## Children
 
 The Guide is a general-audience reference site. We do not knowingly collect any
-personal information from anyone, including children under 13.
+personal information from children under 13. If you're under 13, please ask a
+parent or guardian before using the contact form.
 
 ## Links to other sites
 
@@ -82,7 +99,7 @@ policy doesn't cover.
 
 ## Changes to this policy
 
-If our practices change — say, we add analytics or a contact form — we will update
+If our practices change — say, we add analytics — we will update
 this page and revise the effective date above. Since the site's source lives in a
 public GitHub repository, every change to this policy is publicly visible in the
 commit history.

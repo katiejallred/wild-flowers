@@ -1,5 +1,6 @@
 ---
 title: "📜 Chapters 7–9"
+last_modified_at: 2026-09-20
 ---
 # 📜 Chapters 7–9
 

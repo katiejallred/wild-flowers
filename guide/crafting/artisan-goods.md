@@ -1,5 +1,6 @@
 ---
 title: "🧀 Artisan Goods"
+last_modified_at: 2026-09-14
 ---
 # 🧀 Artisan Goods
 

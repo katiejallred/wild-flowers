@@ -1,5 +1,6 @@
 ---
 title: "📜 Chapter 2: The Family Secret"
+last_modified_at: 2026-09-20
 ---
 # 📜 Chapter 2: The Family Secret
 

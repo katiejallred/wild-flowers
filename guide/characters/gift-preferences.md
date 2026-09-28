@@ -2,12 +2,23 @@
 title: "🎁 Gift Preferences"
 description: "The full favorite-foods almanac for Wylde Flowers — every resident's loved dishes, how gifting works, and the crystal-ball shortcut."
 image: /assets/images/card-gifts.jpg
+last_modified_at: 2026-09-28
 ---
 # 🎁 Gift Preferences
 
 A gift, properly chosen, is friendship in concentrate. Fairhaven's residents all appreciate a token from your pocket — but each keeps a short, secret list of **favorites** that work on the heart like fertilizer works on a seedling. This page covers the gifting mechanics **and** the full per-resident favorites almanac, cross-checked against the community's field records — with the few still-unconfirmed entries honestly marked rather than invented.
 
 For where gifting fits in the larger tending routine, see the [Friendship Guide](friendship.md); for gifting with intent, the [Romance Guide](romance.md).
+
+<div class="field-notes" markdown="1">
+<span class="specimen-label">Field notes — the short answer</span>
+
+1. **Talk and gift every day.** No gift is ever rejected, so an ordinary gift beats an empty hand.
+2. **Spend each favorite once, on purpose.** A first-time favorite is the biggest single boost gifting offers. Save them for the resident you're courting or racing toward a story milestone.
+3. **Cook, don't forage.** Favorites are dishes, so every recipe you learn opens more of them.
+4. **When the pantry's bare, brew coffee.** It's cheap, and nearly everyone on the island is glad to get it.
+5. **Scry instead of guessing.** Once you have the crystal ball, it reveals favorites outright.
+</div>
 
 <nav class="quick-look" aria-label="Quick lookup">
   <span class="specimen-label">In a hurry? ➺</span>
@@ -61,9 +72,9 @@ Alongside the almanac below, these principles will carry you far:
 
 ## The Per-Resident Almanac
 
-Pressed, labelled, and verified leaf-by-leaf against the [community wiki](https://wylde-flowers.fandom.com)'s own gifting table ([CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/), as are these tables). Each resident keeps three to five favorites.
+Pressed, labelled, and cross-checked leaf-by-leaf. Each resident keeps three to five favorites.
 
-Prefer a chart you can prop against the teapot? The community pressed the whole almanac onto a single page: **[download the printable favorite-gifts chart (PDF)]({{ '/assets/docs/wylde-favorite-gifts.pdf' | relative_url }})** — from the wiki archive, CC BY-SA 3.0 like the tables above.
+Prefer a chart you can prop against the teapot? The community pressed the whole almanac onto a single page: **[download the printable favorite-gifts chart (PDF)]({{ '/assets/docs/wylde-favorite-gifts.pdf' | relative_url }})** (a community chart from the Wylde Flowers Wiki).
 
 ### The Romanceables {#romanceables}
 

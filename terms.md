@@ -2,6 +2,7 @@
 title: "📜 Terms of Service"
 description: "The terms under which The Fairhaven Field Guide is offered — including what's ours, what's Studio Drydock's, and what's simply not our fault."
 ads: false
+last_modified_at: 2026-09-20
 ---
 # 📜 Terms of Service
 
