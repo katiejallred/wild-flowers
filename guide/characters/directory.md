@@ -1,5 +1,6 @@
 ---
 title: "💛 Character Directory"
+last_modified_at: 2026-09-14
 ---
 # 💛 Character Directory
 

@@ -2,6 +2,7 @@
 title: "💛 Romance Guide"
 description: "Every romanceable resident in Wylde Flowers — how affection grows, the six-heart path, and dating, engagement, and marriage on Fairhaven Island."
 image: /assets/images/card-romance.jpg
+last_modified_at: 2026-09-14
 ---
 # 💛 Romance Guide
 

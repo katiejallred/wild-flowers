@@ -2,10 +2,17 @@
 title: "🎣 Fishing"
 description: "Every fish in Wylde Flowers — where and when each one bites, the bait to use, and how to level up your fishing."
 image: /assets/images/card-fishing.jpg
+last_modified_at: 2026-09-28
 ---
 # 🎣 Fishing
 
 When the beds are watered and the animals fed, the water calls. Fishing in Fairhaven is a gentle, forgiving craft — and, pleasingly for a journal-keeper, a wonderfully *systematic* one. Every fish files itself neatly by location and bait, with none of the fickle luck other islands suffer.
+
+<div class="field-notes" markdown="1">
+<span class="specimen-label">Field notes — the short answer</span>
+
+**Only two things decide what bites: where you cast and which bait you use.** Weather, season, and time of day don't matter at all. So stop waiting for a rainy night. To fill the compendium, carry all three baits (worms, crickets, and chub), then work one location at a time, bait by bait, until it stops giving you anything new. Start with the river on your own farm, since it costs no travel time.
+</div>
 
 <nav class="quick-look" aria-label="Quick lookup">
   <span class="specimen-label">In a hurry? ➺</span>

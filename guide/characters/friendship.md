@@ -1,5 +1,6 @@
 ---
 title: "💛 Friendship Guide"
+last_modified_at: 2026-09-14
 ---
 # 💛 Friendship Guide
 

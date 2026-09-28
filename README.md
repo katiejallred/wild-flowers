@@ -19,6 +19,9 @@ pressed-flower botanical journal. 🌿
 - **[`guide/`](guide/)** — all content pages, written in plain Markdown, organized into
   eight sections: getting started, story, farming, witchcraft, crafting, characters,
   island life, and reference.
+- **Last updated dates:** each page's `last_modified_at` front matter prints as
+  "Last updated" under the page and feeds the sitemap. Before committing page
+  edits, run `python3 _tools/stamp-last-modified.py` to refresh the dates.
 - **[`_wiki-archive/`](_wiki-archive/)** — an offline Markdown copy of the
   [Wylde Flowers Wiki](https://wylde-flowers.fandom.com), the Guide's primary source.
   The leading underscore keeps Jekyll from building it into the site. Its text is

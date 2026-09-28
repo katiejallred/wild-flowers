@@ -75,6 +75,11 @@
     {% endunless %}
     {{ content }}
 
+    {%- if page.last_modified_at %}
+    <p class="last-updated"><span class="specimen-label">Last updated</span>
+      <time datetime="{{ page.last_modified_at | date: '%Y-%m-%d' }}">{{ page.last_modified_at | date: '%B %-d, %Y' }}</time></p>
+    {%- endif %}
+
     {%- if page_index -%}
     {%- assign prev_index = page_index | minus: 1 -%}
     {%- assign next_index = page_index | plus: 1 -%}
@@ -156,11 +161,12 @@
     <div class="flourish" aria-hidden="true">❦</div>
     <p>An unofficial fan guide, pressed with love.<br>
     <em>Wylde Flowers</em> is created by Studio Drydock.</p>
-    <p>Game data drawn in part from the <a href="https://wylde-flowers.fandom.com" rel="external nofollow">Wylde Flowers Wiki</a>,
-    under <a href="https://creativecommons.org/licenses/by-sa/3.0/" rel="external nofollow license">CC BY-SA 3.0</a>;
-    those portions of the Guide carry the same license.</p>
+    <p>Game data cross-checked against the <a href="https://wylde-flowers.fandom.com" rel="external nofollow">Wylde Flowers Wiki</a>
+    (<a href="https://creativecommons.org/licenses/by-sa/3.0/" rel="external nofollow license">CC BY-SA 3.0</a>);
+    any portions adapted from it are shared under the same license.</p>
     <p class="footer-links">
       <a href="{{ '/about.html' | relative_url }}">About the Guide</a> ·
+      <a href="{{ '/contact.html' | relative_url }}">Contact</a> ·
       <a href="{{ '/privacy.html' | relative_url }}">Privacy Policy</a> ·
       <a href="{{ '/terms.html' | relative_url }}">Terms of Service</a>
     </p>

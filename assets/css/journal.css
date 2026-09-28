@@ -1125,3 +1125,52 @@ img.wiki-icon {
   color: var(--amethyst);
   font-weight: 600;
 }
+
+/* ── Last updated stamp ─────────────────────────────────────
+   Printed under every page from `last_modified_at` front matter
+   (kept current by _tools/stamp-last-modified.py). */
+.last-updated {
+  margin: 2em 0 0;
+  color: var(--ink-soft);
+  font-size: 0.95em;
+}
+
+.last-updated .specimen-label { margin-right: 0.5em; }
+
+/* ── Field notes ──────────────────────────────────────────────
+   The Guide's own short answer, pinned near the top of the core
+   lookup pages: strategy first, the tables below it. */
+.field-notes {
+  margin: 1.4em 0;
+  padding: 0.9em 1.2em 0.6em;
+  background: var(--sheet);
+  border: 1px solid var(--line-strong);
+  border-left: 4px solid var(--sage-ink);
+  border-radius: 4px 10px 6px 8px / 8px 5px 9px 6px;
+}
+
+.field-notes > p:first-child { margin-top: 0; }
+
+.field-notes .specimen-label {
+  display: block;
+  margin-bottom: 0.35em;
+  color: var(--sage-ink);
+}
+
+.field-notes ul,
+.field-notes ol { margin: 0.3em 0 0.6em; padding-left: 1.3em; }
+
+.field-notes li { margin: 0.25em 0; }
+
+/* ── Contact form ─────────────────────────────────────────── */
+.contact-form {
+  margin: 1.6em 0 0.8em;
+  padding: 1em 1.2em;
+  background: var(--sheet);
+  border: 1px solid var(--line);
+  border-radius: 8px;
+}
+
+.contact-form iframe { display: block; border: 0; width: 100%; }
+
+.contact-fallback { font-size: 0.95em; color: var(--ink-soft); }

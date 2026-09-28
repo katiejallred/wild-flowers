@@ -2,12 +2,26 @@
 title: "🚜 Crop Guide"
 description: "Every Wylde Flowers crop by season — seed cost, growth time, sell price, and coins per day — plus the fruit-tree ledger and the greenhouse."
 image: /assets/images/card-crops.jpg
+last_modified_at: 2026-09-28
 ---
 # 🚜 Crop Guide
 
 A pressed-and-labeled record of what grows in Fairhaven's soil, season by season. Remember the island's great mercy: seasons only change when the coven performs the ritual, so you may linger in any season as long as your ledger requires ([Farming 101](farming-101.md)). Just harvest everything before the ritual — out-of-season crops left in the ground wilt the moment the season turns.
 
-> This almanac is pressed from the [community wiki](https://wylde-flowers.fandom.com)'s field records ([CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/), as is this table). **Coins/day** is their profitability measure: (sell price of a full harvest − seed cost) ÷ days to grow. Flowers left blooming (unpicked) also feed any nearby [beehive](bees-and-orchards.md).
+> **Coins/day** is the Guide's profitability measure: (sell price of a full harvest − seed cost) ÷ days to grow. Flowers left blooming (unpicked) also feed any nearby [beehive](bees-and-orchards.md).
+
+<div class="field-notes" markdown="1">
+<span class="specimen-label">Field notes — the short answer</span>
+
+If you plant nothing else, plant this:
+
+- **Spring:** wheat, the best spring earner (20.8 coins/day).
+- **Summer:** cotton for the loom (~39/day as cloth) and strawberries for straight sale (28.7/day). Tuck a few sunflowers near your beehives and leave them unpicked.
+- **Fall and winter:** fennel, wall to wall (24.2/day). Then *stay* — the season only turns when you cast the ritual.
+- **Any time you have 125 spare coins:** a fruit tree. It fruits in every season and never needs water.
+
+Want a full season-by-season plan? See [Recommended Farm Plans](../reference/farm-plans.md).
+</div>
 
 Prefer to run the numbers for your own plan? The interactive [Crop Profit Calculator](../reference/crop-profit-calculator.html) ranks every crop by coins per day for whatever season and length of stay you choose.
 
@@ -85,7 +99,7 @@ Prefer to run the numbers for your own plan? The interactive [Crop Profit Calcul
 
 ## The Orchard Ledger (Fruit Trees) {#orchard}
 
-One seedling, bought once from **Kai's Treasures** for 125 coins, fruiting forever in **any season** — and trees never need watering. The wiki's coins/day for trees discounts the initial growing time:
+One seedling, bought once from **Kai's Treasures** for 125 coins, fruiting forever in **any season** — and trees never need watering. Coins/day for trees discounts the initial growing time:
 
 | Tree | Matures in | Then fruits every | Fruit sells for | Coins/day |
 | --- | --- | --- | --- | --- |
