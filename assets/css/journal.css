@@ -1174,3 +1174,5 @@ img.wiki-icon {
 .contact-form iframe { display: block; border: 0; width: 100%; }
 
 .contact-fallback { font-size: 0.95em; color: var(--ink-soft); }
+
+.footer-kofi a { font-weight: 700; white-space: nowrap; }
