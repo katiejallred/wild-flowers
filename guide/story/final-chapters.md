@@ -1,6 +1,6 @@
 ---
 title: "📜 Final Chapters & Ending"
-last_modified_at: 2026-09-20
+last_modified_at: 2026-10-05
 ---
 # 📜 Final Chapters & Ending
 
@@ -48,12 +48,17 @@ To face the crisis, the coven does the unthinkable: **its members reveal their i
 
 ## The Epilogue and Spring of Year 2
 
-After Locket Up, the **Epilogue** unfolds in the spring of Tara's second year, and the story keeps growing:
+After Locket Up, the **Epilogue** unfolds a few days into the spring of Tara's second year:
+
+- **A changing of the guard** — the Mirandas fetch you to an emergency town meeting. With the state attorney general asking pointed questions about his past fundraising efforts, **Mayor Otto resigns and leaves Fairhaven**, and Vanessa with him. Before going, he nominates **Gloria Miranda** as interim mayor until a new election can be held — and Gloria accepts.
+- **The credits roll** as the ferry pulls away — a year to the day since Tara arrived. A thank-you letter from the developers waits in your mailbox afterward. That's the end of the main storyline, but not of the game.
+
+The story keeps growing after the credits — keep talking to neighbours and visiting the coven:
 
 - **A League of One's Own** — Cameron asks for 10× Paper and 2× Black Ink to write a new set of sermons and undo the harm his old ones caused. Bring them; it's a gentle, earned redemption.
 - **The Spring Fling** — the town gathers for its spring festival (see [Festivals & Events](../island/festivals-and-events.md)).
-- **Keeper of the Wheel** — Tara's coven training advances until she takes over the seasonal rites herself, gaining the power and responsibility to **change the seasons at will**.
-- **A changing of the guard** — with the state attorney general asking pointed questions about his past fundraising efforts, **Mayor Otto leaves Fairhaven**, and Vanessa with him. Before going, he nominates **Gloria Miranda** as interim mayor until a new election can be held — and Gloria accepts.
+- **Keeper of the Wheel** — keep visiting the coven at night and Tara's training advances until she takes over the seasonal rites herself, gaining the power and responsibility to **change the seasons at will**. From then on, check the Wellspring for the offerings each new season needs.
+- **Year 2 and on** — each season of Year 2 brings new quests, festivals and recipes. Year 3 has no new storylines or festivals, but a few quests you missed can still appear.
 
 ## Beyond: Ravenwood Hollow and the Free Updates
 

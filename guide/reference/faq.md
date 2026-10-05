@@ -1,6 +1,6 @@
 ---
 title: "❓ Frequently Asked Questions"
-last_modified_at: 2026-09-14
+last_modified_at: 2026-10-05
 ---
 # ❓ Frequently Asked Questions
 
@@ -21,6 +21,22 @@ No — Wylde Flowers is a **single-player** game through and through. Fairhaven'
 ### Are there paid DLC or expansions?
 
 Updates have been **free**, and they've been substantial: post-launch updates added Year 2 content, new festivals, Eury Sinclair and the hair salon, and the hidden community of **Ravenwood Hollow**. No paid expansions required to see it all.
+
+### Can I move my save to another platform, or play crossplay?
+
+**No.** Saves can't be transferred between platforms, and there's no crossplay — a Fairhaven started on Switch stays on Switch. Pick your platform before you sink a season into it.
+
+### Will the game ever add children, decorating, or visiting villagers' homes?
+
+These have been **ruled out** — the [r/wyldeflowers FAQ](https://www.reddit.com/r/wyldeflowers/wiki/index/) lists features confirmed *not* coming to Wylde Flowers:
+
+- Children
+- Decorating
+- Going inside villagers' homes
+- A full new storyline as long as the original
+- Milkwater
+
+<span class="handwritten">better to know now than to keep waiting by the window ❀</span>
 
 ---
 
@@ -70,7 +86,7 @@ No. Story chapters wait for you, and since seasons don't turn without you, nothi
 
 ### Does the game end?
 
-The main story runs through Year 2, concluding with the Winter Festival of Year 2 — but you can keep playing your farm and your relationships afterward.
+The main story wraps up at the turn of Year 1 into Year 2: the final quest, **Locket Up**, plays out in winter, and the **credits roll** a few days into Spring of Year 2, after a short epilogue. But it's a pause, not an ending — keep playing and Year 2 brings new quests, festivals and the Keeper of the Wheel storyline (see [Final Chapters & Ending](../story/final-chapters.md)). Year 3 has no new storylines or festivals of its own, though a few quests you missed can still turn up, and you can farm and befriend forever.
 
 ---
 
