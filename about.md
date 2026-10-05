@@ -23,6 +23,13 @@ portions adapted from it are shared under the same license.
 
 ## A note from the author {#author}
 
+<figure class="snapshot" style="max-width: 360px;">
+  <img src="{{ '/assets/images/author/katie-allred-wylde-flowers.jpg' | relative_url }}"
+       alt="Katie Allred drawn as a Wylde Flowers villager: shoulder-length brown hair, round dark glasses, a big smile and a blue chambray shirt, standing in a wildflower garden in front of a wooden cottage"
+       width="720" height="720" loading="lazy">
+  <figcaption>Katie, if she moved to Fairhaven</figcaption>
+</figure>
+
 Hi, I'm **Katie Allred**, and I made this guide.
 
 You probably know the moment. It's the middle of a season, your Switch is in
@@ -40,6 +47,15 @@ started a Harry Potter fan forum and made real friends there — on purpose and
 by accident. Today I write and teach about communication for a living, and the
 lesson has never changed: when information is clear and easy to find, everyone
 wins. This guide is me putting that lesson to work for a game I love.
+
+### Who I am, off the island
+
+- **Writer, teacher, community builder.** My day job is communication. I
+  write about it, teach it, and help people build online communities that
+  people actually want to be part of.
+- **Lifelong fan-site maker.** That Harry Potter forum was the first of many.
+  Fan communities are where I learned to write for real readers.
+- **Find more of my work** at [katieallred.com](https://www.katieallred.com).
 
 ### How I play
 
