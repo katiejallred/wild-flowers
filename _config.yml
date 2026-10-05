@@ -29,7 +29,7 @@ google_analytics: "G-4QK0N3S8TH"
 
 # Ko-fi page name — the part after ko-fi.com/ (e.g. "fairhavenguide").
 # Empty = no tip links. Shown in the footer and on the About page.
-kofi: ""
+kofi: "katiejallred"
 
 # AdSense ad units. The loader script in the layout serves nothing by
 # itself; each slot below switches on its placement once it holds the
