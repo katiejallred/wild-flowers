@@ -86,7 +86,7 @@ No. Story chapters wait for you, and since seasons don't turn without you, nothi
 
 ### Does the game end?
 
-The main story runs through Year 2, concluding with the Winter Festival of Year 2 — but you can keep playing your farm and your relationships afterward.
+The main story wraps up at the turn of Year 1 into Year 2: the final quest, **Locket Up**, plays out in winter, and the **credits roll** a few days into Spring of Year 2, after a short epilogue. But it's a pause, not an ending — keep playing and Year 2 brings new quests, festivals and the Keeper of the Wheel storyline (see [Final Chapters & Ending](../story/final-chapters.md)). Year 3 has no new storylines or festivals of its own, though a few quests you missed can still turn up, and you can farm and befriend forever.
 
 ---
 
