@@ -12,9 +12,9 @@ The Fairhaven Field Guide ("the Guide", "we") is a fan-made, static reference si
 for the video game *Wylde Flowers*. This page explains what information passes
 through the site when you visit, and what choices you have. The short version:
 **we don't collect personal information unless you choose to send us a
-message** — and our hosting provider, advertising partner, and contact-form
-provider each process some data, and this page tells you exactly what and how
-to opt out.
+message** — but our hosting provider, advertising partner,{% if site.google_analytics and site.google_analytics != "" %} analytics provider,{% endif %}
+and contact-form provider each process some data, and this page tells you
+exactly what and how to opt out.
 
 ## What we collect directly
 
@@ -52,6 +52,18 @@ page. Tally receives standard request data (such as your IP address) when the
 form loads. See the [Tally Privacy Policy](https://tally.so/help/privacy-policy)
 for details. The form only loads on the contact page.
 
+{% if site.kofi and site.kofi != "" -%}
+## Tips (Ko-fi)
+
+The Guide links to a **Ko-fi** page where you can leave an optional tip. It's a
+plain link: nothing from Ko-fi loads on the Guide itself, and no data passes to
+Ko-fi unless you click through. If you do tip, Ko-fi and its payment processors
+handle the payment — we never see your card or bank details. Ko-fi shares with
+us the supporter details it shows creators (such as your display name, any
+message you leave, and your email address), which we use only to say thank
+you. See the [Ko-fi Privacy Policy](https://more.ko-fi.com/privacy).
+
+{% endif -%}
 ## Hosting (GitHub Pages)
 
 This site is hosted on **GitHub Pages**. Like most web hosts, GitHub may log
