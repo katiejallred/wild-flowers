@@ -174,6 +174,8 @@ URLs before linking anywhere): https://fairhavenfieldguide.com/sitemap.xml
 **Where the audience is:** r/WyldeFlowers (the core community — read its rules before
 any link post), plus cozy-gaming spaces like r/CozyGamers and platform subs
 (r/NintendoSwitch, r/AppleArcade, r/pcgaming) when the game comes up organically.
+The sub's own FAQ — its most-repeated questions, linked resources, and features the
+devs have ruled out — is saved in [`r-wyldeflowers-faq.md`](r-wyldeflowers-faq.md).
 
 **Ground rules:**
 1. **Read each subreddit's self-promotion rules first** and follow them over anything in
