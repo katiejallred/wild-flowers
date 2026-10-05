@@ -2,11 +2,11 @@
 title: "🔏 Privacy Policy"
 description: "How The Fairhaven Field Guide handles (and mostly doesn't handle) your data."
 ads: false
-last_modified_at: 2026-09-28
+last_modified_at: 2026-10-05
 ---
 # 🔏 Privacy Policy
 
-*Effective date: September 28, 2026*
+*Effective date: October 5, 2026*
 
 The Fairhaven Field Guide ("the Guide", "we") is a fan-made, static reference site
 for the video game *Wylde Flowers*. This page explains what information passes
@@ -19,8 +19,9 @@ to opt out.
 ## What we collect directly
 
 Only what you choose to send. The Guide has no accounts, no sign-ups, no
-comments, no newsletters, no analytics scripts of our own, and it sets no
-cookies of its own. You can read every page without telling us who you are.
+comments, and no newsletters.{% if site.google_analytics and site.google_analytics != "" %} We use Google Analytics to count visits
+(see below), but we never see who you are.{% else %} There are no analytics
+scripts, and the Guide sets no cookies of its own.{% endif %} You can read every page without telling us who you are.
 
 The one exception is the [contact page]({{ '/contact.html' | relative_url }}).
 If you send a message, we receive what you type into the form — your email
@@ -28,6 +29,21 @@ address, your message, and optionally your name and the page you're writing
 about. We use it only to read and reply to your note, and we never sell it or
 add you to a mailing list.
 
+{% if site.google_analytics and site.google_analytics != "" -%}
+## Analytics (Google Analytics)
+
+We use **Google Analytics** to understand how many people visit the Guide and
+which pages they find useful, so we know what to improve. Google Analytics
+uses cookies to collect information such as the pages you view, roughly where
+you're visiting from (country or city, not your address), your device and
+browser, and how you arrived. We see these numbers only in aggregate; they
+don't tell us who you are. See
+[How Google uses information from sites that use its services](https://policies.google.com/technologies/partner-sites).
+You can opt out with the
+[Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout)
+or by blocking cookies in your browser.
+
+{% endif -%}
 ## Contact form (Tally)
 
 The contact form is provided by **Tally** (tally.so), which stores submissions
@@ -76,7 +92,7 @@ file, Google receives standard request data (such as your IP address). See the
 ## Cookies and your choices
 
 The only cookies associated with this site come from the third-party advertising
-described above (and, on the contact page only, from Tally's form). You can:
+described above{% if site.google_analytics and site.google_analytics != "" %}, from Google Analytics{% endif %} (and, on the contact page only, from Tally's form). You can:
 
 - opt out of ad personalization via the links in the advertising section
   (and, in the EEA, UK, and Switzerland, via the consent tool shown on
@@ -99,7 +115,7 @@ policy doesn't cover.
 
 ## Changes to this policy
 
-If our practices change — say, we add analytics — we will update
+If our practices change, we will update
 this page and revise the effective date above. Since the site's source lives in a
 public GitHub repository, every change to this policy is publicly visible in the
 commit history.

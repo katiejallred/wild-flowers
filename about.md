@@ -1,7 +1,7 @@
 ---
 title: "🗺️ About the Guide"
 description: "What The Fairhaven Field Guide is, who it's for, and a complete directory of every page pressed between its covers."
-last_modified_at: 2026-09-28
+last_modified_at: 2026-10-05
 ---
 # 🗺️ About the Guide
 
@@ -54,6 +54,14 @@ If you play the same way, start with the
 It keeps earning in the background while you spend your days on the story and
 the people.
 
+{% if site.kofi and site.kofi != "" -%}
+### Keeping the lamps lit
+
+The Guide is free, and it always will be. If it saved you a season of
+guesswork, you can [buy me a coffee on Ko-fi](https://ko-fi.com/{{ site.kofi }}).
+It helps cover the costs of keeping the journal growing.
+
+{% endif -%}
 ### How the Guide is kept
 
 - **Checked, then re-checked.** Numbers are cross-checked against the

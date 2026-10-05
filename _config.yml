@@ -22,6 +22,15 @@ exclude:
 twitter:
   card: summary_large_image
 
+# Google Analytics 4 measurement ID (e.g. "G-ABC123XYZ"). Empty = no
+# analytics tag on the site, and the privacy policy's analytics section
+# stays hidden.
+google_analytics: "G-4QK0N3S8TH"
+
+# Ko-fi page name — the part after ko-fi.com/ (e.g. "fairhavenguide").
+# Empty = no tip links. Shown in the footer and on the About page.
+kofi: ""
+
 # AdSense ad units. The loader script in the layout serves nothing by
 # itself; each slot below switches on its placement once it holds the
 # data-ad-slot number of a display unit created in the AdSense account.
