@@ -2,11 +2,11 @@
 title: "📜 Terms of Service"
 description: "The terms under which The Fairhaven Field Guide is offered — including what's ours, what's Studio Drydock's, and what's simply not our fault."
 ads: false
-last_modified_at: 2026-09-20
+last_modified_at: 2026-10-05
 ---
 # 📜 Terms of Service
 
-*Effective date: September 14, 2026*
+*Effective date: October 5, 2026*
 
 Welcome to The Fairhaven Field Guide ("the Guide", "we"). By reading the Guide,
 you agree to these terms. They're short, and most of them boil down to common
@@ -61,28 +61,46 @@ Don't use the Guide, or its hosting infrastructure, to do anything unlawful, to
 attempt to disrupt the site, or to scrape content in bulk for republication or
 for training commercial products. That's it.
 
-## 6. Third-party links and advertising
+## 6. Messages you send us
 
-The Guide links to external websites and displays third-party advertising (see
-our [Privacy Policy]({{ '/privacy.html' | relative_url }})). We don't control
+If you write to us through the [contact page]({{ '/contact.html' | relative_url }})
+or by email, please don't include sensitive personal information. Corrections,
+tips, and suggestions you send may be used to improve the Guide, without
+payment or obligation to you; we won't publish your name or message without
+asking first.
+{% if site.kofi and site.kofi != "" %}
+## 7. Tips
+
+Tips through [Ko-fi](https://ko-fi.com/{{ site.kofi }}) are entirely optional
+and are a gift toward the Guide's running costs. A tip doesn't buy any goods,
+services, perks, or influence over the Guide's content, and the Guide stays
+free for everyone either way. Payments are handled by Ko-fi and its payment
+processors under their own terms; questions about a payment or a refund go
+through Ko-fi.
+{% endif %}
+## {% if site.kofi and site.kofi != "" %}8{% else %}7{% endif %}. Third-party links, advertising, and analytics
+
+The Guide links to external websites and displays third-party advertising{% if site.google_analytics and site.google_analytics != "" %},
+and uses Google Analytics to count visits{% endif %} (see our
+[Privacy Policy]({{ '/privacy.html' | relative_url }})). We don't control
 external sites or the content of ads, and linking to something is not an
 endorsement of it.
 
-## 7. Limitation of liability
+## {% if site.kofi and site.kofi != "" %}9{% else %}8{% endif %}. Limitation of liability
 
 To the fullest extent permitted by law, the Guide and its author will not be
 liable for any damages arising out of your use of (or inability to use) the
 site. Given that the site is free and consists of farming tips and witchcraft
 lore, we trust this will not come up.
 
-## 8. Changes to these terms
+## {% if site.kofi and site.kofi != "" %}10{% else %}9{% endif %}. Changes to these terms
 
 We may update these terms from time to time; the effective date above will
 change when we do. The site's source lives in a public GitHub repository, so
 every revision is publicly visible in the commit history. Continuing to use the
 Guide after a change means you accept the updated terms.
 
-## 9. Contact
+## {% if site.kofi and site.kofi != "" %}11{% else %}10{% endif %}. Contact
 
 Questions, corrections, or takedown requests:
 **<span class="obf-email" data-user="support" data-domain="fairhavenfieldguide.com">support [at] fairhavenfieldguide [dot] com</span>**.
