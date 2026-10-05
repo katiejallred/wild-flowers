@@ -22,10 +22,10 @@ ruled out. Companion to [`cowork-briefing.md`](cowork-briefing.md) → "Reddit p
 | 1 | Is there more after Year 1 / the main story? | Yes — keep changing seasons after the credits to farm, befriend NPCs and finish collections. Year 2 adds more quests, festivals, animals and small storylines; keep talking to NPCs. | Story → Final Chapters ("after the credits"); Island → Festivals & Events |
 | 2 | Is there more after Year 2? | No dedicated Year 3 storylines or festivals, but you can keep playing; a few (not all) missed quests can still appear in Year 3. | Story → Final Chapters |
 | 3 | More content updates coming? | Yes, the team is working on more; no timeline. Similar to the first three updates: new gameplay features plus some quests and short storylines. | — (news; don't promise dates) |
-| 4 | Will "X" come to the game? | Can't confirm specifics. **Confirmed NOT coming:** children, decorating, going inside villagers' homes, a full storyline as long as the original, Milkwater. | — (see "Confirmed not coming" below) |
+| 4 | Will "X" come to the game? | Can't confirm specifics. **Confirmed NOT coming:** children, decorating, going inside villagers' homes, a full storyline as long as the original, Milkwater. | Reference → FAQ (Platforms & Availability) |
 | 5 | How do I get magical animals? | Links a community guide: https://www.reddit.com/r/wyldeflowers/comments/13eeglj/wylde_flowers_magical_animal_guide_with_pictures/ | Farming → Animals → "Magical Animals" |
 | 6 | How do I change the season after Year 1? | Keep visiting the coven at night → quest to make Tara **Keeper of the Wheel** → make the offerings shown at the Wellspring → once all are done, use the incantation as in Year 1. | Story → Final Chapters (Keeper of the Wheel); Getting Started → Energy, Time & Seasons |
-| 7 | Can I transfer saves between platforms / crossplay? | No. | Not covered — possible FAQ addition |
+| 7 | Can I transfer saves between platforms / crossplay? | No. | Reference → FAQ (Platforms & Availability) |
 | 8 | Games like Wylde Flowers? | Links a recommendations thread (https://www.reddit.com/r/wyldeflowers/comments/15cyvh5/games_like_wylde_flowers/) and r/CozyGamers. | — (off-topic for the Guide) |
 | 9 | Where is Wool Weed? | Second area of the Gloaming (near the entrance). Areas unlock through the story: find the keystone in the first Gloaming area, talk to Lina, upgrade your wand; then choose the level at the Gloaming entry pillar. | Farming → Mining & Foraging (Wool Weed entry) |
 | 10 | Who's the best romance? | Personal preference. Points to the fandom wiki (https://wylde-flowers.fandom.com/wiki/Wylde_Flowers_Wiki) and three discussion threads: [1](https://www.reddit.com/r/wyldeflowers/comments/tgpqt3/who_do_you_pick_to_romance_and_how_did_you_make/), [2](https://www.reddit.com/r/wyldeflowers/comments/11p5n5c/which_romancable_is_your_favorite_one_to_marry/), [3](https://www.reddit.com/r/wyldeflowers/comments/vouguu/romance_option/). | Characters → Romance Guide |
@@ -58,6 +58,5 @@ at length.
   reply where people are already asking.
 - **Point to the sub's own resources** (the magical animal guide, the romance threads)
   when they're the best answer — being a good neighbour beats always linking the Guide.
-- **Possible Guide gaps spotted here:** cross-platform saves / no crossplay (item 7) and
-  the "confirmed not coming" list (item 4) could be one-line additions to
-  Reference → FAQ.
+- **Guide FAQ now covers** the no-crossplay answer (item 7) and the "confirmed not
+  coming" list (item 4) — link Reference → FAQ for those.
