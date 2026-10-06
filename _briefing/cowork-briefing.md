@@ -176,6 +176,8 @@ any link post), plus cozy-gaming spaces like r/CozyGamers and platform subs
 (r/NintendoSwitch, r/AppleArcade, r/pcgaming) when the game comes up organically.
 The sub's own FAQ — its most-repeated questions, linked resources, and features the
 devs have ruled out — is saved in [`r-wyldeflowers-faq.md`](r-wyldeflowers-faq.md).
+Drafted posts live in [`reddit-posts/`](reddit-posts/), one file per post, dated —
+check it before drafting a new one so topics don't repeat.
 
 **Ground rules:**
 1. **Read each subreddit's self-promotion rules first** and follow them over anything in
