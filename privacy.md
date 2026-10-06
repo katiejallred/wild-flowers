@@ -144,8 +144,11 @@ below.
 
 **US state privacy rights.** Some US states (such as California) treat
 advertising cookies as "selling" or "sharing" personal information and give
-you the right to opt out. We don't sell your information to anyone, but to
-opt out of ad cookies, use the personalized-ads and cookie options above.
+you the right to opt out. We don't sell your information to anyone, but if
+you're in one of those states you'll see a **"Do not sell or share my
+personal information"** link from Google on the page — use it to opt out of
+personalized ads on the Guide. The personalized-ads and cookie options above
+work too.
 
 ## Children
 
