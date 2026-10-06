@@ -2,11 +2,11 @@
 title: "🔏 Privacy Policy"
 description: "How The Fairhaven Field Guide handles (and mostly doesn't handle) your data."
 ads: false
-last_modified_at: 2026-10-05
+last_modified_at: 2026-10-06
 ---
 # 🔏 Privacy Policy
 
-*Effective date: October 5, 2026*
+*Effective date: October 6, 2026*
 
 The Fairhaven Field Guide ("the Guide", "we") is a fan-made, static reference site
 for the video game *Wylde Flowers*. This page explains what information passes
@@ -39,7 +39,10 @@ you're visiting from (country or city, not your address), your device and
 browser, and how you arrived. We see these numbers only in aggregate; they
 don't tell us who you are. See
 [How Google uses information from sites that use its services](https://policies.google.com/technologies/partner-sites).
-You can opt out with the
+In the EEA, UK, and Switzerland, Analytics sets no cookies until you accept
+them in the consent message (see [Cookies](#cookies) below); until then it
+sends only cookieless signals that can't be tied to you across visits. You can
+opt out anywhere with the
 [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout)
 or by blocking cookies in your browser.
 
@@ -87,10 +90,12 @@ cost of running the site. This means:
   of some third-party vendors' use of cookies for personalized advertising at
   [www.aboutads.info/choices](https://www.aboutads.info/choices).
 
-**If you're visiting from the EEA, UK, or Switzerland**, you'll be shown a
-consent tool before any advertising cookies are set, where you can accept,
-decline, or fine-tune consent for personalized ads. You can change your
-choice at any time via the ad privacy options on the site.
+**If you're visiting from the EEA, UK, or Switzerland**, you'll be shown
+Google's consent message before any advertising{% if site.google_analytics and site.google_analytics != "" %} or analytics{% endif %} cookies are
+set, where you can accept, decline, or fine-tune your choices. If you decline,
+you may still see ads, but they won't be personalized. You can change your
+choice at any time with the "Privacy and cookie settings" link Google shows on
+the page.
 
 For more about how Google uses data when you use partner sites, see
 [How Google uses information from sites or apps that use our services](https://policies.google.com/technologies/partner-sites).
@@ -102,16 +107,45 @@ file, Google receives standard request data (such as your IP address). See the
 [Google Fonts privacy notes](https://developers.google.com/fonts/faq/privacy).
 
 ## Cookies and your choices
+{: #cookies}
 
-The only cookies associated with this site come from the third-party advertising
-described above{% if site.google_analytics and site.google_analytics != "" %}, from Google Analytics{% endif %} (and, on the contact page only, from Tally's form). You can:
+Cookies are small files a website (or a service it uses) saves in your
+browser. **The Guide doesn't set any cookies of its own** — every cookie
+below comes from a third-party service described above. Cookie names and
+lifetimes are set by those services and can change; Google keeps a current
+list in [How Google uses cookies](https://policies.google.com/technologies/cookies).
 
-- opt out of ad personalization via the links in the advertising section
-  (and, in the EEA, UK, and Switzerland, via the consent tool shown on
-  your first visit);
-- block or delete cookies entirely in your browser settings; and
-- use a content blocker — the Guide works perfectly well with ads blocked, and we
-  will never nag you about it.
+| What | Set by | Why | How long |
+|---|---|---|---|
+{% if site.google_analytics and site.google_analytics != "" %}| Analytics cookies (`_ga`, `_ga_…`) | Google Analytics | Count visits and tell new visitors from returning ones, in aggregate | Up to 2 years |
+{% endif %}| Advertising cookies (such as `__gads`, `__gpi`, and `IDE`) | Google AdSense and its ad partners | Show ads, cap how often you see the same one, measure them, and — only where allowed — personalize them | Up to about 13 months |
+| Consent cookies (such as `FCCDCF` and `FCNEC`) | Google's consent message | Remember the cookie choice you made, so you aren't asked on every page | Up to about 13 months |
+| Form cookies | Tally (contact page only) | Load the contact form and its spam-prevention check | See [Tally's policy](https://tally.so/help/privacy-policy) |
+
+**How consent works here.** In the EEA, UK, and Switzerland, Google's
+consent message appears on your first visit, and advertising{% if site.google_analytics and site.google_analytics != "" %} and
+analytics{% endif %} cookies stay off until you accept. Everywhere else
+these cookies are on by default, and you can turn them off using the options
+below.
+
+**Your choices:**
+
+- **Change your consent** (EEA, UK, Switzerland) at any time with the
+  "Privacy and cookie settings" link Google shows on the page.
+- **Opt out of personalized ads** at [Google Ads Settings](https://www.google.com/settings/ads)
+  or [www.aboutads.info/choices](https://www.aboutads.info/choices)
+  (or [youronlinechoices.eu](https://www.youronlinechoices.eu) in Europe).
+{% if site.google_analytics and site.google_analytics != "" %}- **Opt out of Google Analytics** with the
+  [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout).
+{% endif %}- **Block or delete cookies** in your browser settings — the Guide works fine
+  without them.
+- **Use a content blocker** — the Guide works perfectly well with ads blocked,
+  and we will never nag you about it.
+
+**US state privacy rights.** Some US states (such as California) treat
+advertising cookies as "selling" or "sharing" personal information and give
+you the right to opt out. We don't sell your information to anyone, but to
+opt out of ad cookies, use the personalized-ads and cookie options above.
 
 ## Children
 
