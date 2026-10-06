@@ -1,8 +1,8 @@
 ---
 title: "🎣 Fishing"
-description: "Every fish in Wylde Flowers — where and when each one bites, the bait to use, and how to level up your fishing."
+description: "Every fish in Wylde Flowers — where it bites, the bait to use, and what it sells for — plus which waters pay best and the recipes you can only fish up."
 image: /assets/images/card-fishing.jpg
-last_modified_at: 2026-09-28
+last_modified_at: 2026-10-06
 ---
 # 🎣 Fishing
 
@@ -11,15 +11,20 @@ When the beds are watered and the animals fed, the water calls. Fishing in Fairh
 <div class="field-notes" markdown="1">
 <span class="specimen-label">Field notes — the short answer</span>
 
-**Only two things decide what bites: where you cast and which bait you use.** Weather, season, and time of day don't matter at all. So stop waiting for a rainy night. To fill the compendium, carry all three baits (worms, crickets, and chub), then work one location at a time, bait by bait, until it stops giving you anything new. Start with the river on your own farm, since it costs no travel time.
+- **Only two things decide what bites: where you cast and which bait you use.** Weather, season, and time of day don't matter at all, so stop waiting for a rainy night.
+- **Bait only matters in three waters** — the River, the Forest Lake, and the Ocean. Everything at the Mine and the Gloaming bites on any bait, and so does everything at the Mountain except the chub itself.
+- **Five fish take just one bait:** Minnow (worm), Dorado and Sea Urchin (cricket), Scup and Scallop (chub).
+- **The Ocean pays best.** Sea Urchin (80 coins, crickets only) is the island's most valuable catch.
+- **Looking for one fish?** Find it in [the compendium table](#compendium) below.
 </div>
 
 <nav class="quick-look" aria-label="Quick lookup">
   <span class="specimen-label">In a hurry? ➺</span>
   <a href="#where">Where to Cast</a> ·
   <a href="#bait">Bait</a> ·
-  <a href="#rare-fish">Rare Fish</a> ·
-  <a href="#compendium">The Compendium</a>
+  <a href="#rare-fish">Best Catches</a> ·
+  <a href="#bottles">Recipe Bottles</a> ·
+  <a href="#compendium">Every Fish (A–Z)</a>
 </nav>
 
 <figure class="snapshot">
@@ -31,7 +36,7 @@ When the beds are watered and the animals fed, the water calls. Fishing in Fairh
 
 ## Getting Started
 
-Fishing unlocks when you meet **Bruno Soft**, the island's fisherman, whose shop sits in the middle of town near the statues. Speak with him and he'll hand you a rod and three baits to catch your first fish — Fairhaven's usual generosity at work.
+Fishing unlocks with **Bruno Soft**'s quest *Lure One In*. Bruno, the island's fisherman, keeps his shop in the middle of town near the statues. Speak with him and he'll hand you a rod and three baits to catch your first fish — Fairhaven's usual generosity at work.
 
 From there: stand at a fishing spot, choose your bait, cast, and play the catch. Keep bait stocked and the rest is patience.
 
@@ -39,22 +44,22 @@ From there: stand at a fishing spot, choose your bait, cast, and play the catch.
 
 ## Where to Cast {#where}
 
-The island offers seven fishing areas, and each hosts its own category of fish:
+Fairhaven has six kinds of water. The Ocean can be fished from two places, so that makes seven spots in all:
 
-| Fishing spot | Where you'll find it | Fish category |
-| --- | --- | --- |
-| River | On the Farm | River fish |
-| Forest Lake | In the Woods | Lake fish |
-| Ocean | The Beach, and south of the Town Center | Ocean fish |
-| Mountain | The Mountain | Mountain fish |
-| The Gloaming | Fairhaven's otherworldly corner | Gloaming fish |
-| The Mine | Level 20, at the very bottom | Mine fish |
+| Water | Where you'll find it | Fish | Does bait matter? |
+| --- | --- | --- | --- |
+| River | On the Farm | 13 | Yes |
+| Forest Lake | In the Woods | 6 | Yes |
+| Ocean | The Beach, and south of the Town Center | 25 | Yes — and the best prices |
+| Mountain | The Mountain, once Parker fixes the bridge in Summer | 6 | Only for the chub (no crickets) |
+| The Mine | The pool on level 20, at the very bottom | 5 | No |
+| The Gloaming | Fairhaven's otherworldly corner | 1 | No |
 
 Prefer your charts drawn rather than tabled? The [Interactive Island Map](../island/fishing-map.html) marks every one of these waters on the island map — hover a pin and its full roster opens, bait and prices and all.
 
 The deeper spots are progression rewards in themselves — you'll need the story and your pickaxe to reach the Mine's pool ([Mining & Foraging](mining-and-foraging.md)), and the Gloaming belongs to the witchier half of your life ([Island Map](../island/map.md)).
 
-> The Gloaming's waters are not quite of this world. Neither, strictly speaking, are the fish.
+> The Gloaming's waters are not quite of this world. Neither, strictly speaking, is its single fish.
 
 ---
 
@@ -68,7 +73,7 @@ Every fish is determined purely by *where* you cast and *what* you cast with. Th
 
 <span class="handwritten">no almanac needed — just the right worm in the right water 🎣</span>
 
-A practical corollary: carry a spread of all three baits when filling out the compendium, and work each location bait-by-bait to flush out its full roster.
+A practical corollary: at the River, the Lake, and the Ocean, carry a spread of baits and work each one in turn to flush out the full roster. At the Mountain, the Mine, and the Gloaming, any bait will do.
 
 ---
 
@@ -76,19 +81,19 @@ A practical corollary: carry a spread of all three baits when filling out the co
 
 Each bait deserves its own entry in the journal — where it comes from, what it costs, and what only *it* can tempt.
 
-| Bait | Buy price | Where to get it |
-| --- | --- | --- |
-| **Worm** | 4 coins | [Bruno's stall](../island/shops.md), Soft and Son's Fish & Tackle |
-| **Cricket** | 6 coins | Bruno's stall — or the Woods, with feline help (see below) |
-| **Chub** | 4 coins | Bruno's stall — or catch your own at the Mountain |
+| Bait | Buy price | Where to get it | The only bait for |
+| --- | --- | --- | --- |
+| **Worm** | 4 coins | [Bruno's stall](../island/shops.md), Soft and Son's Fish & Tackle | Minnow |
+| **Cricket** | 6 coins | Bruno's stall — or the Woods, with feline help (see below) | Dorado, Sea Urchin |
+| **Chub** | 4 coins | Bruno's stall — or catch your own at the Mountain | Scup, Scallop |
 
 ### Worms
 
-The humble worm: a wiggly little creature and the tackle box's workhorse. Cheapest of the three, always in stock at Bruno's, and the bait that draws the everyday rosters — your Minnows, Sardines, and Carp. When in doubt, start with a worm; upgrade only when a spot stops owing you fish.
+The humble worm: a wiggly little creature and the tackle box's workhorse. Cheap, always in stock at Bruno's, and the only bait the **Minnow** will take. It also draws everyday catches like Sardines and Carp.
 
 ### Crickets, and a Shift in Perspective
 
-An insect from the Woods, a touch dearer at 6 coins — and the bait behind some of the compendium's cricket-*only* prizes, the **Dorado** and the **Sea Urchin** (both in the Ocean).
+An insect from the Woods, a touch dearer at 6 coins — and the bait behind the Ocean's two cricket-*only* prizes, the **Dorado** (40 coins) and the **Sea Urchin** (80 coins, the most valuable catch on the island). Fish that bite on crickets also sell for a little more on average than the worm or chub crowd.
 
 Now, the riddle. The cricket's own description ends with a wink: *"Can't catch it? Maybe you need to **shift** your perspective."* That "shift" is not idle phrasing — it's a pun on **shapeshifting**. There are two free ways to keep crickets coming, and both run through [Cleocatra](../witchcraft/familiars.md):
 
@@ -103,29 +108,44 @@ So: can't catch a cricket? Shift — literally — your perspective. A witch's t
 
 The odd one of the family: chub is the only bait that is *also a fish*. It swims at the **Mountain** (taking chub or worm bait, fittingly), sells for 3 coins, and is too small for any recipe — its whole purpose is the hook or Bruno's counter.
 
-Bruno teaches you about chub bait early in Spring, but you can't catch your own until **Summer**, once Parker has fixed the bridge to the Mountain — until then, buy them at his stall. It earns its keep as the connoisseur's bait: within any spot it tempts the choicest takers, and two catches answer to chub *alone* — the **Scup** and the **Scallop** (both in the Ocean).
+Bruno teaches you about chub bait early in Spring, but you can't catch your own until **Summer**, once Parker has fixed the bridge to the Mountain — until then, buy them at his stall. Two Ocean catches answer to chub *alone*: the **Scup** and the **Scallop**.
 
 ---
 
-## Where the Rare Fish Hide {#rare-fish}
+## Best Catches, and Where the Money Swims {#rare-fish}
 
-Because bait and location are the only factors, rarity in Fairhaven is not luck — it is *geography plus tackle*. Two rules govern the whole hunt:
+Because bait and location are the only factors, a "rare" fish in Fairhaven is never luck — it's the right bait in the right water. The surprise is *which* water: the late-game spots are for completing the compendium, not for getting rich. **The Ocean is the money water**, home to most of the island's priciest catches:
 
-1. **Rarity deepens with the water.** The River and Ocean hold the common, everyday catch; the harder a spot is to reach, the finer its fish. The late-game waters — the **Mountain**, the **Gloaming**, and the pool at the very bottom of the **Mine (level 20)** — are where the compendium's rarest entries swim.
-2. **Upgrade the bait before you blame the water.** Within any one spot, each bait draws its own roster, and **chub** — the dearest of the three — tempts the choicest takers. If a spot seems fished out on worms, it usually still owes you its cricket and chub catches.
+| Fish | Where | Bait | Coins |
+| --- | --- | --- | --- |
+| **Sea Urchin** | Ocean | **Cricket only** | **80** |
+| Salmon | Mountain | Any | 60 |
+| Halibut | Ocean | Cricket / Chub | 50 |
+| Lobster | Ocean | Cricket / Chub | 50 |
+| Shrimp | Ocean | Any | 50 |
+| Rainbow Trout | Mountain | Any | 50 |
+| Eel | River | Cricket / Chub | 45 |
 
 A hunting order for the completionist:
 
-| If you're missing... | Go here, and work every bait |
+| Water | How to work it |
 | --- | --- |
-| Common entries | River (your own farm) and the Ocean — no travel, no prerequisites |
-| Mid-tier entries | Forest Lake in the Woods, then the Mountain once it opens |
-| The rare and strange | The Gloaming — otherworldly waters, otherworldly fish ([Island Map](../island/map.md)) |
-| The deepest prizes | The Mine's pool at level 20 — earn your way down with the pickaxe ([Mining & Foraging](mining-and-foraging.md)) |
+| River (your own farm) | No travel time. Rotate all three baits — the Minnow wants worms. |
+| Ocean | The biggest roster (25). Rotate all three baits; crickets for the Dorado and Sea Urchin, chub for the Scup and Scallop. |
+| Forest Lake | Six fish. Bring crickets or chub — Bluegill, Brown Trout, and Black Crappie won't touch a worm. |
+| Mountain | Opens in Summer. Any bait catches five of the six; the chub itself wants worms or chub. |
+| Mine, level 20 | Five fish, any bait — earn your way down with the pickaxe ([Mining & Foraging](mining-and-foraging.md)). |
+| The Gloaming | One entry, the **Complifish** — any bait, and it can't be sold ([Island Map](../island/map.md)). |
 
-Rare catches are worth more at [Bruno's counter](../island/shops.md), dearer still as [gifts](../characters/gift-preferences.md) to the right villager — and remember from the [ledger](../reference/money-making.md): the *common* fish are the ones to feed the fish sticks pan, never these.
+The cheapest catches (Sardine and Herring at 3 coins, Shiner, Walleye, and Carp at 5) are the ones to feed the fish fingers pan; keep the pricier fish for Bruno's counter ([Money-Making](../reference/money-making.md)).
 
-<span class="handwritten">chub in the Gloaming — that's where my strangest entry came from 🐟</span>
+<span class="handwritten">crickets at the Ocean — that's where the coin is, and the urchins 🐟</span>
+
+---
+
+## Recipe Bottles {#bottles}
+
+Now and then a **bottle** bobs up instead of a fish. Reel it in like any catch (it uses up the bait) and it unlocks a cooking recipe. The wiki lists 22 recipes you can fish up this way, among them **Loco Moco** and **Poke Bowl** (two of Kai's favorites), **Jambalaya** and **Praline Cookie** (Eury's), **Pierogi** and **Rumbledethumps** (Angus's), and **Rice Wine** (Kim's). So if a resident's favorite won't turn up anywhere else, keep fishing — see [Gift Preferences](../characters/gift-preferences.md).
 
 ---
 
@@ -134,8 +154,8 @@ Rare catches are worth more at [Bruno's counter](../island/shops.md), dearer sti
 | Use | Notes |
 | --- | --- |
 | **Cooking** | Fish anchor a healthy shelf of recipes — see [Cooking](../crafting/cooking.md). Cooked dishes generally out-earn raw ingredients. |
-| **Selling** | Honest coin, with rarer catches from the deeper spots fetching more ([Money-Making](../reference/money-making.md)). |
-| **Gifts** | Several villagers are delighted by a fresh catch — Bruno above all appreciates a kindred spirit. Consult [Gift Preferences](../characters/gift-preferences.md). |
+| **Selling** | Honest coin at Bruno's counter; the Ocean's cricket and chub catches fetch the most ([Money-Making](../reference/money-making.md)). |
+| **Gifts** | Raw fish are favorites only for Cleocatra the cat (salmon and tuna). For everyone else, cook them first — Bruno, for one, loves a Fried Flounder Sandwich ([Gift Preferences](../characters/gift-preferences.md)). |
 | **Quests** | Story and side quests periodically send you to the water; a stocked fish chest saves a trip. |
 
 ---
@@ -149,237 +169,69 @@ Rare catches are worth more at [Bruno's counter](../island/shops.md), dearer sti
 
 ---
 
-## The Compendium So Far {#compendium}
+## Every Fish, A–Z {#compendium}
 
-Pressed between these pages: the island's fish as the compendium paints them, filed A through Z. Every last one has been landed, painted, and pinned — the plate is complete.
+All 56 entries in the fishing compendium — where each one bites, the bait it takes, and what Bruno pays. **Bold bait** means that fish takes nothing else; the Complifish (—) can't be sold.
 
-<div class="specimen-grid parchment">
-  <figure>
-    <img src="{{ '/assets/images/wiki/fish/black-crappie.png' | relative_url }}" alt="Black Crappie, as painted in the fishing compendium" loading="lazy">
-    <figcaption>Black Crappie</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/fish/blind-eel.png' | relative_url }}" alt="Blind Eel, as painted in the fishing compendium" loading="lazy">
-    <figcaption>Blind Eel</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/fish/blindcat.png' | relative_url }}" alt="Blindcat, as painted in the fishing compendium" loading="lazy">
-    <figcaption>Blindcat</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/fish/bluegill.png' | relative_url }}" alt="Bluegill, as painted in the fishing compendium" loading="lazy">
-    <figcaption>Bluegill</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/fish/bonito.png' | relative_url }}" alt="Bonito, as painted in the fishing compendium" loading="lazy">
-    <figcaption>Bonito</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/fish/brown-trout.png' | relative_url }}" alt="Brown Trout, as painted in the fishing compendium" loading="lazy">
-    <figcaption>Brown Trout</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/fish/carp.png' | relative_url }}" alt="Carp, as painted in the fishing compendium" loading="lazy">
-    <figcaption>Carp</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/fish/catfish.png' | relative_url }}" alt="Catfish, as painted in the fishing compendium" loading="lazy">
-    <figcaption>Catfish</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/fish/char.png' | relative_url }}" alt="Char, as painted in the fishing compendium" loading="lazy">
-    <figcaption>Char</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/fish/chub.png' | relative_url }}" alt="Chub, as painted in the fishing compendium" loading="lazy">
-    <figcaption>Chub</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/fish/clam.png' | relative_url }}" alt="Clam, as painted in the fishing compendium" loading="lazy">
-    <figcaption>Clam</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/fish/complifish.png' | relative_url }}" alt="Complifish, as painted in the fishing compendium" loading="lazy">
-    <figcaption>Complifish</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/fish/crawfish.png' | relative_url }}" alt="Crawfish, as painted in the fishing compendium" loading="lazy">
-    <figcaption>Crawfish</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/fish/dab.png' | relative_url }}" alt="Dab, as painted in the fishing compendium" loading="lazy">
-    <figcaption>Dab</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/fish/dace.png' | relative_url }}" alt="Dace, as painted in the fishing compendium" loading="lazy">
-    <figcaption>Dace</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/fish/darter.png' | relative_url }}" alt="Darter, as painted in the fishing compendium" loading="lazy">
-    <figcaption>Darter</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/fish/dorado.png' | relative_url }}" alt="Dorado, as painted in the fishing compendium" loading="lazy">
-    <figcaption>Dorado</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/fish/eel.png' | relative_url }}" alt="Eel, as painted in the fishing compendium" loading="lazy">
-    <figcaption>Eel</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/fish/flounder.png' | relative_url }}" alt="Flounder, as painted in the fishing compendium" loading="lazy">
-    <figcaption>Flounder</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/fish/gar.png' | relative_url }}" alt="Gar, as painted in the fishing compendium" loading="lazy">
-    <figcaption>Gar</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/fish/golden-catfish.png' | relative_url }}" alt="Golden Catfish, as painted in the fishing compendium" loading="lazy">
-    <figcaption>Golden Catfish</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/fish/grotto-sculpin.png' | relative_url }}" alt="Grotto Sculpin, as painted in the fishing compendium" loading="lazy">
-    <figcaption>Grotto Sculpin</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/fish/haddock.png' | relative_url }}" alt="Haddock, as painted in the fishing compendium" loading="lazy">
-    <figcaption>Haddock</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/fish/halibut.png' | relative_url }}" alt="Halibut, as painted in the fishing compendium" loading="lazy">
-    <figcaption>Halibut</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/fish/herring.png' | relative_url }}" alt="Herring, as painted in the fishing compendium" loading="lazy">
-    <figcaption>Herring</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/fish/loach.png' | relative_url }}" alt="Loach, as painted in the fishing compendium" loading="lazy">
-    <figcaption>Loach</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/fish/lobster.png' | relative_url }}" alt="Lobster, as painted in the fishing compendium" loading="lazy">
-    <figcaption>Lobster</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/fish/mackerel.png' | relative_url }}" alt="Mackerel, as painted in the fishing compendium" loading="lazy">
-    <figcaption>Mackerel</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/fish/minnow.png' | relative_url }}" alt="Minnow, as painted in the fishing compendium" loading="lazy">
-    <figcaption>Minnow</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/fish/mussel.png' | relative_url }}" alt="Mussel, as painted in the fishing compendium" loading="lazy">
-    <figcaption>Mussel</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/fish/oyster.png' | relative_url }}" alt="Oyster, as painted in the fishing compendium" loading="lazy">
-    <figcaption>Oyster</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/fish/perch.png' | relative_url }}" alt="Perch, as painted in the fishing compendium" loading="lazy">
-    <figcaption>Perch</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/fish/pike.png' | relative_url }}" alt="Pike, as painted in the fishing compendium" loading="lazy">
-    <figcaption>Pike</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/fish/pupfish.png' | relative_url }}" alt="Pupfish, as painted in the fishing compendium" loading="lazy">
-    <figcaption>Pupfish</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/fish/rainbow-trout.png' | relative_url }}" alt="Rainbow Trout, as painted in the fishing compendium" loading="lazy">
-    <figcaption>Rainbow Trout</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/fish/salmon.png' | relative_url }}" alt="Salmon, as painted in the fishing compendium" loading="lazy">
-    <figcaption>Salmon</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/fish/sardine.png' | relative_url }}" alt="Sardine, as painted in the fishing compendium" loading="lazy">
-    <figcaption>Sardine</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/fish/scallop.png' | relative_url }}" alt="Scallop, as painted in the fishing compendium" loading="lazy">
-    <figcaption>Scallop</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/fish/scup.png' | relative_url }}" alt="Scup, as painted in the fishing compendium" loading="lazy">
-    <figcaption>Scup</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/fish/sea-bass.png' | relative_url }}" alt="Sea Bass, as painted in the fishing compendium" loading="lazy">
-    <figcaption>Sea Bass</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/fish/sea-urchin.png' | relative_url }}" alt="Sea Urchin, as painted in the fishing compendium" loading="lazy">
-    <figcaption>Sea Urchin</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/fish/shad.png' | relative_url }}" alt="Shad, as painted in the fishing compendium" loading="lazy">
-    <figcaption>Shad</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/fish/shiner.png' | relative_url }}" alt="Shiner, as painted in the fishing compendium" loading="lazy">
-    <figcaption>Shiner</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/fish/shrimp.png' | relative_url }}" alt="Shrimp, as painted in the fishing compendium" loading="lazy">
-    <figcaption>Shrimp</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/fish/skate.png' | relative_url }}" alt="Skate, as painted in the fishing compendium" loading="lazy">
-    <figcaption>Skate</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/fish/smelt.png' | relative_url }}" alt="Smelt, as painted in the fishing compendium" loading="lazy">
-    <figcaption>Smelt</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/fish/snapper.png' | relative_url }}" alt="Snapper, as painted in the fishing compendium" loading="lazy">
-    <figcaption>Snapper</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/fish/sole.png' | relative_url }}" alt="Sole, as painted in the fishing compendium" loading="lazy">
-    <figcaption>Sole</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/fish/squid.png' | relative_url }}" alt="Squid, as painted in the fishing compendium" loading="lazy">
-    <figcaption>Squid</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/fish/studfish.png' | relative_url }}" alt="Studfish, as painted in the fishing compendium" loading="lazy">
-    <figcaption>Studfish</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/fish/sturgeon.png' | relative_url }}" alt="Sturgeon, as painted in the fishing compendium" loading="lazy">
-    <figcaption>Sturgeon</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/fish/sucker.png' | relative_url }}" alt="Sucker, as painted in the fishing compendium" loading="lazy">
-    <figcaption>Sucker</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/fish/sunfish.png' | relative_url }}" alt="Sunfish, as painted in the fishing compendium" loading="lazy">
-    <figcaption>Sunfish</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/fish/tuna.png' | relative_url }}" alt="Tuna, as painted in the fishing compendium" loading="lazy">
-    <figcaption>Tuna</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/fish/walleye.png' | relative_url }}" alt="Walleye, as painted in the fishing compendium" loading="lazy">
-    <figcaption>Walleye</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/fish/whiting.png' | relative_url }}" alt="Whiting, as painted in the fishing compendium" loading="lazy">
-    <figcaption>Whiting</figcaption>
-  </figure>
-</div>
+| Fish | Where | Bait | Coins |
+| --- | --- | --- | --- |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/fish/black-crappie.png' | relative_url }}" alt="" loading="lazy">**Black Crappie** | Lake | Cricket / Chub | 35 |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/fish/blind-eel.png' | relative_url }}" alt="" loading="lazy">**Blind Eel** | Mine | Any | 35 |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/fish/blindcat.png' | relative_url }}" alt="" loading="lazy">**Blindcat** | Mine | Any | 35 |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/fish/bluegill.png' | relative_url }}" alt="" loading="lazy">**Bluegill** | Lake | Cricket / Chub | 20 |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/fish/bonito.png' | relative_url }}" alt="" loading="lazy">**Bonito** | Ocean | Cricket / Chub | 35 |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/fish/brown-trout.png' | relative_url }}" alt="" loading="lazy">**Brown Trout** | Lake | Cricket / Chub | 35 |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/fish/carp.png' | relative_url }}" alt="" loading="lazy">**Carp** | Lake | Worm / Chub | 5 |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/fish/catfish.png' | relative_url }}" alt="" loading="lazy">**Catfish** | Lake | Any | 20 |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/fish/char.png' | relative_url }}" alt="" loading="lazy">**Char** | Lake | Any | 35 |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/fish/chub.png' | relative_url }}" alt="" loading="lazy">**Chub** | Mountain | Worm / Chub | 3 |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/fish/clam.png' | relative_url }}" alt="" loading="lazy">**Clam** | Ocean | Any | 35 |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/fish/complifish.png' | relative_url }}" alt="" loading="lazy">**Complifish** | Gloaming | Any | — |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/fish/crawfish.png' | relative_url }}" alt="" loading="lazy">**Crawfish** | River | Any | 25 |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/fish/dab.png' | relative_url }}" alt="" loading="lazy">**Dab** | Ocean | Worm / Chub | 35 |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/fish/dace.png' | relative_url }}" alt="" loading="lazy">**Dace** | Mountain | Any | 35 |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/fish/darter.png' | relative_url }}" alt="" loading="lazy">**Darter** | River | Worm / Chub | 35 |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/fish/dorado.png' | relative_url }}" alt="" loading="lazy">**Dorado** | Ocean | **Cricket only** | 40 |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/fish/eel.png' | relative_url }}" alt="" loading="lazy">**Eel** | River | Cricket / Chub | 45 |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/fish/flounder.png' | relative_url }}" alt="" loading="lazy">**Flounder** | Ocean | Cricket / Chub | 40 |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/fish/gar.png' | relative_url }}" alt="" loading="lazy">**Gar** | River | Any | 35 |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/fish/golden-catfish.png' | relative_url }}" alt="" loading="lazy">**Golden Catfish** | Mine | Any | 20 |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/fish/grotto-sculpin.png' | relative_url }}" alt="" loading="lazy">**Grotto Sculpin** | Mine | Any | 20 |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/fish/haddock.png' | relative_url }}" alt="" loading="lazy">**Haddock** | Ocean | Cricket / Chub | 20 |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/fish/halibut.png' | relative_url }}" alt="" loading="lazy">**Halibut** | Ocean | Cricket / Chub | 50 |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/fish/herring.png' | relative_url }}" alt="" loading="lazy">**Herring** | Ocean | Any | 3 |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/fish/loach.png' | relative_url }}" alt="" loading="lazy">**Loach** | Mine | Any | 20 |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/fish/lobster.png' | relative_url }}" alt="" loading="lazy">**Lobster** | Ocean | Cricket / Chub | 50 |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/fish/mackerel.png' | relative_url }}" alt="" loading="lazy">**Mackerel** | Ocean | Any | 20 |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/fish/minnow.png' | relative_url }}" alt="" loading="lazy">**Minnow** | River | **Worm only** | 20 |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/fish/mussel.png' | relative_url }}" alt="" loading="lazy">**Mussel** | Ocean | Cricket / Chub | 20 |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/fish/oyster.png' | relative_url }}" alt="" loading="lazy">**Oyster** | Ocean | Cricket / Chub | 20 |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/fish/perch.png' | relative_url }}" alt="" loading="lazy">**Perch** | River | Worm / Chub | 15 |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/fish/pike.png' | relative_url }}" alt="" loading="lazy">**Pike** | Mountain | Any | 25 |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/fish/pupfish.png' | relative_url }}" alt="" loading="lazy">**Pupfish** | River | Worm / Chub | 20 |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/fish/rainbow-trout.png' | relative_url }}" alt="" loading="lazy">**Rainbow Trout** | Mountain | Any | 50 |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/fish/salmon.png' | relative_url }}" alt="" loading="lazy">**Salmon** | Mountain | Any | 60 |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/fish/sardine.png' | relative_url }}" alt="" loading="lazy">**Sardine** | Ocean | Worm / Chub | 3 |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/fish/scallop.png' | relative_url }}" alt="" loading="lazy">**Scallop** | Ocean | **Chub only** | 20 |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/fish/scup.png' | relative_url }}" alt="" loading="lazy">**Scup** | Ocean | **Chub only** | 20 |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/fish/sea-bass.png' | relative_url }}" alt="" loading="lazy">**Sea Bass** | Ocean | Any | 25 |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/fish/sea-urchin.png' | relative_url }}" alt="" loading="lazy">**Sea Urchin** | Ocean | **Cricket only** | 80 |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/fish/shad.png' | relative_url }}" alt="" loading="lazy">**Shad** | River | Any | 15 |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/fish/shiner.png' | relative_url }}" alt="" loading="lazy">**Shiner** | River | Worm / Chub | 5 |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/fish/shrimp.png' | relative_url }}" alt="" loading="lazy">**Shrimp** | Ocean | Any | 50 |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/fish/skate.png' | relative_url }}" alt="" loading="lazy">**Skate** | Ocean | Cricket / Chub | 20 |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/fish/smelt.png' | relative_url }}" alt="" loading="lazy">**Smelt** | River | Cricket / Chub | 20 |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/fish/snapper.png' | relative_url }}" alt="" loading="lazy">**Snapper** | Ocean | Cricket / Chub | 15 |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/fish/sole.png' | relative_url }}" alt="" loading="lazy">**Sole** | Ocean | Cricket / Chub | 20 |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/fish/squid.png' | relative_url }}" alt="" loading="lazy">**Squid** | Ocean | Any | 40 |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/fish/studfish.png' | relative_url }}" alt="" loading="lazy">**Studfish** | River | Any | 20 |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/fish/sturgeon.png' | relative_url }}" alt="" loading="lazy">**Sturgeon** | Ocean | Worm / Chub | 20 |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/fish/sucker.png' | relative_url }}" alt="" loading="lazy">**Sucker** | River | Any | 20 |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/fish/sunfish.png' | relative_url }}" alt="" loading="lazy">**Sunfish** | Mountain | Any | 20 |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/fish/tuna.png' | relative_url }}" alt="" loading="lazy">**Tuna** | Ocean | Any | 10 |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/fish/walleye.png' | relative_url }}" alt="" loading="lazy">**Walleye** | River | Any | 5 |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/fish/whiting.png' | relative_url }}" alt="" loading="lazy">**Whiting** | Ocean | Cricket / Chub | 20 |
 
 ---
 
-<span class="handwritten">sign-off tip: chasing one missing fish? change the bait before you change the spot — it's usually the bait 🐟</span>
+<span class="handwritten">sign-off tip: chasing one missing fish? look it up above, then go — the right bait in the right water never misses 🐟</span>

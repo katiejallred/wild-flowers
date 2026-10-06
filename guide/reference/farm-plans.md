@@ -138,7 +138,7 @@ season, weather, or time of day matters, so a methodical route beats luck.
 
 1. **Meet Bruno Soft** in town to unlock fishing. He hands you a rod and your first baits.
 2. **Carry all three baits:** worms, crickets, and chub ([Fishing](../farming/fishing.md#bait)).
-3. **Work one location at a time, bait by bait.** Stay until a spot stops producing anything new, then move on.
+3. **Work one location at a time.** At the River, Lake and Ocean, rotate through the baits until nothing new bites. At the Mountain, Mine and Gloaming, any bait catches everything.
 4. **Fish each new area as soon as it opens**, including the Mountain, the Gloaming, and Mine level 20. New water means new entries.
 5. **Pack a snack.** Fishing spends energy like any other chore, and cooked food keeps the afternoon going.
 6. **Use the [Interactive Island Map](../island/fishing-map.html)** to see which fish live where.
