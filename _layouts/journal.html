@@ -6,12 +6,27 @@
   <meta name="theme-color" content="#e7e0f2">
   {% seo %}
   <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='0.9em' font-size='90'%3E%F0%9F%8C%B8%3C/text%3E%3C/svg%3E">
+  {%- comment -%} Consent Mode defaults must run before any Google tag.
+      In the EEA, UK, and Switzerland every storage type starts denied, so
+      Analytics and ads set no cookies until the visitor accepts in Google's
+      consent message (AdSense → Privacy & messaging), which updates these
+      signals. Everywhere else the defaults stay granted. {%- endcomment %}
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('consent', 'default', {
+      ad_storage: 'denied',
+      ad_user_data: 'denied',
+      ad_personalization: 'denied',
+      analytics_storage: 'denied',
+      wait_for_update: 500,
+      region: ['AT','BE','BG','HR','CY','CZ','DK','EE','FI','FR','DE','GR','HU','IE','IT','LV','LT','LU','MT','NL','PL','PT','RO','SK','SI','ES','SE','IS','LI','NO','GB','CH']
+    });
+  </script>
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2065620637739110" crossorigin="anonymous"></script>
   {%- if site.google_analytics and site.google_analytics != "" %}
   <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
   <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
     gtag('config', '{{ site.google_analytics }}');
   </script>
@@ -181,6 +196,7 @@
       <a href="{{ '/about.html' | relative_url }}">About the Guide</a> ·
       <a href="{{ '/contact.html' | relative_url }}">Contact</a> ·
       <a href="{{ '/privacy.html' | relative_url }}">Privacy Policy</a> ·
+      <a href="{{ '/privacy.html#cookies' | relative_url }}">Cookies</a> ·
       <a href="{{ '/terms.html' | relative_url }}">Terms of Service</a>
     </p>
   </footer>
