@@ -122,7 +122,7 @@ best gift shop on the island.
 2. **Reveal favorites with the crystal ball** instead of guessing ([Spells & Rituals](../witchcraft/spells-and-rituals.md)).
 3. **Talk and gift every day.** The two together build relationships faster than either alone ([Friendship](../characters/friendship.md)).
 4. **Save first-time favorites for the person you're courting.** The first time you give a favorite, it's the largest boost gifting offers. After that it's only a little better than an ordinary gift ([Gift Preferences](../characters/gift-preferences.md)).
-5. **Keep coffee on hand** for everyone else. It's cheap and welcome nearly everywhere.
+5. **Keep cheap gifts on hand** for everyone else. Any gift raises friendship a little, and coffee is a favorite of Parker's.
 6. **Carry a stack of cooked dishes on your rounds** and gift as you pass people ([Shops](../island/shops.md)).
 
 When you're ready to choose, the [Romance Guide](../characters/romance.md) covers every romanceable resident.
