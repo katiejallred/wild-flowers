@@ -2,7 +2,7 @@
 title: "💰 Money-Making Guide"
 description: "Reference and extras for Wylde Flowers — the best money-makers each season, achievements, FAQ, and a glossary of island terms."
 image: /assets/images/card-reference.jpg
-last_modified_at: 2026-09-28
+last_modified_at: 2026-10-06
 ---
 # 💰 Money-Making Guide
 
@@ -17,7 +17,8 @@ Pick **one engine per season** and let it run:
 |---|---|---|
 | Spring | Wheat | Best spring crop (20.8 coins/day) |
 | Summer | Cotton → cloth | Best earner in the game (~39/day), once you have a loom |
-| Fall & winter | Fennel | Best cold-season crop (24.2/day; ~29.5 in a greenhouse) |
+| Fall | Fennel | Best fall crop (24.2/day; ~29.5 in a greenhouse) |
+| Winter | Spinach | Best winter crop (27.5/day) |
 | All year | Fruit trees + beehives | Earn in the background while you do everything else |
 
 Then follow one rule: **process before you sell.** Sell raw only what you can't process, cook, or gift. For step-by-step versions, see [Recommended Farm Plans](farm-plans.md).
@@ -33,7 +34,8 @@ Measured in coins earned per day of growth, the standouts are:
 |---|---|---|---|
 | **Cotton → Cloth** | Summer | ~39 coins/day | The best earner in the game — but only after processing into cloth on the loom |
 | **Strawberry** | Summer | ~28.7 coins/day | The best straight-sale crop in the almanac |
-| **Fennel** | Fall & Winter | ~24 coins/day | The best straight-sale crop of the cold seasons |
+| **Spinach** | Winter | ~27.5 coins/day | The best winter crop, from 3-coin seeds |
+| **Fennel** | Fall & Winter | ~24 coins/day | The best fall crop, and a close second in winter |
 | **Wheat** | Spring | ~20.8 coins/day | The pick of the spring beds |
 | **Sunflowers** | Summer | best summer flower | Strong sale price, and flowers feed your bees while they bloom |
 
@@ -42,7 +44,7 @@ For the full per-season ledger — seed costs, growth times, and every crop's co
 Working principles:
 
 - **Cotton is a manufacturing business, not a crop.** Raw cotton is unremarkable; woven into **cloth** it becomes the island's best money-per-day. Keep the loom busy ([Crafting Stations](../crafting/stations.md)).
-- **Fennel is the cold-season workhorse.** Plant it wall-to-wall in fall and winter and simply linger in those seasons while the coins accumulate. (In a **greenhouse**, out-of-season fennel climbs to about 29.5/day, since off-season produce sells at a premium.)
+- **Fennel and spinach carry the cold seasons.** Plant fennel wall-to-wall in fall, switch to spinach in winter, and simply linger in those seasons while the coins accumulate. (In a **greenhouse**, out-of-season fennel climbs to about 29.5/day, since off-season produce sells at a premium.)
 - **Flowers pay twice.** A blooming flower left unharvested feeds your **beehives**, producing honey and beeswax on the side ([Bees & Orchards](../farming/bees-and-orchards.md)). Sunflowers in summer are the pick of the bunch.
 
 <span class="handwritten">don't cast the ritual while the fennel's still paying rent ❀</span>
@@ -113,7 +115,7 @@ Two habits keep the ledger honest:
 | **Spring** | Wheat in the beds; establish crops and infrastructure; fish and forage to fill gaps. |
 | **Summer** | Strawberries and cotton for the loom; sunflowers for bees and sale. |
 | **Fall** | Fennel fields; harvest everything before any ritual. |
-| **Winter** | More fennel; lean on artisan goods, animals, and the mine. |
+| **Winter** | Spinach fields; lean on artisan goods, animals, and the mine. |
 
 > Lore aside: Hazel kept this farm afloat for decades without min-maxing a single coin. Profit is lovely, but in Fairhaven the real currency is casseroles delivered to neighbors.
 

@@ -2,7 +2,7 @@
 title: "📋 Recommended Farm Plans"
 description: "Six ready-to-follow Wylde Flowers farm plans — a first season, a cloth mill, a long fennel winter, a low-effort orchard, a courtship kitchen, and a completionist's fishing route."
 image: /assets/images/card-reference.jpg
-last_modified_at: 2026-09-28
+last_modified_at: 2026-10-06
 ---
 # 📋 Recommended Farm Plans
 
@@ -28,7 +28,7 @@ of them perfectly. Fairhaven doesn't punish a detour.
 |---|---|---|
 | [First Season](#first-season) | Brand-new farmers | Wheat, then the basics |
 | [Cloth Mill](#cloth-mill) | Players who want the most coins | Cotton → cloth (~39 coins/day) |
-| [Long Fennel Winter](#fennel-winter) | Saving for big projects | Fennel (24.2 coins/day) |
+| [Long Fennel Winter](#fennel-winter) | Saving for big projects | Fennel (24.2/day), then spinach (27.5/day) |
 | [Orchard & Apiary](#orchard-apiary) | Short play sessions, low effort | Fruit trees, honey, and beeswax |
 | [Courtship Kitchen](#courtship-kitchen) | Romance and friendship | Cooked favorites |
 | [Completionist Angler](#angler) | Filling the compendium | Every fish, every location |
@@ -77,11 +77,11 @@ again at the loom, and processing always adds value on this island.
 
 **Best for:** saving up for something big, such as the greenhouse, tool upgrades, or livestock.
 
-**The idea:** fennel is the best crop of both cold seasons, so plant it in
-fall, keep planting it in winter, and don't hurry the calendar.
+**The idea:** fennel is the best fall crop, and winter brings spinach, which
+earns even more. Plant the cold seasons wall to wall and don't hurry the calendar.
 
 1. **Plant fennel wall to wall in fall** (24.2 coins per day).
-2. **Harvest everything, cast the ritual, and plant fennel again in winter.**
+2. **Harvest everything, cast the ritual, and switch to spinach in winter** (27.5 coins per day, with seeds at just 3 coins). Fennel still grows in winter if you'd rather not switch, at 24.2.
 3. **Linger.** Nothing forces the next season. Replant after each harvest and let the coins build.
 4. **Put the savings toward the greenhouse.** Thomas's *Greenhouse Affection* quest asks for 50 wood, 20 iron ingots, 18 glass, and 5,000 coins, delivered to Parker ([Crop Guide](../farming/crops.md)). You'll need a glassworks first, so start stockpiling glass early.
 5. **Once the greenhouse stands**, Lina sells off-season seeds. Off-season produce sells at a premium, and greenhouse fennel climbs to about 29.5 coins per day ([Money-Making](money-making.md)).
