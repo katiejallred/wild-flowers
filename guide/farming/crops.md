@@ -2,13 +2,13 @@
 title: "🚜 Crop Guide"
 description: "Every Wylde Flowers crop by season — seed cost, growth time, sell price, and coins per day — plus the fruit-tree ledger and the greenhouse."
 image: /assets/images/card-crops.jpg
-last_modified_at: 2026-09-28
+last_modified_at: 2026-10-06
 ---
 # 🚜 Crop Guide
 
 A pressed-and-labeled record of what grows in Fairhaven's soil, season by season. Remember the island's great mercy: seasons only change when the coven performs the ritual, so you may linger in any season as long as your ledger requires ([Farming 101](farming-101.md)). Just harvest everything before the ritual — out-of-season crops left in the ground wilt the moment the season turns.
 
-> **Coins/day** is the Guide's profitability measure: (sell price of a full harvest − seed cost) ÷ days to grow. Flowers left blooming (unpicked) also feed any nearby [beehive](bees-and-orchards.md).
+> **Coins/day** is the Guide's profitability measure: (sell price of a full harvest − seed cost) ÷ days to grow. A full harvest is **4 items** from one sowing, so it's 4 × the *Sells for* column. Flowers left blooming (unpicked) also feed any nearby [beehive](bees-and-orchards.md).
 
 <div class="field-notes" markdown="1">
 <span class="specimen-label">Field notes — the short answer</span>
@@ -17,7 +17,8 @@ If you plant nothing else, plant this:
 
 - **Spring:** wheat, the best spring earner (20.8 coins/day).
 - **Summer:** cotton for the loom (~39/day as cloth) and strawberries for straight sale (28.7/day). Tuck a few sunflowers near your beehives and leave them unpicked.
-- **Fall and winter:** fennel, wall to wall (24.2/day). Then *stay* — the season only turns when you cast the ritual.
+- **Fall:** fennel, wall to wall (24.2/day).
+- **Winter:** spinach (27.5/day), with fennel (24.2/day) a close second. Then *stay* — the season only turns when you cast the ritual.
 - **Any time you have 125 spare coins:** a fruit tree. It fruits in every season and never needs water.
 
 Want a full season-by-season plan? See [Recommended Farm Plans](../reference/farm-plans.md).
@@ -46,11 +47,11 @@ Prefer to run the numbers for your own plan? The interactive [Crop Profit Calcul
 
 | Crop | Seeds | Grows in | Sells for | Coins/day | Field notes |
 | --- | --- | --- | --- | --- | --- |
-| **Wheat** | 8 | 8 days | 48 | **20.8** | The best coin of spring. Bread begins here. |
+| **Wheat** | 25 | 8 days | 48 | **20.8** | The best coin of spring. Bread begins here. Seeds once the general store reaches level 1. |
 | Snowdrop 🌸 | 8 | 5 days | 20 | 14.4 | Spring's best flower; from Violet's Violets. |
-| Carrot | 10 | 5 days | 20 | 14 | Sweetens many a recipe besides the table. |
+| Carrot | 10 | 5 days | 20 | 14 | Sweetens many a recipe besides the table. Seeds once the general store reaches level 2. |
 | Potato | 5 | 5 days | 15 | 11 | A sturdy, forgiving staple. |
-| Cauliflower | 15 | 6 days | 20 | 10.8 | Handsome heads for the stockpot. |
+| Cauliflower | 15 | 6 days | 20 | 10.8 | Handsome heads for the stockpot. Seeds once the general store reaches level 3. |
 | Green Bean | 3 | 4 days | 10 | 9.25 | The cheapest seed on the island — a fine first sowing. |
 | Tulip 🌸 | 4 | 4 days | 10 | 9 | Cheerful, quick, and bee-approved. |
 
@@ -79,8 +80,8 @@ Prefer to run the numbers for your own plan? The interactive [Crop Profit Calcul
 | Pumpkin | 10 | 5 days | 24 | 17.2 | Autumn incarnate; Lina and Cameron both approve. |
 | Grapes | 25 | 8 days | 36 | 14.9 | Patience, then wine. |
 | Tiger Lily 🌸 | 8 | 6 days | 20 | 12 | Fall's richer flower, from Violet's Violets. |
-| Soybean | 15 | 7 days | 24 | 11.6 | Seeds from Thomas at his farm. |
 | Cabbage | 8 | 5 days | 15 | 10.4 | Humble, dependable, soup-bound. |
+| Soybean | 25 | 7 days | 24 | 10.1 | Seeds from Thomas at his farm. |
 | Turtlehead Flower 🌸 | 4 | 4 days | 4 | 3 | Grown for love and bees, not money. |
 
 ---
@@ -89,11 +90,11 @@ Prefer to run the numbers for your own plan? The interactive [Crop Profit Calcul
 
 | Crop | Seeds | Grows in | Sells for | Coins/day | Field notes |
 | --- | --- | --- | --- | --- | --- |
-| **Fennel** | 15 | 6 days | 40 | **24.2** | Yes, again — winter's champion too. Whole rows of it. |
+| **Spinach** | 3 | 6 days | 42 | **27.5** | Winter's champion — cheap seeds from Lina at the general store. Vanessa's smoothie of choice. |
+| Fennel | 15 | 6 days | 40 | 24.2 | Yes, again — a close second in winter. |
+| Primrose 🌸 | 4 | 4 days | 24 | 23 | The most profitable flower in the game, a beehive favorite, and needed for the **Spring Ritual Incantation**. Seeds and sales at Violet's Violets. |
 | Onion | 10 | 5 days | 24 | 17.2 | A winter workhorse for the stockpot. |
-| Spinach | 15 | 6 days | 42 | 11.6 | Seeds from Thomas; Vanessa's smoothie of choice. |
-| Primrose 🌸 | — | 4 days | 24 | — | The showy pastel winter flower — quick, rich (sells to Violet's Violets), a beehive favorite, and needed for the **Spring Ritual Incantation**. Community guides rank it the most profitable flower in the game. |
-| Sweet Potato | 20 | 4 days | 12 | 7 | More beloved in Cameron's kitchen than at the till. |
+| Sweet Potato | 4 | 4 days | 12 | 11 | More beloved in Cameron's kitchen than at the till. |
 
 ---
 
@@ -124,9 +125,11 @@ Mulberry trees also give **mulberry leaves** (unsellable, but silkworms adore th
 
 1. **Cotton → cloth** (~39/day) — best overall, requires processing.
 2. **Strawberry** (28.7/day) — best unprocessed crop; summer.
-3. **Fennel** (24.2/day) — best of fall and winter.
-4. **Apple & Mulberry trees** (22/day) — year-round, and never need watering.
-5. **Wheat** (20.8/day) — best of spring.
+3. **Spinach** (27.5/day) — best of winter.
+4. **Fennel** (24.2/day) — best of fall, and a close second in winter.
+5. **Primrose** (23/day) — best flower; winter.
+6. **Apple & Mulberry trees** (22/day) — year-round, and never need watering.
+7. **Wheat** (20.8/day) — best of spring.
 
 ### Practical notes
 
@@ -135,8 +138,12 @@ Mulberry trees also give **mulberry leaves** (unsellable, but silkworms adore th
   <figcaption>glass over the cold seasons — it pays for itself</figcaption>
 </figure>
 
-- **The Greenhouse changes everything.** Thomas sets the **Greenhouse Affection** quest in winter: deliver 50× Wood, 20× Iron Ingot, 18× Glass, and 5,000 coins to Parker Johnson (you'll need a glassworks in your tool shed first — start stockpiling glass early). Once it stands, **Lina sells off-season seeds**, and in Thomas's own words, *"off-season crops fetch a higher price, too."* Parker will also ask you to grow him 4 marigolds — a burst of sunshine for the cold months.
-- **Seeds:** most crops from Lina at the Dahl General Store; flowers from Violet's Violets; cotton, soybean, and spinach from Thomas; tree seedlings from Kai's Treasures ([Shops](../island/shops.md)).
+- **The Greenhouse changes everything.** Thomas sets the **Greenhouse Affection** quest in winter.
+  - **Deliver to Parker Johnson:** 50× Wood, 20× Iron Ingot, 18× Glass, and 5,000 coins.
+  - **Glass first:** you'll need a glassworks in your tool shed, so start stockpiling glass early.
+  - **The payoff:** Lina sells off-season seeds, and in Thomas's own words, *"off-season crops fetch a higher price, too."*
+  - **Afterward:** Parker asks you to grow him 4 marigolds — a burst of sunshine for the cold months.
+- **Seeds:** most crops (spinach included) from Lina at the Dahl General Store, some only after you upgrade the store (see the field notes above); flowers from Violet's Violets; cotton and soybean from Thomas; tree seedlings from Kai's Treasures ([Shops](../island/shops.md)).
 - **Selling isn't the only value.** Crops feed [Cooking](../crafting/cooking.md), [Potions](../witchcraft/potions.md), and gifts villagers adore ([Gift Preferences](../characters/gift-preferences.md)) — sometimes a carrot is worth more as a kindness.
 - For the broader coin picture, see [Money-Making](../reference/money-making.md).
 
@@ -144,13 +151,9 @@ Mulberry trees also give **mulberry leaves** (unsellable, but silkworms adore th
 
 ## Pressed Specimens (A–Z)
 
-The seed drawer and harvest shelf, illustrated — every crop, seed packet, and orchard fruit in the archive, A through Z, rice paddy to tulip bed.
+The seed drawer and harvest shelf, illustrated — every crop, seed packet, and orchard fruit on this page, A through Z, apple to wheat.
 
 <div class="specimen-grid parchment">
-  <figure>
-    <img src="{{ '/assets/images/wiki/crops/anemone-seeds.png' | relative_url }}" alt="Anemone Seeds item icon" loading="lazy">
-    <figcaption>Anemone Seeds</figcaption>
-  </figure>
   <figure>
     <img src="{{ '/assets/images/wiki/crops/apple-tree-seedling.png' | relative_url }}" alt="Apple Tree Seedling item icon" loading="lazy">
     <figcaption>Apple Tree Seedling</figcaption>
@@ -158,30 +161,6 @@ The seed drawer and harvest shelf, illustrated — every crop, seed packet, and 
   <figure>
     <img src="{{ '/assets/images/wiki/crops/apple.png' | relative_url }}" alt="Apple item icon" loading="lazy">
     <figcaption>Apple</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/crops/avocado.png' | relative_url }}" alt="Avocado item icon" loading="lazy">
-    <figcaption>Avocado</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/crops/banana.png' | relative_url }}" alt="Banana item icon" loading="lazy">
-    <figcaption>Banana</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/crops/black-tea-seeds.png' | relative_url }}" alt="Black Tea Seeds item icon" loading="lazy">
-    <figcaption>Black Tea Seeds</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/crops/black-tea.png' | relative_url }}" alt="Black Tea item icon" loading="lazy">
-    <figcaption>Black Tea</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/crops/blackberry.png' | relative_url }}" alt="Blackberry item icon" loading="lazy">
-    <figcaption>Blackberry</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/crops/blueberry.png' | relative_url }}" alt="Blueberry item icon" loading="lazy">
-    <figcaption>Blueberry</figcaption>
   </figure>
   <figure>
     <img src="{{ '/assets/images/wiki/crops/cabbage-seeds.png' | relative_url }}" alt="Cabbage Seeds item icon" loading="lazy">
@@ -208,18 +187,6 @@ The seed drawer and harvest shelf, illustrated — every crop, seed packet, and 
     <figcaption>Cauliflower</figcaption>
   </figure>
   <figure>
-    <img src="{{ '/assets/images/wiki/crops/chili.png' | relative_url }}" alt="Chili item icon" loading="lazy">
-    <figcaption>Chili</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/crops/coconut.png' | relative_url }}" alt="Coconut item icon" loading="lazy">
-    <figcaption>Coconut</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/crops/coriander.png' | relative_url }}" alt="Coriander item icon" loading="lazy">
-    <figcaption>Coriander</figcaption>
-  </figure>
-  <figure>
     <img src="{{ '/assets/images/wiki/crops/corn-seeds.png' | relative_url }}" alt="Corn Seeds item icon" loading="lazy">
     <figcaption>Corn Seeds</figcaption>
   </figure>
@@ -236,28 +203,12 @@ The seed drawer and harvest shelf, illustrated — every crop, seed packet, and 
     <figcaption>Cotton</figcaption>
   </figure>
   <figure>
-    <img src="{{ '/assets/images/wiki/crops/crocus-seeds.png' | relative_url }}" alt="Crocus Seeds item icon" loading="lazy">
-    <figcaption>Crocus Seeds</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/crops/crocus.png' | relative_url }}" alt="Crocus item icon" loading="lazy">
-    <figcaption>Crocus</figcaption>
-  </figure>
-  <figure>
     <img src="{{ '/assets/images/wiki/crops/fennel-seeds.png' | relative_url }}" alt="Fennel Seeds item icon" loading="lazy">
     <figcaption>Fennel Seeds</figcaption>
   </figure>
   <figure>
     <img src="{{ '/assets/images/wiki/crops/fennel.png' | relative_url }}" alt="Fennel item icon" loading="lazy">
     <figcaption>Fennel</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/crops/gladiolus-flower.jpeg' | relative_url }}" alt="Gladiolus Flower item icon" loading="lazy">
-    <figcaption>Gladiolus Flower</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/crops/gladiolus-seed.jpg' | relative_url }}" alt="Gladiolus Seed item icon" loading="lazy">
-    <figcaption>Gladiolus Seed</figcaption>
   </figure>
   <figure>
     <img src="{{ '/assets/images/wiki/crops/grape-seeds.png' | relative_url }}" alt="Grape Seeds item icon" loading="lazy">
@@ -300,10 +251,6 @@ The seed drawer and harvest shelf, illustrated — every crop, seed packet, and 
     <figcaption>Lime</figcaption>
   </figure>
   <figure>
-    <img src="{{ '/assets/images/wiki/crops/magic-bean-seeds.png' | relative_url }}" alt="Magic Bean Seeds item icon" loading="lazy">
-    <figcaption>Magic Bean Seeds</figcaption>
-  </figure>
-  <figure>
     <img src="{{ '/assets/images/wiki/crops/marigold-seeds.png' | relative_url }}" alt="Marigold Seeds item icon" loading="lazy">
     <figcaption>Marigold Seeds</figcaption>
   </figure>
@@ -322,14 +269,6 @@ The seed drawer and harvest shelf, illustrated — every crop, seed packet, and 
   <figure>
     <img src="{{ '/assets/images/wiki/crops/mulberry.png' | relative_url }}" alt="Mulberry item icon" loading="lazy">
     <figcaption>Mulberry</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/crops/olive-tree-seedling.png' | relative_url }}" alt="Olive Tree Seedling item icon" loading="lazy">
-    <figcaption>Olive Tree Seedling</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/crops/olive.png' | relative_url }}" alt="Olive item icon" loading="lazy">
-    <figcaption>Olive</figcaption>
   </figure>
   <figure>
     <img src="{{ '/assets/images/wiki/crops/onion-seeds.png' | relative_url }}" alt="Onion Seeds item icon" loading="lazy">
@@ -378,10 +317,6 @@ The seed drawer and harvest shelf, illustrated — every crop, seed packet, and 
   <figure>
     <img src="{{ '/assets/images/wiki/crops/pumpkin.png' | relative_url }}" alt="Pumpkin item icon" loading="lazy">
     <figcaption>Pumpkin</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/crops/rice.png' | relative_url }}" alt="Rice item icon" loading="lazy">
-    <figcaption>Rice</figcaption>
   </figure>
   <figure>
     <img src="{{ '/assets/images/wiki/crops/snowdrop-seeds.png' | relative_url }}" alt="Snowdrop Seeds item icon" loading="lazy">
@@ -456,10 +391,6 @@ The seed drawer and harvest shelf, illustrated — every crop, seed packet, and 
     <figcaption>Tomato</figcaption>
   </figure>
   <figure>
-    <img src="{{ '/assets/images/wiki/crops/truffle.png' | relative_url }}" alt="Truffle item icon" loading="lazy">
-    <figcaption>Truffle</figcaption>
-  </figure>
-  <figure>
     <img src="{{ '/assets/images/wiki/crops/tulip-bulbs.png' | relative_url }}" alt="Tulip Bulbs item icon" loading="lazy">
     <figcaption>Tulip Bulbs</figcaption>
   </figure>
@@ -483,12 +414,8 @@ The seed drawer and harvest shelf, illustrated — every crop, seed packet, and 
     <img src="{{ '/assets/images/wiki/crops/wheat.png' | relative_url }}" alt="Wheat item icon" loading="lazy">
     <figcaption>Wheat</figcaption>
   </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/crops/white-truffle.png' | relative_url }}" alt="White Truffle item icon" loading="lazy">
-    <figcaption>White Truffle</figcaption>
-  </figure>
 </div>
 
 ---
 
-<span class="handwritten">sign-off tip: strawberries all summer, fennel all winter, and a loom that never sleeps 🧵</span>
+<span class="handwritten">sign-off tip: strawberries all summer, spinach all winter, and a loom that never sleeps 🧵</span>
