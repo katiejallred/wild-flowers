@@ -35,9 +35,9 @@ The quests in this stretch are mostly conversations, discoveries, and small erra
 | Do | Because |
 | --- | --- |
 | Follow every story quest promptly | The coven storyline gates all magic — no spells unlock until you're through it |
-| Keep farming daily | Story scenes cost time, and coin keeps flowing only if crops do |
-| Talk to Hazel often | Her scenes in this stretch are among the loveliest in the game |
-| Befriend widely | Friendships planted now bloom into [character quests](side-quests.md) later |
+| Keep farming daily | Story scenes take up hours of the day, and crops are still your main source of coin |
+| Talk to Hazel often | Hazel is the coven's Elder, and this is the stretch where that comes out |
+| Befriend widely | Villagers' personal [character quests](side-quests.md) come later and depend on the friendships you build now |
 
 If you're curious what awaits on the other side of the veil, the [Introduction to Witchcraft](../witchcraft/introduction.md) covers the craft itself without treading further on the story.
 

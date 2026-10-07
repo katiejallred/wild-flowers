@@ -62,7 +62,7 @@ A little forward planning turns festival season from scramble to stroll:
 | **Cooked dishes** | Festival prep quests often call for specific recipes — keep staple ingredients on hand ([Cooking](../crafting/cooking.md)). |
 | **Seasonal crops** | Requests tend to match the season; don't sell your entire harvest the week a festival is announced ([Crops](../farming/crops.md)). |
 | **Crafted goods** | Candles, cloth, and other [artisan goods](../crafting/artisan-goods.md) occasionally feature in preparations and gifts. |
-| **Gifts** | With the whole town gathered, festival day is peak gifting efficiency ([Friendship](../characters/friendship.md)). |
+| **Gifts** | Nearly everyone attends, so you can hand a gift to the whole town in one place ([Friendship](../characters/friendship.md)). |
 
 ## 🔁 Festivals and the Turning Seasons
 

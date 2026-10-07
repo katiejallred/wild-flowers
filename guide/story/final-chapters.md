@@ -64,7 +64,7 @@ The story keeps growing after the credits — keep talking to neighbours and vis
 
 <figure class="snapshot">
   <img src="{{ '/assets/images/story/ravenwood-boat.jpg' | relative_url }}" alt="Tara rides the repaired boat across the lake toward Ravenwood Hollow." loading="lazy">
-  <figcaption>the ferry between worlds, lately repaired ⛵</figcaption>
+  <figcaption>the repaired boat that ferries you to Ravenwood Hollow ⛵</figcaption>
 </figure>
 
 Studio Drydock kept planting after the credits. Major free updates added whole new beds to this garden:

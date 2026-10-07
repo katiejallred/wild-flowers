@@ -65,9 +65,9 @@ The Town Center holds several other verified businesses you'll come to know:
 | **Seton's Bakery** | Baked goods from the Seton household (Angus & Francis). |
 | **Soft and Son's Fish & Tackle** | The Softs' fishing shop — see [Fishing](../farming/fishing.md). |
 | **The Jewelry Box** | Fine things and gift material. |
-| **Violet's Violets** | The flower shop — fitting, for this island. |
+| **Violet's Violets** | The flower shop in the Town Center. |
 | **Nailed It!** | Parker Johnson's carpentry business — your partner for the farm's building projects (the greenhouse among them). |
-| **The Bar** | Damon Mthembu-Haas pours here; a favorite evening haunt. |
+| **The Bar** | Damon Mthembu-Haas pours here. |
 
 > A note from the margins: every shopkeeper is also a neighbor with a friendship level, so say hello while you shop — daily chats count toward [friendships](../characters/friendship.md).
 

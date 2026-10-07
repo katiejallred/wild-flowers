@@ -30,8 +30,8 @@ Play both sides of your life deliberately:
 
 | Tend | How |
 | --- | --- |
-| The coven | Keep completing magical tasks; every spell earned now matters later |
-| The town | Keep [friendships](../characters/friendship.md) warm — including with League folk. Cameron himself is a neighbour, not a cartoon |
+| The coven | Keep completing magical tasks for coven members — each one unlocks another page of your grimoire |
+| The town | Keep [friendships](../characters/friendship.md) warm — including with League folk, Cameron among them; the townsfolk drift toward suspicion of the coven this autumn |
 | The farm | Autumn crops and preserves fund everything; see [Crops](../farming/crops.md) |
 
 Autumn also crowds the town calendar with distinctly unmagical drama — an **election** stirs Town Hall, and a **wedding** brings out everyone's good coats — and both run alongside your coven tasks, because Fairhaven's ordinary life doesn't pause for witchcraft.

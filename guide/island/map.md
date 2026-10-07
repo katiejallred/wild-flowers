@@ -8,7 +8,7 @@ Every field guide needs a map pressed between its pages. Fairhaven is a small, m
 
 <figure class="snapshot">
   <img src="{{ '/assets/images/wiki/island/map-of-fairhaven.png' | relative_url }}" alt="The illustrated map of Fairhaven island." loading="lazy">
-  <figcaption>the island entire, pressed flat at last 🗺️</figcaption>
+  <figcaption>the illustrated map of Fairhaven 🗺️</figcaption>
 </figure>
 
 <div class="snapshot-row">

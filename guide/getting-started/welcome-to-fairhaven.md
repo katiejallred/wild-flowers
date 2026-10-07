@@ -14,7 +14,7 @@ That is the story on the seed packet, anyway. Dig a little deeper and you'll fin
 
 <figure class="snapshot">
   <img src="{{ '/assets/images/wiki/characters/tara-wylde.jpg' | relative_url }}" alt="Tara Wylde holding a glowing purple lotus bloom in her palm." loading="lazy">
-  <figcaption>the specimen herself: Tara Wylde, farmer by day, witch by night 🌙</figcaption>
+  <figcaption>Tara Wylde, holding a glowing lotus bloom 🌙</figcaption>
 </figure>
 
 ---
@@ -52,7 +52,7 @@ A quick sampling from the field, properly catalogued in the [Character Directory
 | Sophia Moretti | ...diner coffee steams — cook and proprietor |
 | Natalia Kuznetsova | ...forge sparks fly — the blacksmith who upgrades your tools |
 | Cameron Conner | ...sermons get loud — a former child actor with strong opinions about the "unnatural" |
-| Cleocatra | ...sunbeam is warmest — a cat of consequence |
+| Cleocatra | ...sunbeam is warmest — the island cat, who can be adopted later on |
 
 Later seasons of play bring newcomers too — a hairdresser, and stranger visitors besides — but those are pages for another day.
 
