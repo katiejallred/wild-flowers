@@ -59,4 +59,4 @@ Studio Drydock has also tended this game like a perennial bed: **major free upda
 
 For the mechanics behind the magic, cross-pollinate with [Introduction to Witchcraft](../witchcraft/introduction.md) and [Spells & Rituals](../witchcraft/spells-and-rituals.md). For the calendar of merriment, see [Festivals & Events](../island/festivals-and-events.md).
 
-<span class="handwritten">Every story on this island starts with a seed and a secret. — K. 🌙</span>
+<span class="handwritten">Hazel's wish, copied here so I do not forget it: coven and town as one Fairhaven. — K. 🌙</span>

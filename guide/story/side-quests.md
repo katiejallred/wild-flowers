@@ -4,7 +4,7 @@ last_modified_at: 2026-09-20
 ---
 # 📜 Side Quests
 
-Between the great turnings of the main story, Fairhaven hums with smaller growth: character quests, favours, and requests. These are the wildflowers between the crop rows — entirely optional, and entirely the point.
+Between the great turnings of the main story, Fairhaven hums with smaller growth: character quests, favours, and requests. These are the wildflowers between the crop rows — entirely optional, and the way most of your neighbours' own stories get told.
 
 ## How Side Quests Sprout
 
@@ -31,9 +31,9 @@ A few pressed examples, so you know the genus when you see it:
 - **Incantation Vexation** — the Farseer's quest series introducing incantation crafting; coven side-work that doubles as your magical schooling. ([Chapter 3](chapter-03.md))
 - **Meant To Bee** — the quest that formalizes your beekeeping career, pun fully intended ([Bees & Orchards](../farming/bees-and-orchards.md)).
 - **Oh, Chute** — in which Giva's scientific enthusiasm becomes… kinetic. Giva quests are reliably a delight.
-- **The Silent Treatment** — a winter request from Thomas and Marty: brew a Silencing Potion for Westley, the resident werewolf, whose howling keeps the neighbourhood awake. Equal parts errand and kindness.
-- **Swept Off Your Feet** — Zephyr Grimspark's quest that unlocks **fast travel by broom**: bring her 1× Essence of Silver, 1× Levitation Potion, and the broom from Gramma's room. Every field botanist eventually earns her wings.
-- **A League of One's Own** — post-story, Cameron asks for 10× Paper and 2× Black Ink to write mending sermons. A small quest carrying a large heart. ([Final Chapters](final-chapters.md))
+- **The Silent Treatment** — a winter request from Thomas and Marty: brew a Silencing Potion for Westley, the resident werewolf, whose howling keeps the neighbourhood awake.
+- **Swept Off Your Feet** — Zephyr Grimspark's quest that unlocks **fast travel by broom**: bring her 1× Essence of Silver, 1× Levitation Potion, and the broom from Gramma's room.
+- **A League of One's Own** — post-story, Cameron asks for 10× Paper and 2× Black Ink to write mending sermons that undo the harm his old ones caused. ([Final Chapters](final-chapters.md))
 
 Character quest lines also grow around the island's couples and families — Angus and Francis, the Johnsons, the Softs — and around later arrivals like Eury Sinclair and the folk of Ravenwood Hollow, whose quest lines (such as the series that begins during Eury's *Glam-more* storyline) arrived with the free updates.
 
@@ -191,4 +191,4 @@ Sketches clipped from the quest journal — moments from the side stories above 
 
 **See also:** the [Chapter Guide Overview](overview.md) for how the main stalk grows, and the [Character Directory](../characters/directory.md) for who's who among your neighbours.
 
-<span class="handwritten">The main story is the oak. These are the mosses, and I love them more. — K. 🌙</span>
+<span class="handwritten">Giva's are the ones I reread; Oh, Chute still makes me laugh. — K. 🌙</span>

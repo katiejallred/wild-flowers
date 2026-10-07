@@ -42,7 +42,7 @@ Handle this pressing gently, reader. **At the end of the first spring, Hazel pas
 
 It is also where her wish takes root in Tara: that the two halves of the island — coven and town — might one day be one community, unafraid of each other.
 
-Grief, too, is tended the Fairhaven way. Afterwards you can visit Hazel's grave in the town graveyard and **leave flowers**, and Tara is invited to a **grief support group** alongside other townsfolk who have lost someone — Violet, her little brother Sebastián, Juliet, and the mayor's wife among them — small, quiet scenes that are among the most gently written in the game. The town keeps Hazel's memory alive in much of what it does, and so should your margins.
+Grief, too, is tended the Fairhaven way. Afterwards you can visit Hazel's grave in the town graveyard and **leave flowers**, and Tara is invited to a **grief support group** alongside other townsfolk who have lost someone — Violet, her little brother Sebastián, Juliet, and the mayor's wife among them — small, quiet scenes that are among the most gently written in the game. The town keeps Hazel's memory alive in much of what it does.
 
 <span class="handwritten">Pressed here: one sprig of rosemary, for remembrance. 🌙</span>
 
@@ -50,4 +50,4 @@ Grief, too, is tended the Fairhaven way. Afterwards you can visit Hazel's grave 
 
 **Previous:** [Chapter 2: The Family Secret](chapter-02.md) · **Next:** summer training and gathering clouds in [Chapters 4–6](chapters-04-06.md).
 
-<span class="handwritten">The robes fit. They always fit a Wylde. — K.</span>
+<span class="handwritten">The robes fit, as Hazel said they have fit every Wylde before me. — K.</span>
