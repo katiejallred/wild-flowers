@@ -34,7 +34,7 @@ Your grandmother Hazel's farm sits at the heart of your story, on the west side 
 - **The tool shed**, upgradeable into a proper workshop with crafting stations such as a candle maker and glass kiln ([Crafting Stations](../crafting/stations.md)).
 - **The mine entrance**, conveniently beside the house — many levels of ore and gems await ([Mining & Foraging](../farming/mining-and-foraging.md)).
 
-> Hazel Wylde tended this land for decades before you arrived. The island remembers her fondly — and so will you.
+> Hazel Wylde tended this land for decades before you arrived, and the island remembers her fondly.
 
 ## 🏘️ Town Center
 

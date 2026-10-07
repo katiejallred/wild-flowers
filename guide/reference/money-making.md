@@ -43,7 +43,7 @@ For the full per-season ledger — seed costs, growth times, and every crop's co
 
 Working principles:
 
-- **Cotton is a manufacturing business, not a crop.** Raw cotton is unremarkable; woven into **cloth** it becomes the island's best money-per-day. Keep the loom busy ([Crafting Stations](../crafting/stations.md)).
+- **Cotton only pays once it's woven.** Raw cotton is unremarkable; woven into **cloth** it becomes the island's best money-per-day. Keep the loom busy ([Crafting Stations](../crafting/stations.md)).
 - **Fennel and spinach carry the cold seasons.** Plant fennel wall-to-wall in fall, switch to spinach in winter, and simply linger in those seasons while the coins accumulate. (In a **greenhouse**, out-of-season fennel climbs to about 29.5/day, since off-season produce sells at a premium.)
 - **Flowers pay twice.** A blooming flower left unharvested feeds your **beehives**, producing honey and beeswax on the side ([Bees & Orchards](../farming/bees-and-orchards.md)). Sunflowers in summer are the pick of the bunch.
 
@@ -68,7 +68,7 @@ Animals are steady, low-effort income once established: daily eggs, milk, and wo
 
 Fishing is honest supplementary income — no seeds to buy, no beds to water. Catches vary in value by species and location, and rarer fish fetch better prices. It shines early game (before your farm scales up) and as a use for evening hours. See [Fishing](../farming/fishing.md).
 
-- **Fish sticks are the fisher's cloth.** The kitchen's **fish sticks** recipe accepts *any* fish, so a bucketful of cheap, common catches cooks up into dishes worth more than the fish that went into them ([Cooking](../crafting/cooking.md)). Batch-cook the everyday catch and sell the sticks; save the rare fish for the compendium, [gifts](../characters/gift-preferences.md), and quests.
+- **Cook the common catch into fish sticks.** The kitchen's **fish sticks** recipe accepts *any* fish, so a bucketful of cheap, common catches cooks up into dishes worth more than the fish that went into them ([Cooking](../crafting/cooking.md)). Batch-cook the everyday catch and sell the sticks; save the rare fish for the compendium, [gifts](../characters/gift-preferences.md), and quests.
 
 <span class="handwritten">the river is on your own farm — a free bait-to-fish-sticks pipeline before breakfast 🐟</span>
 
@@ -117,6 +117,6 @@ Two habits keep the ledger honest:
 | **Fall** | Fennel fields; harvest everything before any ritual. |
 | **Winter** | Spinach fields; lean on artisan goods, animals, and the mine. |
 
-> Lore aside: Hazel kept this farm afloat for decades without min-maxing a single coin. Profit is lovely, but in Fairhaven the real currency is casseroles delivered to neighbors.
+> Lore aside: Hazel kept this farm afloat for decades without min-maxing a single coin.
 
-<span class="handwritten">sign-off tip: pick ONE engine per season — fennel, cloth, or bees — and let it run; scattered plots make scattered profits ❀</span>
+<span class="handwritten">sign-off tip: pick ONE engine per season — wheat, cloth, fennel, or spinach — and give it most of your beds ❀</span>

@@ -30,9 +30,9 @@ And among the **hidden** achievements, these unlock conditions are documented:
 - Restore the chicken coop
 - Upgrade the tool shed
 
-Notice the pattern: most hidden achievements are **story milestones you cannot miss** if you simply play through the narrative. Wylde Flowers is not a game that hides its trophies behind cruelty.
+Notice the pattern: most hidden achievements are **story milestones you cannot miss** if you simply play through the narrative.
 
-<span class="handwritten">a completionist's dream: no missables that punish cozy pacing ❀</span>
+<span class="handwritten">the story hands you the hidden ones — the only real grind is 100 bulletins, so start taking to-dos on day one ❀</span>
 
 ---
 
@@ -72,10 +72,8 @@ Alongside formal achievements, Tara keeps roughly **twenty collection boards** �
 
 ## 🧭 Hunting Notes
 
-- **Play naturally first.** The story vacuum up most achievements on its own; save deliberate hunting for the volume goals (bulletins, mass planting).
+- **Play naturally first.** The story vacuums up most achievements on its own; save deliberate hunting for the volume goals (bulletins, mass planting).
 - **Bulletins from day one.** The 100-bulletin Tycoon is the longest grind on the verified list — start early, never skip a convenient one.
 - **Full lists live on tracker sites.** For every name and unlock percentage, consult Steam's own achievement page or databases like TrueAchievements and Exophase; this guide won't invent names it can't verify.
-
-> Lore aside: the loveliest "achievement" in the game has no popup at all — the moment Fairhaven stops feeling like Gramma's town and starts feeling like yours.
 
 <span class="handwritten">sign-off tip: plant a 20-flower bed in your first spring — the bees, the coins, and the trophy all say thank you ❀</span>

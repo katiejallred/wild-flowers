@@ -25,7 +25,7 @@ Fairhaven does not let a season pass uncelebrated. Because the wheel of the year
 
 - **Each season brings celebration.** As the story progresses through Year 1 and into Year 2, festivals and community events punctuate every season — and Year 2 introduces new festivities of its own.
 - **Festivals are story events.** They arrive as part of the narrative: you'll get advance notice, the town will buzz with preparations, and the day itself gathers everyone in one place — usually the town square or the beach.
-- **You're a participant, not a spectator.** Expect to be asked to grow, cook, or craft something for the occasion. Keep your [kitchen](../crafting/cooking.md) stocked and your [crop rotation](../farming/crops.md) a step ahead of the calendar.
+- **Festivals come with chores.** Expect to be asked to grow, cook, or craft something for the occasion. Keep your [kitchen](../crafting/cooking.md) stocked and your [crop rotation](../farming/crops.md) a step ahead of the calendar.
 
 > Festivals are the best census days in Fairhaven — nearly everyone attends. Bring gifts; a botanist never wastes a full sample of the population in one meadow. ([Gift Preferences](../characters/gift-preferences.md))
 
@@ -66,9 +66,7 @@ A little forward planning turns festival season from scramble to stroll:
 
 ## 🔁 Festivals and the Turning Seasons
 
-Because seasons only change when you complete the coven's ritual, you control the tempo. Lingering in a season to finish crops or quests is perfectly safe — the festival tied to a story beat will wait for you. When you re-enter a season in later years, its celebrations and seasonal rhythms come back around with it, so no festival memory is ever truly behind you.
-
-> Lore aside: there's something fitting about a witch's town where the harvest festival never arrives before the harvest is ready. The coven wouldn't have it any other way.
+Because seasons only change when you complete the coven's ritual, you control the tempo. Lingering in a season to finish crops or quests is perfectly safe — the festival tied to a story beat will wait for you. When you re-enter a season in later years, its celebrations and seasonal rhythms come back around with it.
 
 ---
 

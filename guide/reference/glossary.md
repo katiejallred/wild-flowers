@@ -92,6 +92,4 @@ A pressed and labeled collection of Fairhaven's terms of art — the words you'l
 
 ---
 
-> Lore aside: notice how many of these words are shared between the mundane town and the magical one — Fairhaven's whole story lives in that overlap.
-
 <span class="handwritten">sign-off tip: when a quest or letter uses a term you don't know, it's probably pressed somewhere in this book — start here ❀</span>

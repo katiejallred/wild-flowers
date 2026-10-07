@@ -29,7 +29,7 @@ Plenty of games let you water turnips. A few things set this one apart, like a r
 - **A genuinely warm community.** Fairhaven's residents are diverse in age, background, and identity, and the game's themes — acceptance, belonging, and mending the divide between coven and townsfolk — are handled with real tenderness. There are eight romance options at present, and friendship with everyone is worth cultivating.
 - **Cozy by design.** No combat, no fail states, no clock breathing down your neck. Struggles here are the human kind: grief, prejudice, change, and community.
 
-<span class="handwritten">no other sim lets you put the seasons themselves in your pocket 🌿</span>
+<span class="handwritten">the season only turns when you cast the ritual — so harvest every bed before you do 🌿</span>
 
 <figure class="snapshot">
   <img src="{{ '/assets/images/fan-art-farm-twilight.jpg' | relative_url }}" alt="Fan art of a grandmother and granddaughter tending a garden beside a snug farmhouse at golden hour, lighthouse and sea beyond." loading="lazy">
@@ -74,4 +74,4 @@ This is an unofficial fan guide, pressed together with affection by players, for
 
 ---
 
-<span class="handwritten">Sign-off tip: don't optimize your first playthrough — talk to people, poke into corners, and let the story set the pace. The turnips will keep. 🌸</span>
+<span class="handwritten">Sign-off tip: don't optimize your first playthrough — talk to people, poke into corners, and let the story set the pace. Nothing on the farm expires until you cast the season ritual. 🌸</span>

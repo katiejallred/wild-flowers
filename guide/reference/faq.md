@@ -16,7 +16,7 @@ Wylde Flowers launched on **Apple Arcade** (February 2022) as an exclusive, then
 
 ### Is there multiplayer or co-op?
 
-No — Wylde Flowers is a **single-player** game through and through. Fairhaven's community is the company.
+No — Wylde Flowers is a **single-player** game through and through.
 
 ### Are there paid DLC or expansions?
 
@@ -36,8 +36,6 @@ These have been **ruled out** — the [r/wyldeflowers FAQ](https://www.reddit.co
 - A full new storyline as long as the original
 - Milkwater
 
-<span class="handwritten">better to know now than to keep waiting by the window ❀</span>
-
 ---
 
 ## 🌦️ Seasons & Farming
@@ -54,7 +52,7 @@ These have been **ruled out** — the [r/wyldeflowers FAQ](https://www.reddit.co
 
 Yes. The ritual only happens when you've completed the offerings and choose to cast it, so you can stall a season indefinitely to finish crops, quests, or festival fun.
 
-<span class="handwritten">the season waits for YOU — the rarest luxury in farm sims ❀</span>
+<span class="handwritten">you get about a day's grace after the ritual before out-of-season crops go — don't count on it, harvest first ❀</span>
 
 ---
 
@@ -86,7 +84,7 @@ No. Story chapters wait for you, and since seasons don't turn without you, nothi
 
 ### Does the game end?
 
-The main story wraps up at the turn of Year 1 into Year 2: the final quest, **Locket Up**, plays out in winter, and the **credits roll** a few days into Spring of Year 2, after a short epilogue. But it's a pause, not an ending — keep playing and Year 2 brings new quests, festivals and the Keeper of the Wheel storyline (see [Final Chapters & Ending](../story/final-chapters.md)). Year 3 has no new storylines or festivals of its own, though a few quests you missed can still turn up, and you can farm and befriend forever.
+The main story wraps up at the turn of Year 1 into Year 2: the final quest, **Locket Up**, plays out in winter, and the **credits roll** a few days into Spring of Year 2, after a short epilogue. Keep playing after the credits, though: Year 2 brings new quests, festivals and the Keeper of the Wheel storyline (see [Final Chapters & Ending](../story/final-chapters.md)). Year 3 has no new storylines or festivals of its own, though a few quests you missed can still turn up, and you can farm and befriend forever.
 
 ---
 
@@ -102,4 +100,4 @@ The main story wraps up at the turn of Year 1 into Year 2: the final quest, **Lo
 
 ---
 
-<span class="handwritten">sign-off tip: when in doubt, sleep on it — tomorrow's energy is free, and Fairhaven will still be there ❀</span>
+<span class="handwritten">sign-off tip: when in doubt, go to bed — sleep refills the energy meter for free, and nothing on the island expires overnight ❀</span>
