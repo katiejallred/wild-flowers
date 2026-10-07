@@ -1,6 +1,6 @@
 ---
 title: "⛏️ Mining & Foraging"
-last_modified_at: 2026-09-14
+last_modified_at: 2026-10-07
 ---
 # ⛏️ Mining & Foraging
 
@@ -8,7 +8,7 @@ Not everything worth gathering grows in a bed. Beneath Fairhaven runs a mine twe
 
 <figure class="snapshot">
   <img src="{{ '/assets/images/farming/mining.jpg' | relative_url }}" alt="Tara swings a pickaxe at an ore deposit in the underground mine." loading="lazy">
-  <figcaption>twenty floors of patience, one lantern ⛏️</figcaption>
+  <figcaption>Tara working an ore deposit with the pickaxe ⛏️</figcaption>
 </figure>
 
 ---
@@ -29,7 +29,7 @@ The mine descends floor by floor, each stratum with its own treasures. Progress 
 
 For the complete survey — every floor's ores, gems, chests, and the gem finders — see [The Mine: Floor by Floor](the-mine.md).
 
-> **How the way down opens:** on most floors, breaking ore nodes eventually turns up the key to the next level. The exceptions are floors 14 and 20 — floor 14's way onward needs the special **Deep Mine key**, earned through the coven's questline. Floor 15 keeps itself locked until you've earned that way down; the key to floor 16 then hides nearby. The mine rewards the thorough.
+> **How the way down opens:** on most floors, breaking ore nodes eventually turns up the key to the next level. The exceptions are floors 14 and 20 — floor 14's way onward needs the special **Deep Mine key**, earned through the coven's questline. Floor 15 keeps itself locked until you've earned that way down; the key to floor 16 then hides nearby.
 
 ### Natalia and your tools
 
@@ -39,9 +39,9 @@ For the complete survey — every floor's ores, gems, chests, and the gem finder
 - Upgrades reduce the **energy cost per swing**, which is the real currency of a mining day.
 - The **gold pickaxe** cracks gem rocks in a single hit instead of two — the diamond-hunter's best friend.
 
-Natalia's forge also produces crafted metalwork for story projects (she'll turn your copper into a soup kettle, among other things). Get to know her — the blacksmith is a farmer's truest ally ([Character Directory](../characters/directory.md)).
+Natalia's forge also produces crafted metalwork for story projects (she'll turn your copper into a soup kettle, among other things). Get to know her — every tool upgrade and most quest metalwork goes through her forge ([Character Directory](../characters/directory.md)).
 
-<span class="handwritten">every ore run should end at Natalia's door 🔨</span>
+<span class="handwritten">take every ore run straight to Natalia — ore smelts into ingots there, and the copper pickaxe is the first upgrade to buy 🔨</span>
 
 ### What it's all for
 
@@ -62,7 +62,7 @@ Walk anywhere with your eyes down and Fairhaven offers up wild plants, flowers, 
 | **The cauldron** | Wild plants and mushrooms are the backbone of potion-making — many brews call for ingredients no garden bed grows ([Potions](../witchcraft/potions.md)). |
 | **The kitchen** | Mushrooms and wild produce round out plenty of recipes ([Cooking](../crafting/cooking.md)). |
 | **Gifts & quests** | Villagers request forageables surprisingly often; a stocked chest saves a scavenger hunt. |
-| **Coin** | Free goods, honest profit — modest but effortless ([Money-Making](../reference/money-making.md)). |
+| **Coin** | Forage costs nothing to gather, so even modest sales are pure profit ([Money-Making](../reference/money-making.md)). |
 
 ### A forager's habits
 

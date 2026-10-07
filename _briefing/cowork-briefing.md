@@ -37,6 +37,8 @@ When writing as/for the site (posts, replies, page copy):
   journal," "whenever the need sprouts"), used as seasoning, not in every sentence.
 - Light emoji use in the site's own copy (🌱 🌙 ✿ 🕯️). On Reddit, use sparingly or not
   at all — match the subreddit's register.
+- **Everything above is the site's voice.** Anything Katie posts as herself (Reddit,
+  social, replies) uses Katie's own voice instead — see the Reddit playbook below.
 - Spoiler-conscious: the story is the heart of this game. Getting Started content is
   spoiler-light; Story chapter pages are inherently spoilery. On Reddit, always use
   spoiler tags for anything past Chapter 1 (the witch reveal is technically an early
@@ -176,6 +178,24 @@ any link post), plus cozy-gaming spaces like r/CozyGamers and platform subs
 (r/NintendoSwitch, r/AppleArcade, r/pcgaming) when the game comes up organically.
 The sub's own FAQ — its most-repeated questions, linked resources, and features the
 devs have ruled out — is saved in [`r-wyldeflowers-faq.md`](r-wyldeflowers-faq.md).
+Drafted posts live in [`reddit-posts/`](reddit-posts/), one file per post, dated —
+check it before drafting a new one so topics don't repeat.
+
+**Voice (non-negotiable):** every Reddit post and comment goes out under Katie's own
+name, so it is written in **Katie's voice**, not the site's journal voice. Load the
+`katie-allred-voice` skill before drafting. In practice: open with a scene or
+question the reader recognizes, talk to "you," stack two or three short diagnostic
+questions, give a firm recommendation, grant permission then raise the bar, and
+close with a short lift. Plain language, short paragraphs, rare exclamation points,
+no botanical metaphors, no emoji. Never invent a personal anecdote; "I run a fan
+guide for the game" is the one true first-person fact to lean on. The journal voice
+(specimens, leaves, pressed flowers) stays on the site.
+
+**And don't write like an AI caption.** A Reddit reader flagged the exact tells:
+contrast couplets as punchlines ("Midnight is a nudge. 2 AM is a wall."), the "things
+nobody told you" frame, aphorism closers, runs of short fragments, and "Here's the
+thing" lead-ins. The full banned list and the test for catching them is in the repo's
+`CLAUDE.md`. Run every draft against it before saving.
 
 **Ground rules:**
 1. **Read each subreddit's self-promotion rules first** and follow them over anything in

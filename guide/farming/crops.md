@@ -2,7 +2,7 @@
 title: "🚜 Crop Guide"
 description: "Every Wylde Flowers crop by season — seed cost, growth time, sell price, and coins per day — plus the fruit-tree ledger and the greenhouse."
 image: /assets/images/card-crops.jpg
-last_modified_at: 2026-10-06
+last_modified_at: 2026-10-07
 ---
 # 🚜 Crop Guide
 
@@ -38,7 +38,7 @@ Prefer to run the numbers for your own plan? The interactive [Crop Profit Calcul
 
 <figure class="snapshot">
   <img src="{{ '/assets/images/farming/picking-produce.jpg' | relative_url }}" alt="Tara picks fresh produce from raised garden beds." loading="lazy">
-  <figcaption>harvest day — the ledger’s favorite entry</figcaption>
+  <figcaption>Tara picking produce from the raised beds</figcaption>
 </figure>
 
 ---
@@ -47,13 +47,13 @@ Prefer to run the numbers for your own plan? The interactive [Crop Profit Calcul
 
 | Crop | Seeds | Grows in | Sells for | Coins/day | Field notes |
 | --- | --- | --- | --- | --- | --- |
-| **Wheat** | 25 | 8 days | 48 | **20.8** | The best coin of spring. Bread begins here. Seeds once the general store reaches level 1. |
+| **Wheat** | 25 | 8 days | 48 | **20.8** | The best spring earner at 20.8 coins/day. Seeds once the general store reaches level 1. |
 | Snowdrop 🌸 | 8 | 5 days | 20 | 14.4 | Spring's best flower; from Violet's Violets. |
-| Carrot | 10 | 5 days | 20 | 14 | Sweetens many a recipe besides the table. Seeds once the general store reaches level 2. |
-| Potato | 5 | 5 days | 15 | 11 | A sturdy, forgiving staple. |
-| Cauliflower | 15 | 6 days | 20 | 10.8 | Handsome heads for the stockpot. Seeds once the general store reaches level 3. |
+| Carrot | 10 | 5 days | 20 | 14 | A common cooking ingredient. Seeds once the general store reaches level 2. |
+| Potato | 5 | 5 days | 15 | 11 | Cheap 5-coin seeds, ready in 5 days. |
+| Cauliflower | 15 | 6 days | 20 | 10.8 | A soup ingredient. Seeds once the general store reaches level 3. |
 | Green Bean | 3 | 4 days | 10 | 9.25 | The cheapest seed on the island — a fine first sowing. |
-| Tulip 🌸 | 4 | 4 days | 10 | 9 | Cheerful, quick, and bee-approved. |
+| Tulip 🌸 | 4 | 4 days | 10 | 9 | Ready in 4 days; leave it blooming to feed a nearby beehive. |
 
 ---
 
@@ -62,13 +62,13 @@ Prefer to run the numbers for your own plan? The interactive [Crop Profit Calcul
 | Crop | Seeds | Grows in | Sells for | Coins/day | Field notes |
 | --- | --- | --- | --- | --- | --- |
 | **Strawberry** | 20 | 6 days | 48 | **28.7** | The best straight-from-the-bed earner in the whole almanac. |
-| Sugarcane | 30 | 8 days | 42 | 17.3 | Sweetness is a slow business. |
-| Tomato | 10 | 4 days | 18 | 15.5 | Kitchen royalty; countless recipes want one. |
-| Sunflower 🌸 | 8 | 6 days | 24 | 14.6 | Summer's best flower, and a beehive's delight. |
-| Corn | 5 | 5 days | 15 | 11 | Tall, golden, reliable. |
-| Marigold 🌸 | 4 | 4 days | 12 | 11 | Quick color between the vegetable rows. |
-| **Cotton** | 15 | 7 days | *can't be sold raw* | — | Summer's sleeper champion — worthless at the stall, priceless at the loom. Seeds from Thomas. See the ledger below. |
-| Hops | 20 | 7 days | *can't be sold* | — | Grown for brewing, not for the till. |
+| Sugarcane | 30 | 8 days | 42 | 17.3 | The slowest summer crop at 8 days; sells for 42. |
+| Tomato | 10 | 4 days | 18 | 15.5 | A common cooking ingredient, ready in 4 days. |
+| Sunflower 🌸 | 8 | 6 days | 24 | 14.6 | Summer's best flower; leave it blooming beside a beehive. |
+| Corn | 5 | 5 days | 15 | 11 | Same seed cost, growth time, and price as spring's potato. |
+| Marigold 🌸 | 4 | 4 days | 12 | 11 | A 4-day flower; leave it blooming to feed a nearby beehive. |
+| **Cotton** | 15 | 7 days | *can't be sold raw* | — | Summer's sleeper champion — raw cotton can't be sold, but woven into cloth it earns about 39 coins/day. Seeds from Thomas. See the ledger below. |
+| Hops | 20 | 7 days | *can't be sold* | — | Can't be sold; grown as a brewing ingredient. |
 
 ---
 
@@ -77,12 +77,12 @@ Prefer to run the numbers for your own plan? The interactive [Crop Profit Calcul
 | Crop | Seeds | Grows in | Sells for | Coins/day | Field notes |
 | --- | --- | --- | --- | --- | --- |
 | **Fennel** | 15 | 6 days | 40 | **24.2** | The star of the cold ledger — grows in **both fall and winter**. |
-| Pumpkin | 10 | 5 days | 24 | 17.2 | Autumn incarnate; Lina and Cameron both approve. |
-| Grapes | 25 | 8 days | 36 | 14.9 | Patience, then wine. |
+| Pumpkin | 10 | 5 days | 24 | 17.2 | Goes into Lina's pumpkin pie and Cameron's pumpkin bread, both favorite gifts. |
+| Grapes | 25 | 8 days | 36 | 14.9 | An 8-day crop; the fruit ferments into wine. |
 | Tiger Lily 🌸 | 8 | 6 days | 20 | 12 | Fall's richer flower, from Violet's Violets. |
-| Cabbage | 8 | 5 days | 15 | 10.4 | Humble, dependable, soup-bound. |
+| Cabbage | 8 | 5 days | 15 | 10.4 | A soup ingredient with 8-coin seeds. |
 | Soybean | 25 | 7 days | 24 | 10.1 | Seeds from Thomas at his farm. |
-| Turtlehead Flower 🌸 | 4 | 4 days | 4 | 3 | Grown for love and bees, not money. |
+| Turtlehead Flower 🌸 | 4 | 4 days | 4 | 3 | Sells for only 4 coins; plant it beside a beehive and leave it blooming. |
 
 ---
 
@@ -91,10 +91,10 @@ Prefer to run the numbers for your own plan? The interactive [Crop Profit Calcul
 | Crop | Seeds | Grows in | Sells for | Coins/day | Field notes |
 | --- | --- | --- | --- | --- | --- |
 | **Spinach** | 3 | 6 days | 42 | **27.5** | Winter's champion — cheap seeds from Lina at the general store. Vanessa's smoothie of choice. |
-| Fennel | 15 | 6 days | 40 | 24.2 | Yes, again — a close second in winter. |
+| Fennel | 15 | 6 days | 40 | 24.2 | Also grows in winter, a close second to spinach. |
 | Primrose 🌸 | 4 | 4 days | 24 | 23 | The most profitable flower in the game, a beehive favorite, and needed for the **Spring Ritual Incantation**. Seeds and sales at Violet's Violets. |
-| Onion | 10 | 5 days | 24 | 17.2 | A winter workhorse for the stockpot. |
-| Sweet Potato | 4 | 4 days | 12 | 11 | More beloved in Cameron's kitchen than at the till. |
+| Onion | 10 | 5 days | 24 | 17.2 | A soup ingredient; matches pumpkin's 17.2 coins/day. |
+| Sweet Potato | 4 | 4 days | 12 | 11 | Sells for only 12 coins; Cameron's recipes call for it. |
 
 ---
 
@@ -135,7 +135,7 @@ Mulberry trees also give **mulberry leaves** (unsellable, but silkworms adore th
 
 <figure class="snapshot">
   <img src="{{ '/assets/images/farming/greenhouse.jpg' | relative_url }}" alt="The greenhouse standing on the Wylde farm." loading="lazy">
-  <figcaption>glass over the cold seasons — it pays for itself</figcaption>
+  <figcaption>the greenhouse, where Lina's off-season seeds grow</figcaption>
 </figure>
 
 - **The Greenhouse changes everything.** Thomas sets the **Greenhouse Affection** quest in winter.
@@ -144,7 +144,7 @@ Mulberry trees also give **mulberry leaves** (unsellable, but silkworms adore th
   - **The payoff:** Lina sells off-season seeds, and in Thomas's own words, *"off-season crops fetch a higher price, too."*
   - **Afterward:** Parker asks you to grow him 4 marigolds — a burst of sunshine for the cold months.
 - **Seeds:** most crops (spinach included) from Lina at the Dahl General Store, some only after you upgrade the store (see the field notes above); flowers from Violet's Violets; cotton and soybean from Thomas; tree seedlings from Kai's Treasures ([Shops](../island/shops.md)).
-- **Selling isn't the only value.** Crops feed [Cooking](../crafting/cooking.md), [Potions](../witchcraft/potions.md), and gifts villagers adore ([Gift Preferences](../characters/gift-preferences.md)) — sometimes a carrot is worth more as a kindness.
+- **Selling isn't the only value.** Crops feed [Cooking](../crafting/cooking.md), [Potions](../witchcraft/potions.md), and gifts villagers adore ([Gift Preferences](../characters/gift-preferences.md)).
 - For the broader coin picture, see [Money-Making](../reference/money-making.md).
 
 ---
@@ -418,4 +418,4 @@ The seed drawer and harvest shelf, illustrated — every crop, seed packet, and 
 
 ---
 
-<span class="handwritten">sign-off tip: strawberries all summer, spinach all winter, and a loom that never sleeps 🧵</span>
+<span class="handwritten">sign-off tip: strawberries all summer (28.7/day), spinach all winter (27.5/day), and every cotton harvest through the loom before it goes anywhere near a stall 🧵</span>

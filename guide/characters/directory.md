@@ -1,6 +1,6 @@
 ---
 title: "💛 Character Directory"
-last_modified_at: 2026-09-14
+last_modified_at: 2026-10-07
 ---
 # 💛 Character Directory
 
@@ -166,7 +166,7 @@ The census is complete: every resident, the witches of Ravenwood, a coven mask, 
 | Resident | Role | Field notes |
 | --- | --- | --- |
 | Tara Wylde | Protagonist; farmer & witch-in-training | That's you, dear reader. Newly arrived to help your grandmother — and about to inherit rather more than a farm. |
-| Hazel Wylde | Tara's grandmother; Elder of the coven | 82 years of wisdom and mischief. Fairhaven's roots run through her. |
+| Hazel Wylde | Tara's grandmother; Elder of the coven | 82 years old. Runs the Wylde Farm you arrive to help with. |
 | Cleocatra | Cat | Regal, as the name insists. See [Familiars](../witchcraft/familiars.md) for why the cats of this island deserve close study. |
 
 ## Shopkeepers & Tradespeople
@@ -180,31 +180,29 @@ The census is complete: every resident, the witches of Ravenwood, a coven mask, 
 | Natalia Kuznetsova | Blacksmith | Keeps the island's tools sharp. Visit before your watering can gives out — see [Shops](../island/shops.md). |
 | Angus Seton | Owner of Seton's Bakery | 28. Engaged to Francis when you arrive; the pair play key roles in the early story. |
 | Francis Calderon | Town jeweler; runs the Jewelry Box | 28, next door to his fiancé's bakery. Convenient for anniversaries. |
-| Sophia Moretti | Runs the diner | The island's hearth away from home. |
+| Sophia Moretti | Runs the diner | Keeps the diner; a stop on your daily round through town. |
 | Damon Mthembu-Haas ♥ | Runs Fairhaven's bar | 24, originally from Johannesburg; took over the bar when his parents moved back to South Africa. |
-| Violet Miranda | Owner of Violet's Violets, the flower shop | 24, shop just beside Town Hall. A botanist's natural ally. |
-| Otto Soft | Village chief; Soft and Son's Fish & Tackle | 35, Bruno's son. Civic duty and fishing tackle, under one roof. |
+| Violet Miranda | Owner of Violet's Violets, the flower shop | 24; her flower shop stands just beside Town Hall. |
+| Otto Soft | Village chief; Soft and Son's Fish & Tackle | 35, Bruno's son. Serves as village chief and runs the fish and tackle shop with his father. |
 
 ## Around Town
 
 | Resident | Role | Field notes |
 | --- | --- | --- |
-| Amira Syed ♥ | Doctor; coven member | Flirty, brilliant, she/her. The island's health is in excellent hands. |
-| Cameron Conner ♥ | Leader of the League of the Conscious Mind | 34, a former child actor turned hyper-religious community leader. A complicated bloom. |
+| Amira Syed ♥ | Doctor; coven member | Flirty, brilliant, she/her. Patched up Kai after his surfing accident, and sits in the coven circle. |
+| Cameron Conner ♥ | Leader of the League of the Conscious Mind | 34, a former child actor turned hyper-religious community leader, and one of the eight romanceable residents. |
 | Bruno Soft | Otto's father | Usually found near the beach and the bar; the "Soft" in Soft and Son's. |
 | Marty Emerson | Rancher | His ranch sits right beside Thomas's farm. |
 | Thomas Lightfoot | Farmer | 40, the stoic sort. Tends the farm next door to Marty's ranch. |
-| Shelby Demeter | Seer; lives in the woods | A mysterious old man with one green eye, one blue, who speaks in riddles. Listen anyway. |
-| Sebastián Miranda | Notes pending further study | Often spotted at the bar of an evening. This specimen resists easy classification — observations ongoing. |
+| Shelby Demeter | Seer; lives in the woods | A mysterious old man with one green eye and one blue, who speaks in riddles from his home in the woods. |
+| Sebastián Miranda | Notes pending further study | Often spotted at the bar of an evening; what he does by day, this journal has not yet recorded. |
 
 ## Kids & Critters
 
 | Resident | Role | Field notes |
 | --- | --- | --- |
 | Emmi Johnson | Resident prankster (twin) | 10 years old, daughter of Lina and Parker. |
-| Finn Johnson | Resident prankster (the other twin) | 10 years old, son of Lina and Parker. Where one twin is, trouble — and the other twin — follows. |
-
-<span class="handwritten">the twins know every shortcut on the island. befriend accordingly ❀</span>
+| Finn Johnson | Resident prankster (the other twin) | 10 years old, son of Lina and Parker; Emmi's twin. |
 
 ## Later Arrivals & Ravenwood Hollow
 
@@ -212,8 +210,8 @@ Fairhaven's population is not a fixed pressing — new faces arrive as the seaso
 
 | Resident | Role | Field notes |
 | --- | --- | --- |
-| Eury Sinclair ♥ | Hair salon owner | Moves to town in Year 2 and opens a salon. Worth the wait. |
-| Giva Joshi ♥ | Meteorologist | Smart, a little awkward, endearingly shy — on the island to study why its weather is so famously quirky. We wish her the very best of luck with that. 🌙 |
+| Eury Sinclair ♥ | Hair salon owner | Moves to town in Year 2 and opens a salon; one of the eight romanceable residents. |
+| Giva Joshi ♥ | Meteorologist | Smart, a little awkward, endearingly shy — on the island to study why its weather is so famously quirky. 🌙 |
 | Westley ♥ | Bookseller of Ravenwood Hollow | Grew up in Alaska. See below before reading further. |
 
 > ⚠️ **Spoilers — Ravenwood Hollow.** Ravenwood Hollow is a hidden community added in a major update, and its secrets are best discovered in the wild. Among them: Westley is a werewolf, and he came to the island seeking a cure.
@@ -224,4 +222,4 @@ Fairhaven's population is not a fixed pressing — new faces arrive as the seaso
 
 You will learn early on that some residents keep a second, moonlit occupation. Hazel serves as Elder, Lina as High Priestess, and Amira among the members — the full roster, and how to unmask each member, we keep pressed in [Who Are the Witches?](../witchcraft/who-are-the-witches.md), where spoilers belong.
 
-<span class="handwritten">say hello to everyone before bed — a habit worth more than gold ❀</span>
+<span class="handwritten">say hello to everyone once a day — each chat nudges their relationship value, and it costs nothing ❀</span>

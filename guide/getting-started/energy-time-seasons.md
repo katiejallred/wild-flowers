@@ -1,6 +1,6 @@
 ---
 title: "🌱 Energy, Time & Seasons"
-last_modified_at: 2026-09-14
+last_modified_at: 2026-10-07
 ---
 # 🌱 Energy, Time & Seasons
 
@@ -22,7 +22,7 @@ Nearly every honest labor costs energy — watering, harvesting, chopping wood, 
 **Spending it wisely:**
 
 - Early on your meter is small, so choose your labors. Watering and quest tasks first; speculative wood-chopping later.
-- Don't end the day with a full meter either — unspent energy is a harvest you left in the field. Forage, fish, or clear a little land with the surplus.
+- Don't end the day with a full meter either — sleep refills it to full regardless, so forage, fish, or clear a little land with the surplus.
 - **Tool upgrades** (via Natalia at the forge) make chores cost less energy per swing — among the best investments in the game.
 
 > 🌿 *Lore aside:* witches speak of a second reservoir — magical energy — fed by other means entirely; the diner's cellar shelf is said to help. Ask the [coven](../witchcraft/introduction.md) about it when you're initiated in such things.
@@ -45,7 +45,7 @@ What this means in practice:
 
 | Old habit (other farm sims) | New habit (Wylde Flowers) |
 | --- | --- |
-| Race the calendar before season's end | There is no calendar. Breathe. |
+| Race the calendar before season's end | There is no calendar; the season waits until you cast the ritual |
 | Miss a festival, wait a year | Nothing is missable; events wait for you |
 | Plant only what can mature "in time" | Plant anything in season, any day, freely |
 | Dread the season change | *Prepare* for it, then perform it when ready |
@@ -55,9 +55,9 @@ What this means in practice:
 1. **Harvest everything** — every Garden Bed, Vegetable Patch row, and greenhouse-bound straggler that won't survive the new season. (See [Crops](../farming/crops.md) for what grows when; the greenhouse is your friend for edge cases.)
 2. **Finish season-flavored business** you care about, though most things carry over just fine.
 3. **Stock up** on any in-season forage or seeds you'll want later.
-4. *Then* light the candles.
+4. *Then* cast the ritual.
 
-<span class="handwritten">the ritual waits for you — the crops won't wait for the ritual 🍂</span>
+<span class="handwritten">harvest every bed before you cast — out-of-season crops vanish the moment the season turns 🍂</span>
 
 The main story does ask you to change seasons at certain points to move forward, so you can't stay in an eternal spring *and* finish the tale. But you choose the day, and there is never a reason to jump before your fields are bare and your pantry is full.
 
@@ -75,4 +75,4 @@ The main story does ask you to change seasons at certain points to move forward,
 
 ---
 
-<span class="handwritten">Sign-off tip: treat the season ritual like moving house — you don't do it on a whim, you do it after the boxes are packed. 📦</span>
+<span class="handwritten">Sign-off tip: before the season ritual, walk every Garden Bed and Vegetable Patch row once more — anything out of season that's still planted is gone after you cast. 📦</span>

@@ -1,6 +1,6 @@
 ---
 title: "🏪 Shops & Services"
-last_modified_at: 2026-09-28
+last_modified_at: 2026-10-07
 ---
 # 🏪 Shops & Services
 
@@ -16,7 +16,7 @@ For the exact schedules, the community kept a tidy two-page hours chart — Fair
 
 The beating heart of your farming operation, right in the town square. Lina stocks **seeds** for the current season, produce, and other food items — and the store is also the main place to **sell your crops**. Lina herself is the coven's High Priestess, so your friendly neighborhood grocer moonlights as your magical superior. Seed stock rotates with the season, so restock after every [season ritual](../witchcraft/spells-and-rituals.md).
 
-<span class="handwritten">buy next season's seeds the morning after the ritual — beat the rush ❀</span>
+<span class="handwritten">buy next season's seeds the morning after the ritual — Lina's stock rotates with the season ❀</span>
 
 ## 🥩 Kim's Local Butcher and Deli
 
@@ -65,11 +65,11 @@ The Town Center holds several other verified businesses you'll come to know:
 | **Seton's Bakery** | Baked goods from the Seton household (Angus & Francis). |
 | **Soft and Son's Fish & Tackle** | The Softs' fishing shop — see [Fishing](../farming/fishing.md). |
 | **The Jewelry Box** | Fine things and gift material. |
-| **Violet's Violets** | The flower shop — fitting, for this island. |
+| **Violet's Violets** | The flower shop in the Town Center. |
 | **Nailed It!** | Parker Johnson's carpentry business — your partner for the farm's building projects (the greenhouse among them). |
-| **The Bar** | Damon Mthembu-Haas pours here; a favorite evening haunt. |
+| **The Bar** | Damon Mthembu-Haas pours here. |
 
-> A note from the margins: shopping in Fairhaven is never just shopping. Every purchase is a conversation, and conversations become [friendships](../characters/friendship.md).
+> A note from the margins: every shopkeeper is also a neighbor with a friendship level, so say hello while you shop — daily chats count toward [friendships](../characters/friendship.md).
 
 ---
 
@@ -79,4 +79,4 @@ The Town Center holds several other verified businesses you'll come to know:
 - Processed [artisan goods](../crafting/artisan-goods.md) generally out-earn raw ingredients — see the [Money-Making Guide](../reference/money-making.md) before you sell a raw harvest.
 - Neighbors' to-do quests often pay in coins *and* goodwill; check them before dumping surplus at the store.
 
-<span class="handwritten">sign-off tip: befriend your suppliers — gifts are cheap, and shopkeeper friendships pay off in story and smiles ❀</span>
+<span class="handwritten">sign-off tip: gift your suppliers on your rounds — Kim, Kai, Amira, and Eury are romance options as well as shopkeepers ❀</span>

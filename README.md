@@ -46,6 +46,9 @@ pressed-flower botanical journal. 🌿
   collection in the drawers. A page earns its place by serving the sentence
   above — never bulk-import archive material just because it exists.
 - **Voice:** warm, whimsical, a little witchy — like marginalia in a field journal.
+  But plain: no contrast couplets, slogan closers, or "things nobody tells you"
+  framing. The banned list and the test for catching them are in
+  [`CLAUDE.md`](CLAUDE.md), and they apply to every page and every post.
 - **Polish the core before adding sections:** the pages players consult
   mid-game every day (crops, gifts, fishing, recipes) deserve improvement
   effort before any new section does.

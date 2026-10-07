@@ -1,6 +1,6 @@
 ---
 title: "💛 Friendship Guide"
-last_modified_at: 2026-09-14
+last_modified_at: 2026-10-07
 ---
 # 💛 Friendship Guide
 
@@ -40,11 +40,11 @@ Residents will ask for your help — errands, favors, small crises. Completing a
 
 ## What Friendship Unlocks
 
-Why tend thirty friendships? Because the island pays you back in kind.
+Raising relationship values pays back in three ways.
 
 - **Story scenes.** As relationship values rise, new cutscenes bloom — glimpses into each resident's history, worries, and secrets. Much of Fairhaven's best writing lives behind these thresholds.
 - **Romance.** For the eight eligible residents, friendship is the trellis romance climbs. Hearts, dates, and eventually marriage all begin with the same daily hellos — details in the [Romance Guide](romance.md).
-- **A warmer town.** Dialogue shifts as people come to trust Tara. The Fairhaven that knows you is a different, kinder place than the one you stepped off the boat into.
+- **A warmer town.** Dialogue shifts as people come to trust Tara, so the Fairhaven that knows you reads kinder than the one you stepped off the boat into.
 
 > Fairhaven's main story is itself a slow act of trust — the coven doesn't reveal itself to strangers. Treat every friendship as part of the larger working. See the [Story Overview](../story/overview.md).
 
@@ -64,4 +64,4 @@ You won't manage all thirty every single day, and you needn't. Rotate through th
 
 ---
 
-<span class="handwritten">friendship, like compost, rewards the patient — a little every day beats a heap once a season ❀</span>
+<span class="handwritten">one chat with everyone every day adds up faster than a heap of gifts once a season ❀</span>

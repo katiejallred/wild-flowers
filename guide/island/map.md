@@ -1,6 +1,6 @@
 ---
 title: "🗺️ Map of Fairhaven"
-last_modified_at: 2026-09-14
+last_modified_at: 2026-10-07
 ---
 # 🗺️ Map of Fairhaven
 
@@ -8,7 +8,7 @@ Every field guide needs a map pressed between its pages. Fairhaven is a small, m
 
 <figure class="snapshot">
   <img src="{{ '/assets/images/wiki/island/map-of-fairhaven.png' | relative_url }}" alt="The illustrated map of Fairhaven island." loading="lazy">
-  <figcaption>the island entire, pressed flat at last 🗺️</figcaption>
+  <figcaption>the illustrated map of Fairhaven 🗺️</figcaption>
 </figure>
 
 <div class="snapshot-row">
@@ -34,7 +34,7 @@ Your grandmother Hazel's farm sits at the heart of your story, on the west side 
 - **The tool shed**, upgradeable into a proper workshop with crafting stations such as a candle maker and glass kiln ([Crafting Stations](../crafting/stations.md)).
 - **The mine entrance**, conveniently beside the house — many levels of ore and gems await ([Mining & Foraging](../farming/mining-and-foraging.md)).
 
-> Hazel Wylde tended this land for decades before you arrived. The island remembers her fondly — and so will you.
+> Hazel Wylde tended this land for decades before you arrived, and the island remembers her fondly.
 
 ## 🏘️ Town Center
 

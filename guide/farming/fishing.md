@@ -2,7 +2,7 @@
 title: "🎣 Fishing"
 description: "Every fish in Wylde Flowers — where it bites, the bait to use, and what it sells for — plus which waters pay best and the recipes you can only fish up."
 image: /assets/images/card-fishing.jpg
-last_modified_at: 2026-10-06
+last_modified_at: 2026-10-07
 ---
 # 🎣 Fishing
 
@@ -29,7 +29,7 @@ When the beds are watered and the animals fed, the water calls. Fishing in Fairh
 
 <figure class="snapshot">
   <img src="{{ '/assets/images/farming/winter-fishing.jpg' | relative_url }}" alt="Tara fishes from a snowy shore in winter." loading="lazy">
-  <figcaption>yes, they still bite in the snow ❄️</figcaption>
+  <figcaption>fishing in the snow — season doesn't change what bites ❄️</figcaption>
 </figure>
 
 ---
@@ -38,7 +38,7 @@ When the beds are watered and the animals fed, the water calls. Fishing in Fairh
 
 Fishing unlocks with **Bruno Soft**'s quest *Lure One In*. Bruno, the island's fisherman, keeps his shop in the middle of town near the statues. Speak with him and he'll hand you a rod and three baits to catch your first fish — Fairhaven's usual generosity at work.
 
-From there: stand at a fishing spot, choose your bait, cast, and play the catch. Keep bait stocked and the rest is patience.
+From there: stand at a fishing spot, choose your bait, cast, and play the catch. Keep bait stocked, since each catch uses up one.
 
 ---
 
@@ -59,19 +59,19 @@ Prefer your charts drawn rather than tabled? The [Interactive Island Map](../isl
 
 The deeper spots are progression rewards in themselves — you'll need the story and your pickaxe to reach the Mine's pool ([Mining & Foraging](mining-and-foraging.md)), and the Gloaming belongs to the witchier half of your life ([Island Map](../island/map.md)).
 
-> The Gloaming's waters are not quite of this world. Neither, strictly speaking, is its single fish.
+> The Gloaming has a single fish, and it bites on any bait.
 
 ---
 
-## Bait, and the Great Secret {#bait}
+## Bait, and the Only Two Factors {#bait}
 
-Three baits exist: **worms, crickets, and chub.** And here is the secret that simplifies everything:
+Three baits exist: **worms, crickets, and chub.** Only two things decide what you catch:
 
-**Bait and location are the *only* factors.** Weather does not matter. Season does not matter. Time of day does not matter.
+**Bait and location are the *only* factors**; weather, season, and time of day make no difference.
 
 Every fish is determined purely by *where* you cast and *what* you cast with. There is no waiting for a rainy winter night to complete your compendium — if you need a specific fish, go to its water, tie on the right bait, and keep casting until it takes.
 
-<span class="handwritten">no almanac needed — just the right worm in the right water 🎣</span>
+<span class="handwritten">the A–Z table below lists which of the three baits each fish takes 🎣</span>
 
 A practical corollary: at the River, the Lake, and the Ocean, carry a spread of baits and work each one in turn to flush out the full roster. At the Mountain, the Mine, and the Gloaming, any bait will do.
 
@@ -95,14 +95,14 @@ The humble worm: a wiggly little creature and the tackle box's workhorse. Cheap,
 
 An insect from the Woods, a touch dearer at 6 coins — and the bait behind the Ocean's two cricket-*only* prizes, the **Dorado** (40 coins) and the **Sea Urchin** (80 coins, the most valuable catch on the island). Fish that bite on crickets also sell for a little more on average than the worm or chub crowd.
 
-Now, the riddle. The cricket's own description ends with a wink: *"Can't catch it? Maybe you need to **shift** your perspective."* That "shift" is not idle phrasing — it's a pun on **shapeshifting**. There are two free ways to keep crickets coming, and both run through [Cleocatra](../witchcraft/familiars.md):
+The cricket's own description ends with a hint: *"Can't catch it? Maybe you need to **shift** your perspective."* That "shift" is a pun on **shapeshifting**. There are two free ways to keep crickets coming, and both run through [Cleocatra](../witchcraft/familiars.md):
 
 1. Once Cleocatra becomes your **pet**, she'll bring you crickets herself — tribute, cat-style.
 2. Come Summer, after unlocking the **Animal Shapeshifting Spell** ([Spells & Rituals](../witchcraft/spells-and-rituals.md)), you can take her four-legged form and catch crickets (and fish!) with your own paws.
 
-So: can't catch a cricket? Shift — literally — your perspective. A witch's tackle box restocks itself.
+Either way, once Cleocatra is your pet or you can take her shape, crickets stop costing 6 coins apiece.
 
-<span class="handwritten">the game was making a shapeshifting joke the whole time. well played, Fairhaven 🐈‍⬛</span>
+<span class="handwritten">the cricket's "shift your perspective" line is a shapeshifting pun — Cleocatra's form is the free cricket supply 🐈‍⬛</span>
 
 ### Chub
 
@@ -114,7 +114,7 @@ Bruno teaches you about chub bait early in Spring, but you can't catch your own 
 
 ## Best Catches, and Where the Money Swims {#rare-fish}
 
-Because bait and location are the only factors, a "rare" fish in Fairhaven is never luck — it's the right bait in the right water. The surprise is *which* water: the late-game spots are for completing the compendium, not for getting rich. **The Ocean is the money water**, home to most of the island's priciest catches:
+Because bait and location are the only factors, every rare fish comes down to reaching the right water with the right bait. The surprise is *which* water: the late-game spots are for completing the compendium, not for getting rich. **The Ocean is the money water**, home to most of the island's priciest catches:
 
 | Fish | Where | Bait | Coins |
 | --- | --- | --- | --- |
@@ -139,7 +139,7 @@ A hunting order for the completionist:
 
 The cheapest catches (Sardine and Herring at 3 coins, Shiner, Walleye, and Carp at 5) are the ones to feed the fish fingers pan; keep the pricier fish for Bruno's counter ([Money-Making](../reference/money-making.md)).
 
-<span class="handwritten">crickets at the Ocean — that's where the coin is, and the urchins 🐟</span>
+<span class="handwritten">fish the Ocean with crickets for the Sea Urchin (80 coins) and the Dorado (40) 🐟</span>
 
 ---
 
@@ -162,7 +162,7 @@ Now and then a **bottle** bobs up instead of a fish. Reel it in like any catch (
 
 ## A Fisher's Habits
 
-1. Buy or gather bait before it runs out mid-session — nothing sadder than a full pond and an empty tackle box.
+1. Buy or gather bait before it runs out mid-session, since each catch uses up one.
 2. Fish the River early; it's on your own farm and costs no travel time.
 3. When a new area opens (Mountain, Gloaming, Mine 20), fish it promptly — new water means new compendium entries.
 4. Fishing spends energy like any labor; a snack from the kitchen keeps the afternoon going ([Energy, Time & Seasons](../getting-started/energy-time-seasons.md)).
@@ -234,4 +234,4 @@ All 56 entries in the fishing compendium — where each one bites, the bait it t
 
 ---
 
-<span class="handwritten">sign-off tip: chasing one missing fish? look it up above, then go — the right bait in the right water never misses 🐟</span>
+<span class="handwritten">sign-off tip: chasing one missing fish? look it up in the A–Z table, then go to that water with that bait 🐟</span>

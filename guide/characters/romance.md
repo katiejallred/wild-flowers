@@ -2,7 +2,7 @@
 title: "💛 Romance Guide"
 description: "Every romanceable resident in Wylde Flowers — how affection grows, the six-heart path, and dating, engagement, and marriage on Fairhaven Island."
 image: /assets/images/card-romance.jpg
-last_modified_at: 2026-09-14
+last_modified_at: 2026-10-07
 ---
 # 💛 Romance Guide
 
@@ -27,13 +27,13 @@ New to tending relationships at all? Root yourself in the [Friendship Guide](fri
 
 | Candidate | Notes from the field |
 | --- | --- |
-| Kai Hoapili | The friendly merchant. Came to the island after a surfing accident and Amira's expert care; stayed for the rest. |
+| Kai Hoapili | The friendly merchant. Came to the island after a surfing accident, was patched up by Amira, and decided to stay. |
 | Kim Izumi | 28, non-binary (they/them), the town butcher and one of Fairhaven's newest residents. |
 | Amira Syed | The doctor — flirty, sharp, and a member of the coven besides. |
-| Cameron Conner | 34, former child actor, now the fervent leader of the League of the Conscious Mind. A thornier courtship than most. |
+| Cameron Conner | 34, former child actor, now the fervent leader of the League of the Conscious Mind. |
 | Damon Mthembu-Haas | 24, keeper of Fairhaven's bar, originally from Johannesburg. |
-| Giva Joshi | The island's meteorologist — smart, a little awkward, sweetly shy. Slow to open — worth the patience. |
-| Eury Sinclair | Arrives in Year 2 to open the hair salon. Late bloomers are still bloomers. |
+| Giva Joshi | The island's meteorologist — smart, a little awkward, sweetly shy. |
+| Eury Sinclair | Arrives in Year 2 to open the hair salon, so this romance can't start until the first year is done. |
 | Westley | Bookseller of Ravenwood Hollow, raised in Alaska. See the spoiler pressing below. |
 
 <div class="snapshot-row">
@@ -54,14 +54,14 @@ New to tending relationships at all? Root yourself in the [Friendship Guide](fri
 </figure>
 <figure class="snapshot">
   <img src="{{ '/assets/images/characters/romance-giva.jpg' | relative_url }}" alt="Tara and Giva share a romantic moment." loading="lazy">
-  <figcaption>Giva forecasts a warm front 💛</figcaption>
+  <figcaption>a romantic moment with Giva 💛</figcaption>
 </figure>
 </div>
 
 <div class="snapshot-row">
 <figure class="snapshot">
   <img src="{{ '/assets/images/characters/romance-westley.jpg' | relative_url }}" alt="Tara and Westley share a romantic moment." loading="lazy">
-  <figcaption>Westley, between chapters 📚</figcaption>
+  <figcaption>a romantic moment with Westley 📚</figcaption>
 </figure>
 <figure class="snapshot">
   <img src="{{ '/assets/images/characters/cameron-gift-exchange.jpg' | relative_url }}" alt="Tara and Cameron exchange gifts." loading="lazy">
@@ -73,7 +73,7 @@ New to tending relationships at all? Root yourself in the [Friendship Guide](fri
 
 ### Who *isn't* eligible — and why
 
-Notice the pattern in the table above: every candidate is **single, with no relatives living on the island**. That's the game's quiet rule of thumb. It's why Angus and Francis (happily coupled), Lina and Parker (married, with twins), and Violet Miranda — the flower shop's owner, who shares a surname with another islander — tend their own gardens without you. If someone has family roots in Fairhaven or a partner already, they're flora to admire, not to pick.
+Notice the pattern in the table above: every candidate is **single, with no relatives living on the island**. That's the game's quiet rule of thumb. It's why Angus and Francis (happily coupled), Lina and Parker (married, with twins), and Violet Miranda — the flower shop's owner, who shares a surname with another islander — tend their own gardens without you. If someone has family roots in Fairhaven or a partner already, they can't be courted.
 
 <span class="handwritten">yes, everyone asks about violet. no, the florist is not on the menu ❀</span>
 
@@ -81,7 +81,7 @@ Notice the pattern in the table above: every candidate is **single, with no rela
 
 ## Inclusive by Design
 
-All eight options are available to every player, **regardless of Tara's gender presentation or your choices** — there are no locked paths and no penalties. Fairhaven's romances span genders and identities as a matter of course (Kim is non-binary, and the island doesn't blink), and the wider cast includes married couples of all kinds, Angus and Francis among them. Love here is treated like weather: it simply happens, and everyone carries on.
+All eight options are available to every player, **regardless of Tara's gender presentation or your choices** — there are no locked paths and no penalties. Fairhaven's romances span genders and identities as a matter of course (Kim is non-binary, and the island doesn't blink), and the wider cast includes married couples of all kinds, Angus and Francis among them.
 
 ---
 
@@ -99,7 +99,7 @@ Each candidate has an affection meter measured in **hearts, up to six**. Raise i
 
 ### Exclusivity — Fairhaven asks you to commit
 
-This island does not do love triangles. **Once you begin dating someone, no one else is romanceable.** If your heart truly changes, you must break up with your current partner — dating or married — before courting another. Flirt freely while unattached; commit deliberately.
+This island does not do love triangles. **Once you begin dating someone, no one else is romanceable.** If your heart truly changes, you must break up with your current partner — dating or married — before courting another.
 
 > A small mercy for the indecisive: nothing stops you raising *friendship* with all eight before choosing. The hearts will be waiting when you decide.
 
@@ -114,4 +114,4 @@ This island does not do love triangles. **Once you begin dating someone, no one 
 
 ---
 
-<span class="handwritten">pick the one whose 2am conversation you'd cross the island for — the hearts are just paperwork ❀</span>
+<span class="handwritten">once you start dating someone the other seven close off — raise friendship with all eight first, then choose ❀</span>

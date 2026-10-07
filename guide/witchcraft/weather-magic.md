@@ -1,10 +1,10 @@
 ---
 title: "🌦️ Weather Magic"
-last_modified_at: 2026-09-14
+last_modified_at: 2026-10-07
 ---
 # 🌦️ Weather Magic
 
-Every farmer scans the sky. A witch-farmer *edits* it. Weather-working is where the two halves of Tara's life shake hands most profitably: the spells live in your grimoire, but the payoff lands squarely in your fields and fishing spots.
+Every farmer scans the sky, and a witch-farmer gets to *edit* it. Weather-working is where the two halves of Tara's life shake hands most profitably: the spells live in your grimoire, but the payoff lands squarely in your fields and fishing spots.
 
 ## The Weather Spells
 
@@ -15,7 +15,7 @@ Weather magic arrives, like all magic here, through the main story and coven tas
 | Summon Rain Spell | Calls a day of rain | One day |
 | Summon Wind Spell | Sets the wind blowing | One day |
 | Summon Storm Spell | Strong winds and lightning | One storm |
-| Summon Night Spell | Not weather, strictly — but it brings the dark, and pairs beautifully with a stormy mood | Until morning |
+| Summon Night Spell | Not weather, strictly, but it brings on the dark early for days you just need to end | Until morning |
 
 Remember the golden rule of incantations: each written scroll is **consumed on casting**. A day of rain costs you the magic and ingredients that went into writing it — worth every drop at the right moment, wasteful on a week you'd have watered anyway.
 
@@ -67,9 +67,9 @@ The blowier siblings get less daily use but have their moments:
 
 ## Fine Print for New Weather-Workers
 
-1. Weather spells last about a day — this is a nudge to the sky, not a new climate.
+1. Weather spells last about a day, so cast one per day you need it rather than expecting a lasting change.
 2. Scrolls are single-use; keep one spare rain scroll written for emergencies.
 3. Weather magic is unlocked partway into the witch story — early-game farmers still befriend their watering can. See [Farming 101](../farming/farming-101.md).
-4. Don't summon rain out of habit; summon it out of arithmetic. If the watering would cost more energy than the scroll cost to write, cast away.
+4. Summon rain only when the arithmetic favors it: if the watering would cost more energy than the scroll cost to write, cast away.
 
 <span class="handwritten">tip: keep one rain scroll pressed between these pages for the day the well disagrees with you 🌙</span>

@@ -1,6 +1,6 @@
 ---
 title: "🎭 Who Are the Witches?"
-last_modified_at: 2026-09-14
+last_modified_at: 2026-10-07
 ---
 # 🎭 Who Are the Witches?
 
@@ -10,12 +10,12 @@ So you've joined the coven, and everyone in the circle is wearing a mask, and on
 
 <figure class="snapshot">
   <img src="{{ '/assets/images/witchcraft/ritual.jpg' | relative_url }}" alt="The masked Fairhaven coven gathered in a candlelit circle." loading="lazy">
-  <figcaption>five masks, five familiar faces 🕯️</figcaption>
+  <figcaption>the masked coven gathered in the candlelit circle 🕯️</figcaption>
 </figure>
 
 ## How the Unmasking Actually Works
 
-Here's the part the game explains once, quickly, and never again. In the Summer of Year 1, the High Priestess sends you to the Farseer, who lays out the **witch identity rites**:
+In the Summer of Year 1, the High Priestess sends you to the Farseer, who lays out the **witch identity rites**:
 
 1. **Each coven member gives you a task** — brew a potion, mix a drink, or write an incantation. They hand you the recipe on the spot, so you never need something you can't make.
 2. **You deliver the finished item during the day, in town** — not at the circle, not at night. This is the confusing bit: you must walk up to the *ordinary townsperson* you believe is behind the mask and hand it over.
@@ -78,7 +78,7 @@ The last and most solemn reveal. She asks for a **Speed Time Spell** and all but
 
 ## Wait, Who Is Raven?
 
-Deep breath: later in the story a **sixth masked figure** appears, calling herself **Raven** — and she is **not** one of the five you unmasked. Raven is **Vanessa Soft**, the schoolteacher, working magic outside the coven entirely. Her story is one of the main plot's big turns, and it belongs to the [Final Chapters](../story/final-chapters.md) — we'll say no more here, except: if you met a masked witch who doesn't match your roster, the game hasn't broken. That's the point.
+Later in the story a **sixth masked figure** appears, calling herself **Raven** — and she is **not** one of the five you unmasked. Raven is **Vanessa Soft**, the schoolteacher, working magic outside the coven entirely. Her story is one of the main plot's big turns, and it belongs to the [Final Chapters](../story/final-chapters.md) — we'll say no more here, except: if you met a masked witch who doesn't match your roster, the game hasn't broken — she isn't supposed to match.
 
 ---
 
@@ -87,7 +87,5 @@ Deep breath: later in the story a **sixth masked figure** appears, calling herse
 - **No unmasking quest is active?** The rites are story-gated to Summer of Year 1, after the High Priestess sends you to the Farseer. Keep following the main quests — see [Chapters 4–6](../story/chapters-04-06.md).
 - **They won't take the item?** Check the clock and the map: it must be **daytime**, **in town**, handed to the **person** (not the masked witch at night).
 - **Missing ingredients?** Every rite hands you its recipe first; the ingredients are ordinary farm-and-forage fare. [Mining & Foraging](../farming/mining-and-foraging.md) knows where everything hides.
-
-<span class="handwritten">the masks were never the secret — the kindness underneath was 🌙</span>
 
 **Previous:** [The Craft: An Introduction](introduction.md) · **Next:** [Spells & Rituals](spells-and-rituals.md)

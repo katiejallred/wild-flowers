@@ -1,16 +1,16 @@
 ---
 title: "🚜 Farming 101"
-last_modified_at: 2026-09-14
+last_modified_at: 2026-10-07
 ---
 # 🚜 Farming 101
 
-Welcome, fellow cultivator, to the first page of your farming journal. When Tara Wylde arrives on Fairhaven to help her grandmother Hazel with the family farm, the soil is waiting — a little overgrown, a little sleepy, and full of promise. This page presses the essentials of that first growing life between its covers: where to plant, how to water, and the island's one great secret about time.
+Welcome, fellow cultivator, to the first page of your farming journal. When Tara Wylde arrives on Fairhaven to help her grandmother Hazel with the family farm, the soil is waiting — a little overgrown, a little sleepy, and full of promise. This page presses the essentials of that first growing life between its covers: where to plant, how to water, and the way the island's seasons wait for you.
 
 > Hazel will tell you the farm has "good bones." She is right. She usually is.
 
 <figure class="snapshot">
   <img src="{{ '/assets/images/farming/watering.jpg' | relative_url }}" alt="Tara waters a garden bed of young crops on the Wylde farm." loading="lazy">
-  <figcaption>morning rounds: the beds drink before the botanist does 🌦️</figcaption>
+  <figcaption>Tara watering a bed of young crops on the morning round 🌦️</figcaption>
 </figure>
 
 ---
@@ -49,7 +49,7 @@ When a crop glimmers ripe, pick it. Harvested goods can be sold, cooked ([Cookin
 
 ## The Seasons Wait for You
 
-Here is Fairhaven's kindest magic: **seasons never change on their own.** Spring lasts exactly as long as you want it to. The calendar only turns when the coven performs a season-changing ritual — a deliberate, scheduled act of witchcraft ([Spells & Rituals](../witchcraft/spells-and-rituals.md)).
+**Seasons never change on their own** — Fairhaven's kindest magic. Spring lasts exactly as long as you want it to. The calendar only turns when the coven performs a season-changing ritual — a deliberate, scheduled act of witchcraft ([Spells & Rituals](../witchcraft/spells-and-rituals.md)).
 
 This means:
 
@@ -57,7 +57,7 @@ This means:
 - **But harvest before the ritual.** When the season does turn, any out-of-season crops still in the ground **disappear**. The night before a ritual, walk your beds and pick everything that won't survive the change.
 - Weather, by contrast, can be changed with day-to-day magic — rain on demand is a farmer's dream.
 
-> The coven treats the turning of seasons as ceremony, not clockwork. Farm accordingly.
+> The season turns only when the coven schedules its ritual, so plan your harvests around the ritual date rather than a calendar.
 
 ---
 
@@ -74,4 +74,4 @@ A sensible early loop looks like this:
 
 ---
 
-<span class="handwritten">sign-off tip: before any season ritual, do one slow lap of every bed with your basket — future you will thank present you 🌱</span>
+<span class="handwritten">sign-off tip: before any season ritual, do one slow lap of every bed with your basket — anything out of season still in the ground disappears when the season turns 🌱</span>

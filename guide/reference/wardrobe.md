@@ -1,6 +1,6 @@
 ---
 title: "👗 Wardrobe Catalogue"
-last_modified_at: 2026-09-14
+last_modified_at: 2026-10-07
 ---
 # 👗 Wardrobe Catalogue
 
@@ -987,4 +987,4 @@ Hair color, like most things on this island, can be crafted:
 
 Cloth, thread, and dye for the loom-inclined live on the [Artisan Goods](../crafting/artisan-goods.md) page; for where to buy the racks' contents, see [Shops & Services](../island/shops.md).
 
-<span class="handwritten">sign-off tip: there is no wrong outfit for farming, but the basilisk judges you all the same 🧵</span>
+<span class="handwritten">sign-off tip: outfits, hair, and jewelry can all be swapped from the wardrobe menu whenever you like — the hair colors are crafted dyes, listed above 🧵</span>

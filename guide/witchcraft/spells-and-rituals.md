@@ -1,6 +1,6 @@
 ---
 title: "🔮 Spells & Rituals"
-last_modified_at: 2026-09-14
+last_modified_at: 2026-10-07
 ---
 # 🔮 Spells & Rituals
 
@@ -12,7 +12,7 @@ An **incantation** in Wylde Flowers is a spell written down and then *read aloud
 
 <figure class="snapshot">
   <img src="{{ '/assets/images/witchcraft/ritual.jpg' | relative_url }}" alt="The coven performs a ritual around a stone circle at night." loading="lazy">
-  <figcaption>the wheel of the year, mid-turn 🌙</figcaption>
+  <figcaption>the coven at the stone circle, performing a ritual at night 🌙</figcaption>
 </figure>
 
 | Stage | Where | What it costs |
@@ -31,17 +31,17 @@ You cannot buy your way into new magic. Spells unlock by **progressing the main 
 
 The single most important piece of magic in the game, and the one every new witch must tattoo on her heart:
 
-> **Seasons in Fairhaven change only when the coven performs the season-change ritual.** No ritual, no autumn. The calendar waits on the witches.
+> **Seasons in Fairhaven change only when the coven performs the season-change ritual.** Until the coven casts it, the calendar does not move.
 
 Each turning has its own ritual incantation — the **Fall Ritual Incantation**, for instance, is the working that carries Fairhaven from summer into fall — and these are cast **at the coven circle**, together, as a coven. The story teaches you the ceremony; ritual preparations also call for brewed components from your [cauldron](potions.md), so keep it warm.
 
-Your first turning (*To Summer it Up For You*) teaches the supply chain's shape: the **Spirit Flame** it requires wants an **Essence of Copper** (2 copper ore, run through the distillery) and **Powdered Calcium** (2 seashells, ground at the mortar and pestle). Which is to say — the mine and the beach are ritual suppliers. Stock both.
+Your first turning (*To Summer it Up For You*) teaches the supply chain's shape: the **Spirit Flame** it requires wants an **Essence of Copper** (2 copper ore, run through the distillery) and **Powdered Calcium** (2 seashells, ground at the mortar and pestle). Which is to say, the mine and the beach are ritual suppliers, so stock both.
 
 ### Before you say the words
 
 - **HARVEST EVERYTHING FIRST.** Out-of-season crops disappear when the season turns. Walk your fields, pick every last berry, and *then* go to the circle.
 - Check your [crop plans](../farming/crops.md) — anything mid-growth that can't finish in the new season is a write-off.
-- The upside of witch-controlled weather-wheels: **you choose the timing.** Not ready? Don't do the ritual yet. Milk that summer for every melon it's worth. See [Energy, Time & Seasons](../getting-started/energy-time-seasons.md).
+- The upside of witch-controlled weather-wheels: **you choose the timing.** If the fields aren't ready, hold off on the ritual and milk that summer for every melon it's worth. See [Energy, Time & Seasons](../getting-started/energy-time-seasons.md).
 
 > Lore aside: the townsfolk think the seasons simply... happen. Generations of masked witches at a stone circle would beg, politely and anonymously, to differ.
 
@@ -53,15 +53,15 @@ There are roughly **thirty incantations** to learn across the story. Below are o
 
 | Spell / Incantation | What it does |
 | --- | --- |
-| Summon Rain Spell | Calls rain for one day — the farmer-witch's darling. See [Weather Magic](weather-magic.md) |
+| Summon Rain Spell | Calls rain for one day, so the crops water themselves. See [Weather Magic](weather-magic.md) |
 | Summon Wind Spell | Sets the wind blowing for a day |
 | Summon Storm Spell | Whips up one storm of strong wind and lightning |
 | Summon Night Spell | Hurries the sun down when your best work starts after dark |
 | Speed Time Spell | Nudges the clock forward |
 | Freeze Time | Stops the clock while you catch up on chores |
-| Reverse Time Spell | Winds the day backward — mercy for the over-scheduled |
+| Reverse Time Spell | Winds the day backward |
 | Lockpick Incantation | Opens what is locked (story applications abound) |
-| Animal Shapeshifting Spell | Lets Tara take an animal's shape — see [Familiars](familiars.md) for why that's wonderful |
+| Animal Shapeshifting Spell | Lets Tara take an animal's shape — see [Familiars](familiars.md) |
 | Fealty to the Fair Folk Spell | A working tied to the fae — say no more here |
 | Fall Ritual Incantation | The coven ritual that turns summer to fall (cast at the coven circle) |
 | Vanessa's Wraith Banishment Spell | A named witch's working against a restless spirit — late-story business |
@@ -81,7 +81,7 @@ Yes, you get the broom. Broom flight arrives via the story (a broom in working o
 1. Never schedule a season ritual with crops in the ground. (Yes, again. It bears repeating.)
 2. Before writing a big incantation, check your magic and ingredients — the desk is honest about what it needs.
 3. Scrolls are single-use: cast the cheap ones freely, hoard the dear ones.
-4. Coven tasks between chapters are not filler — they're where spell knowledge lives.
+4. Coven tasks between chapters are where new spells are learned, so take every one.
 
 ---
 

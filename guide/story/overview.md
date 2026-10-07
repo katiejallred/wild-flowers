@@ -2,7 +2,7 @@
 title: "📜 Chapter Guide Overview"
 description: "A spoiler-light map of the Wylde Flowers story — how the chapters unlock, from the first ferry ride to the final ritual."
 image: /assets/images/card-story.jpg
-last_modified_at: 2026-10-05
+last_modified_at: 2026-10-07
 ---
 # 📜 Chapter Guide Overview
 
@@ -59,4 +59,4 @@ Studio Drydock has also tended this game like a perennial bed: **major free upda
 
 For the mechanics behind the magic, cross-pollinate with [Introduction to Witchcraft](../witchcraft/introduction.md) and [Spells & Rituals](../witchcraft/spells-and-rituals.md). For the calendar of merriment, see [Festivals & Events](../island/festivals-and-events.md).
 
-<span class="handwritten">Every story on this island starts with a seed and a secret. — K. 🌙</span>
+<span class="handwritten">Hazel's wish, copied here so I do not forget it: coven and town as one Fairhaven. — K. 🌙</span>

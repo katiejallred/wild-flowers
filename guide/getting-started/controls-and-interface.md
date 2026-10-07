@@ -1,6 +1,6 @@
 ---
 title: "🌱 Controls & Interface"
-last_modified_at: 2026-09-14
+last_modified_at: 2026-10-07
 ---
 # 🌱 Controls & Interface
 
@@ -19,7 +19,7 @@ Before you can press flowers, you must learn to hold the press. *Wylde Flowers* 
 
 A few kindly notes from the field:
 
-- **Prompts adapt.** Swap input mid-game and the icons re-label themselves. You never need to memorize a control chart — the game *is* the control chart.
+- **Prompts adapt.** Swap input mid-game and the icons re-label themselves. You never need to memorize a control chart, since every prompt shows the current button.
 - **No twitch skills required.** There's no combat and no timing-based farming. Fishing and similar activities are gentle mini-interactions, not reflex tests.
 - **Accessibility.** The game can be driven with quite minimal inputs (it's playable keyboard-only on PC), and settings offer options worth a browse on your first evening.
 
@@ -51,7 +51,7 @@ Tara's stamina for the day. Farm chores, chopping, mining, and other labors each
 
 ### Time display
 
-The on-screen clock tracks the hour as your day flows by. Shops and residents keep schedules, so the clock tells you who's open and who's abed. Watch it in the evening especially: at **midnight** the game warns you toward bed, and dawdling too long past that means collapsing where you stand. Note what the clock does *not* show: a season deadline. There isn't one.
+The on-screen clock tracks the hour as your day flows by. Shops and residents keep schedules, so the clock tells you who's open and who's abed. Watch it in the evening especially: at **midnight** the game warns you toward bed, and dawdling too long past that means collapsing where you stand. The clock does *not* show a season deadline, because there isn't one.
 
 ---
 
@@ -63,4 +63,4 @@ The on-screen clock tracks the hour as your day flows by. Shops and residents ke
 
 ---
 
-<span class="handwritten">Sign-off tip: open the journal the moment anything feels aimless — the hint button has rescued more lost gardeners than any map ever did. 📖</span>
+<span class="handwritten">Sign-off tip: open the journal the moment anything feels aimless — every quest has a hint button, and using it costs nothing. 📖</span>

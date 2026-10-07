@@ -2,7 +2,7 @@
 title: "💰 Money-Making Guide"
 description: "Reference and extras for Wylde Flowers — the best money-makers each season, achievements, FAQ, and a glossary of island terms."
 image: /assets/images/card-reference.jpg
-last_modified_at: 2026-10-06
+last_modified_at: 2026-10-07
 ---
 # 💰 Money-Making Guide
 
@@ -43,7 +43,7 @@ For the full per-season ledger — seed costs, growth times, and every crop's co
 
 Working principles:
 
-- **Cotton is a manufacturing business, not a crop.** Raw cotton is unremarkable; woven into **cloth** it becomes the island's best money-per-day. Keep the loom busy ([Crafting Stations](../crafting/stations.md)).
+- **Cotton only pays once it's woven.** Raw cotton is unremarkable; woven into **cloth** it becomes the island's best money-per-day. Keep the loom busy ([Crafting Stations](../crafting/stations.md)).
 - **Fennel and spinach carry the cold seasons.** Plant fennel wall-to-wall in fall, switch to spinach in winter, and simply linger in those seasons while the coins accumulate. (In a **greenhouse**, out-of-season fennel climbs to about 29.5/day, since off-season produce sells at a premium.)
 - **Flowers pay twice.** A blooming flower left unharvested feeds your **beehives**, producing honey and beeswax on the side ([Bees & Orchards](../farming/bees-and-orchards.md)). Sunflowers in summer are the pick of the bunch.
 
@@ -68,7 +68,7 @@ Animals are steady, low-effort income once established: daily eggs, milk, and wo
 
 Fishing is honest supplementary income — no seeds to buy, no beds to water. Catches vary in value by species and location, and rarer fish fetch better prices. It shines early game (before your farm scales up) and as a use for evening hours. See [Fishing](../farming/fishing.md).
 
-- **Fish sticks are the fisher's cloth.** The kitchen's **fish sticks** recipe accepts *any* fish, so a bucketful of cheap, common catches cooks up into dishes worth more than the fish that went into them ([Cooking](../crafting/cooking.md)). Batch-cook the everyday catch and sell the sticks; save the rare fish for the compendium, [gifts](../characters/gift-preferences.md), and quests.
+- **Cook the common catch into fish sticks.** The kitchen's **fish sticks** recipe accepts *any* fish, so a bucketful of cheap, common catches cooks up into dishes worth more than the fish that went into them ([Cooking](../crafting/cooking.md)). Batch-cook the everyday catch and sell the sticks; save the rare fish for the compendium, [gifts](../characters/gift-preferences.md), and quests.
 
 <span class="handwritten">the river is on your own farm — a free bait-to-fish-sticks pipeline before breakfast 🐟</span>
 
@@ -94,12 +94,12 @@ A harvest only becomes coins once it finds the right counter. Fairhaven's shopke
 |---|---|
 | **Crops, produce & artisan goods** (cheese, candles) | **Dahl General Store** — Lina's counter is the farm's main outlet |
 | **Fish** | **Soft and Son's Fish & Tackle** — Bruno pays honest rates for the catch |
-| **Cooked dishes** (fish sticks included) | **Cafe Moretti** — Sophia buys what her kitchen respects |
+| **Cooked dishes** (fish sticks included) | **Cafe Moretti** — Sophia's counter for cooked dishes |
 | **Baked goods** | **Seton's Bakery** — Angus happily buys your desserts |
 | **Cloth & finery** | **Kai's Treasures** — the merchant with an eye for fine fabric |
 | **Meat & adult animals** | **Kim's Local Butcher and Deli** — or Marty, for the well-loved |
 | **Forage & beach finds** | **Shelby's Scraps and Sundries**, in the woods |
-| **Ores, ingots & gems** | **The Blacksmith** — Natalia knows what a stone is worth |
+| **Ores, ingots & gems** | **The Blacksmith** — Natalia's counter, where ore is also smelted into ingots |
 
 Two habits keep the ledger honest:
 
@@ -117,6 +117,6 @@ Two habits keep the ledger honest:
 | **Fall** | Fennel fields; harvest everything before any ritual. |
 | **Winter** | Spinach fields; lean on artisan goods, animals, and the mine. |
 
-> Lore aside: Hazel kept this farm afloat for decades without min-maxing a single coin. Profit is lovely, but in Fairhaven the real currency is casseroles delivered to neighbors.
+> Lore aside: Hazel kept this farm afloat for decades without min-maxing a single coin.
 
-<span class="handwritten">sign-off tip: pick ONE engine per season — fennel, cloth, or bees — and let it run; scattered plots make scattered profits ❀</span>
+<span class="handwritten">sign-off tip: pick ONE engine per season — wheat, cloth, fennel, or spinach — and give it most of your beds ❀</span>

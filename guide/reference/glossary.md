@@ -1,6 +1,6 @@
 ---
 title: "📚 Glossary"
-last_modified_at: 2026-09-14
+last_modified_at: 2026-10-07
 ---
 # 📚 Glossary
 
@@ -91,7 +91,5 @@ A pressed and labeled collection of Fairhaven's terms of art — the words you'l
 <span class="handwritten">flowers you don't pick are still working — for the bees ❀</span>
 
 ---
-
-> Lore aside: notice how many of these words are shared between the mundane town and the magical one — Fairhaven's whole story lives in that overlap.
 
 <span class="handwritten">sign-off tip: when a quest or letter uses a term you don't know, it's probably pressed somewhere in this book — start here ❀</span>

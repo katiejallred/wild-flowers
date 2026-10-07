@@ -1,6 +1,6 @@
 ---
 title: "🌱 Your First Week"
-last_modified_at: 2026-09-20
+last_modified_at: 2026-10-07
 ---
 # 🌱 Your First Week
 
@@ -26,29 +26,29 @@ Every transplant needs a little time to take root, and so will you. Below is a g
 
 ## Day 3 — Meet the town
 
-- Make a proper circuit of town: the diner (**Sophia**), the clinic (**Amira**), the butcher (**Kim**), the forge (**Natalia**), the harbor (**Kai**). Faces first, favors later.
+- Make a proper circuit of town: the diner (**Sophia**), the clinic (**Amira**), the butcher (**Kim**), the forge (**Natalia**), the harbor (**Kai**). Their errands come later; today is just introductions.
 - Forage anything sparkling or pickable along the paths — wild finds are free money and free quest fodder. See [Mining & Foraging](../farming/mining-and-foraging.md).
-- Keep watering. Keep talking. Keep an eye on the journal.
+- Keep watering, keep talking to people, and keep an eye on the journal.
 
 ## Day 4 — The farm takes shape
 
 - By now you'll likely have your first small **harvest** — sell some, keep some, as quests direct.
 - To-do quests will start asking you to gather, chop, and craft. Follow them; they are the story's roots and they unlock everything else, including the game's *other* career.
-- If the town's early errands send you somewhere new — the woods, the beach — go. Exploration is never wasted here.
+- If the town's early errands send you somewhere new — the woods, the beach — go; each new area has its own forage and its own residents to meet.
 
 {% include ad-unit.html slot="incontent" %}
 
 ## Day 5 — Something is different about grandma
 
-- Around this stretch of days (exactly when depends on your pace), the main story begins showing its true colors. Late-night noises. Odd errands. A grandmother with secrets.
+- Around this stretch of days (exactly when depends on your pace), the main story begins showing its true colors, with late-night noises, odd errands, and a grandmother with secrets.
 - We'll say no more — walk it yourself, then read [Chapter 1](../story/chapter-01.md) afterward if you want the botanical notes.
 
-<span class="handwritten">follow the strange thing. always follow the strange thing 🌙</span>
+<span class="handwritten">when a to-do quest sounds odd, do that one first — the strange errands are the main story 🌙</span>
 
 ## Day 6 — Two lives, one Tara
 
 - Once the story's first big reveal lands, your evenings gain a purpose of their own. The [Witchcraft introduction](../witchcraft/introduction.md) covers what opens up, spoiler-gently.
-- Daytime stays the same: water, harvest, chat, forage. Balance is the whole game.
+- Daytime stays the same: water, harvest, chat, forage.
 - Start earmarking spare produce as **gifts** — see [Gift Preferences](../characters/gift-preferences.md) once you know people a little.
 
 ## Day 7 — Rhythm

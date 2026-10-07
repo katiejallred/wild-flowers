@@ -1,6 +1,6 @@
 ---
 title: "💎 The Mine: Floor by Floor"
-last_modified_at: 2026-09-14
+last_modified_at: 2026-10-07
 ---
 # 💎 The Mine: Floor by Floor
 
@@ -16,8 +16,8 @@ The mine entrance beside the farm starts the game collapsed. *"Hey, I remember t
 
 ## How the deep behaves
 
-- **One key per floor.** On nearly every floor, the key to the next level down is hidden inside the **ore nodes** — keep swinging and it will turn up. The mine rewards the thorough.
-- **Two locked exceptions.** Floor **14** ends at a fancy door with a note on it — *"I have the key to this door. I will return it when the time is right."* The **Deep Mine key** comes through the coven's questline, so if you've hit that door, the way forward is story, not stone. Floor **20** is the bottom; there is no key because there is no further down.
+- **One key per floor.** On nearly every floor, the key to the next level down is hidden inside the **ore nodes** — keep swinging and it will turn up.
+- **Two locked exceptions.** Floor **14** ends at a fancy door with a note on it — *"I have the key to this door. I will return it when the time is right."* The **Deep Mine key** comes through the coven's questline, so if you've hit that door, advance that questline before you come back down. Floor **20** is the bottom; there is no key because there is no further down.
 - **Every floor** has **clay patches** to dig and loose **stones** to break, whatever else it offers.
 - **Gem rocks are a gamble** — a gem node can give up its gem, or coal, or plain stone, or some mix of them.
 - **Floor 20 hides a fishing pool** — yes, really. Pack the rod ([Fishing](fishing.md)).
@@ -33,7 +33,7 @@ Every upgrade comes from **Natalia** at the blacksmith, and every one pays for i
 | **Silver** | 10 silver ingots, 5 wood, 1,000 coins | Lighter; each swing costs less energy. Needed to crack **gold ore**. |
 | **Gold** | Gold ingots + coin at Natalia's | Lightest of all — and it opens gem rocks in a single hit. |
 
-<span class="handwritten">smelt, upgrade, descend, repeat — every ore run ends at Natalia's door 🔨</span>
+<span class="handwritten">smelt each haul into ingots at Natalia's before the next trip down — the copper pickaxe needs 3 ingots, the silver 10 🔨</span>
 
 ## Floor by floor
 
@@ -93,7 +93,7 @@ The chests scattered through the mine hold recipes, powered gems for the craft �
 | **Coal** | Fuel for the glass kiln, ink for the writing desk — and those gem finders. |
 | **Clay** | Crystal balls, scrying bowls, the glass kiln, red dye, and the mighty Ultra Miracle Grow potion. |
 | **Stone** | Building material (the cauldron itself wants some) — and a humble 1 coin apiece if you must. |
-| **Shiitake** | The kitchen and the cauldron both approve ([Cooking](../crafting/cooking.md)). |
+| **Shiitake** | An ingredient for both cooking and potions ([Cooking](../crafting/cooking.md)). |
 
 ## Quests that send you digging
 

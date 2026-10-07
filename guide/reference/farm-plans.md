@@ -2,7 +2,7 @@
 title: "📋 Recommended Farm Plans"
 description: "Six ready-to-follow Wylde Flowers farm plans — a first season, a cloth mill, a long fennel winter, a low-effort orchard, a courtship kitchen, and a completionist's fishing route."
 image: /assets/images/card-reference.jpg
-last_modified_at: 2026-10-06
+last_modified_at: 2026-10-07
 ---
 # 📋 Recommended Farm Plans
 
@@ -12,7 +12,8 @@ complete routine built from those facts: what to plant, what to build, and the
 daily loop that ties them together.
 
 Pick the plan that matches how you like to play. You don't need to follow any
-of them perfectly. Fairhaven doesn't punish a detour.
+of them perfectly; the season only turns when you cast the ritual, so a
+detour costs nothing.
 
 <nav class="quick-look" aria-label="Quick lookup">
   <span class="specimen-label">Pick a plan ➺</span>
@@ -50,7 +51,7 @@ things that keep paying you back, not on things you'll outgrow.
 
 **Don't:** cast the season ritual with crops still in the ground. Out-of-season crops wilt the moment the season turns ([Energy, Time & Seasons](../getting-started/energy-time-seasons.md)).
 
-<span class="handwritten">a first season is for roots, not riches 🌱</span>
+<span class="handwritten">in your first spring, put spare coins into a beehive and a fruit tree before anything else 🌱</span>
 
 ---
 
@@ -59,7 +60,7 @@ things that keep paying you back, not on things you'll outgrow.
 **Best for:** the player who wants the most coins per day the island can give.
 
 **The idea:** cotton is the best earner in the game, but *only* after you
-weave it into cloth. So treat it like a small business, not a crop.
+weave it into cloth on a loom.
 
 1. **Build a loom** before summer starts ([Crafting Stations](../crafting/stations.md)). You can't sell raw cotton at all.
 2. **Buy cotton seeds from Thomas** at his farm, not the general store.
@@ -155,4 +156,4 @@ Orchard & Apiary pairs with anything, because it runs in the background. The
 Cloth Mill and the Long Fennel Winter hand off to each other as the seasons
 turn. The Courtship Kitchen is what you do with the coins.
 
-<span class="handwritten">sign-off tip: choose one plan for the beds and one for the heart — Fairhaven rewards both 🌿</span>
+<span class="handwritten">sign-off tip: run the Orchard &amp; Apiary alongside whichever plan you pick — trees and hives need no watering, so they never compete for your day 🌿</span>

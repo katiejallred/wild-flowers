@@ -1,6 +1,6 @@
 ---
 title: "🚜 Animals & the Barn"
-last_modified_at: 2026-09-14
+last_modified_at: 2026-10-07
 ---
 # 🚜 Animals & the Barn
 
@@ -10,7 +10,7 @@ No field journal is complete without its fauna. The Wylde farm keeps a warm-bloo
 
 <figure class="snapshot">
   <img src="{{ '/assets/images/farming/animals.jpg' | relative_url }}" alt="Cows and other animals gathered in the farm paddock." loading="lazy">
-  <figcaption>the warm-blooded ledger, assembled for breakfast 🐄</figcaption>
+  <figcaption>cows and the rest of the herd in the farm paddock 🐄</figcaption>
 </figure>
 
 ---
@@ -34,7 +34,7 @@ Animals themselves are purchased from the island's livestock-minded villagers on
 </figure>
 <figure class="snapshot">
   <img src="{{ '/assets/images/farming/duck-baby.jpg' | relative_url }}" alt="A duckling paddles near the pond." loading="lazy">
-  <figcaption>the pond gains a very small admiral 🦆</figcaption>
+  <figcaption>a duckling paddling on the pond 🦆</figcaption>
 </figure>
 </div>
 
@@ -43,10 +43,10 @@ Animals themselves are purchased from the island's livestock-minded villagers on
 ## Daily Care
 
 - **Feed the barn animals.** Cows and sheep each need one serving of hay per day — until you build the **Hay Field**, after which they graze for themselves and cross feeding off your morning list.
-- **Never skip a day.** An animal left unfed for a single day falls ill, and curing it requires a **Cure Animal Sickness Potion** from your cauldron ([Potions](../witchcraft/potions.md)). Prevention is considerably cheaper than the ingredient list.
+- **Never skip a day.** An animal left unfed for a single day falls ill, and curing it requires a **Cure Animal Sickness Potion** from your cauldron ([Potions](../witchcraft/potions.md)).
 - **Pet everyone.** A daily pat raises your relationship with each animal.
 
-<span class="handwritten">the hay field pays for itself in saved mornings alone 🌾</span>
+<span class="handwritten">build the Hay Field as soon as you can — once it's up, cows and sheep graze on their own and hay comes off the morning list 🌾</span>
 
 A note for the efficiency-minded: affection does **not** change how much or how well your animals produce — the milk flows regardless. What petting improves is the animal's value if sold, and, frankly, the mood of the farm.
 
@@ -57,11 +57,11 @@ A note for the efficiency-minded: affection does **not** change how much or how 
 | Animal | Produce | Rhythm |
 | --- | --- | --- |
 | Chicken | Eggs | Regular layers; eggs can also be incubated into chicks. |
-| Duck | Eggs | Lays like her coop-mate, with her own charm. |
+| Duck | Eggs | Lays eggs like the chicken; needs the Expanded Coop. |
 | Cow | Milk | At least one milk per day from each adult. |
 | Sheep | Wool | One wool roughly every 3 days per adult. |
 | Alpaca | Wool | Sheared just like a sheep. |
-| Pig | Truffles | An adult pig will *sometimes* present you a truffle when petted — affection with dividends. |
+| Pig | Truffles | An adult pig will *sometimes* present you a truffle when petted. |
 
 Eggs, milk, and wool feed straight into [Cooking](../crafting/cooking.md) and [Artisan Goods](../crafting/artisan-goods.md) — cheese, cloth, and finer things — where their value multiplies. Wool pairs naturally with the cotton economy noted in the [Crop Guide](crops.md).
 
@@ -81,11 +81,11 @@ The payoff is more than cosmetic: magical cows give **rainbow milk**, magical du
 <div class="snapshot-row">
 <figure class="snapshot">
   <img src="{{ '/assets/images/farming/cria-rainbow.jpg' | relative_url }}" alt="A rainbow-colored baby alpaca stands in the pasture." loading="lazy">
-  <figcaption>a rainbow cria — devotion, rewarded 🌈</figcaption>
+  <figcaption>a rainbow-colored cria, bred by feeding its mother her favorite food 🌈</figcaption>
 </figure>
 <figure class="snapshot">
   <img src="{{ '/assets/images/farming/pig-flying.jpg' | relative_url }}" alt="A winged pig flies above the farm." loading="lazy">
-  <figcaption>yes, pigs fly here. next question 🪽</figcaption>
+  <figcaption>a winged pig, one of the magical varieties, over the farm 🪽</figcaption>
 </figure>
 </div>
 
@@ -153,4 +153,4 @@ Portraits from the barn and coop, as the archive paints them.
 
 ---
 
-<span class="handwritten">sign-off tip: keep one Cure Animal Sickness Potion on the shelf before you think you need it — sick cows keep no schedule 🐄</span>
+<span class="handwritten">sign-off tip: keep one Cure Animal Sickness Potion on the shelf before you need it — a single missed feeding is enough to sicken an animal 🐄</span>

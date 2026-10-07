@@ -1,12 +1,12 @@
 ---
 title: "📜 Final Chapters & Ending"
-last_modified_at: 2026-10-05
+last_modified_at: 2026-10-07
 ---
 # 📜 Final Chapters & Ending
 
 > ⚠️ Spoilers ahead — the biggest in the book. The finale, the unmasking, the epilogue, and Year 2.
 
-Every field journal saves its finest pressing for the last page. Here is Fairhaven's.
+Here is Fairhaven's last pressing: the finale, the unmasking, and the spring that follows.
 
 ## Locket Up — the Final Quest
 
@@ -25,7 +25,7 @@ Cast the banishment, and the wraith is driven out. Completing the quest rewards 
 
 ## The Unmasking
 
-To face the crisis, the coven does the unthinkable: **its members reveal their identities to the townsfolk**, standing together in the open to defeat the threat. The grocer, the doctor, friends and neighbours — masks off, at last. It is the moment Hazel wished for all along: not a victory of witches *over* the town, but the two halves of Fairhaven finally standing as one community.
+To face the crisis, the coven does the unthinkable: **its members reveal their identities to the townsfolk**, standing together in the open to defeat the threat. The grocer, the doctor, friends and neighbours — masks off, at last. It is the moment Hazel wished for all along, the two halves of Fairhaven finally standing together as one community.
 
 <details markdown="1">
 <summary><strong>🎭 Who was behind each mask? (unpress this specimen at your own risk)</strong></summary>
@@ -64,7 +64,7 @@ The story keeps growing after the credits — keep talking to neighbours and vis
 
 <figure class="snapshot">
   <img src="{{ '/assets/images/story/ravenwood-boat.jpg' | relative_url }}" alt="Tara rides the repaired boat across the lake toward Ravenwood Hollow." loading="lazy">
-  <figcaption>the ferry between worlds, lately repaired ⛵</figcaption>
+  <figcaption>the repaired boat that ferries you to Ravenwood Hollow ⛵</figcaption>
 </figure>
 
 Studio Drydock kept planting after the credits. Major free updates added whole new beds to this garden:
@@ -79,4 +79,4 @@ Studio Drydock kept planting after the credits. Major free updates added whole n
 
 **Previous:** [Chapters 7–9](chapters-07-09.md) · **Also see:** [Side Quests](side-quests.md) for the stories between the story, or return to the [Chapter Guide Overview](overview.md).
 
-<span class="handwritten">Final entry: the island keeps growing. So does the gardener. — K.</span>
+<span class="handwritten">Final entry: a year to the day since the ferry brought me here, and the seasons now turn when I say so. — K.</span>

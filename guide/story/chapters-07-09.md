@@ -1,6 +1,6 @@
 ---
 title: "📜 Chapters 7–9"
-last_modified_at: 2026-09-20
+last_modified_at: 2026-10-07
 ---
 # 📜 Chapters 7–9
 
@@ -16,7 +16,7 @@ The strange happenings have a name now: **wraiths** — malevolent spirits loose
 
 ## The Trials
 
-Fear makes poor soil, and the **League of the Conscious Mind** plants deep in it. With the disturbances impossible to ignore, talk in town turns to rooting out hidden "Malcontents" among the neighbours — and matters escalate into public trials of suspicion that go further than even some League members are comfortable with. Cameron will later admit he let things go too far; you'll watch it happen in real time here, and it stings.
+With the disturbances impossible to ignore, the **League of the Conscious Mind** turns the town's fear to its own ends, and talk turns to rooting out hidden "Malcontents" among the neighbours — and matters escalate into public trials of suspicion that go further than even some League members are comfortable with. Cameron will later admit he let things go too far; you'll watch it happen in real time here, and it stings.
 
 One pressing from this stretch, verified and vivid: an **anonymous tip reaches Mayor Otto** confirming that there are, in fact, witches in Fairhaven — and a **mandatory Town Hall meeting** follows, with a neighbour standing accused of witchcraft before the whole town. The proceedings take an unexpected turn when Cameron reveals he has seen **Otto himself** slipping into the woods at night, and the mayor is forced to admit he has been meeting **a masked woman in the woods for the past ten years**. The accusers, it turns out, have secrets of their own.
 
@@ -44,4 +44,4 @@ Her plan curdles in the **Gloaming**, the shadowed other-side of the island wher
 
 **Previous:** [Chapters 4–6](chapters-04-06.md) · **Next:** the unmasking and the ending in [Final Chapters & Ending](final-chapters.md).
 
-<span class="handwritten">Winter's lesson: fear spreads faster than frost, and melts slower. — K.</span>
+<span class="handwritten">Winter's entry: the Town Hall tried a neighbour for witchcraft, and the mayor confessed to ten years of meeting a masked woman in the woods. — K.</span>

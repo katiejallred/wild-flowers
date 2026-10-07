@@ -2,7 +2,7 @@
 title: "🌱 Welcome to Fairhaven"
 description: "New to Wylde Flowers? Start here — a spoiler-light overview of Fairhaven Island and your first week on the farm."
 image: /assets/images/card-getting-started.jpg
-last_modified_at: 2026-09-20
+last_modified_at: 2026-10-07
 ---
 # 🌱 Welcome to Fairhaven
 
@@ -14,7 +14,7 @@ That is the story on the seed packet, anyway. Dig a little deeper and you'll fin
 
 <figure class="snapshot">
   <img src="{{ '/assets/images/wiki/characters/tara-wylde.jpg' | relative_url }}" alt="Tara Wylde holding a glowing purple lotus bloom in her palm." loading="lazy">
-  <figcaption>the specimen herself: Tara Wylde, farmer by day, witch by night 🌙</figcaption>
+  <figcaption>Tara Wylde, holding a glowing lotus bloom 🌙</figcaption>
 </figure>
 
 ---
@@ -29,7 +29,7 @@ Plenty of games let you water turnips. A few things set this one apart, like a r
 - **A genuinely warm community.** Fairhaven's residents are diverse in age, background, and identity, and the game's themes — acceptance, belonging, and mending the divide between coven and townsfolk — are handled with real tenderness. There are eight romance options at present, and friendship with everyone is worth cultivating.
 - **Cozy by design.** No combat, no fail states, no clock breathing down your neck. Struggles here are the human kind: grief, prejudice, change, and community.
 
-<span class="handwritten">no other sim lets you put the seasons themselves in your pocket 🌿</span>
+<span class="handwritten">the season only turns when you cast the ritual — so harvest every bed before you do 🌿</span>
 
 <figure class="snapshot">
   <img src="{{ '/assets/images/fan-art-farm-twilight.jpg' | relative_url }}" alt="Fan art of a grandmother and granddaughter tending a garden beside a snug farmhouse at golden hour, lighthouse and sea beyond." loading="lazy">
@@ -52,7 +52,7 @@ A quick sampling from the field, properly catalogued in the [Character Directory
 | Sophia Moretti | ...diner coffee steams — cook and proprietor |
 | Natalia Kuznetsova | ...forge sparks fly — the blacksmith who upgrades your tools |
 | Cameron Conner | ...sermons get loud — a former child actor with strong opinions about the "unnatural" |
-| Cleocatra | ...sunbeam is warmest — a cat of consequence |
+| Cleocatra | ...sunbeam is warmest — the island cat, who can be adopted later on |
 
 Later seasons of play bring newcomers too — a hairdresser, and stranger visitors besides — but those are pages for another day.
 
@@ -74,4 +74,4 @@ This is an unofficial fan guide, pressed together with affection by players, for
 
 ---
 
-<span class="handwritten">Sign-off tip: don't optimize your first playthrough — talk to people, poke into corners, and let the story set the pace. The turnips will keep. 🌸</span>
+<span class="handwritten">Sign-off tip: don't optimize your first playthrough — talk to people, poke into corners, and let the story set the pace. Nothing on the farm expires until you cast the season ritual. 🌸</span>

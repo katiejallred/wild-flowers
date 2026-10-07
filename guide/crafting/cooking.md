@@ -2,13 +2,13 @@
 title: "🍳 Cooking & Recipes"
 description: "Cooking and crafting in Wylde Flowers — recipes and where to learn them, the crafting stations, and top-value artisan goods."
 image: /assets/images/card-crafting.jpg
-last_modified_at: 2026-09-20
+last_modified_at: 2026-10-07
 ---
 # 🍳 Cooking & Recipes
 
-Every field botanist knows the truth of it: you cannot press flowers on an empty stomach. In Fairhaven, the kitchen is as vital an instrument as the trowel or the wand, and Tara's culinary education begins the moment she steps into Grandma Hazel's farmhouse. This page catalogues what I've learned at the stove — how recipes are gathered, where ingredients grow, and why a warm meal is the most reliable magic on the island.
+In Fairhaven, the kitchen is as vital an instrument as the trowel or the wand, and Tara's culinary education begins the moment she steps into Grandma Hazel's farmhouse. This page catalogues what I've learned at the stove — how recipes are gathered, where ingredients grow, and why a warm meal is the most reliable magic on the island.
 
-> Hazel's kitchen has fed Wyldes for generations. Long before Tara stirred her first cauldron, she stirred her first pot of soup in this very room — and some would say the two arts are not so different.
+> Hazel's kitchen has fed Wyldes for generations. Long before Tara stirred her first cauldron, she stirred her first pot of soup in this very room.
 
 <nav class="quick-look" aria-label="Quick lookup">
   <span class="specimen-label">In a hurry? ➺</span>
@@ -57,13 +57,13 @@ When the garden falls short, the [village shops](../island/shops.md) fill the ga
 ## What Cooking Is For
 
 ### Energy in your pocket
-Food is fuel. Every dish restores energy, and heartier meals restore more than raw ingredients eaten in desperation. Cook in batches before a big day of clearing land or delving the mines.
+Every dish restores energy, and heartier meals restore more than raw ingredients eaten in desperation. Cook in batches before a big day of clearing land or delving the mines.
 
 ### Gifts that warm hearts
-A cooked dish makes a thoughtful gift, and many villagers have favorite meals that delight them far more than a raw turnip ever could. Consult the [gift preferences](../characters/gift-preferences.md) ledger and cook accordingly — the way to a friendship (or a [romance](../characters/romance.md)) is so often through the stomach.
+A cooked dish makes a thoughtful gift, and many villagers have favorite meals that delight them far more than a raw turnip ever could. Consult the [gift preferences](../characters/gift-preferences.md) ledger and cook accordingly — a favorite dish counts toward friendship and [romance](../characters/romance.md) alike.
 
 ### Quest ingredients
-Villagers will sometimes ask for a specific dish outright — a [side quest](../story/side-quests.md) hinging on a well-made meal is a Fairhaven tradition. Keeping a varied pantry means never having to say "come back tomorrow."
+Villagers will sometimes ask for a specific dish outright — a [side quest](../story/side-quests.md) hinging on a well-made meal is a Fairhaven tradition. Keep a varied pantry so you can hand over the dish the same day it's asked for.
 
 {% include ad-unit.html slot="incontent" %}
 
@@ -71,7 +71,7 @@ Villagers will sometimes ask for a specific dish outright — a [side quest](../
 
 Fairhaven's seasons turn only when the coven wills it, which gives you unusual leisure — but ingredients remain seasonal creatures. Some crops and forage appear only in their proper season, and so some dishes can only be assembled at certain times of year. Before you ask the [coven](../witchcraft/spells-and-rituals.md) to turn the wheel, take stock: harvest and cook the season's specialties, or squirrel away the ingredients, lest a quest catch you wanting a spring dish in the depths of winter.
 
-> The witches change the weather, but no spell yet devised will make a summer fruit grow in autumn soil. Even magic respects the pantry.
+> The witches change the weather, but no spell yet devised will make a summer fruit grow in autumn soil.
 
 ---
 
@@ -938,4 +938,4 @@ Every dish from the archive's first two drawers, Anzac Biscuit through Pumpkin S
 
 Once your kitchen hums along, the natural next step is the tool shed: the [crafting stations](stations.md) out there turn milk into butter and cheese, fruit into cider, and humble produce into [artisan goods](artisan-goods.md) worth real coin.
 
-<span class="handwritten">field tip: cook a stack of cheap filling dishes for workdays, and save the fancy plates for gifting — the mines don't care how pretty your lunch is 🌿</span>
+<span class="handwritten">field tip: cook a stack of cheap filling dishes for workdays, and save the fancy plates for villagers who list them as favorites 🌿</span>

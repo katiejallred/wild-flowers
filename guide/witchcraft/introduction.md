@@ -2,7 +2,7 @@
 title: "🔮 The Craft: An Introduction"
 description: "An introduction to witchcraft in Wylde Flowers — the coven, spells, potions, rituals, and Tara's second life after dark."
 image: /assets/images/card-witchcraft.jpg
-last_modified_at: 2026-09-15
+last_modified_at: 2026-10-07
 ---
 # 🔮 The Craft: An Introduction
 
@@ -13,11 +13,11 @@ Press this page flat and keep it close, dear reader — it marks the moment your
 <div class="snapshot-row">
 <figure class="snapshot">
   <img src="{{ '/assets/images/witchcraft/coven-initiation.jpg' | relative_url }}" alt="Tara stands in a candlelit circle with the masked Fairhaven coven during her initiation." loading="lazy">
-  <figcaption>the circle, the masks, the vow 🕯️</figcaption>
+  <figcaption>Tara's initiation, in the candlelit circle with the masked coven 🕯️</figcaption>
 </figure>
 <figure class="snapshot">
   <img src="{{ '/assets/images/witchcraft/broomstick.jpg' | relative_url }}" alt="Tara flies over Fairhaven on a broomstick." loading="lazy">
-  <figcaption>commuting, improved</figcaption>
+  <figcaption>Tara on a broomstick over Fairhaven</figcaption>
 </figure>
 </div>
 
@@ -53,7 +53,7 @@ That's right: the woman who sells you seeds and the doctor who patches you up ar
 
 You don't apply to the coven; the main story carries you into it. Progress the central quest line and Tara is initiated, taught, and gradually trusted with real responsibilities — including, eventually, the [season-change ritual](spells-and-rituals.md) that the whole island quietly depends on. Coven members will also ask favors of you: gather this, brew that, be somewhere at moonrise. Do these gladly — magical tasks for coven members are how new spells and recipes come to you.
 
-<span class="handwritten">the masks come off in the story's own time — don't rush it 🌙</span>
+<span class="handwritten">the masks come off one at a time through the unmasking quests — no gift or favor hurries them 🌙</span>
 
 ---
 
@@ -141,4 +141,4 @@ Rank insignia from the archive — a witch's path through the coven, from Initia
   </figure>
 </div>
 
-<span class="handwritten">tip from the margin: sleep early the night before a coven meeting — a yawning witch drops her candle 🌙</span>
+<span class="handwritten">tip from the margin: coven meetings happen after dark — don't spend the whole day's energy in the mine first 🌙</span>

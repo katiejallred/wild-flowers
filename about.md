@@ -1,7 +1,7 @@
 ---
 title: "🗺️ About the Guide"
 description: "What The Fairhaven Field Guide is, who it's for, and a complete directory of every page pressed between its covers."
-last_modified_at: 2026-10-05
+last_modified_at: 2026-10-07
 ---
 # 🗺️ About the Guide
 
@@ -32,15 +32,15 @@ portions adapted from it are shared under the same license.
 
 Hi, I'm **Katie Allred**, and I made this guide.
 
-You probably know the moment. It's the middle of a season, your Switch is in
-one hand, and you need to know what Kai likes *before* the day runs out. So you
+It's the middle of a season, your Switch is in one hand, and you need to know
+what Kai likes *before* the day runs out. So you
 search, and you land on a wall of text, two story spoilers, and a table that
 won't fit on your phone. By the time you find the answer, Tara has gone to bed.
 
 That's the problem this guide exists to solve. Every page is tested against
 one sentence: **the fastest way to get an answer mid-game, without getting
-spoiled.** Tables and charts come first. Story pages are clearly marked.
-Everything else stays spoiler-light.
+spoiled.** Tables and charts come first, story pages are clearly marked, and
+everything else stays spoiler-light.
 
 I've been building things for online communities since I was nine, when I
 started a Harry Potter fan forum and made real friends there — on purpose and
@@ -62,8 +62,7 @@ wins. This guide is me putting that lesson to work for a game I love.
 I started playing *Wylde Flowers* last spring, and I'm a cozy player at
 heart. Once I find a season I love, I stay in it. Fairhaven lets you do that,
 because the seasons only change when the coven casts the ritual, and I take
-full advantage. There's no rush on this island, and this guide won't rush you
-either.
+full advantage.
 
 If you play the same way, start with the
 [Orchard & Apiary plan]({{ '/guide/reference/farm-plans.html' | relative_url }}#orchard-apiary).
@@ -82,7 +81,7 @@ It helps cover the costs of keeping the journal growing.
 
 - **Checked, then re-checked.** Numbers are cross-checked against the
   community wiki, and pages are corrected whenever players report a difference.
-- **Written, not copied.** The tables share the community's data, but the
+- **The Guide's own words.** The tables share the community's data, but the
   explanations, strategy notes, and [recommended farm plans]({{ '/guide/reference/farm-plans.html' | relative_url }})
   are the Guide's own.
 - **Always growing.** Every page shows the date it was last updated. Found

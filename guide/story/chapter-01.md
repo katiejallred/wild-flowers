@@ -1,12 +1,12 @@
 ---
 title: "📜 Chapter 1: A New Leaf"
-last_modified_at: 2026-09-20
+last_modified_at: 2026-10-07
 ---
 # 📜 Chapter 1: A New Leaf
 
 > 🌱 Only the gentlest of spoilers here — this chapter covers the game's opening hours.
 
-Every pressed flower begins as a cutting from somewhere else. So it is with Tara Wylde, who steps off the boat at Fairhaven with city dust still on her boots, come to care for her grandmother Hazel — eighty-two years old, ailing, and utterly undimmed — and to keep the Wylde family farm from going to seed.
+Tara Wylde arrives at Fairhaven like a cutting from somewhere else, stepping off the boat with city dust still on her boots, come to care for her grandmother Hazel — eighty-two years old, ailing, and utterly undimmed — and to keep the Wylde family farm from going to seed.
 
 ## Settling In at the Farm
 
@@ -18,7 +18,7 @@ Your first To-Do quests are the game's tutorial, and they are pure farmhand's wo
 
 Don't rush this stretch. The habits you plant now — water in the morning, forage on the walk to town, sleep before your energy bottoms out — will carry you through the whole story. Root yourself with [Farming 101](../farming/farming-101.md) and [Energy, Time & Seasons](../getting-started/energy-time-seasons.md).
 
-> 🌾 The farm is Hazel's life's work. The game never says so outright in these first hours, but everything you plant here is a promise to her.
+> 🌾 The farm is Hazel's life's work, and keeping it planted is the reason Tara came to Fairhaven at all.
 
 ---
 
@@ -38,7 +38,7 @@ A full pressing of who's who lives in the [Character Directory](../characters/di
 
 ## Small Oddities, Carefully Noted
 
-Even in these sunny first days, an observant field botanist will spot things that don't quite belong: neighbours who trail off mid-sentence, a grandmother who seems to know more than she says, and a certain guardedness whenever the island's old stories come up. Note them in your margins. They will matter.
+Even in these sunny first days, an observant field botanist will spot things that don't quite belong: neighbours who trail off mid-sentence, a grandmother who seems to know more than she says, and a certain guardedness whenever the island's old stories come up. Note them in your margins, because the quests of Chapter 2 pick every one of them up.
 
 <span class="handwritten">Hazel's tea smells of herbs I cannot name. Curious. 🌙</span>
 
@@ -53,4 +53,4 @@ Even in these sunny first days, an observant field botanist will spot things tha
 
 **Next:** the island's secrets begin to unfurl in [Chapter 2: The Family Secret](chapter-02.md). Or return to the [Chapter Guide Overview](overview.md).
 
-<span class="handwritten">First specimen collected: one new life, freshly transplanted. It seems to be taking root. — K.</span>
+<span class="handwritten">First entry: a plot tilled, planted, and watered, and every villager on the island greeted at least once. — K.</span>
