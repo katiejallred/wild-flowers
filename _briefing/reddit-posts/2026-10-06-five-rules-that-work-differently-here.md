@@ -80,3 +80,20 @@ What else trips up people coming from other farm sims? I'll add the good ones to
   Tips page; replies that correct a fact go straight to a site fix.
 - Don't cross-post to other subs the same week.
 - If the mods remove the link, don't repost. Leave the tips up without it.
+
+---
+
+## Reply to the "reads like an AI caption" comment (2026-10-07)
+
+A commenter listed the contrast couplets and the "things nobody told you" frame as
+the tells. The reply Katie approved, in substance:
+
+> Fair, and thank you for being specific about it. You're right that I run my writing
+> through Claude to tighten it and make it more readable. The content is mine, though.
+> Every fact in there came from my own guide, and every one of those lines was me
+> saying something true about the game and the tool making it sound tidier than I
+> would have. The couplets you pulled out are a good list of what to cut. I'll edit
+> this one and keep an eye out for it going forward.
+
+After replying, edit the live post to match the body above so the public version and
+this draft agree.
