@@ -2,7 +2,8 @@
 
 Read this before writing any prose that people will read: Reddit posts and comments,
 site copy, PR descriptions, email. The site's reference briefing is in
-`_briefing/cowork-briefing.md`; Reddit drafts live in `_briefing/reddit-posts/`.
+`_briefing/cowork-briefing.md`. Reddit drafts are not kept in this repo; hand them
+back in chat.
 
 ## Don't write like an AI caption
 
