@@ -813,6 +813,13 @@ img.wiki-icon {
   box-shadow: 0 1px 2px rgba(var(--shadow), 0.12);
 }
 
+/* keep icon tables within a phone's width */
+@media (max-width: 600px) {
+  td img.wiki-icon { width: 30px; height: 30px; margin-right: 0.3em; }
+  table:has(img.wiki-icon) th,
+  table:has(img.wiki-icon) td { padding: 0.45em 0.4em; }
+}
+
 /* a grid of labelled specimens, like a page of pressed samples */
 .specimen-grid {
   display: grid;
