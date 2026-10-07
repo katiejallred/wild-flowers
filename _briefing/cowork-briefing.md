@@ -191,6 +191,12 @@ no botanical metaphors, no emoji. Never invent a personal anecdote; "I run a fan
 guide for the game" is the one true first-person fact to lean on. The journal voice
 (specimens, leaves, pressed flowers) stays on the site.
 
+**And don't write like an AI caption.** A Reddit reader flagged the exact tells:
+contrast couplets as punchlines ("Midnight is a nudge. 2 AM is a wall."), the "things
+nobody told you" frame, aphorism closers, runs of short fragments, and "Here's the
+thing" lead-ins. The full banned list and the test for catching them is in the repo's
+`CLAUDE.md`. Run every draft against it before saving.
+
 **Ground rules:**
 1. **Read each subreddit's self-promotion rules first** and follow them over anything in
    this playbook. Many subs use a ~90/10 rule (overwhelmingly participate, rarely

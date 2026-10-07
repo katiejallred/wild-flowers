@@ -1,6 +1,7 @@
 # Reddit post draft — "The shortest-shopping-list favorite gift for every romanceable"
 
-- **Voice:** Katie's (per the playbook in `cowork-briefing.md`). Revised 2026-10-07.
+- **Voice:** Katie's, checked against the banned-patterns list in `CLAUDE.md`.
+  Revised 2026-10-07.
 - **For:** r/wyldeflowers (check the sub's self-promotion rule before posting; if links
   are a problem, post the body without the disclosure paragraph and add the link only
   if someone asks). "Who's the best romance" is one of the sub's ten FAQ topics, so
@@ -16,25 +17,25 @@
 
 ## Title options (pick one)
 
-1. You're standing in front of your crush's profile, squinting at gray silhouettes. Here's the easy favorite for every romanceable.
-2. The favorite gift with the shortest shopping list for every romanceable (three of them you can just buy)
-3. The three gifting rules the game never explains, plus one easy favorite per romance option
+1. One easy favorite gift for every romanceable, with the ingredients (three of them you can just buy)
+2. Squinting at gray gift silhouettes? Here's the shortest shopping list for each romance option
+3. How gifting actually works in this game, plus one cheap favorite per romanceable
 
 ---
 
 ## Body
 
-You're standing in front of your crush's profile, squinting at a row of gray silhouettes. Is that a cookie? A cup of something? You hand over a potato and hope.
+You're standing in front of your crush's profile, squinting at a row of gray silhouettes, trying to work out whether that shape is a cookie or a cup of something. Then you hand over a potato and hope for the best.
 
-I run a fan guide for Wylde Flowers (more on that at the bottom), and the single most common question I get is some version of "what does Kai like." So let's settle it. First the three rules that make gifting actually work, then the favorite with the shortest shopping list for every romanceable.
+I run a fan guide for Wylde Flowers (more on that at the bottom), and the question I get asked most is some version of "what does Kai like." Below is how gifting works, and then the favorite with the shortest shopping list for every romanceable.
 
-**The three rules**
+**How gifting works**
 
-1. **No gift is ever rejected.** Any ordinary gift gives a small, real bump. A cheap gift beats an empty hand, every day.
-2. **The first time you give someone a favorite is the big boost.** Give the same favorite again and it still beats an ordinary gift, but only a little. So don't dump all five favorites on someone in one week. Spend each one once, on purpose, then rotate.
-3. **Talk first, then gift.** Both count each day, and they stack. Daily conversation is free and it compounds over a season.
+1. **No gift is ever rejected.** Any ordinary gift gives a small, real bump, so even a cheap gift is better than showing up with nothing.
+2. **The first time you give someone a favorite is the big boost.** Giving the same favorite again still beats an ordinary gift, but only by a little. Spend each favorite once, then rotate to the next one, instead of giving all five in one week.
+3. **Talk to them first, then gift.** Both count each day and they stack. Daily conversation costs nothing and adds up over a season.
 
-Would you rather not guess at silhouettes at all? Then stop guessing. Once you have the crystal ball, it reveals favorites outright. That's the whole trick.
+If you'd rather not guess at silhouettes, the crystal ball reveals favorites outright once you have it.
 
 **One easy favorite per romanceable**
 
@@ -45,25 +46,25 @@ Would you rather not guess at silhouettes at all? Then stop guessing. Once you h
 | Kim | Rice Wine | 2 rice (distillery) |
 | Giva | Chai | black tea, cinnamon, milk or soy milk |
 | Cameron | Sweet Potato Fries | fat, paprika, sweet potato |
-| Damon | Slap Chips | fat, potato, or just buy them at Cafe Moretti |
+| Damon | Slap Chips | fat, potato, or buy them at Cafe Moretti |
 
-And for the two later arrivals, behind a tag since not everyone has met them yet:
+For the two later arrivals, behind a tag since not everyone has met them yet:
 
->!Eury: Praline Cookie, which you can buy at Seton's Bakery. Westley: Wine, from grapes in the fermentation barrel, or just buy it at the Bar.!<
+>!Eury: Praline Cookie, which you can buy at Seton's Bakery. Westley: Wine, from grapes in the fermentation barrel, or buy it at the Bar.!<
 
-So yes, three of the eight have a favorite you can buy over a counter with no cooking at all. Damon's is the easiest in the launch cast.
+That means three of the eight have a favorite you can buy over a counter without cooking. Damon's is the easiest in the launch cast.
 
-**When you're still guessing, use this**
+**If you're still guessing**
 
-Everyone's favorites come from their own table. Kai's list is Hawaiian. Giva's is Indian. Damon's is South African. Amira's is Persian. Kim's is Japanese. If a silhouette looks like a dish and you're not sure, cook something from that person's homeland. You'll land it more often than not.
+Everyone's favorites come from their own heritage. Kai's list is Hawaiian, Giva's is Indian, Damon's is South African, Amira's is Persian, and Kim's is Japanese. When a silhouette looks like a dish and you're not sure which one, cook something from that person's home cuisine and you'll usually land it.
 
-**What this looks like in practice**
+**A routine that works**
 
-Cook a stack of one person's favorites. Hand over one per day, after you've talked to them. Pad the days between with ordinary gifts. That rhythm gets you to the heart events faster than any amount of small talk on its own.
+Cook a stack of one person's favorites, hand over one per day after you've talked to them, and give ordinary gifts on the days between. That gets you to the heart events a lot faster than conversation alone.
 
 ---
 
-Full disclosure: I run the Fairhaven Field Guide (fairhavenfieldguide.com), an unofficial fan site that isn't affiliated with Studio Drydock. The full favorites list for all thirty-odd residents, with every ingredient, lives there, and the data builds on the community wiki with credit. If I've gotten a dish or an ingredient wrong above, tell me and I'll fix the page.
+Full disclosure: I run the Fairhaven Field Guide (fairhavenfieldguide.com), an unofficial fan site that isn't affiliated with Studio Drydock. The full favorites list for all thirty-odd residents, with every ingredient, is there, and the data builds on the community wiki with credit. If I've gotten a dish or an ingredient wrong above, tell me and I'll fix the page.
 
 Who did you court first, and what did you feed them?
 
@@ -74,5 +75,5 @@ Who did you court first, and what did you feed them?
 - The closing question invites the "best romance" debate the sub already has threads
   for. If it turns into that, point people at the FAQ's romance threads rather than
   picking a side.
-- Don't post this the same week as the "five things" draft. Space them out.
+- Don't post this the same week as the "five rules" draft. Space them out.
 - Replies that correct a recipe go straight to the Gift Preferences page.
