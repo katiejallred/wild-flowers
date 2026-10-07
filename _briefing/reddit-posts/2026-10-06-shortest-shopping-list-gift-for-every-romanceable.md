@@ -1,5 +1,6 @@
 # Reddit post draft — "The shortest-shopping-list favorite gift for every romanceable"
 
+- **Voice:** Katie's (per the playbook in `cowork-briefing.md`). Revised 2026-10-07.
 - **For:** r/wyldeflowers (check the sub's self-promotion rule before posting; if links
   are a problem, post the body without the disclosure paragraph and add the link only
   if someone asks). "Who's the best romance" is one of the sub's ten FAQ topics, so
@@ -15,25 +16,25 @@
 
 ## Title options (pick one)
 
-1. The favorite gift with the shortest shopping list for every romanceable (three of them you can just buy)
-2. Stop guessing gift silhouettes: one easy favorite per romance option
-3. The gifting rules the game never explains, plus the easiest favorite for each romanceable
+1. You're standing in front of your crush's profile, squinting at gray silhouettes. Here's the easy favorite for every romanceable.
+2. The favorite gift with the shortest shopping list for every romanceable (three of them you can just buy)
+3. The three gifting rules the game never explains, plus one easy favorite per romance option
 
 ---
 
 ## Body
 
-Quick one for anyone standing in front of their crush's profile squinting at a row of gray silhouettes.
+You're standing in front of your crush's profile, squinting at a row of gray silhouettes. Is that a cookie? A cup of something? You hand over a potato and hope.
 
-I run a fan guide for the game (more on that at the bottom) and the single most common question I get is some version of "what does Kai like." So here's the practical answer: for each romanceable, the favorite with the shortest shopping list, and the three rules that make gifting actually work.
+I run a fan guide for Wylde Flowers (more on that at the bottom), and the single most common question I get is some version of "what does Kai like." So let's settle it. First the three rules that make gifting actually work, then the favorite with the shortest shopping list for every romanceable.
 
-**The three rules first**
+**The three rules**
 
-1. **No gift is ever rejected.** Any ordinary gift gives a small, real bump. A cheap gift beats an empty hand every day.
+1. **No gift is ever rejected.** Any ordinary gift gives a small, real bump. A cheap gift beats an empty hand, every day.
 2. **The first time you give someone a favorite is the big boost.** Give the same favorite again and it still beats an ordinary gift, but only a little. So don't dump all five favorites on someone in one week. Spend each one once, on purpose, then rotate.
-3. **Talk first, then gift.** Both count each day and they stack. Daily conversation is free and compounds over a season.
+3. **Talk first, then gift.** Both count each day, and they stack. Daily conversation is free and it compounds over a season.
 
-If you'd rather not guess at silhouettes at all: the crystal ball reveals favorites outright once you have it. That's the whole trick.
+Would you rather not guess at silhouettes at all? Then stop guessing. Once you have the crystal ball, it reveals favorites outright. That's the whole trick.
 
 **One easy favorite per romanceable**
 
@@ -52,13 +53,13 @@ And for the two later arrivals, behind a tag since not everyone has met them yet
 
 So yes, three of the eight have a favorite you can buy over a counter with no cooking at all. Damon's is the easiest in the launch cast.
 
-**One pattern that helps when you're guessing**
+**When you're still guessing, use this**
 
-Everyone's favorites come from their own table. Kai's list is Hawaiian. Giva's is Indian. Damon's is South African. Amira's is Persian. Kim's is Japanese. If a silhouette looks like a dish and you're not sure, cook something from that person's homeland and you'll land it more often than not.
+Everyone's favorites come from their own table. Kai's list is Hawaiian. Giva's is Indian. Damon's is South African. Amira's is Persian. Kim's is Japanese. If a silhouette looks like a dish and you're not sure, cook something from that person's homeland. You'll land it more often than not.
 
 **What this looks like in practice**
 
-Cook a stack of one person's favorites, hand over one per day after you've talked to them, and pad the days between with ordinary gifts. That rhythm gets you to the heart events faster than any amount of small talk alone.
+Cook a stack of one person's favorites. Hand over one per day, after you've talked to them. Pad the days between with ordinary gifts. That rhythm gets you to the heart events faster than any amount of small talk on its own.
 
 ---
 
