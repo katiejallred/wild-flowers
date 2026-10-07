@@ -4,7 +4,7 @@ last_modified_at: 2026-09-14
 ---
 # 🐝 Beekeeping & Orchards
 
-Two of the farm's most patient economies share this page: the hum of the hive and the slow generosity of fruit trees. Neither needs daily fussing the way a turnip bed does — plant well, wait well, and they provide for years.
+Two of the farm's most patient economies share this page: the hum of the hive and the slow generosity of fruit trees. Neither needs daily fussing the way a turnip bed does: a hive fills on its own as long as flowers bloom beside it, and a tree fruits without replanting or watering.
 
 ---
 
@@ -22,7 +22,7 @@ The hive's speed depends entirely on the flowers around it. Bees need **fully gr
 - Fewer flowers still work, just slower; a flowerless hive is a very quiet hive.
 - **Do not harvest your flowers.** This is the counterintuitive heart of beekeeping: a picked flower feeds no bees. Leave your blooms standing unless a quest specifically demands a cut flower.
 
-<span class="handwritten">a flower in the basket is worth less than a flower in the bed 🐝</span>
+<span class="handwritten">leave about 12 flowers blooming beside each hive; a picked flower feeds no bees 🐝</span>
 
 Flower seeds come from Violet ([Shops](../island/shops.md)); sunflowers do double duty in summer as both the best-profit flower and bee fodder ([Crop Guide](crops.md)).
 
@@ -47,7 +47,7 @@ Fruit trees are Fairhaven's best long-term contract. **Kai** — the friendly me
 - They **never need watering.**
 - Bought once, they produce **regularly, forever.**
 
-The trade-off is patience: an apple tree seedling, for instance, takes **15 days** in a garden bed to mature before the fruit begins. Plant seedlings early in your farm's life and let time do the work.
+The trade-off is patience: an apple tree seedling, for instance, takes **15 days** in a garden bed to mature before the fruit begins. Plant seedlings early in your farm's life, since those 15 days only count while the tree is in the ground.
 
 ### Field notes
 
@@ -68,4 +68,4 @@ The Garden rewards a deliberate layout: hives among permanent flower beds, orcha
 
 ---
 
-<span class="handwritten">sign-off tip: plant twelve flowers you promise never to pick, and one tree for every windfall of coins — future harvests are made of old patience 🍯</span>
+<span class="handwritten">sign-off tip: plant twelve flowers you promise never to pick, and a 125-coin seedling from Kai whenever you can spare it — trees fruit in every season and never need water 🍯</span>

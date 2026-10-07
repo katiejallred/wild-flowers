@@ -29,7 +29,7 @@ The mine descends floor by floor, each stratum with its own treasures. Progress 
 
 For the complete survey — every floor's ores, gems, chests, and the gem finders — see [The Mine: Floor by Floor](the-mine.md).
 
-> **How the way down opens:** on most floors, breaking ore nodes eventually turns up the key to the next level. The exceptions are floors 14 and 20 — floor 14's way onward needs the special **Deep Mine key**, earned through the coven's questline. Floor 15 keeps itself locked until you've earned that way down; the key to floor 16 then hides nearby. The mine rewards the thorough.
+> **How the way down opens:** on most floors, breaking ore nodes eventually turns up the key to the next level. The exceptions are floors 14 and 20 — floor 14's way onward needs the special **Deep Mine key**, earned through the coven's questline. Floor 15 keeps itself locked until you've earned that way down; the key to floor 16 then hides nearby.
 
 ### Natalia and your tools
 
@@ -39,9 +39,9 @@ For the complete survey — every floor's ores, gems, chests, and the gem finder
 - Upgrades reduce the **energy cost per swing**, which is the real currency of a mining day.
 - The **gold pickaxe** cracks gem rocks in a single hit instead of two — the diamond-hunter's best friend.
 
-Natalia's forge also produces crafted metalwork for story projects (she'll turn your copper into a soup kettle, among other things). Get to know her — the blacksmith is a farmer's truest ally ([Character Directory](../characters/directory.md)).
+Natalia's forge also produces crafted metalwork for story projects (she'll turn your copper into a soup kettle, among other things). Get to know her — every tool upgrade and most quest metalwork goes through her forge ([Character Directory](../characters/directory.md)).
 
-<span class="handwritten">every ore run should end at Natalia's door 🔨</span>
+<span class="handwritten">take every ore run straight to Natalia — ore smelts into ingots there, and the copper pickaxe is the first upgrade to buy 🔨</span>
 
 ### What it's all for
 

@@ -37,7 +37,7 @@ A few notes from the margins:
 The workhorse of the shed, and the one to prioritize — it unlocks around your first summer. Feed it cotton from your [fields](../farming/crops.md) and it weaves cloth, the single most profitable processing chain on the farm (the full arithmetic lives on the [Artisan Goods](artisan-goods.md) page). Wool from your [animals](../farming/animals.md) and thread from the silkworm box go through it as well.
 
 ### The Fermentation Barrel
-The most versatile vessel you'll own. Cheese, wine, beer, cider, sauerkraut, kimchi — half the artisan catalogue passes through this one barrel, so expect a queue. Fermented goods take time, which brings us to workflow.
+The most versatile vessel you'll own: cheese, wine, beer, cider, sauerkraut, kimchi — half the artisan catalogue passes through this one barrel, so expect a queue. Fermented goods take time, which brings us to workflow.
 
 ### The Textile Trio
 The loom, mortar & pestle, and dyeing bath form a little guild of their own: weave the cloth, grind flowers into dye, then bathe the fabric in color. Several quests and gifts call for dyed cloth specifically, so don't dismiss the dye bath as mere vanity.
@@ -48,25 +48,25 @@ The loom, mortar & pestle, and dyeing bath form a little guild of their own: wea
 
 ## The Workflow: Raw to Refined
 
-Processing follows a steady rhythm, and building it into your daily rounds is the whole trick:
+Processing follows a steady rhythm, and it belongs in your daily rounds:
 
 1. **Harvest or collect** the raw good — cotton from the field, milk from the barn, fruit from the [orchard](../farming/bees-and-orchards.md), sand and ore from the mines.
 2. **Load the station.** Each station works on its own timetable; some goods finish quickly, while ferments and slow crafts take longer.
-3. **Go live your life.** Stations work unattended while you fish, forage, or court a villager. Time spent waiting is only wasted if you stand there watching.
-4. **Collect and reload.** An empty station earns nothing. Make the shed your first stop each morning and your last each evening.
+3. **Leave it working.** Stations work unattended while you fish, forage, or court a villager.
+4. **Collect and reload.** An empty station earns nothing, so make the shed your first stop each morning and your last each evening.
 
-The compounding habit — *always reload before you leave* — is what separates a hobby shed from a proper cottage industry.
+The habit to build is reloading every station before you leave the shed.
 
 ## Which Stations First?
 
 If coin and materials are tight (and early on, they are), my recommended order of investment:
 
-1. **Loom** — the cotton-to-cloth chain is the best money on the farm, full stop.
+1. **Loom** — the cotton-to-cloth chain is the best money on the farm.
 2. **Butter Churn & Fermentation Barrel** — they multiply the value of every pail of milk, and cheese features in cooking, gifting, and quests alike.
 3. **Candlemaker** — pairs beautifully with [beehives](../farming/bees-and-orchards.md), turning beeswax into candles.
 4. **The rest as quests demand** — the paper press, dye works, glass kiln, and silkworm box each earn their keep, but often it's a story quest or a villager's request that makes them urgent.
 
-> Some stations feel less like commerce and more like courtship — the paper press makes love cards, after all. Fairhaven's economy runs on affection as much as coin.
+> Some stations feel less like commerce and more like courtship — the paper press makes love cards, after all.
 
 ---
 
@@ -227,6 +227,6 @@ Stations and tools from the archive — the working wall of a well-kept shed.
 
 ---
 
-Ready to talk numbers? The [Artisan Goods](artisan-goods.md) page weighs processing against selling raw, and the [Money-Making](../reference/money-making.md) ledger folds it all into a broader strategy. For the raw inputs themselves, see [Crops](../farming/crops.md) and [Animals](../farming/animals.md).
+The [Artisan Goods](artisan-goods.md) page weighs processing against selling raw, and the [Money-Making](../reference/money-making.md) ledger folds it all into a broader strategy. For the raw inputs themselves, see [Crops](../farming/crops.md) and [Animals](../farming/animals.md).
 
-<span class="handwritten">sign-off tip: never walk past the shed with full pockets and empty stations — thirty seconds of loading pays for itself every single time 🌿</span>
+<span class="handwritten">sign-off tip: whenever you pass the shed with cotton, milk, or fruit in your pockets, stop and load any empty station before moving on 🌿</span>

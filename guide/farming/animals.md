@@ -43,10 +43,10 @@ Animals themselves are purchased from the island's livestock-minded villagers on
 ## Daily Care
 
 - **Feed the barn animals.** Cows and sheep each need one serving of hay per day — until you build the **Hay Field**, after which they graze for themselves and cross feeding off your morning list.
-- **Never skip a day.** An animal left unfed for a single day falls ill, and curing it requires a **Cure Animal Sickness Potion** from your cauldron ([Potions](../witchcraft/potions.md)). Prevention is considerably cheaper than the ingredient list.
+- **Never skip a day.** An animal left unfed for a single day falls ill, and curing it requires a **Cure Animal Sickness Potion** from your cauldron ([Potions](../witchcraft/potions.md)).
 - **Pet everyone.** A daily pat raises your relationship with each animal.
 
-<span class="handwritten">the hay field pays for itself in saved mornings alone 🌾</span>
+<span class="handwritten">build the Hay Field as soon as you can — once it's up, cows and sheep graze on their own and hay comes off the morning list 🌾</span>
 
 A note for the efficiency-minded: affection does **not** change how much or how well your animals produce — the milk flows regardless. What petting improves is the animal's value if sold, and, frankly, the mood of the farm.
 
@@ -153,4 +153,4 @@ Portraits from the barn and coop, as the archive paints them.
 
 ---
 
-<span class="handwritten">sign-off tip: keep one Cure Animal Sickness Potion on the shelf before you think you need it — sick cows keep no schedule 🐄</span>
+<span class="handwritten">sign-off tip: keep one Cure Animal Sickness Potion on the shelf before you need it — a single missed feeding is enough to sicken an animal 🐄</span>

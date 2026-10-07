@@ -67,7 +67,7 @@ Prefer to run the numbers for your own plan? The interactive [Crop Profit Calcul
 | Sunflower 🌸 | 8 | 6 days | 24 | 14.6 | Summer's best flower, and a beehive's delight. |
 | Corn | 5 | 5 days | 15 | 11 | Tall, golden, reliable. |
 | Marigold 🌸 | 4 | 4 days | 12 | 11 | Quick color between the vegetable rows. |
-| **Cotton** | 15 | 7 days | *can't be sold raw* | — | Summer's sleeper champion — worthless at the stall, priceless at the loom. Seeds from Thomas. See the ledger below. |
+| **Cotton** | 15 | 7 days | *can't be sold raw* | — | Summer's sleeper champion — raw cotton can't be sold, but woven into cloth it earns about 39 coins/day. Seeds from Thomas. See the ledger below. |
 | Hops | 20 | 7 days | *can't be sold* | — | Grown for brewing, not for the till. |
 
 ---
@@ -144,7 +144,7 @@ Mulberry trees also give **mulberry leaves** (unsellable, but silkworms adore th
   - **The payoff:** Lina sells off-season seeds, and in Thomas's own words, *"off-season crops fetch a higher price, too."*
   - **Afterward:** Parker asks you to grow him 4 marigolds — a burst of sunshine for the cold months.
 - **Seeds:** most crops (spinach included) from Lina at the Dahl General Store, some only after you upgrade the store (see the field notes above); flowers from Violet's Violets; cotton and soybean from Thomas; tree seedlings from Kai's Treasures ([Shops](../island/shops.md)).
-- **Selling isn't the only value.** Crops feed [Cooking](../crafting/cooking.md), [Potions](../witchcraft/potions.md), and gifts villagers adore ([Gift Preferences](../characters/gift-preferences.md)) — sometimes a carrot is worth more as a kindness.
+- **Selling isn't the only value.** Crops feed [Cooking](../crafting/cooking.md), [Potions](../witchcraft/potions.md), and gifts villagers adore ([Gift Preferences](../characters/gift-preferences.md)).
 - For the broader coin picture, see [Money-Making](../reference/money-making.md).
 
 ---
@@ -418,4 +418,4 @@ The seed drawer and harvest shelf, illustrated — every crop, seed packet, and 
 
 ---
 
-<span class="handwritten">sign-off tip: strawberries all summer, spinach all winter, and a loom that never sleeps 🧵</span>
+<span class="handwritten">sign-off tip: strawberries all summer (28.7/day), spinach all winter (27.5/day), and every cotton harvest through the loom before it goes anywhere near a stall 🧵</span>

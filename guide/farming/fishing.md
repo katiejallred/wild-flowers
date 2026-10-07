@@ -33,7 +33,7 @@ When the beds are watered and the animals fed, the water calls. Fishing in Fairh
 
 Fishing unlocks when you meet **Bruno Soft**, the island's fisherman, whose shop sits in the middle of town near the statues. Speak with him and he'll hand you a rod and three baits to catch your first fish — Fairhaven's usual generosity at work.
 
-From there: stand at a fishing spot, choose your bait, cast, and play the catch. Keep bait stocked and the rest is patience.
+From there: stand at a fishing spot, choose your bait, cast, and play the catch. Buy bait before you go; Bruno's stall sells all three kinds.
 
 ---
 
@@ -58,15 +58,15 @@ The deeper spots are progression rewards in themselves — you'll need the story
 
 ---
 
-## Bait, and the Great Secret {#bait}
+## Bait, and the Only Two Factors {#bait}
 
-Three baits exist: **worms, crickets, and chub.** And here is the secret that simplifies everything:
+Three baits exist: **worms, crickets, and chub.**
 
-**Bait and location are the *only* factors.** Weather does not matter. Season does not matter. Time of day does not matter.
+**Bait and location are the *only* factors** — weather, season, and time of day do not matter.
 
 Every fish is determined purely by *where* you cast and *what* you cast with. There is no waiting for a rainy winter night to complete your compendium — if you need a specific fish, go to its water, tie on the right bait, and keep casting until it takes.
 
-<span class="handwritten">no almanac needed — just the right worm in the right water 🎣</span>
+<span class="handwritten">no almanac needed — if a fish won't bite, swap worm for cricket or chub before you blame the weather 🎣</span>
 
 A practical corollary: carry a spread of all three baits when filling out the compendium, and work each location bait-by-bait to flush out its full roster.
 
@@ -90,14 +90,14 @@ The humble worm: a wiggly little creature and the tackle box's workhorse. Cheape
 
 An insect from the Woods, a touch dearer at 6 coins — and the bait behind some of the compendium's cricket-*only* prizes, the **Dorado** and the **Sea Urchin** (both in the Ocean).
 
-Now, the riddle. The cricket's own description ends with a wink: *"Can't catch it? Maybe you need to **shift** your perspective."* That "shift" is not idle phrasing — it's a pun on **shapeshifting**. There are two free ways to keep crickets coming, and both run through [Cleocatra](../witchcraft/familiars.md):
+The cricket's own description ends with a wink: *"Can't catch it? Maybe you need to **shift** your perspective."* That "shift" is not idle phrasing — it's a pun on **shapeshifting**. There are two free ways to keep crickets coming, and both run through [Cleocatra](../witchcraft/familiars.md):
 
 1. Once Cleocatra becomes your **pet**, she'll bring you crickets herself — tribute, cat-style.
 2. Come Summer, after unlocking the **Animal Shapeshifting Spell** ([Spells & Rituals](../witchcraft/spells-and-rituals.md)), you can take her four-legged form and catch crickets (and fish!) with your own paws.
 
-So: can't catch a cricket? Shift — literally — your perspective. A witch's tackle box restocks itself.
+Either way, once Cleocatra is your pet or you can take her shape, crickets stop costing 6 coins apiece.
 
-<span class="handwritten">the game was making a shapeshifting joke the whole time. well played, Fairhaven 🐈‍⬛</span>
+<span class="handwritten">the cricket's "shift your perspective" line is a shapeshifting pun — Cleocatra's form is the free cricket supply 🐈‍⬛</span>
 
 ### Chub
 
@@ -109,7 +109,7 @@ Bruno teaches you about chub bait early in Spring, but you can't catch your own 
 
 ## Where the Rare Fish Hide {#rare-fish}
 
-Because bait and location are the only factors, rarity in Fairhaven is not luck — it is *geography plus tackle*. Two rules govern the whole hunt:
+Because bait and location are the only factors, every rare fish comes down to reaching the right water with the right bait. Two rules govern the whole hunt:
 
 1. **Rarity deepens with the water.** The River and Ocean hold the common, everyday catch; the harder a spot is to reach, the finer its fish. The late-game waters — the **Mountain**, the **Gloaming**, and the pool at the very bottom of the **Mine (level 20)** — are where the compendium's rarest entries swim.
 2. **Upgrade the bait before you blame the water.** Within any one spot, each bait draws its own roster, and **chub** — the dearest of the three — tempts the choicest takers. If a spot seems fished out on worms, it usually still owes you its cricket and chub catches.
@@ -142,7 +142,7 @@ Rare catches are worth more at [Bruno's counter](../island/shops.md), dearer sti
 
 ## A Fisher's Habits
 
-1. Buy or gather bait before it runs out mid-session — nothing sadder than a full pond and an empty tackle box.
+1. Buy or gather bait before it runs out mid-session — worms and chub are 4 coins, crickets 6, so a full tackle box is cheap.
 2. Fish the River early; it's on your own farm and costs no travel time.
 3. When a new area opens (Mountain, Gloaming, Mine 20), fish it promptly — new water means new compendium entries.
 4. Fishing spends energy like any labor; a snack from the kitchen keeps the afternoon going ([Energy, Time & Seasons](../getting-started/energy-time-seasons.md)).
