@@ -30,8 +30,15 @@ Instagram caption. Avoid every one of them, in Katie's voice and in the site's v
   breathe." / "Be honest:" as a lead-in. Start with the point.
 
 **The test:** if a sentence would work on its own as an Instagram caption or a
-motivational slide, rewrite it as something only this post would say, usually by
+motivational slide, rewrite it as something only this page would say, usually by
 adding the specific number, name, or reason.
+
+**Site asides.** The journal layout's handwritten asides (`<span class="handwritten">`),
+"sign-off tips," and "lore asides" are the places this creeps in most. An aside earns
+its spot only if it carries a concrete tip, a specific detail, or a plain in-fiction
+observation ("Hazel's tea smells of herbs I cannot name"). An aside that is only a
+slogan ("a first season is for roots, not riches") gets rewritten into the tip it was
+gesturing at, or cut.
 
 **What to do instead:** plain sentences with a verb and a specific. Put the number in
 ("about 12 blooming flowers per hive"), the name in ("Kai sells seedlings for 125"),
