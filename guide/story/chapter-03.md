@@ -1,6 +1,6 @@
 ---
 title: "📜 Chapter 3: Joining the Coven"
-last_modified_at: 2026-09-20
+last_modified_at: 2026-10-07
 ---
 # 📜 Chapter 3: Joining the Coven
 

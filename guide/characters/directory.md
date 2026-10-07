@@ -1,6 +1,6 @@
 ---
 title: "💛 Character Directory"
-last_modified_at: 2026-09-14
+last_modified_at: 2026-10-07
 ---
 # 💛 Character Directory
 
@@ -204,8 +204,6 @@ The census is complete: every resident, the witches of Ravenwood, a coven mask, 
 | Emmi Johnson | Resident prankster (twin) | 10 years old, daughter of Lina and Parker. |
 | Finn Johnson | Resident prankster (the other twin) | 10 years old, son of Lina and Parker. Where one twin is, trouble — and the other twin — follows. |
 
-<span class="handwritten">the twins know every shortcut on the island. befriend accordingly ❀</span>
-
 ## Later Arrivals & Ravenwood Hollow
 
 Fairhaven's population is not a fixed pressing — new faces arrive as the seasons and updates turn.
@@ -224,4 +222,4 @@ Fairhaven's population is not a fixed pressing — new faces arrive as the seaso
 
 You will learn early on that some residents keep a second, moonlit occupation. Hazel serves as Elder, Lina as High Priestess, and Amira among the members — the full roster, and how to unmask each member, we keep pressed in [Who Are the Witches?](../witchcraft/who-are-the-witches.md), where spoilers belong.
 
-<span class="handwritten">say hello to everyone before bed — a habit worth more than gold ❀</span>
+<span class="handwritten">say hello to everyone once a day — each chat nudges their relationship value, and it costs nothing ❀</span>

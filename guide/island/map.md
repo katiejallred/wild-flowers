@@ -1,6 +1,6 @@
 ---
 title: "🗺️ Map of Fairhaven"
-last_modified_at: 2026-09-14
+last_modified_at: 2026-10-07
 ---
 # 🗺️ Map of Fairhaven
 

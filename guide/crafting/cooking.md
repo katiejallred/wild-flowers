@@ -2,7 +2,7 @@
 title: "🍳 Cooking & Recipes"
 description: "Cooking and crafting in Wylde Flowers — recipes and where to learn them, the crafting stations, and top-value artisan goods."
 image: /assets/images/card-crafting.jpg
-last_modified_at: 2026-09-20
+last_modified_at: 2026-10-07
 ---
 # 🍳 Cooking & Recipes
 

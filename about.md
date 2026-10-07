@@ -1,7 +1,7 @@
 ---
 title: "🗺️ About the Guide"
 description: "What The Fairhaven Field Guide is, who it's for, and a complete directory of every page pressed between its covers."
-last_modified_at: 2026-10-05
+last_modified_at: 2026-10-07
 ---
 # 🗺️ About the Guide
 

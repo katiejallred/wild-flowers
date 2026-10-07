@@ -1,6 +1,6 @@
 ---
 title: "🐈‍⬛ Familiars & Cleocatra"
-last_modified_at: 2026-09-14
+last_modified_at: 2026-10-07
 ---
 # 🐈‍⬛ Familiars & Cleocatra
 
@@ -26,9 +26,9 @@ And being a witch's familiar here is no honorary title:
 
 The quest *While the Cat's Away* is part of her tale, and the **Animal Shapeshifting Spell** (see [Spells & Rituals](spells-and-rituals.md)) eventually lets Tara meet the four-legged world rather more directly — a witch and her familiar, finally speaking the same language of squeezing through gaps and judging everyone.
 
-<span class="handwritten">the way to any cat's heart is patience and snacks — magical cats are no exception 🌙</span>
+<span class="handwritten">cleocatra is food-motivated — her favorites are milk, salmon, and tuna, so bring one when you go to win her over 🌙</span>
 
-> Lore aside: witches keeping cats isn't superstition in Fairhaven — it's staffing.
+> Lore aside: a witch's cat in Fairhaven earns her keep — Cleocatra fishes, squeezes into places Tara can't, and has plenty to say.
 
 <figure class="snapshot">
   <img src="{{ '/assets/images/farming/kitties-kiss.jpg' | relative_url }}" alt="Two cats touch noses affectionately." loading="lazy">
@@ -66,12 +66,12 @@ The Hollow's other residents deserve to introduce themselves — this journal wi
 
 ## So — Does the Game Have a "Familiar System"?
 
-Honest answer for the mechanically-minded: there is no sprawling familiar *system* — no stable of summonable companions, no familiar skill tree. What Wylde Flowers has instead is:
+For the mechanically-minded: there is no sprawling familiar *system* — no stable of summonable companions, no familiar skill tree. What Wylde Flowers has instead is:
 
 1. **One proper familiar** — Cleocatra, adopted through play, with genuine perks (fishing, exploring, commentary).
 2. **A shapeshifting witch** — via spellcraft, Tara herself gets closer to the animal world than most games' familiars ever manage.
 3. **A whole town of magical beings** — Ravenwood Hollow's residents aren't pets or companions but neighbors: characters with quests, friendships, and romance in the same rich vein as the [character directory](../characters/directory.md) crowd.
 
-Which is, frankly, the cozier design: the magic animals of Fairhaven aren't inventory items. They're *cast members.*
+Which is, frankly, the cozier design: the magic animals of Fairhaven are cast members with quests and friendships of their own rather than inventory items.
 
-<span class="handwritten">tip: befriend the cat before you need the cat — she remembers who fed her first 🌙</span>
+<span class="handwritten">tip: start winning cleocatra over early — adoption takes time, and a familiar who fishes is worth having sooner 🌙</span>

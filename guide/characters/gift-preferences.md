@@ -2,11 +2,11 @@
 title: "🎁 Gift Preferences"
 description: "Every Wylde Flowers resident's favorite gifts, with the ingredients for each dish — plus how gifting works and the crystal-ball shortcut."
 image: /assets/images/card-gifts.jpg
-last_modified_at: 2026-10-06
+last_modified_at: 2026-10-07
 ---
 # 🎁 Gift Preferences
 
-A gift, properly chosen, is friendship in concentrate. Fairhaven's residents all appreciate a token from your pocket — but each keeps a short, secret list of **favorites** that work on the heart like fertilizer works on a seedling. Find your resident below: every favorite is listed with what goes into it, so you can head straight for the kitchen.
+Fairhaven's residents all appreciate a token from your pocket — but each keeps a short, secret list of **favorites** that work on the heart like fertilizer works on a seedling. Find your resident below: every favorite is listed with what goes into it, so you can head straight for the kitchen.
 
 For where gifting fits in the larger tending routine, see the [Friendship Guide](friendship.md); for gifting with intent, the [Romance Guide](romance.md).
 
@@ -88,7 +88,7 @@ Aryel, Peri and Zephyr live in **Ravenwood Hollow**, added in a free update ([St
 
 ## How Gifting Works {#how-gifting-works}
 
-Walk up to any resident and select the **gift icon** to offer an item from your inventory. That's the whole ritual — no wrapping paper required. What matters is *what* you hand over:
+Walk up to any resident and select the **gift icon** to offer an item from your inventory. What matters is *what* you hand over:
 
 | Gift type | Effect on the relationship |
 | --- | --- |
@@ -98,7 +98,7 @@ Walk up to any resident and select the **gift icon** to offer an item from your 
 
 The rhythm that falls out of these rules: give each favorite **once** for the big bloom, then rotate through their other favorites, padding the days between with ordinary gifts and conversation. Carry a stack of cooked dishes on your daily rounds and gift as you go.
 
-<span class="handwritten">first-time favorites are the whole harvest — don't spend them all in one week ❀</span>
+<span class="handwritten">the big boost only fires the first time you give a favorite — space them out instead of burning the whole list in a week ❀</span>
 
 ### Discovering favorites
 
@@ -111,4 +111,4 @@ Each resident's favorites begin as **hidden silhouettes** in their profile. You 
 
 ---
 
-<span class="handwritten">when in doubt, cook something warm — nobody on this island has ever frowned at a fresh meal ❀</span>
+<span class="handwritten">no gift is ever rejected, so a spare cooked dish is a safe hand-over for anyone whose favorites you haven't found yet ❀</span>

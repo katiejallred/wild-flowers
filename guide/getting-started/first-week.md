@@ -1,6 +1,6 @@
 ---
 title: "🌱 Your First Week"
-last_modified_at: 2026-09-20
+last_modified_at: 2026-10-07
 ---
 # 🌱 Your First Week
 

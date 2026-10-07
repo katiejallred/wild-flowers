@@ -1,6 +1,6 @@
 ---
 title: "🌱 Beginner Tips"
-last_modified_at: 2026-09-14
+last_modified_at: 2026-10-07
 ---
 # 🌱 Beginner Tips
 

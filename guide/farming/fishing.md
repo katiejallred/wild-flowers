@@ -2,7 +2,7 @@
 title: "🎣 Fishing"
 description: "Every fish in Wylde Flowers — where and when each one bites, the bait to use, and how to level up your fishing."
 image: /assets/images/card-fishing.jpg
-last_modified_at: 2026-09-28
+last_modified_at: 2026-10-07
 ---
 # 🎣 Fishing
 

@@ -1,6 +1,6 @@
 ---
 title: "📜 Side Quests"
-last_modified_at: 2026-09-20
+last_modified_at: 2026-10-07
 ---
 # 📜 Side Quests
 

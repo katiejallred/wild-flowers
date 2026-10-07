@@ -1,6 +1,6 @@
 ---
 title: "📜 Chapters 4–6"
-last_modified_at: 2026-09-20
+last_modified_at: 2026-10-07
 ---
 # 📜 Chapters 4–6
 

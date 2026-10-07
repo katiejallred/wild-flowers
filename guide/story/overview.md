@@ -2,7 +2,7 @@
 title: "📜 Chapter Guide Overview"
 description: "A spoiler-light map of the Wylde Flowers story — how the chapters unlock, from the first ferry ride to the final ritual."
 image: /assets/images/card-story.jpg
-last_modified_at: 2026-10-05
+last_modified_at: 2026-10-07
 ---
 # 📜 Chapter Guide Overview
 

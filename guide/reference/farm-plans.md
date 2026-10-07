@@ -2,7 +2,7 @@
 title: "📋 Recommended Farm Plans"
 description: "Six ready-to-follow Wylde Flowers farm plans — a first season, a cloth mill, a long fennel winter, a low-effort orchard, a courtship kitchen, and a completionist's fishing route."
 image: /assets/images/card-reference.jpg
-last_modified_at: 2026-10-06
+last_modified_at: 2026-10-07
 ---
 # 📋 Recommended Farm Plans
 
