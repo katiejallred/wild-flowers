@@ -12,17 +12,17 @@ Fairhaven has a cat, and the cat has *opinions*. Her name is **Cleocatra** — f
 
 <figure class="snapshot">
   <img src="{{ '/assets/images/witchcraft/petting-cleocatra.jpg' | relative_url }}" alt="Tara kneels to pet Cleocatra, a black cat." loading="lazy">
-  <figcaption>her majesty accepts tribute 🐈‍⬛</figcaption>
+  <figcaption>Tara petting Cleocatra 🐈‍⬛</figcaption>
 </figure>
 
 And being a witch's familiar here is no honorary title:
 
 | Perk of the partnership | What it means for you |
 | --- | --- |
-| A magical companion | A familiar at your side as the craft deepens — the classic witch's arrangement, fully in effect |
-| Fishing assistance | Yes — the cat **fishes**. Let no one tell you familiars don't pull their weight |
+| A magical companion | Once adopted, Cleocatra becomes Tara's familiar — the game's one formal familiar |
+| Fishing assistance | Yes — the cat **fishes** once she's your familiar |
 | Exploration | Cleocatra can slip into places Tara's human shape can't reach |
-| Conversation (translated) | Cleocatra has plenty to say; a magically-gifted friend translates. She is exactly as sassy as you hope |
+| Conversation (translated) | Cleocatra has plenty to say; a magically-gifted friend translates |
 
 The quest *While the Cat's Away* is part of her tale, and the **Animal Shapeshifting Spell** (see [Spells & Rituals](spells-and-rituals.md)) eventually lets Tara meet the four-legged world rather more directly — a witch and her familiar, finally speaking the same language of squeezing through gaps and judging everyone.
 
@@ -32,7 +32,7 @@ The quest *While the Cat's Away* is part of her tale, and the **Animal Shapeshif
 
 <figure class="snapshot">
   <img src="{{ '/assets/images/farming/kitties-kiss.jpg' | relative_url }}" alt="Two cats touch noses affectionately." loading="lazy">
-  <figcaption>staff meeting 😽</figcaption>
+  <figcaption>two cats touching noses 😽</figcaption>
 </figure>
 
 ---

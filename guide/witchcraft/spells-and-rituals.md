@@ -12,7 +12,7 @@ An **incantation** in Wylde Flowers is a spell written down and then *read aloud
 
 <figure class="snapshot">
   <img src="{{ '/assets/images/witchcraft/ritual.jpg' | relative_url }}" alt="The coven performs a ritual around a stone circle at night." loading="lazy">
-  <figcaption>the wheel of the year, mid-turn 🌙</figcaption>
+  <figcaption>the coven at the stone circle, performing a ritual at night 🌙</figcaption>
 </figure>
 
 | Stage | Where | What it costs |
@@ -53,15 +53,15 @@ There are roughly **thirty incantations** to learn across the story. Below are o
 
 | Spell / Incantation | What it does |
 | --- | --- |
-| Summon Rain Spell | Calls rain for one day — the farmer-witch's darling. See [Weather Magic](weather-magic.md) |
+| Summon Rain Spell | Calls rain for one day, so the crops water themselves. See [Weather Magic](weather-magic.md) |
 | Summon Wind Spell | Sets the wind blowing for a day |
 | Summon Storm Spell | Whips up one storm of strong wind and lightning |
 | Summon Night Spell | Hurries the sun down when your best work starts after dark |
 | Speed Time Spell | Nudges the clock forward |
 | Freeze Time | Stops the clock while you catch up on chores |
-| Reverse Time Spell | Winds the day backward — mercy for the over-scheduled |
+| Reverse Time Spell | Winds the day backward |
 | Lockpick Incantation | Opens what is locked (story applications abound) |
-| Animal Shapeshifting Spell | Lets Tara take an animal's shape — see [Familiars](familiars.md) for why that's wonderful |
+| Animal Shapeshifting Spell | Lets Tara take an animal's shape — see [Familiars](familiars.md) |
 | Fealty to the Fair Folk Spell | A working tied to the fae — say no more here |
 | Fall Ritual Incantation | The coven ritual that turns summer to fall (cast at the coven circle) |
 | Vanessa's Wraith Banishment Spell | A named witch's working against a restless spirit — late-story business |

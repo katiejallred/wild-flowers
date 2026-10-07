@@ -13,11 +13,11 @@ Press this page flat and keep it close, dear reader — it marks the moment your
 <div class="snapshot-row">
 <figure class="snapshot">
   <img src="{{ '/assets/images/witchcraft/coven-initiation.jpg' | relative_url }}" alt="Tara stands in a candlelit circle with the masked Fairhaven coven during her initiation." loading="lazy">
-  <figcaption>the circle, the masks, the vow 🕯️</figcaption>
+  <figcaption>Tara's initiation, in the candlelit circle with the masked coven 🕯️</figcaption>
 </figure>
 <figure class="snapshot">
   <img src="{{ '/assets/images/witchcraft/broomstick.jpg' | relative_url }}" alt="Tara flies over Fairhaven on a broomstick." loading="lazy">
-  <figcaption>commuting, improved</figcaption>
+  <figcaption>Tara on a broomstick over Fairhaven</figcaption>
 </figure>
 </div>
 

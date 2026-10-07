@@ -10,7 +10,7 @@ So you've joined the coven, and everyone in the circle is wearing a mask, and on
 
 <figure class="snapshot">
   <img src="{{ '/assets/images/witchcraft/ritual.jpg' | relative_url }}" alt="The masked Fairhaven coven gathered in a candlelit circle." loading="lazy">
-  <figcaption>five masks, five familiar faces 🕯️</figcaption>
+  <figcaption>the masked coven gathered in the candlelit circle 🕯️</figcaption>
 </figure>
 
 ## How the Unmasking Actually Works

@@ -27,12 +27,12 @@ New to tending relationships at all? Root yourself in the [Friendship Guide](fri
 
 | Candidate | Notes from the field |
 | --- | --- |
-| Kai Hoapili | The friendly merchant. Came to the island after a surfing accident and Amira's expert care; stayed for the rest. |
+| Kai Hoapili | The friendly merchant. Came to the island after a surfing accident, was patched up by Amira, and decided to stay. |
 | Kim Izumi | 28, non-binary (they/them), the town butcher and one of Fairhaven's newest residents. |
 | Amira Syed | The doctor — flirty, sharp, and a member of the coven besides. |
-| Cameron Conner | 34, former child actor, now the fervent leader of the League of the Conscious Mind. A thornier courtship than most. |
+| Cameron Conner | 34, former child actor, now the fervent leader of the League of the Conscious Mind. |
 | Damon Mthembu-Haas | 24, keeper of Fairhaven's bar, originally from Johannesburg. |
-| Giva Joshi | The island's meteorologist — smart, a little awkward, sweetly shy. Slow to open — worth the patience. |
+| Giva Joshi | The island's meteorologist — smart, a little awkward, sweetly shy. |
 | Eury Sinclair | Arrives in Year 2 to open the hair salon, so this romance can't start until the first year is done. |
 | Westley | Bookseller of Ravenwood Hollow, raised in Alaska. See the spoiler pressing below. |
 
@@ -54,14 +54,14 @@ New to tending relationships at all? Root yourself in the [Friendship Guide](fri
 </figure>
 <figure class="snapshot">
   <img src="{{ '/assets/images/characters/romance-giva.jpg' | relative_url }}" alt="Tara and Giva share a romantic moment." loading="lazy">
-  <figcaption>Giva forecasts a warm front 💛</figcaption>
+  <figcaption>a romantic moment with Giva 💛</figcaption>
 </figure>
 </div>
 
 <div class="snapshot-row">
 <figure class="snapshot">
   <img src="{{ '/assets/images/characters/romance-westley.jpg' | relative_url }}" alt="Tara and Westley share a romantic moment." loading="lazy">
-  <figcaption>Westley, between chapters 📚</figcaption>
+  <figcaption>a romantic moment with Westley 📚</figcaption>
 </figure>
 <figure class="snapshot">
   <img src="{{ '/assets/images/characters/cameron-gift-exchange.jpg' | relative_url }}" alt="Tara and Cameron exchange gifts." loading="lazy">

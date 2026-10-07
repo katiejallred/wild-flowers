@@ -8,7 +8,7 @@ Beneath Hazel's perfectly respectable farmhouse sits a perfectly unrespectable *
 
 <figure class="snapshot">
   <img src="{{ '/assets/images/witchcraft/cauldron.jpg' | relative_url }}" alt="Tara raises a glowing wand beside a bubbling cauldron in the basement workroom." loading="lazy">
-  <figcaption>the workroom at midnight — something green and promising 🧪</figcaption>
+  <figcaption>Tara at the basement cauldron, wand raised 🧪</figcaption>
 </figure>
 
 ## The Workroom & the Cauldron
@@ -34,7 +34,7 @@ The full recipe book is long — the names below are ones this journal has confi
 | --- | --- |
 | Miracle Grow Potion | Pour on seeds or plants to speed their growth; also works on crafting stations to hurry them along |
 | Ultra Miracle Grow Potion | The same idea, considerably more of it — significant growth acceleration |
-| Revitalizing Potion | Replenishes some of Tara's energy — bottled second wind |
+| Revitalizing Potion | Replenishes some of Tara's energy |
 | Ardor-Cooling Potion | Dampens unwanted passion; the centerpiece of the quest *Un-Love Potion #9* |
 | Spirit Flame Potion | A ritual component — brewed for the coven's seasonal workings |
 
@@ -163,8 +163,8 @@ Bottles from the archive — brews, essences, and one distilled scream (long sto
     <figcaption>Glimmer Coating</figcaption>
   </figure>
   <figure>
-    <img src="{{ '/assets/images/wiki/magic/growth-booster.png' | relative_url }}" alt="Growth Booster.png icon" loading="lazy">
-    <figcaption>Growth Booster.png</figcaption>
+    <img src="{{ '/assets/images/wiki/magic/growth-booster.png' | relative_url }}" alt="Growth Booster icon" loading="lazy">
+    <figcaption>Growth Booster</figcaption>
   </figure>
   <figure>
     <img src="{{ '/assets/images/wiki/magic/levitation-potion.png' | relative_url }}" alt="Levitation Potion icon" loading="lazy">

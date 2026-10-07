@@ -15,7 +15,7 @@ Weather magic arrives, like all magic here, through the main story and coven tas
 | Summon Rain Spell | Calls a day of rain | One day |
 | Summon Wind Spell | Sets the wind blowing | One day |
 | Summon Storm Spell | Strong winds and lightning | One storm |
-| Summon Night Spell | Not weather, strictly — but it brings the dark, and pairs beautifully with a stormy mood | Until morning |
+| Summon Night Spell | Not weather, strictly, but it brings on the dark early for days you just need to end | Until morning |
 
 Remember the golden rule of incantations: each written scroll is **consumed on casting**. A day of rain costs you the magic and ingredients that went into writing it — worth every drop at the right moment, wasteful on a week you'd have watered anyway.
 
