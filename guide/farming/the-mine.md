@@ -93,7 +93,7 @@ The chests scattered through the mine hold recipes, powered gems for the craft �
 | **Coal** | Fuel for the glass kiln, ink for the writing desk — and those gem finders. |
 | **Clay** | Crystal balls, scrying bowls, the glass kiln, red dye, and the mighty Ultra Miracle Grow potion. |
 | **Stone** | Building material (the cauldron itself wants some) — and a humble 1 coin apiece if you must. |
-| **Shiitake** | The kitchen and the cauldron both approve ([Cooking](../crafting/cooking.md)). |
+| **Shiitake** | An ingredient for both cooking and potions ([Cooking](../crafting/cooking.md)). |
 
 ## Quests that send you digging
 

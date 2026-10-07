@@ -8,7 +8,7 @@ Not everything worth gathering grows in a bed. Beneath Fairhaven runs a mine twe
 
 <figure class="snapshot">
   <img src="{{ '/assets/images/farming/mining.jpg' | relative_url }}" alt="Tara swings a pickaxe at an ore deposit in the underground mine." loading="lazy">
-  <figcaption>twenty floors of patience, one lantern ⛏️</figcaption>
+  <figcaption>Tara working an ore deposit with the pickaxe ⛏️</figcaption>
 </figure>
 
 ---
@@ -62,7 +62,7 @@ Walk anywhere with your eyes down and Fairhaven offers up wild plants, flowers, 
 | **The cauldron** | Wild plants and mushrooms are the backbone of potion-making — many brews call for ingredients no garden bed grows ([Potions](../witchcraft/potions.md)). |
 | **The kitchen** | Mushrooms and wild produce round out plenty of recipes ([Cooking](../crafting/cooking.md)). |
 | **Gifts & quests** | Villagers request forageables surprisingly often; a stocked chest saves a scavenger hunt. |
-| **Coin** | Free goods, honest profit — modest but effortless ([Money-Making](../reference/money-making.md)). |
+| **Coin** | Forage costs nothing to gather, so even modest sales are pure profit ([Money-Making](../reference/money-making.md)). |
 
 ### A forager's habits
 

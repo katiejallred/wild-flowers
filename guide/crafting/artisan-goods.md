@@ -25,7 +25,7 @@ Here is the verified arithmetic every Fairhaven farmer should know: **cotton wov
 | Step | Where | Notes |
 |---|---|---|
 | 1. Plant cotton | Your [fields](../farming/crops.md) | A summer crop — plan your coven season-turns around it |
-| 2. Harvest | The field | Stockpile; the loom will be hungry |
+| 2. Harvest | The field | Stockpile the harvest for the loom |
 | 3. Weave at the Loom | [Tool shed](stations.md) | Cotton in, cloth out |
 | 4. Sell the cloth | To Kai | The merchant pays well for fine fabric |
 

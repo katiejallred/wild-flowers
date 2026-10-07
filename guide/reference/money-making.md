@@ -94,12 +94,12 @@ A harvest only becomes coins once it finds the right counter. Fairhaven's shopke
 |---|---|
 | **Crops, produce & artisan goods** (cheese, candles) | **Dahl General Store** — Lina's counter is the farm's main outlet |
 | **Fish** | **Soft and Son's Fish & Tackle** — Bruno pays honest rates for the catch |
-| **Cooked dishes** (fish sticks included) | **Cafe Moretti** — Sophia buys what her kitchen respects |
+| **Cooked dishes** (fish sticks included) | **Cafe Moretti** — Sophia's counter for cooked dishes |
 | **Baked goods** | **Seton's Bakery** — Angus happily buys your desserts |
 | **Cloth & finery** | **Kai's Treasures** — the merchant with an eye for fine fabric |
 | **Meat & adult animals** | **Kim's Local Butcher and Deli** — or Marty, for the well-loved |
 | **Forage & beach finds** | **Shelby's Scraps and Sundries**, in the woods |
-| **Ores, ingots & gems** | **The Blacksmith** — Natalia knows what a stone is worth |
+| **Ores, ingots & gems** | **The Blacksmith** — Natalia's counter, where ore is also smelted into ingots |
 
 Two habits keep the ledger honest:
 

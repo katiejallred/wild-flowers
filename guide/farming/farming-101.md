@@ -10,7 +10,7 @@ Welcome, fellow cultivator, to the first page of your farming journal. When Tara
 
 <figure class="snapshot">
   <img src="{{ '/assets/images/farming/watering.jpg' | relative_url }}" alt="Tara waters a garden bed of young crops on the Wylde farm." loading="lazy">
-  <figcaption>morning rounds: the beds drink before the botanist does 🌦️</figcaption>
+  <figcaption>Tara watering a bed of young crops on the morning round 🌦️</figcaption>
 </figure>
 
 ---

@@ -24,7 +24,7 @@ When the beds are watered and the animals fed, the water calls. Fishing in Fairh
 
 <figure class="snapshot">
   <img src="{{ '/assets/images/farming/winter-fishing.jpg' | relative_url }}" alt="Tara fishes from a snowy shore in winter." loading="lazy">
-  <figcaption>yes, they still bite in the snow ❄️</figcaption>
+  <figcaption>Tara fishing from a snowy shore; weather and season don't change what bites ❄️</figcaption>
 </figure>
 
 ---
@@ -120,8 +120,8 @@ A hunting order for the completionist:
 | --- | --- |
 | Common entries | River (your own farm) and the Ocean — no travel, no prerequisites |
 | Mid-tier entries | Forest Lake in the Woods, then the Mountain once it opens |
-| The rare and strange | The Gloaming — otherworldly waters, otherworldly fish ([Island Map](../island/map.md)) |
-| The deepest prizes | The Mine's pool at level 20 — earn your way down with the pickaxe ([Mining & Foraging](mining-and-foraging.md)) |
+| The rare and strange | The Gloaming, one of the late-game waters ([Island Map](../island/map.md)) |
+| The deepest prizes | The Mine's pool at level 20, reached by mining down floor by floor ([Mining & Foraging](mining-and-foraging.md)) |
 
 Rare catches are worth more at [Bruno's counter](../island/shops.md), dearer still as [gifts](../characters/gift-preferences.md) to the right villager — and remember from the [ledger](../reference/money-making.md): the *common* fish are the ones to feed the fish sticks pan, never these.
 

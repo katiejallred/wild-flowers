@@ -55,7 +55,7 @@ The trade-off is patience: an apple tree seedling, for instance, takes **15 days
 | --- | --- |
 | When to plant | As early as you can spare 125 coins — maturity time only passes while the tree is in the ground. |
 | Where | Garden beds, like other crops — but budget the space permanently; a tree is not a rotation crop. |
-| Season rituals | Trees shrug off the season change that erases out-of-season crops. The orchard is your one truly ritual-proof planting. |
+| Season rituals | Trees keep growing and fruiting through the season change that erases out-of-season crops. |
 | Rare stock | Kai's shelves rotate. If you spot the rarer seedlings — pineapple and avocado show up only occasionally — buy them on sight. |
 
 Fruit slots neatly into [Cooking](../crafting/cooking.md), gifts ([Gift Preferences](../characters/gift-preferences.md)), and steady sales.

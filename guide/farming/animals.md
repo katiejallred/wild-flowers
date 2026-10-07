@@ -10,7 +10,7 @@ No field journal is complete without its fauna. The Wylde farm keeps a warm-bloo
 
 <figure class="snapshot">
   <img src="{{ '/assets/images/farming/animals.jpg' | relative_url }}" alt="Cows and other animals gathered in the farm paddock." loading="lazy">
-  <figcaption>the warm-blooded ledger, assembled for breakfast 🐄</figcaption>
+  <figcaption>cows and the rest of the herd in the farm paddock 🐄</figcaption>
 </figure>
 
 ---
@@ -34,7 +34,7 @@ Animals themselves are purchased from the island's livestock-minded villagers on
 </figure>
 <figure class="snapshot">
   <img src="{{ '/assets/images/farming/duck-baby.jpg' | relative_url }}" alt="A duckling paddles near the pond." loading="lazy">
-  <figcaption>the pond gains a very small admiral 🦆</figcaption>
+  <figcaption>a duckling paddling on the pond 🦆</figcaption>
 </figure>
 </div>
 
@@ -57,11 +57,11 @@ A note for the efficiency-minded: affection does **not** change how much or how 
 | Animal | Produce | Rhythm |
 | --- | --- | --- |
 | Chicken | Eggs | Regular layers; eggs can also be incubated into chicks. |
-| Duck | Eggs | Lays like her coop-mate, with her own charm. |
+| Duck | Eggs | Lays eggs like the chicken; needs the Expanded Coop. |
 | Cow | Milk | At least one milk per day from each adult. |
 | Sheep | Wool | One wool roughly every 3 days per adult. |
 | Alpaca | Wool | Sheared just like a sheep. |
-| Pig | Truffles | An adult pig will *sometimes* present you a truffle when petted — affection with dividends. |
+| Pig | Truffles | An adult pig will *sometimes* present you a truffle when petted. |
 
 Eggs, milk, and wool feed straight into [Cooking](../crafting/cooking.md) and [Artisan Goods](../crafting/artisan-goods.md) — cheese, cloth, and finer things — where their value multiplies. Wool pairs naturally with the cotton economy noted in the [Crop Guide](crops.md).
 
@@ -81,11 +81,11 @@ The payoff is more than cosmetic: magical cows give **rainbow milk**, magical du
 <div class="snapshot-row">
 <figure class="snapshot">
   <img src="{{ '/assets/images/farming/cria-rainbow.jpg' | relative_url }}" alt="A rainbow-colored baby alpaca stands in the pasture." loading="lazy">
-  <figcaption>a rainbow cria — devotion, rewarded 🌈</figcaption>
+  <figcaption>a rainbow-colored cria, bred by feeding its mother her favorite food 🌈</figcaption>
 </figure>
 <figure class="snapshot">
   <img src="{{ '/assets/images/farming/pig-flying.jpg' | relative_url }}" alt="A winged pig flies above the farm." loading="lazy">
-  <figcaption>yes, pigs fly here. next question 🪽</figcaption>
+  <figcaption>a winged pig, one of the magical varieties, over the farm 🪽</figcaption>
 </figure>
 </div>
 
