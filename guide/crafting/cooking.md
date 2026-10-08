@@ -288,10 +288,10 @@ All 185 dishes in the wiki's recipe table, with what goes in them and where the 
 
 ### Made at a station, not in the kitchen
 
-These show up in the compendium too, but they're made in the tool shed ([Crafting Stations](stations.md), [Artisan Goods](artisan-goods.md)):
+These show up in the compendium too, but they're made at crafting stations: most are in the tool shed, and the distillery is in the basement ([Crafting Stations](stations.md), [Artisan Goods](artisan-goods.md)):
 
 - **Fermentation barrel:** wine, beer, apple cider, sauerkraut
-- **Distillery:** rum, vodka, whiskey, sweet potato vodka, rice wine
+- **[Distillery](stations.md#distillery):** rum, vodka, whiskey, sweet potato vodka, rice wine
 - **Juice press:** orange juice
 - **Other stations:** apple juice, carrot juice, grape juice, kimchi, pumpkin ale, soy milk
 
