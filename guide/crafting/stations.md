@@ -1,6 +1,6 @@
 ---
 title: "🛠️ Crafting Stations"
-last_modified_at: 2026-10-07
+last_modified_at: 2026-10-08
 ---
 # 🛠️ Crafting Stations
 
@@ -30,6 +30,7 @@ The stations I've verified in my field notes, and what each one is for:
 | Mortar & Pestle | Flowers and other pigment sources | Ground dyes and powders |
 | Glass Kiln | High-quality sand | Glass |
 | Silkworm Box | A silkworm, kept fed | Silk thread |
+| Distillery *(basement, not the shed)* | Grain, potatoes, sugar, ore, herbs | Spirits, potion essences, conditioner, tanning solution ([see below](#distillery)) |
 
 A few notes from the margins:
 
@@ -43,6 +44,29 @@ The most versatile vessel you'll own: cheese, wine, beer, cider, sauerkraut, kim
 The loom, mortar & pestle, and dyeing bath form a little guild of their own: weave the cloth, grind flowers into dye, then bathe the fabric in color. Several quests and gifts call for dyed cloth specifically, so don't dismiss the dye bath as mere vanity.
 
 <span class="handwritten">the silkworm box asks for a live silkworm before it will produce a single thread — mind the little creature 🌿</span>
+
+### The Distillery {#distillery}
+
+The distillery is in Hazel's basement, where the cauldron is, rather than in the tool shed. It takes a 2×3 space and costs 1 copper ingot, 15 wood, and 250 coins to build. It makes three kinds of things:
+
+| Makes | From | Time |
+| --- | --- | --- |
+| **Rum** | 1 sugar | 4 days |
+| **Vodka** | 2 potatoes | 4 days |
+| **Whiskey** | 2 wheat | 4 days |
+| **Sweet Potato Vodka** | 2 sweet potatoes | 4 days |
+| **Rice Wine** | 2 rice | 1 day |
+| **Honey Mint Cooler** | 1 honey, 2 mint | 2 days |
+| **Alcohol-Free Ale** | 1 wheat, 1 hops, 1 sugar | 1 day |
+| **Essence of Copper** | 2 copper ore | 4 hours |
+| **Essence of Silver** | 2 silver ore | 8 hours |
+| **Essence of Gold** | 2 gold ore | not recorded |
+| **Essence of Sight** | 1 hedgehog grass | not recorded |
+| **Essence of Joy** | 1 Complifish (the Gloaming's only fish) | 1 day |
+| **Conditioner** | 1 clay, 1 coconut oil, and one flower or herb (nigella, witch weed, heather, mistletoe, thistle, wolfsbane, poppy, or forget-me-not) | 4 hours |
+| **Tanning Solution** | 1 lemon, 1 olive oil, 1 mandrake, and one of heather, forget-me-not, nigella, witch weed, or wool weed | not recorded |
+
+The essences feed the cauldron: your first season ritual needs an Essence of Copper, made from 2 copper ore ([Spells & Rituals](../witchcraft/spells-and-rituals.md), [Potions](../witchcraft/potions.md)). Rum, vodka, and whiskey are also ingredients in cocktails on the [Cooking](cooking.md) page, and Kim, Damon, and Angus each list a distillery drink among their favorites ([Gift Preferences](../characters/gift-preferences.md)).
 
 ---
 

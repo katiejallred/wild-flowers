@@ -2,7 +2,7 @@
 title: "🎣 Fishing"
 description: "Every fish in Wylde Flowers — where it bites, the bait to use, and what it sells for — plus which waters pay best and the recipes you can only fish up."
 image: /assets/images/card-fishing.jpg
-last_modified_at: 2026-10-07
+last_modified_at: 2026-10-08
 ---
 # 🎣 Fishing
 
@@ -135,7 +135,7 @@ A hunting order for the completionist:
 | Forest Lake | Six fish. Bring crickets or chub — Bluegill, Brown Trout, and Black Crappie won't touch a worm. |
 | Mountain | Opens in Summer. Any bait catches five of the six; the chub itself wants worms or chub. |
 | Mine, level 20 | Five fish, any bait — earn your way down with the pickaxe ([Mining & Foraging](mining-and-foraging.md)). |
-| The Gloaming | One entry, the **Complifish** — any bait, and it can't be sold ([Island Map](../island/map.md)). |
+| The Gloaming | One entry, the **Complifish** — any bait. It can't be sold, but the [distillery](../crafting/stations.md#distillery) turns it into Essence of Joy ([Island Map](../island/map.md)). |
 
 The cheapest catches (Sardine and Herring at 3 coins, Shiner, Walleye, and Carp at 5) are the ones to feed the fish fingers pan; keep the pricier fish for Bruno's counter ([Money-Making](../reference/money-making.md)).
 
