@@ -1,8 +1,8 @@
 ---
 title: "🍳 Cooking & Recipes"
-description: "Cooking and crafting in Wylde Flowers — recipes and where to learn them, the crafting stations, and top-value artisan goods."
+description: "Every Wylde Flowers recipe with its ingredients and where to learn it, plus which shop sells each cookbook."
 image: /assets/images/card-crafting.jpg
-last_modified_at: 2026-10-07
+last_modified_at: 2026-10-08
 ---
 # 🍳 Cooking & Recipes
 
@@ -13,8 +13,9 @@ In Fairhaven, the kitchen is as vital an instrument as the trowel or the wand, a
 <nav class="quick-look" aria-label="Quick lookup">
   <span class="specimen-label">In a hurry? ➺</span>
   <a href="#learning">Learning Recipes</a> ·
+  <a href="#cookbooks">Cookbooks</a> ·
   <a href="#seasons">Cooking with the Seasons</a> ·
-  <a href="#recipe-box">The Recipe Box A–Z</a>
+  <a href="#recipe-box">Every Recipe (A–Z)</a>
 </nav>
 
 ## The Kitchen
@@ -25,17 +26,35 @@ Keep a few cooked dishes in your satchel whenever you head out. Chopping wood, b
 
 ## Learning Recipes {#learning}
 
-Recipes are seeds: you gather them from many soils, and your collection grows over a long while — well over a hundred dishes await the patient cook. The main sources:
+Recipes come from many places, and the collection grows over a long while: the table at the bottom of this page lists 185 dishes, each with where to learn it. The main sources:
 
 | Source | What to expect |
 |---|---|
-| Cookbooks from Sophia | Sophia Moretti, who runs the diner, sells cookbooks that unlock batches of recipes at once |
+| Cookbooks | Ten cookbooks, each teaching a batch of three to six recipes, sold at six different shops ([see below](#cookbooks)) |
 | Quest rewards | Villagers often thank you for favors and story quests with a recipe |
 | New ingredients | Picking up an unfamiliar ingredient can spark a recipe idea on its own |
-| Exploration & chests | Recipe pages turn up in hidden spots and treasure chests found while [mining](../farming/mining-and-foraging.md) — and smashing big stones, digging up dirt piles, and fishing the ocean can all surface recipes too |
+| Exploration & chests | Recipe pages turn up in mine chests (levels 4, 9, 14, 19, and 20 — see [mining](../farming/mining-and-foraging.md)), at Mountain dig spots, and when you break large rocks on the farm. Mountain dig spots alone teach 50 recipes. |
+| Fishing | A bottle sometimes surfaces instead of a fish; reeling it in teaches a recipe ([Recipe Bottles](../farming/fishing.md#bottles)). Loco Moco, Poke Bowl, and Jambalaya are among the 24 dishes learned this way. |
 | Friendship | Growing close to a villager sometimes earns you a family dish |
 
-<span class="handwritten">visit Sophia's diner early — her cookbooks are the fastest way to fill a bare recipe binder 🌿</span>
+<span class="handwritten">My First Cookbook is 40 coins at Cafe Moretti from day one, and it teaches lasagna, spaghetti Bolognese, slap chips, noodles, and satay noodles 🌿</span>
+
+### Where to buy each cookbook {#cookbooks}
+
+| Cookbook | Sold at | Price |
+| --- | --- | --- |
+| *My First Cookbook* | Cafe Moretti | 40 coins |
+| *Recipes for Beverage Buffs* | Cafe Moretti (after its level 2 upgrade) | 100 coins |
+| *Recipes for Pizza Chefs* | Cafe Moretti (after its level 2 upgrade) | 100 coins |
+| *Recipes for Bakers* | Seton's Bakery | 100 coins |
+| *More Recipes for Bakers* | not recorded in the archive | — |
+| *Recipes for Fish Fans* | Soft and Son's Fish & Tackle | 100 coins |
+| *Recipes for Meat-Lovers* | Kim's Local Butcher and Deli | 100 coins |
+| *Recipes for Mixologists* | The Bar | 100 coins |
+| *More Recipes for Mixologists* | The Bar | not recorded |
+| *Recipes for Vegetarians* | Lightfoot Farm | not recorded |
+
+Shop locations are on the [Shops](../island/shops.md) page.
 
 ---
 
@@ -50,14 +69,14 @@ Your own [crops](../farming/crops.md) supply the backbone of most recipes — ve
 [Foraging](../farming/mining-and-foraging.md) turns up mushrooms, berries, herbs, and other seasonal finds along the island's paths, while [fishing](../farming/fishing.md) keeps the pan stocked with the catch of the day. A botanist's habit worth adopting: pick up everything. You never know which humble weed tomorrow's recipe will demand.
 
 ### From the shops
-When the garden falls short, the [village shops](../island/shops.md) fill the gaps. Kim Izumi the butcher supplies meats; Lina Dahl-Johnson's general store carries staples and seeds; and Sophia's diner is worth a visit for inspiration as much as ingredients.
+When the garden falls short, the [village shops](../island/shops.md) fill the gaps. Kim Izumi the butcher supplies meats, Lina Dahl-Johnson's general store carries staples and seeds, and Sophia's Cafe Moretti sells three of the cookbooks.
 
 ---
 
 ## What Cooking Is For
 
 ### Energy in your pocket
-Every dish restores energy, and heartier meals restore more than raw ingredients eaten in desperation. Cook in batches before a big day of clearing land or delving the mines.
+Cooked dishes restore energy when you eat them. Cook a batch before a big day of clearing land or going down the mine.
 
 ### Gifts that warm hearts
 A cooked dish makes a thoughtful gift, and many villagers have favorite meals that delight them far more than a raw turnip ever could. Consult the [gift preferences](../characters/gift-preferences.md) ledger and cook accordingly — a favorite dish counts toward friendship and [romance](../characters/romance.md) alike.
@@ -69,870 +88,218 @@ Villagers will sometimes ask for a specific dish outright — a [side quest](../
 
 ## Cooking with the Seasons {#seasons}
 
-Fairhaven's seasons turn only when the coven wills it, which gives you unusual leisure — but ingredients remain seasonal creatures. Some crops and forage appear only in their proper season, and so some dishes can only be assembled at certain times of year. Before you ask the [coven](../witchcraft/spells-and-rituals.md) to turn the wheel, take stock: harvest and cook the season's specialties, or squirrel away the ingredients, lest a quest catch you wanting a spring dish in the depths of winter.
+Fairhaven's seasons turn only when the coven wills it, which gives you unusual leisure — but ingredients remain seasonal creatures. Some crops and forage appear only in their proper season, and so some dishes can only be assembled at certain times of year. Before you ask the [coven](../witchcraft/spells-and-rituals.md) to turn the wheel, take stock: harvest and cook the season's specialties, or store the ingredients, so a quest doesn't catch you without a spring crop in winter.
 
-> The witches change the weather, but no spell yet devised will make a summer fruit grow in autumn soil.
+Once the greenhouse is built, Lina sells off-season seeds and you can grow them under glass, which removes most of these limits ([Crop Guide](../farming/crops.md)).
 
 ---
 
-## The Recipe Box (A–Z) {#recipe-box}
+## Every Recipe, A–Z {#recipe-box}
 
-Every dish from the archive's first two drawers, Anzac Biscuit through Pumpkin Spice Latte — proof that Fairhaven's kitchens cook from every corner of the world. Recipes from later in the alphabet will be pasted in as the archive grows.
+All 185 dishes in the wiki's recipe table, with what goes in them and where the recipe comes from. *Any protein* means any meat, fish, or tofu; *any milk*, *any flour*, and *any fat* work the same way. Residents' favorite dishes are marked under the name ([Gift Preferences](../characters/gift-preferences.md)).
 
-<div class="specimen-grid parchment">
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/anzac-biscuit.png' | relative_url }}" alt="Anzac Biscuit dish icon" loading="lazy">
-    <figcaption>Anzac Biscuit</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/apple-cider.png' | relative_url }}" alt="Apple Cider dish icon" loading="lazy">
-    <figcaption>Apple Cider</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/apple-juice.png' | relative_url }}" alt="Apple Juice dish icon" loading="lazy">
-    <figcaption>Apple Juice</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/apple-martini.png' | relative_url }}" alt="Apple Martini dish icon" loading="lazy">
-    <figcaption>Apple Martini</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/apple-pie.png' | relative_url }}" alt="Apple Pie dish icon" loading="lazy">
-    <figcaption>Apple Pie</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/arroz-con-gandules.png' | relative_url }}" alt="Arroz con Gandules dish icon" loading="lazy">
-    <figcaption>Arroz con Gandules</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/arroz-con-huevos.png' | relative_url }}" alt="Arroz con Huevos dish icon" loading="lazy">
-    <figcaption>Arroz con Huevos</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/asopao-chicken-and-rice.png' | relative_url }}" alt="Asopao (Chicken & Rice) dish icon" loading="lazy">
-    <figcaption>Asopao (Chicken & Rice)</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/avocado-toast.png' | relative_url }}" alt="Avocado Toast dish icon" loading="lazy">
-    <figcaption>Avocado Toast</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/avolatte.png' | relative_url }}" alt="Avolatte dish icon" loading="lazy">
-    <figcaption>Avolatte</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/bagel.png' | relative_url }}" alt="Bagel dish icon" loading="lazy">
-    <figcaption>Bagel</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/baklava.png' | relative_url }}" alt="Baklava dish icon" loading="lazy">
-    <figcaption>Baklava</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/banana-bread.png' | relative_url }}" alt="Banana Bread dish icon" loading="lazy">
-    <figcaption>Banana Bread</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/banana-cake.png' | relative_url }}" alt="Banana Cake dish icon" loading="lazy">
-    <figcaption>Banana Cake</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/banana-smoothie.png' | relative_url }}" alt="Banana Smoothie dish icon" loading="lazy">
-    <figcaption>Banana Smoothie</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/beef-and-shiitake.png' | relative_url }}" alt="Beef And Shiitake dish icon" loading="lazy">
-    <figcaption>Beef And Shiitake</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/beef-stroganoff.png' | relative_url }}" alt="Beef Stroganoff dish icon" loading="lazy">
-    <figcaption>Beef Stroganoff</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/beef-wellington.png' | relative_url }}" alt="Beef Wellington dish icon" loading="lazy">
-    <figcaption>Beef Wellington</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/beer.png' | relative_url }}" alt="Beer dish icon" loading="lazy">
-    <figcaption>Beer</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/beesting-cake.png' | relative_url }}" alt="Beesting Cake dish icon" loading="lazy">
-    <figcaption>Beesting Cake</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/beignet.png' | relative_url }}" alt="Beignet dish icon" loading="lazy">
-    <figcaption>Beignet</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/berry-smoothie.png' | relative_url }}" alt="Berry Smoothie dish icon" loading="lazy">
-    <figcaption>Berry Smoothie</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/berry-streusel-cake.png' | relative_url }}" alt="Berry Streusel Cake dish icon" loading="lazy">
-    <figcaption>Berry Streusel Cake</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/black-pudding.png' | relative_url }}" alt="Black Pudding dish icon" loading="lazy">
-    <figcaption>Black Pudding</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/blackberry-cheesecake.png' | relative_url }}" alt="Blackberry Cheesecake dish icon" loading="lazy">
-    <figcaption>Blackberry Cheesecake</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/blue-hawaii-cocktail.png' | relative_url }}" alt="Blue Hawaii Cocktail dish icon" loading="lazy">
-    <figcaption>Blue Hawaii Cocktail</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/blueberry-tart.png' | relative_url }}" alt="Blueberry Tart dish icon" loading="lazy">
-    <figcaption>Blueberry Tart</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/bobotie.png' | relative_url }}" alt="Bobotie dish icon" loading="lazy">
-    <figcaption>Bobotie</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/bon-bon-candy.png' | relative_url }}" alt="Bon-Bon Candy dish icon" loading="lazy">
-    <figcaption>Bon-Bon Candy</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/bottled-water.png' | relative_url }}" alt="Bottled Water dish icon" loading="lazy">
-    <figcaption>Bottled Water</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/bread-pudding.png' | relative_url }}" alt="Bread Pudding dish icon" loading="lazy">
-    <figcaption>Bread Pudding</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/bread.png' | relative_url }}" alt="Bread dish icon" loading="lazy">
-    <figcaption>Bread</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/brigadeiro-chocolate-coconut-truffles.png' | relative_url }}" alt="Brigadeiro (Chocolate Coconut Truffles) dish icon" loading="lazy">
-    <figcaption>Brigadeiro (Chocolate Coconut Truffles)</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/buddhas-delight.png' | relative_url }}" alt="Buddha's Delight dish icon" loading="lazy">
-    <figcaption>Buddha's Delight</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/cabbage-soup.png' | relative_url }}" alt="Cabbage Soup dish icon" loading="lazy">
-    <figcaption>Cabbage Soup</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/caipirinha.png' | relative_url }}" alt="Caipirinha dish icon" loading="lazy">
-    <figcaption>Caipirinha</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/cape-malay-curry.png' | relative_url }}" alt="Cape Malay Curry dish icon" loading="lazy">
-    <figcaption>Cape Malay Curry</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/cappuccino.png' | relative_url }}" alt="Cappuccino dish icon" loading="lazy">
-    <figcaption>Cappuccino</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/capricciosa-pizza.png' | relative_url }}" alt="Capricciosa Pizza dish icon" loading="lazy">
-    <figcaption>Capricciosa Pizza</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/caramel-apple.jpg' | relative_url }}" alt="Caramel Apple dish icon" loading="lazy">
-    <figcaption>Caramel Apple</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/caramel-candy.png' | relative_url }}" alt="Caramel Candy dish icon" loading="lazy">
-    <figcaption>Caramel Candy</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/caramel-popcorn.png' | relative_url }}" alt="Caramel Popcorn dish icon" loading="lazy">
-    <figcaption>Caramel Popcorn</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/carrot-cake.png' | relative_url }}" alt="Carrot Cake dish icon" loading="lazy">
-    <figcaption>Carrot Cake</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/carrot-juice.png' | relative_url }}" alt="Carrot Juice dish icon" loading="lazy">
-    <figcaption>Carrot Juice</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/cauliflower-soup.png' | relative_url }}" alt="Cauliflower Soup dish icon" loading="lazy">
-    <figcaption>Cauliflower Soup</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/chai.png' | relative_url }}" alt="Chai dish icon" loading="lazy">
-    <figcaption>Chai</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/chakalaka.png' | relative_url }}" alt="Chakalaka dish icon" loading="lazy">
-    <figcaption>Chakalaka</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/cheese-pizza.png' | relative_url }}" alt="Cheese Pizza dish icon" loading="lazy">
-    <figcaption>Cheese Pizza</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/cheese-souffle.png' | relative_url }}" alt="Cheese Souffle dish icon" loading="lazy">
-    <figcaption>Cheese Souffle</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/chicken-fricassee.png' | relative_url }}" alt="Chicken Fricassèe dish icon" loading="lazy">
-    <figcaption>Chicken Fricassèe</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/chicken-kiev.png' | relative_url }}" alt="Chicken Kiev dish icon" loading="lazy">
-    <figcaption>Chicken Kiev</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/chicken-soup.png' | relative_url }}" alt="Chicken Soup dish icon" loading="lazy">
-    <figcaption>Chicken Soup</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/chicken-tikka-masala.png' | relative_url }}" alt="Chicken Tikka Masala dish icon" loading="lazy">
-    <figcaption>Chicken Tikka Masala</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/chocolate-cupcake.png' | relative_url }}" alt="Chocolate Cupcake dish icon" loading="lazy">
-    <figcaption>Chocolate Cupcake</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/chocolate-milkshake.png' | relative_url }}" alt="Chocolate Milkshake dish icon" loading="lazy">
-    <figcaption>Chocolate Milkshake</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/chopped-cheese-sandwich.png' | relative_url }}" alt="Chopped Cheese Sandwich dish icon" loading="lazy">
-    <figcaption>Chopped Cheese Sandwich</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/churros.png' | relative_url }}" alt="Churros dish icon" loading="lazy">
-    <figcaption>Churros</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/coconut-macaroon.png' | relative_url }}" alt="Coconut Macaroon dish icon" loading="lazy">
-    <figcaption>Coconut Macaroon</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/coconut-rice.png' | relative_url }}" alt="Coconut Rice dish icon" loading="lazy">
-    <figcaption>Coconut Rice</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/coffee.png' | relative_url }}" alt="Coffee dish icon" loading="lazy">
-    <figcaption>Coffee</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/coquito-cake.png' | relative_url }}" alt="Coquito Cake dish icon" loading="lazy">
-    <figcaption>Coquito Cake</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/coquito.jpg' | relative_url }}" alt="Coquito dish icon" loading="lazy">
-    <figcaption>Coquito</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/corn-bread.png' | relative_url }}" alt="Corn Bread dish icon" loading="lazy">
-    <figcaption>Corn Bread</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/corn-soup.png' | relative_url }}" alt="Corn Soup dish icon" loading="lazy">
-    <figcaption>Corn Soup</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/cornbread-pot-pie.png' | relative_url }}" alt="Cornbread Pot Pie dish icon" loading="lazy">
-    <figcaption>Cornbread Pot Pie</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/cream-cheese-bagel.png' | relative_url }}" alt="Cream Cheese Bagel dish icon" loading="lazy">
-    <figcaption>Cream Cheese Bagel</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/cream-cheese.jpg' | relative_url }}" alt="Cream Cheese dish icon" loading="lazy">
-    <figcaption>Cream Cheese</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/cream-of-mushroom-soup.png' | relative_url }}" alt="Cream of Mushroom Soup dish icon" loading="lazy">
-    <figcaption>Cream of Mushroom Soup</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/croissant.png' | relative_url }}" alt="Croissant dish icon" loading="lazy">
-    <figcaption>Croissant</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/danish.png' | relative_url }}" alt="Danish dish icon" loading="lazy">
-    <figcaption>Danish</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/duck-a-l-orange.jpg' | relative_url }}" alt="Duck à l'Orange dish icon" loading="lazy">
-    <figcaption>Duck à l'Orange</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/empanada.png' | relative_url }}" alt="Empanada dish icon" loading="lazy">
-    <figcaption>Empanada</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/fennel-salad.png' | relative_url }}" alt="Fennel Salad dish icon" loading="lazy">
-    <figcaption>Fennel Salad</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/fesenjan-pomegranate-walnut-stew.png' | relative_url }}" alt="Fesenjan (Pomegranate Walnut Stew) dish icon" loading="lazy">
-    <figcaption>Fesenjan (Pomegranate Walnut Stew)</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/fish-chowder.png' | relative_url }}" alt="Fish Chowder dish icon" loading="lazy">
-    <figcaption>Fish Chowder</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/fish-fingers.png' | relative_url }}" alt="Fish Fingers dish icon" loading="lazy">
-    <figcaption>Fish Fingers</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/fish-stew.png' | relative_url }}" alt="Fish Stew dish icon" loading="lazy">
-    <figcaption>Fish Stew</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/flan.png' | relative_url }}" alt="Flan dish icon" loading="lazy">
-    <figcaption>Flan</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/fried-flounder-sandwich.png' | relative_url }}" alt="Fried Flounder Sandwich dish icon" loading="lazy">
-    <figcaption>Fried Flounder Sandwich</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/fruit-punch.png' | relative_url }}" alt="Fruit Punch dish icon" loading="lazy">
-    <figcaption>Fruit Punch</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/fruit-salad.png' | relative_url }}" alt="Fruit Salad dish icon" loading="lazy">
-    <figcaption>Fruit Salad</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/golubtsi-stuffed-cabbage.png' | relative_url }}" alt="Golubtsi (Stuffed Cabbage) dish icon" loading="lazy">
-    <figcaption>Golubtsi (Stuffed Cabbage)</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/goulash.png' | relative_url }}" alt="Goulash dish icon" loading="lazy">
-    <figcaption>Goulash</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/grape-juice.png' | relative_url }}" alt="Grape Juice dish icon" loading="lazy">
-    <figcaption>Grape Juice</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/gulab-jamun.jpg' | relative_url }}" alt="Gulab Jamun dish icon" loading="lazy">
-    <figcaption>Gulab Jamun</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/gyoza.png' | relative_url }}" alt="Gyozas dish icon" loading="lazy">
-    <figcaption>Gyozas</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/haupia-coconut-pudding.png' | relative_url }}" alt="Haupia (Coconut Pudding) dish icon" loading="lazy">
-    <figcaption>Haupia (Coconut Pudding)</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/honey-lemon-tea.png' | relative_url }}" alt="Honey Lemon Tea dish icon" loading="lazy">
-    <figcaption>Honey Lemon Tea</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/hot-chocolate.png' | relative_url }}" alt="Hot Chocolate dish icon" loading="lazy">
-    <figcaption>Hot Chocolate</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/hot-cross-bun.png' | relative_url }}" alt="Hot Cross Bun dish icon" loading="lazy">
-    <figcaption>Hot Cross Bun</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/italian-sausage.png' | relative_url }}" alt="Italian Sausage dish icon" loading="lazy">
-    <figcaption>Italian Sausage</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/jambalaya.png' | relative_url }}" alt="Jambalaya dish icon" loading="lazy">
-    <figcaption>Jambalaya</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/jeweled-rice.png' | relative_url }}" alt="Jeweled Rice dish icon" loading="lazy">
-    <figcaption>Jeweled Rice</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/kimchi.png' | relative_url }}" alt="Kimchi dish icon" loading="lazy">
-    <figcaption>Kimchi</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/lasagna.png' | relative_url }}" alt="Lasagna dish icon" loading="lazy">
-    <figcaption>Lasagna</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/latke.png' | relative_url }}" alt="Latke dish icon" loading="lazy">
-    <figcaption>Latke</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/lemon-poppy-seed-cake.png' | relative_url }}" alt="Lemon Poppy Seed Cake dish icon" loading="lazy">
-    <figcaption>Lemon Poppy Seed Cake</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/lemon-square.png' | relative_url }}" alt="Lemon Square dish icon" loading="lazy">
-    <figcaption>Lemon Square</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/lemonade.png' | relative_url }}" alt="Lemonade dish icon" loading="lazy">
-    <figcaption>Lemonade</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/lobster-roll.png' | relative_url }}" alt="Lobster Roll dish icon" loading="lazy">
-    <figcaption>Lobster Roll</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/lobster-tails-with-truffle-oil.jpg' | relative_url }}" alt="Lobster Tails With Truffle Oil dish icon" loading="lazy">
-    <figcaption>Lobster Tails With Truffle Oil</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/lobster-thermidor.png' | relative_url }}" alt="Lobster Thermidor dish icon" loading="lazy">
-    <figcaption>Lobster Thermidor</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/loco-moco.png' | relative_url }}" alt="Loco Moco dish icon" loading="lazy">
-    <figcaption>Loco Moco</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/malasada.png' | relative_url }}" alt="Malasada dish icon" loading="lazy">
-    <figcaption>Malasada</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/manapua-pork-dumpling.png' | relative_url }}" alt="Manapua (Pork Dumpling) dish icon" loading="lazy">
-    <figcaption>Manapua (Pork Dumpling)</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/marmalade-pudding.png' | relative_url }}" alt="Marmalade Pudding dish icon" loading="lazy">
-    <figcaption>Marmalade Pudding</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/matzo-ball-soup.png' | relative_url }}" alt="Matzo Ball Soup dish icon" loading="lazy">
-    <figcaption>Matzo Ball Soup</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/mint-julep.png' | relative_url }}" alt="Mint Julep dish icon" loading="lazy">
-    <figcaption>Mint Julep</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/miso-soup.png' | relative_url }}" alt="Miso Soup dish icon" loading="lazy">
-    <figcaption>Miso Soup</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/mojito.png' | relative_url }}" alt="Mojito dish icon" loading="lazy">
-    <figcaption>Mojito</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/moroccan-carrot-soup.png' | relative_url }}" alt="Moroccan Carrot Soup dish icon" loading="lazy">
-    <figcaption>Moroccan Carrot Soup</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/muffin.png' | relative_url }}" alt="Muffin dish icon" loading="lazy">
-    <figcaption>Muffin</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/mulled-wine.png' | relative_url }}" alt="Mulled Wine dish icon" loading="lazy">
-    <figcaption>Mulled Wine</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/mushroom-pizza.png' | relative_url }}" alt="Mushroom Pizza dish icon" loading="lazy">
-    <figcaption>Mushroom Pizza</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/mushroom-risotto.png' | relative_url }}" alt="Mushroom Risotto dish icon" loading="lazy">
-    <figcaption>Mushroom Risotto</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/my-first-cookbook.png' | relative_url }}" alt="My First Cookbook dish icon" loading="lazy">
-    <figcaption>My First Cookbook</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/nachos.png' | relative_url }}" alt="Nachos dish icon" loading="lazy">
-    <figcaption>Nachos</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/new-england-chowder.png' | relative_url }}" alt="New England Chowder dish icon" loading="lazy">
-    <figcaption>New England Chowder</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/noodles.png' | relative_url }}" alt="Noodles dish icon" loading="lazy">
-    <figcaption>Noodles</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/nougat.png' | relative_url }}" alt="Nougat dish icon" loading="lazy">
-    <figcaption>Nougat</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/oatmeal-raisin-cookie.png' | relative_url }}" alt="Oatmeal Raisin Cookie dish icon" loading="lazy">
-    <figcaption>Oatmeal Raisin Cookie</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/oatmeal.png' | relative_url }}" alt="Oatmeal dish icon" loading="lazy">
-    <figcaption>Oatmeal</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/orange-candy.png' | relative_url }}" alt="Orange Candy dish icon" loading="lazy">
-    <figcaption>Orange Candy</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/orange-juice.png' | relative_url }}" alt="Orange Juice dish icon" loading="lazy">
-    <figcaption>Orange Juice</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/pacoquinha-peanut-rolls.png' | relative_url }}" alt="Pacoquinha (Peanut Rolls) dish icon" loading="lazy">
-    <figcaption>Pacoquinha (Peanut Rolls)</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/pancakes.png' | relative_url }}" alt="Pancakes dish icon" loading="lazy">
-    <figcaption>Pancakes</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/patriot-pie.png' | relative_url }}" alt="Patriot Pie dish icon" loading="lazy">
-    <figcaption>Patriot Pie</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/pav-bhaji.png' | relative_url }}" alt="Pav Bhaji dish icon" loading="lazy">
-    <figcaption>Pav Bhaji</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/peanut-brittle.png' | relative_url }}" alt="Peanut Brittle dish icon" loading="lazy">
-    <figcaption>Peanut Brittle</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/peking-duck.jpg' | relative_url }}" alt="Peking Duck dish icon" loading="lazy">
-    <figcaption>Peking Duck</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/pepperoni-pizza.png' | relative_url }}" alt="Pepperoni Pizza dish icon" loading="lazy">
-    <figcaption>Pepperoni Pizza</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/persian-love-cake.png' | relative_url }}" alt="Persian Love Cake dish icon" loading="lazy">
-    <figcaption>Persian Love Cake</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/pierogi.png' | relative_url }}" alt="Pierogi dish icon" loading="lazy">
-    <figcaption>Pierogi</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/pikliz.png' | relative_url }}" alt="Pikliz dish icon" loading="lazy">
-    <figcaption>Pikliz</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/pina-colada.png' | relative_url }}" alt="Piña Colada dish icon" loading="lazy">
-    <figcaption>Piña Colada</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/pizza-dough.png' | relative_url }}" alt="Pizza Dough dish icon" loading="lazy">
-    <figcaption>Pizza Dough</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/poke-bowl.png' | relative_url }}" alt="Poke bowl dish icon" loading="lazy">
-    <figcaption>Poke bowl</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/popcorn.png' | relative_url }}" alt="Popcorn dish icon" loading="lazy">
-    <figcaption>Popcorn</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/praline-cookie.png' | relative_url }}" alt="Praline Cookie dish icon" loading="lazy">
-    <figcaption>Praline Cookie</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/prawns-koliwada.png' | relative_url }}" alt="Prawns Koliwada dish icon" loading="lazy">
-    <figcaption>Prawns Koliwada</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/precipizi.png' | relative_url }}" alt="Precipizi dish icon" loading="lazy">
-    <figcaption>Precipizi</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/pumpkin-ale.png' | relative_url }}" alt="Pumpkin Ale dish icon" loading="lazy">
-    <figcaption>Pumpkin Ale</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/pumpkin-bread.png' | relative_url }}" alt="Pumpkin Bread dish icon" loading="lazy">
-    <figcaption>Pumpkin Bread</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/pumpkin-mochi-pie.png' | relative_url }}" alt="Pumpkin Mochi Pie dish icon" loading="lazy">
-    <figcaption>Pumpkin Mochi Pie</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/pumpkin-pie.png' | relative_url }}" alt="Pumpkin Pie dish icon" loading="lazy">
-    <figcaption>Pumpkin Pie</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/pumpkin-soup.png' | relative_url }}" alt="Pumpkin Soup dish icon" loading="lazy">
-    <figcaption>Pumpkin Soup</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/pumpkin-spice-latte.png' | relative_url }}" alt="Pumpkin Spice Latte dish icon" loading="lazy">
-    <figcaption>Pumpkin Spice Latte</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/quiche.png' | relative_url }}" alt="Quiche dish icon" loading="lazy">
-    <figcaption>Quiche</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/ramen.png' | relative_url }}" alt="Ramen dish icon" loading="lazy">
-    <figcaption>Ramen</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/restorative-tea.png' | relative_url }}" alt="Restorative Tea dish icon" loading="lazy">
-    <figcaption>Restorative Tea</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/rice-cracker.png' | relative_url }}" alt="Rice Cracker dish icon" loading="lazy">
-    <figcaption>Rice Cracker</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/rice-pudding.png' | relative_url }}" alt="Rice Pudding dish icon" loading="lazy">
-    <figcaption>Rice Pudding</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/rice-wine.png' | relative_url }}" alt="Rice Wine dish icon" loading="lazy">
-    <figcaption>Rice Wine</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/roast-beef.png' | relative_url }}" alt="Roast Beef dish icon" loading="lazy">
-    <figcaption>Roast Beef</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/roast-pork.png' | relative_url }}" alt="Roast Pork dish icon" loading="lazy">
-    <figcaption>Roast Pork</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/roast-salmon.png' | relative_url }}" alt="Roast Salmon dish icon" loading="lazy">
-    <figcaption>Roast Salmon</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/rum.png' | relative_url }}" alt="Rum dish icon" loading="lazy">
-    <figcaption>Rum</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/rumbledethumps.png' | relative_url }}" alt="Rumbledethumps dish icon" loading="lazy">
-    <figcaption>Rumbledethumps</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/samosas.png' | relative_url }}" alt="Samosas dish icon" loading="lazy">
-    <figcaption>Samosas</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/satay-noodles.png' | relative_url }}" alt="Satay Noodles dish icon" loading="lazy">
-    <figcaption>Satay Noodles</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/sauerkraut.png' | relative_url }}" alt="Sauerkraut dish icon" loading="lazy">
-    <figcaption>Sauerkraut</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/sausage-rolls.png' | relative_url }}" alt="Sausage Rolls dish icon" loading="lazy">
-    <figcaption>Sausage Rolls</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/schnitzel.png' | relative_url }}" alt="Schnitzel dish icon" loading="lazy">
-    <figcaption>Schnitzel</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/scottiglia.png' | relative_url }}" alt="Scottiglia (Mixed Meat Stew) dish icon" loading="lazy">
-    <figcaption>Scottiglia (Mixed Meat Stew)</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/seafood-fra-diavolo.png' | relative_url }}" alt="Seafood Fra Diavolo dish icon" loading="lazy">
-    <figcaption>Seafood Fra Diavolo</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/seafood-paella.png' | relative_url }}" alt="Seafood Paella dish icon" loading="lazy">
-    <figcaption>Seafood Paella</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/seitan.png' | relative_url }}" alt="Seitan dish icon" loading="lazy">
-    <figcaption>Seitan</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/shrimp-rangoons.png' | relative_url }}" alt="Shrimp Rangoons dish icon" loading="lazy">
-    <figcaption>Shrimp Rangoons</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/skirlie.png' | relative_url }}" alt="Skirlie dish icon" loading="lazy">
-    <figcaption>Skirlie</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/slap-chips.png' | relative_url }}" alt="Slap Chips dish icon" loading="lazy">
-    <figcaption>Slap Chips</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/smoked-salmon-bagel.png' | relative_url }}" alt="Smoked Salmon Bagel dish icon" loading="lazy">
-    <figcaption>Smoked Salmon Bagel</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/snickerdoodle.png' | relative_url }}" alt="Snickerdoodle dish icon" loading="lazy">
-    <figcaption>Snickerdoodle</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/soy-candle.png' | relative_url }}" alt="Soy Candle dish icon" loading="lazy">
-    <figcaption>Soy Candle</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/soy-milk.png' | relative_url }}" alt="Soy Milk dish icon" loading="lazy">
-    <figcaption>Soy Milk</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/spaghetti-bolognese.png' | relative_url }}" alt="Spaghetti Bolognese dish icon" loading="lazy">
-    <figcaption>Spaghetti Bolognese</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/spaghetti-puttanesca.png' | relative_url }}" alt="Spaghetti Puttanesca dish icon" loading="lazy">
-    <figcaption>Spaghetti Puttanesca</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/spanakopita.png' | relative_url }}" alt="Spanakopita dish icon" loading="lazy">
-    <figcaption>Spanakopita</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/spanish-omelette.png' | relative_url }}" alt="Spanish Omelette dish icon" loading="lazy">
-    <figcaption>Spanish Omelette</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/spinach-smoothie.png' | relative_url }}" alt="Spinach Smoothie dish icon" loading="lazy">
-    <figcaption>Spinach Smoothie</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/spring-stew.png' | relative_url }}" alt="Spring Stew dish icon" loading="lazy">
-    <figcaption>Spring Stew</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/strawberry-candy.png' | relative_url }}" alt="Strawberry Candy dish icon" loading="lazy">
-    <figcaption>Strawberry Candy</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/strawberry-daiquiri.png' | relative_url }}" alt="Strawberry Daiquiri dish icon" loading="lazy">
-    <figcaption>Strawberry Daiquiri</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/strawberry-milkshake.png' | relative_url }}" alt="Strawberry Milkshake dish icon" loading="lazy">
-    <figcaption>Strawberry Milkshake</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/strawberry-shortcake.png' | relative_url }}" alt="Strawberry Shortcake dish icon" loading="lazy">
-    <figcaption>Strawberry Shortcake</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/succotash.png' | relative_url }}" alt="Succotash dish icon" loading="lazy">
-    <figcaption>Succotash</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/sugar.png' | relative_url }}" alt="Sugar dish icon" loading="lazy">
-    <figcaption>Sugar</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/sushi.png' | relative_url }}" alt="Sushi dish icon" loading="lazy">
-    <figcaption>Sushi</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/sweet-and-sour-pork.png' | relative_url }}" alt="Sweet and Sour Pork dish icon" loading="lazy">
-    <figcaption>Sweet and Sour Pork</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/sweet-potato-and-coriander-pizza.png' | relative_url }}" alt="Sweet Potato and Coriander Pizza dish icon" loading="lazy">
-    <figcaption>Sweet Potato and Coriander Pizza</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/sweet-potato-casserole.png' | relative_url }}" alt="Sweet Potato Casserole dish icon" loading="lazy">
-    <figcaption>Sweet Potato Casserole</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/sweet-potato-coriander-pizza.png' | relative_url }}" alt="Sweet Potato & Coriander Pizza dish icon" loading="lazy">
-    <figcaption>Sweet Potato & Coriander Pizza</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/sweet-potato-fries.png' | relative_url }}" alt="Sweet Potato Fries dish icon" loading="lazy">
-    <figcaption>Sweet Potato Fries</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/sweet-potato-vodka.png' | relative_url }}" alt="Sweet Potato Vodka dish icon" loading="lazy">
-    <figcaption>Sweet Potato Vodka</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/syrniki-russian-cheese-pancake.png' | relative_url }}" alt="Syrniki (Russian Cheese Pancake) dish icon" loading="lazy">
-    <figcaption>Syrniki (Russian Cheese Pancake)</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/tabbouleh.png' | relative_url }}" alt="Tabbouleh dish icon" loading="lazy">
-    <figcaption>Tabbouleh</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/texas-brownie.png' | relative_url }}" alt="Texas Brownie dish icon" loading="lazy">
-    <figcaption>Texas Brownie</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/the-welcome-refresher.png' | relative_url }}" alt="The Welcome Refresher dish icon" loading="lazy">
-    <figcaption>The Welcome Refresher</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/three-sisters-stew.png' | relative_url }}" alt="Three Sisters Stew dish icon" loading="lazy">
-    <figcaption>Three Sisters Stew</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/tiramisu.png' | relative_url }}" alt="Tiramisu dish icon" loading="lazy">
-    <figcaption>Tiramisu</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/tofu.png' | relative_url }}" alt="Tofu dish icon" loading="lazy">
-    <figcaption>Tofu</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/tomato-soup.png' | relative_url }}" alt="Tomato Soup dish icon" loading="lazy">
-    <figcaption>Tomato Soup</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/truffled-duck-eggs-on-toast.jpg' | relative_url }}" alt="Truffled Duck Eggs on Toast dish icon" loading="lazy">
-    <figcaption>Truffled Duck Eggs on Toast</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/truffled-mac-and-cheese.png' | relative_url }}" alt="Truffled Mac And Cheese dish icon" loading="lazy">
-    <figcaption>Truffled Mac And Cheese</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/truffled-mashed-potatoes.jpg' | relative_url }}" alt="Truffled Mashed Potatoes dish icon" loading="lazy">
-    <figcaption>Truffled Mashed Potatoes</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/truffled-mushroom-soup.jpg' | relative_url }}" alt="Truffled Mushroom Soup dish icon" loading="lazy">
-    <figcaption>Truffled Mushroom Soup</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/turkish-delight.png' | relative_url }}" alt="Turkish Delight dish icon" loading="lazy">
-    <figcaption>Turkish Delight</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/vada-pav-bombay-burger.png' | relative_url }}" alt="Vada Pav (Bombay Burger) dish icon" loading="lazy">
-    <figcaption>Vada Pav (Bombay Burger)</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/vodka.png' | relative_url }}" alt="Vodka dish icon" loading="lazy">
-    <figcaption>Vodka</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/wedding-cake.png' | relative_url }}" alt="Wedding Cake dish icon" loading="lazy">
-    <figcaption>Wedding Cake</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/whiskey.png' | relative_url }}" alt="Whiskey dish icon" loading="lazy">
-    <figcaption>Whiskey</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/wine.png' | relative_url }}" alt="Wine dish icon" loading="lazy">
-    <figcaption>Wine</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/wylde-flower-shrimp.jpg' | relative_url }}" alt="Wylde Flower Shrimp dish icon" loading="lazy">
-    <figcaption>Wylde Flower Shrimp</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/images/wiki/food/zeytoon-parvardeh.png' | relative_url }}" alt="Zeytoon Parvardeh (Marinated Olives) dish icon" loading="lazy">
-    <figcaption>Zeytoon Parvardeh (Marinated Olives)</figcaption>
-  </figure>
-</div>
+| Dish | Ingredients, and where to learn it |
+| --- | --- |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/anzac-biscuit.png' | relative_url }}" alt="" loading="lazy">**Anzac Biscuit** | wheat, honey, oats, sugar<br>📖 Mine chest, level 20 |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/apple-martini.png' | relative_url }}" alt="" loading="lazy">**Apple Martini**<br>*Gloria's favorite* | apple, lemon, vodka<br>📖 *Recipes for Mixologists* (the Bar) |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/apple-pie.png' | relative_url }}" alt="" loading="lazy">**Apple Pie** | apple, cinnamon, flour, sugar<br>📖 *Wherefore Art Thou Juliet* quest (Winter, Year 1) |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/arroz-con-gandules.png' | relative_url }}" alt="" loading="lazy">**Arroz con Gandules**<br>*Francis's favorite* | chili, coriander, olive, rice, tomato<br>📖 [Recipe bottle](../farming/fishing.md#bottles) while fishing |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/arroz-con-huevos.png' | relative_url }}" alt="" loading="lazy">**Arroz con Huevos**<br>*Violet's favorite* | egg, rice, tomato<br>📖 [Recipe bottle](../farming/fishing.md#bottles) while fishing |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/asopao-chicken-and-rice.png' | relative_url }}" alt="" loading="lazy">**Asopao (Chicken & Rice)**<br>*Francis's favorite* | chicken fillet, olive, rice, tomato<br>📖 Mountain dig spot |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/avocado-toast.png' | relative_url }}" alt="" loading="lazy">**Avocado Toast**<br>*Cameron's favorite* | avocado, bread, coriander, lime<br>📖 Mine chest, level 20 |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/avolatte.png' | relative_url }}" alt="" loading="lazy">**Avolatte** | avocado, coffee, milk<br>📖 Mine chest, level 20 |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/bagel.png' | relative_url }}" alt="" loading="lazy">**Bagel**<br>*Parker's favorite* | egg, flour, sugar, yeast<br>📖 [Recipe bottle](../farming/fishing.md#bottles) while fishing |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/baklava.png' | relative_url }}" alt="" loading="lazy">**Baklava**<br>*Peri's favorite* | butter, flour, honey, pistachio<br>📖 Mine chest, level 19 |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/banana-bread.png' | relative_url }}" alt="" loading="lazy">**Banana Bread**<br>*Marty's favorite* | banana, egg, wheat, walnut<br>📖 *Recipes for Bakers* (Seton's Bakery) |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/banana-cake.png' | relative_url }}" alt="" loading="lazy">**Banana Cake** | rice flour, banana, egg, sugar<br>📖 Quest for Angus (Winter, Year 2 or later) |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/banana-smoothie.png' | relative_url }}" alt="" loading="lazy">**Banana Smoothie**<br>*Juliet's favorite* | banana, any milk<br>📖 *Recipes for Beverage Buffs* (Cafe Moretti) |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/beef-and-shiitake.png' | relative_url }}" alt="" loading="lazy">**Beef And Shiitake** | beef, shiitake mushroom, onion, wine<br>📖 Mountain dig spot |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/beef-stroganoff.png' | relative_url }}" alt="" loading="lazy">**Beef Stroganoff**<br>*Natalia's favorite* | beef, mushroom, paprika, tomato<br>📖 *Recipes for Meat-Lovers* (Kim's butcher) |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/beef-wellington.png' | relative_url }}" alt="" loading="lazy">**Beef Wellington**<br>*Otto's favorite* | beef, flour, mushroom, spinach, wine<br>📖 Mountain dig spot |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/beesting-cake.png' | relative_url }}" alt="" loading="lazy">**Beesting Cake** | butter, egg, flour, any milk, honey<br>📖 *Bee Our Guests* quest (Summer, Year 2) |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/beignet.png' | relative_url }}" alt="" loading="lazy">**Beignet** | flour, sugar, any milk, butter<br>📖 Eury's welcome-party quest (Summer, Year 2+) |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/berry-smoothie.png' | relative_url }}" alt="" loading="lazy">**Berry Smoothie**<br>*Violet's favorite* | blackberry, blueberry, strawberry<br>📖 Known from the start |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/berry-streusel-cake.png' | relative_url }}" alt="" loading="lazy">**Berry Streusel Cake** | strawberry, mulberry, blackberry, blueberry<br>📖 Quest for Angus (Winter, Year 2 or later) |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/blackberry-cheesecake.png' | relative_url }}" alt="" loading="lazy">**Blackberry Cheesecake** | cream cheese, egg, blackberry, any flour<br>📖 Quest for Angus (Winter, Year 2 or later) |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/black-pudding.png' | relative_url }}" alt="" loading="lazy">**Black Pudding**<br>*Angus's favorite* | animal fat, yeast<br>📖 Mountain dig spot |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/blueberry-tart.png' | relative_url }}" alt="" loading="lazy">**Blueberry Tart** | blueberries ×5, egg, flour, sugar<br>📖 Quest for Angus (Fall, Year 1) |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/blue-hawaii-cocktail.png' | relative_url }}" alt="" loading="lazy">**Blue Hawaii Cocktail**<br>*Kai's favorite* | orange, pineapple, rum<br>📖 Mountain dig spot |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/bobotie.png' | relative_url }}" alt="" loading="lazy">**Bobotie**<br>*Damon's favorite* | any protein, egg, any milk, rice<br>📖 Mountain dig spot |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/bread.png' | relative_url }}" alt="" loading="lazy">**Bread** | flour, yeast<br>📖 Known from the start |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/bread-pudding.png' | relative_url }}" alt="" loading="lazy">**Bread Pudding**<br>*Shelby's favorite* | bread, egg, any milk, sugar<br>📖 *More Recipes for Bakers* |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/brigadeiro-chocolate-coconut-truffles.png' | relative_url }}" alt="" loading="lazy">**Brigadeiro (Chocolate Coconut Truffles)**<br>*Aryel's favorite* | almond, chocolate, coconut, pistachio<br>📖 [Recipe bottle](../farming/fishing.md#bottles) while fishing |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/buddhas-delight.png' | relative_url }}" alt="" loading="lazy">**Buddha's Delight**<br>*Kim's favorite* | shiitake mushroom, noodles, peanut, tofu<br>📖 Mountain dig spot |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/cabbage-soup.png' | relative_url }}" alt="" loading="lazy">**Cabbage Soup**<br>*Thomas's favorite* | any vegetable, cabbage<br>📖 Mountain dig spot |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/caipirinha.png' | relative_url }}" alt="" loading="lazy">**Caipirinha**<br>*Aryel's favorite* | lime, rum, sugar<br>📖 Mountain dig spot |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/cape-malay-curry.png' | relative_url }}" alt="" loading="lazy">**Cape Malay Curry**<br>*Damon's favorite* | chicken fillet, chili, potato, rice<br>📖 Breaking large rocks on the farm |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/cappuccino.png' | relative_url }}" alt="" loading="lazy">**Cappuccino** | coffee, any milk<br>📖 *Recipes for Beverage Buffs* (Cafe Moretti) |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/capricciosa-pizza.png' | relative_url }}" alt="" loading="lazy">**Capricciosa Pizza**<br>*Gloria's favorite* | cheese, Italian sausage, olive, pizza dough, tomato<br>📖 *Recipes for Pizza Chefs* (Cafe Moretti) |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/caramel-apple.jpg' | relative_url }}" alt="" loading="lazy">**Caramel Apple** | apple, sugar, milk<br>📖 Quest for Angus (Fall, Year 2) |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/caramel-popcorn.png' | relative_url }}" alt="" loading="lazy">**Caramel Popcorn**<br>*Zephyr's favorite* | corn ×3, sugar<br>📖 Mountain dig spot |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/carrot-cake.png' | relative_url }}" alt="" loading="lazy">**Carrot Cake** | carrot, cheese, flour, sugar, walnut<br>📖 Breaking large rocks on the farm |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/cauliflower-soup.png' | relative_url }}" alt="" loading="lazy">**Cauliflower Soup** | cauliflower, any milk, potato<br>📖 Known from the start |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/chai.png' | relative_url }}" alt="" loading="lazy">**Chai**<br>*Chai's favorite* | 1x black tea, cinnamon, any milk<br>📖 Quest for Giva (Winter, Year 1) |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/chakalaka.png' | relative_url }}" alt="" loading="lazy">**Chakalaka**<br>*Damon's favorite* | cabbage, chili, paprika, tomato<br>📖 Mountain dig spot |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/cheese-pizza.png' | relative_url }}" alt="" loading="lazy">**Cheese Pizza**<br>*Sebastián's favorite* | cheese, pizza dough, tomato<br>📖 *Recipes for Pizza Chefs* (Cafe Moretti) |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/cheese-souffle.png' | relative_url }}" alt="" loading="lazy">**Cheese Souffle**<br>*Otto's favorite* | butter, cheese, flour, any milk<br>📖 [Recipe bottle](../farming/fishing.md#bottles) while fishing |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/chicken-fricassee.png' | relative_url }}" alt="" loading="lazy">**Chicken Fricassèe**<br>*Eury's favorite* | chicken fillet, mushroom, any milk<br>📖 [Recipe bottle](../farming/fishing.md#bottles) while fishing |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/chicken-kiev.png' | relative_url }}" alt="" loading="lazy">**Chicken Kiev**<br>*Natalia's favorite* | bread, butter, chicken fillet<br>📖 *Recipes for Meat-Lovers* (Kim's butcher) |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/chicken-soup.png' | relative_url }}" alt="" loading="lazy">**Chicken Soup**<br>*Sophia's favorite* | carrot, chicken fillet, noodles, onion<br>📖 Mountain dig spot |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/chicken-tikka-masala.png' | relative_url }}" alt="" loading="lazy">**Chicken Tikka Masala**<br>*Giva's favorite* | chicken fillet, chili, any milk, tomato<br>📖 [Recipe bottle](../farming/fishing.md#bottles) while fishing |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/chocolate-cupcake.png' | relative_url }}" alt="" loading="lazy">**Chocolate Cupcake**<br>*Emmi's favorite* | chocolate, egg, wheat, sugar<br>📖 *Recipes for Bakers* (Seton's Bakery) |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/chocolate-milkshake.png' | relative_url }}" alt="" loading="lazy">**Chocolate Milkshake**<br>*Emmi's favorite* | chocolate, any milk<br>📖 *Recipes for Beverage Buffs* (Cafe Moretti) |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/chopped-cheese-sandwich.png' | relative_url }}" alt="" loading="lazy">**Chopped Cheese Sandwich**<br>*Parker's favorite* | beef, bread, cheese, tomato<br>📖 Mine chest, level 9 |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/churros.png' | relative_url }}" alt="" loading="lazy">**Churros**<br>*Violet's favorite* | chocolate, flour, sugar<br>📖 [Recipe bottle](../farming/fishing.md#bottles) while fishing |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/coconut-macaroon.png' | relative_url }}" alt="" loading="lazy">**Coconut Macaroon**<br>*Zephyr's favorite* | coconut, egg, sugar<br>📖 *Recipes for Bakers* (Seton's Bakery) |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/coconut-rice.png' | relative_url }}" alt="" loading="lazy">**Coconut Rice**<br>*Gloria's favorite* | coconut, rice<br>📖 Known from the start |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/coquito.jpg' | relative_url }}" alt="" loading="lazy">**Coquito** | rum, coconut, cinnamon<br>📖 Quest for Francis (Winter, Year 2) |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/coquito-cake.png' | relative_url }}" alt="" loading="lazy">**Coquito Cake** | coquito, butter, sugar, egg<br>📖 Quest for Angus (Winter, Year 2 or later) |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/corn-bread.png' | relative_url }}" alt="" loading="lazy">**Corn Bread**<br>*Thomas's favorite* | corn ×3<br>📖 Quest for Gramma |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/cornbread-pot-pie.png' | relative_url }}" alt="" loading="lazy">**Cornbread Pot Pie** | chicken, carrot, corn, cream cheese<br>📖 Quest for Angus (Winter, Year 2 or later) |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/corn-soup.png' | relative_url }}" alt="" loading="lazy">**Corn Soup** | bread, corn, onion<br>📖 Mountain dig spot |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/cream-cheese.jpg' | relative_url }}" alt="" loading="lazy">**Cream Cheese** | any milk<br>📖 Known from the start |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/cream-cheese-bagel.png' | relative_url }}" alt="" loading="lazy">**Cream Cheese Bagel**<br>*Parker's favorite* | cheese, egg, flour, sugar, yeast<br>📖 [Recipe bottle](../farming/fishing.md#bottles) while fishing |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/cream-of-mushroom-soup.png' | relative_url }}" alt="" loading="lazy">**Cream of Mushroom Soup** | any milk, any mushroom<br>📖 Mountain dig spot |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/croissant.png' | relative_url }}" alt="" loading="lazy">**Croissant** | butter, egg, flour, any milk, yeast<br>📖 *More Recipes for Bakers* |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/danish.png' | relative_url }}" alt="" loading="lazy">**Danish**<br>*Marty's favorite* | blueberry, butter, egg, flour, milk, sugar<br>📖 Mine chest, level 9 |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/duck-a-l-orange.jpg' | relative_url }}" alt="" loading="lazy">**Duck à l'Orange** | duck meat, orange, wine, onion, carrot<br>📖 Mountain dig spot |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/empanada.png' | relative_url }}" alt="" loading="lazy">**Empanada**<br>*Francis's favorite* | 1x cheese or protein, coriander, egg, flour<br>📖 Mountain dig spot |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/fennel-salad.png' | relative_url }}" alt="" loading="lazy">**Fennel Salad**<br>*Vanessa's favorite* | apple, fennel, lemon, olive oil, walnut<br>📖 Mountain dig spot |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/fesenjan-pomegranate-walnut-stew.png' | relative_url }}" alt="" loading="lazy">**Fesenjan (Pomegranate Walnut Stew)**<br>*Amira's favorite* | chicken fillet, onion, pomegranate, rice, saffron, walnut<br>📖 Mountain dig spot |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/fish-chowder.png' | relative_url }}" alt="" loading="lazy">**Fish Chowder** | any fish, any vegetable, any milk<br>📖 *Recipes for Fish Fans* (Soft and Son's Fish & Tackle) |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/fish-fingers.png' | relative_url }}" alt="" loading="lazy">**Fish Fingers**<br>*Emmi's favorite* | any fish, flour<br>📖 Known from the start |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/fish-stew.png' | relative_url }}" alt="" loading="lazy">**Fish Stew**<br>*Shelby's favorite* | fish, any vegetable<br>📖 Bruno's *Lure One In* quest |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/flan.png' | relative_url }}" alt="" loading="lazy">**Flan**<br>*Francis's favorite* | coconut, egg, any milk, sugar<br>📖 Breaking large rocks on the farm |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/fried-flounder-sandwich.png' | relative_url }}" alt="" loading="lazy">**Fried Flounder Sandwich**<br>*Bruno's favorite* | any fat, bread, flounder, flour<br>📖 [Recipe bottle](../farming/fishing.md#bottles) while fishing |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/fruit-punch.png' | relative_url }}" alt="" loading="lazy">**Fruit Punch**<br>*Otto's favorite* | apple, orange, pineapple, strawberry<br>📖 *Recipes for Beverage Buffs* (Cafe Moretti) |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/fruit-salad.png' | relative_url }}" alt="" loading="lazy">**Fruit Salad**<br>*Vanessa's favorite* | apple, blueberry, grapes, pineapple, strawberry<br>📖 Breaking large rocks on the farm |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/golubtsi-stuffed-cabbage.png' | relative_url }}" alt="" loading="lazy">**Golubtsi (Stuffed Cabbage)**<br>*Natalia's favorite* | any protein, cabbage, rice, tomato<br>📖 Mountain dig spot |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/goulash.png' | relative_url }}" alt="" loading="lazy">**Goulash**<br>*Shelby's favorite* | beef, onion, paprika, tomato<br>📖 Mountain dig spot |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/gulab-jamun.jpg' | relative_url }}" alt="" loading="lazy">**Gulab Jamun** | cheese, rose water, flour<br>📖 Quest for Giva (Fall, Year 3 or later; needs colored candles) |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/gyoza.png' | relative_url }}" alt="" loading="lazy">**Gyozas** | rice flour, pork, any fat<br>📖 Quest for Angus (Winter, Year 2 or later) |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/haupia-coconut-pudding.png' | relative_url }}" alt="" loading="lazy">**Haupia (Coconut Pudding)**<br>*Kai's favorite* | coconut, sugar<br>📖 Mountain dig spot |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/honey-lemon-tea.png' | relative_url }}" alt="" loading="lazy">**Honey Lemon Tea** | 1x black tea, honey, lemon<br>📖 Quest for Gramma |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/hot-chocolate.png' | relative_url }}" alt="" loading="lazy">**Hot Chocolate**<br>*Marty's favorite* | chocolate, any milk<br>📖 *Recipes for Beverage Buffs* (Cafe Moretti) |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/hot-cross-bun.png' | relative_url }}" alt="" loading="lazy">**Hot Cross Bun** | flour, yeast, honey, butter<br>📖 *No Buns About It* quest for Angus (Spring, Year 2) |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/italian-sausage.png' | relative_url }}" alt="" loading="lazy">**Italian Sausage** | fennel, pork<br>📖 Mountain dig spot |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/jambalaya.png' | relative_url }}" alt="" loading="lazy">**Jambalaya**<br>*Eury's favorite* | shrimp, Italian sausage, rice, chili, tomato<br>📖 [Recipe bottle](../farming/fishing.md#bottles) while fishing |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/jeweled-rice.png' | relative_url }}" alt="" loading="lazy">**Jeweled Rice**<br>*Amira's favorite* | almond, pomegranate, rice, saffron<br>📖 Mountain dig spot |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/lasagna.png' | relative_url }}" alt="" loading="lazy">**Lasagna**<br>*Juliet's favorite* | beef, flour, milk, noodles, tomato<br>📖 *My First Cookbook* (Cafe Moretti) |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/latke.png' | relative_url }}" alt="" loading="lazy">**Latke** | egg, flour, potato ×2<br>📖 Quest for Sophia (Winter, Year 1) |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/lemonade.png' | relative_url }}" alt="" loading="lazy">**Lemonade**<br>*Thomas's favorite* | lemon, sugar<br>📖 Mountain dig spot |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/lemon-poppy-seed-cake.png' | relative_url }}" alt="" loading="lazy">**Lemon Poppy Seed Cake** | lemon, cream cheese, poppy<br>📖 Quest for Angus (Winter, Year 2 or later) |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/lemon-square.png' | relative_url }}" alt="" loading="lazy">**Lemon Square**<br>*Gloria's favorite* | butter, egg, sugar, lemon<br>📖 *I'm All Ears* quest for Amira (Spring, Year 2) |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/lobster-roll.png' | relative_url }}" alt="" loading="lazy">**Lobster Roll**<br>*Lina's favorite* | bread, butter, lobster, parsley<br>📖 Breaking large rocks on the farm |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/lobster-tails-with-truffle-oil.jpg' | relative_url }}" alt="" loading="lazy">**Lobster Tails With Truffle Oil** | olive oil, any truffle, lobster ×2, butter<br>📖 Mountain dig spot |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/lobster-thermidor.png' | relative_url }}" alt="" loading="lazy">**Lobster Thermidor**<br>*Otto's favorite* | butter, cheese, lobster, wine<br>📖 Mine chest, level 14 |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/loco-moco.png' | relative_url }}" alt="" loading="lazy">**Loco Moco**<br>*Kai's favorite* | any protein, egg, rice<br>📖 [Recipe bottle](../farming/fishing.md#bottles) while fishing |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/malasada.png' | relative_url }}" alt="" loading="lazy">**Malasada**<br>*Aryel's favorite* | cinnamon, egg, flour, sugar<br>📖 [Recipe bottle](../farming/fishing.md#bottles) while fishing |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/manapua-pork-dumpling.png' | relative_url }}" alt="" loading="lazy">**Manapua (Pork Dumpling)**<br>*Kai's favorite* | flour, pork, soybean, yeast<br>📖 Mountain dig spot |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/marmalade-pudding.png' | relative_url }}" alt="" loading="lazy">**Marmalade Pudding** | flour, any milk, orange, sugar<br>📖 Mountain dig spot |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/matzo-ball-soup.png' | relative_url }}" alt="" loading="lazy">**Matzo Ball Soup** | bone, carrot, flour<br>📖 *What's the Matzo?* quest for Sophia (Spring, Year 2) |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/mint-julep.png' | relative_url }}" alt="" loading="lazy">**Mint Julep**<br>*Zephyr's favorite* | mint, sugar, whiskey<br>📖 *Recipes for Mixologists* (the Bar) |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/miso-soup.png' | relative_url }}" alt="" loading="lazy">**Miso Soup**<br>*Kim's favorite* | shiitake mushroom, seaweed, soybean, tofu<br>📖 Mountain dig spot |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/mojito.png' | relative_url }}" alt="" loading="lazy">**Mojito** | lime, mint, rum, sugar<br>📖 Mountain dig spot |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/moroccan-carrot-soup.png' | relative_url }}" alt="" loading="lazy">**Moroccan Carrot Soup** | carrot, chili, cinnamon<br>📖 Known from the start |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/muffin.png' | relative_url }}" alt="" loading="lazy">**Muffin** | 1x blueberry, blackberry, mulberry, apple, egg, flour, sugar<br>📖 *Recipes for Bakers* (Seton's Bakery) |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/mulled-wine.png' | relative_url }}" alt="" loading="lazy">**Mulled Wine** | cinnamon, orange, wine<br>📖 [Recipe bottle](../farming/fishing.md#bottles) while fishing |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/mushroom-pizza.png' | relative_url }}" alt="" loading="lazy">**Mushroom Pizza**<br>*Juliet's favorite* | cheese, any mushroom, pizza dough, tomato<br>📖 *Recipes for Pizza Chefs* (Cafe Moretti) |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/mushroom-risotto.png' | relative_url }}" alt="" loading="lazy">**Mushroom Risotto** | any mushroom, rice<br>📖 *Rice and Shine* quest for Gramma (Spring, Year 1) |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/nachos.png' | relative_url }}" alt="" loading="lazy">**Nachos** | avocado, cheese, coriander, corn, tomato<br>📖 [Recipe bottle](../farming/fishing.md#bottles) while fishing |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/new-england-chowder.png' | relative_url }}" alt="" loading="lazy">**New England Chowder**<br>*Lina's favorite* | tofu, bread, milk, tomato<br>📖 Mine chest, level 9 |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/noodles.png' | relative_url }}" alt="" loading="lazy">**Noodles** | egg, flour<br>📖 *My First Cookbook* (Cafe Moretti) |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/nougat.png' | relative_url }}" alt="" loading="lazy">**Nougat**<br>*Zephyr's favorite* | 1x blueberry, blackberry, mulberry, apple, egg, honey, pistachio, sugar<br>📖 *More Recipes for Bakers* |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/oatmeal-raisin-cookie.png' | relative_url }}" alt="" loading="lazy">**Oatmeal Raisin Cookie**<br>*Amira's favorite* | egg, flour, grape, oats, sugar<br>📖 Mountain dig spot |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/pacoquinha-peanut-rolls.png' | relative_url }}" alt="" loading="lazy">**Pacoquinha (Peanut Rolls)**<br>*Aryel's favorite* | wheat, peanut, sugar<br>📖 [Recipe bottle](../farming/fishing.md#bottles) while fishing |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/pancakes.png' | relative_url }}" alt="" loading="lazy">**Pancakes**<br>*Sebastián's favorite* | butter, egg, flour, maple syrup, any milk<br>📖 *More Recipes for Bakers* |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/patriot-pie.png' | relative_url }}" alt="" loading="lazy">**Patriot Pie** | butter, sugar, banana, chocolate<br>📖 Quest for Angus (Winter, Year 2 or later) |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/pav-bhaji.png' | relative_url }}" alt="" loading="lazy">**Pav Bhaji**<br>*Giva's favorite* | cauliflower, chili, coriander, fennel, potato, tomato<br>📖 Mountain dig spot |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/peanut-brittle.png' | relative_url }}" alt="" loading="lazy">**Peanut Brittle**<br>*Sebastián's favorite* | butter, peanut, sugar<br>📖 Mountain dig spot |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/peking-duck.jpg' | relative_url }}" alt="" loading="lazy">**Peking Duck** | duck meat, flour, rice wine, sugar, soybean<br>📖 [Recipe bottle](../farming/fishing.md#bottles) while fishing |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/pepperoni-pizza.png' | relative_url }}" alt="" loading="lazy">**Pepperoni Pizza**<br>*Parker's favorite* | cheese, Italian sausage, pizza dough, tomato<br>📖 *Recipes for Pizza Chefs* (Cafe Moretti) |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/persian-love-cake.png' | relative_url }}" alt="" loading="lazy">**Persian Love Cake**<br>*Peri's favorite* | almond, rose water, saffron<br>📖 Breaking large rocks on the farm |
+| **Pet Treat** | rice flour, pork, any fat<br>📖 Ravenwood Hollow quest (late Year 2) |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/pierogi.png' | relative_url }}" alt="" loading="lazy">**Pierogi**<br>*Angus's favorite* | egg, flour, plus one filling: any protein, any mushroom, potato, onion, spinach, cabbage or cheese<br>📖 [Recipe bottle](../farming/fishing.md#bottles) while fishing |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/pikliz.png' | relative_url }}" alt="" loading="lazy">**Pikliz**<br>*Eury's favorite* | cabbage, carrot, onion<br>📖 Mountain dig spot |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/pina-colada.png' | relative_url }}" alt="" loading="lazy">**Piña Colada**<br>*Francis's favorite* | coconut, pineapple, rum<br>📖 *Recipes for Mixologists* (the Bar) |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/pizza-dough.png' | relative_url }}" alt="" loading="lazy">**Pizza Dough** | flour, sugar, yeast<br>📖 *Recipes for Pizza Chefs* (Cafe Moretti) |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/poke-bowl.png' | relative_url }}" alt="" loading="lazy">**Poke bowl**<br>*Kai's favorite* | avocado, chili, pineapple, rice<br>📖 [Recipe bottle](../farming/fishing.md#bottles) while fishing |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/praline-cookie.png' | relative_url }}" alt="" loading="lazy">**Praline Cookie**<br>*Eury's favorite* | butter, almond, sugar, flour<br>📖 [Recipe bottle](../farming/fishing.md#bottles) while fishing |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/prawns-koliwada.png' | relative_url }}" alt="" loading="lazy">**Prawns Koliwada**<br>*Giva's favorite* | chili, coriander, lemon, shrimp<br>📖 *Recipes for Fish Fans* (Soft and Son's Fish & Tackle) |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/precipizi.png' | relative_url }}" alt="" loading="lazy">**Precipizi**<br>*Sophia's favorite* | egg, flour, honey, rum, sugar<br>📖 Mountain dig spot |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/pumpkin-bread.png' | relative_url }}" alt="" loading="lazy">**Pumpkin Bread**<br>*Cameron's favorite* | butter, cinnamon, egg, flour, pumpkin<br>📖 Mountain dig spot |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/pumpkin-mochi-pie.png' | relative_url }}" alt="" loading="lazy">**Pumpkin Mochi Pie** | pumpkin, butter, sugar, rice flour<br>📖 Quest for Angus (Winter, Year 2 or later) |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/pumpkin-pie.png' | relative_url }}" alt="" loading="lazy">**Pumpkin Pie**<br>*Lina's favorite* | cinnamon, egg, flour, any milk, pumpkin, sugar<br>📖 Quest for Damon (Fall, Year 1) |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/pumpkin-soup.png' | relative_url }}" alt="" loading="lazy">**Pumpkin Soup** | any milk, potato, pumpkin<br>📖 Quest for Natalia |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/pumpkin-spice-latte.png' | relative_url }}" alt="" loading="lazy">**Pumpkin Spice Latte**<br>*Cameron's favorite* | cinnamon stick, coffee, milk, pumpkin<br>📖 Mine chest, level 14 |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/quiche.png' | relative_url }}" alt="" loading="lazy">**Quiche**<br>*Vanessa's favorite* | egg, flour, spinach<br>📖 Quest for Vanessa (Winter, Year 1) |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/ramen.png' | relative_url }}" alt="" loading="lazy">**Ramen**<br>*Kim's favorite* | tofu, chili, egg, shiitake mushroom, noodles, soybean<br>📖 Mine chest, level 14 |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/restorative-tea.png' | relative_url }}" alt="" loading="lazy">**Restorative Tea** | thistle, moon flower<br>📖 Known from the start |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/rice-cracker.png' | relative_url }}" alt="" loading="lazy">**Rice Cracker** | rice flour, olive oil<br>📖 Quest for Angus (Winter, Year 2 or later) |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/rice-pudding.png' | relative_url }}" alt="" loading="lazy">**Rice Pudding**<br>*Violet's favorite* | cinnamon, any milk, rice, sugar<br>📖 *More Recipes for Bakers* |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/roast-beef.png' | relative_url }}" alt="" loading="lazy">**Roast Beef**<br>*Westley's favorite* | beef, carrot, potato<br>📖 *Recipes for Meat-Lovers* (Kim's butcher) |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/roast-pork.png' | relative_url }}" alt="" loading="lazy">**Roast Pork**<br>*Westley's favorite* | apple, green bean, pork<br>📖 *Recipes for Meat-Lovers* (Kim's butcher) |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/roast-salmon.png' | relative_url }}" alt="" loading="lazy">**Roast Salmon**<br>*Westley's favorite* | fennel, salmon, spinach<br>📖 Quest for Kim (Winter, Year 1) |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/rumbledethumps.png' | relative_url }}" alt="" loading="lazy">**Rumbledethumps**<br>*Angus's favorite* | cabbage, cheese, onion, potato<br>📖 [Recipe bottle](../farming/fishing.md#bottles) while fishing |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/samosas.png' | relative_url }}" alt="" loading="lazy">**Samosas** | butter, chili, potato, fennel powder<br>📖 Quest for Angus (Winter, Year 2 or later) |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/satay-noodles.png' | relative_url }}" alt="" loading="lazy">**Satay Noodles** | any protein, chili, noodles, peanut<br>📖 *My First Cookbook* (Cafe Moretti) |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/sausage-rolls.png' | relative_url }}" alt="" loading="lazy">**Sausage Rolls** | pork, beef, any flour, parsley<br>📖 Quest for Angus (Winter, Year 2 or later) |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/schnitzel.png' | relative_url }}" alt="" loading="lazy">**Schnitzel**<br>*Bruno's favorite* | any protein, any fat, bread<br>📖 *Recipes for Meat-Lovers* (Kim's butcher) |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/scottiglia.png' | relative_url }}" alt="" loading="lazy">**Scottiglia (Mixed Meat Stew)**<br>*Westley's favorite* | beef, carrot, chicken fillet, pork<br>📖 Mountain dig spot |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/seafood-fra-diavolo.png' | relative_url }}" alt="" loading="lazy">**Seafood Fra Diavolo**<br>*Sophia's favorite* | green bean, shiner, parsley, potato, tomato<br>📖 [Recipe bottle](../farming/fishing.md#bottles) while fishing |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/seafood-paella.png' | relative_url }}" alt="" loading="lazy">**Seafood Paella** | any fish, rice, saffron, tomato<br>📖 *Recipes for Fish Fans* (Soft and Son's Fish & Tackle) |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/seitan.png' | relative_url }}" alt="" loading="lazy">**Seitan** | wheat<br>📖 Quest for Kim |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/shrimp-rangoons.png' | relative_url }}" alt="" loading="lazy">**Shrimp Rangoons** | shrimp, cream cheese, any flour<br>📖 Quest for Angus (Winter, Year 2 or later) |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/skirlie.png' | relative_url }}" alt="" loading="lazy">**Skirlie**<br>*Angus's favorite* | animal fat, oats, onion<br>📖 Mountain dig spot |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/slap-chips.png' | relative_url }}" alt="" loading="lazy">**Slap Chips**<br>*Damon's favorite* | any fat, potato<br>📖 *My First Cookbook* (Cafe Moretti) |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/smoked-salmon-bagel.png' | relative_url }}" alt="" loading="lazy">**Smoked Salmon Bagel**<br>*Sophia's favorite* | egg, flour, salmon, sugar, yeast<br>📖 *Recipes for Fish Fans* (Soft and Son's Fish & Tackle) |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/snickerdoodle.png' | relative_url }}" alt="" loading="lazy">**Snickerdoodle**<br>*Lina's favorite* | butter, cinnamon, flour, sugar<br>📖 Mountain dig spot |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/spaghetti-bolognese.png' | relative_url }}" alt="" loading="lazy">**Spaghetti Bolognese**<br>*Finn's favorite* | beef, noodles, tomato<br>📖 *My First Cookbook* (Cafe Moretti) |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/spaghetti-puttanesca.png' | relative_url }}" alt="" loading="lazy">**Spaghetti Puttanesca** | noodles, olive, tomato<br>📖 Mine chest, level 4 |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/spanakopita.png' | relative_url }}" alt="" loading="lazy">**Spanakopita**<br>*Eury's favorite* | cream cheese, spinach, flour<br>📖 Mountain dig spot |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/spanish-omelette.png' | relative_url }}" alt="" loading="lazy">**Spanish Omelette**<br>*Violet's favorite* | egg, onion, potato<br>📖 [Recipe bottle](../farming/fishing.md#bottles) while fishing |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/spinach-smoothie.png' | relative_url }}" alt="" loading="lazy">**Spinach Smoothie**<br>*Vanessa's favorite* | 1x lime/lemon/orange, apple, banana, spinach<br>📖 Mountain dig spot |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/spring-stew.png' | relative_url }}" alt="" loading="lazy">**Spring Stew** | green bean, carrot, cauliflower, potato<br>📖 Mountain dig spot |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/strawberry-daiquiri.png' | relative_url }}" alt="" loading="lazy">**Strawberry Daiquiri**<br>*Sophia's favorite* | lime, rum, strawberry<br>📖 Mountain dig spot |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/strawberry-milkshake.png' | relative_url }}" alt="" loading="lazy">**Strawberry Milkshake**<br>*Finn's favorite* | any milk, strawberry<br>📖 *Recipes for Beverage Buffs* (Cafe Moretti) |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/strawberry-shortcake.png' | relative_url }}" alt="" loading="lazy">**Strawberry Shortcake**<br>*Finn's favorite* | butter, egg, flour, any milk, strawberry, sugar<br>📖 Mountain dig spot |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/succotash.png' | relative_url }}" alt="" loading="lazy">**Succotash** | green bean, corn, potato<br>📖 Mine chest, level 4 |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/sugar.png' | relative_url }}" alt="" loading="lazy">**Sugar** | sugarcane<br>📖 Known from the start |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/sushi.png' | relative_url }}" alt="" loading="lazy">**Sushi**<br>*Kim's favorite* | fish, rice, seaweed<br>📖 Known from the start |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/sweet-and-sour-pork.png' | relative_url }}" alt="" loading="lazy">**Sweet and Sour Pork** | rice flour, any fat, pineapple, pork<br>📖 Quest for Angus (Winter, Year 2 or later) |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/sweet-potato-casserole.png' | relative_url }}" alt="" loading="lazy">**Sweet Potato Casserole** | sugar, sweet potato, walnut<br>📖 Mountain dig spot |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/sweet-potato-coriander-pizza.png' | relative_url }}" alt="" loading="lazy">**Sweet Potato & Coriander Pizza**<br>*Cameron's favorite* | coriander, pizza dough, sweet potato, tomato<br>📖 [Recipe bottle](../farming/fishing.md#bottles) while fishing |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/sweet-potato-fries.png' | relative_url }}" alt="" loading="lazy">**Sweet Potato Fries**<br>*Cameron's favorite* | any fat, paprika, sweet potato<br>📖 Mountain dig spot |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/syrniki-russian-cheese-pancake.png' | relative_url }}" alt="" loading="lazy">**Syrniki (Russian Cheese Pancake)**<br>*Natalia's favorite* | 1x blueberry, blackberry, mulberry, apple, cheese, egg, flour<br>📖 Mountain dig spot |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/tabbouleh.png' | relative_url }}" alt="" loading="lazy">**Tabbouleh** | mint, olive oil, parsley, tomato<br>📖 Mountain dig spot |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/texas-brownie.png' | relative_url }}" alt="" loading="lazy">**Texas Brownie**<br>*Zephyr's favorite* | butter, chocolate, coffee, flour, sugar<br>📖 Mountain dig spot |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/the-welcome-refresher.png' | relative_url }}" alt="" loading="lazy">**The Welcome Refresher** | sugar, strawberry, mint<br>📖 Eury's welcome-party quest (Summer, Year 2+) |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/three-sisters-stew.png' | relative_url }}" alt="" loading="lazy">**Three Sisters Stew**<br>*Thomas's favorite* | 1x pumpkin/sweet potato, green bean, corn<br>📖 *Recipes for Vegetarians* (Lightfoot Farm) |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/tiramisu.png' | relative_url }}" alt="" loading="lazy">**Tiramisu**<br>*Juliet's favorite* | chocolate, coffee, egg, wheat<br>📖 *Recipes for Bakers* (Seton's Bakery) |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/tofu.png' | relative_url }}" alt="" loading="lazy">**Tofu** | soy milk<br>📖 *Recipes for Vegetarians* (Lightfoot Farm) |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/tomato-soup.png' | relative_url }}" alt="" loading="lazy">**Tomato Soup**<br>*Shelby's favorite* | parsley, tomato<br>📖 *Recipes for Vegetarians* (Lightfoot Farm) |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/truffled-duck-eggs-on-toast.jpg' | relative_url }}" alt="" loading="lazy">**Truffled Duck Eggs on Toast** | any truffle, bread, duck egg, parsley<br>📖 *Truffle in Paradise* quest; Sophia also sells it |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/truffled-mac-and-cheese.png' | relative_url }}" alt="" loading="lazy">**Truffled Mac And Cheese**<br>*Gloria's favorite* | any truffle, noodles, cheese, any milk<br>📖 *Truffle in Paradise* quest; Sophia also sells it |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/truffled-mashed-potatoes.jpg' | relative_url }}" alt="" loading="lazy">**Truffled Mashed Potatoes** | potato, any truffle, butter<br>📖 *Truffle in Paradise* quest; Sophia also sells it |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/truffled-mushroom-soup.jpg' | relative_url }}" alt="" loading="lazy">**Truffled Mushroom Soup** | olive oil, any truffle, any mushroom<br>📖 Quest for Cameron, after *The Menagerie Mix-Up* (Year 2) |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/turkish-delight.png' | relative_url }}" alt="" loading="lazy">**Turkish Delight**<br>*Peri's favorite* | lemon, rose water, sugar<br>📖 Mine chest, level 4 |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/vada-pav-bombay-burger.png' | relative_url }}" alt="" loading="lazy">**Vada Pav (Bombay Burger)**<br>*Giva's favorite* | bread, chili, coriander, potato<br>📖 Mountain dig spot |
+| <img class="wiki-icon" src="{{ '/assets/images/wiki/food/zeytoon-parvardeh.png' | relative_url }}" alt="" loading="lazy">**Zeytoon Parvardeh (Marinated Olives)**<br>*Amira's favorite* | mint, olive, pomegranate, walnut<br>📖 Mountain dig spot |
+
+### Made at a station, not in the kitchen
+
+These show up in the compendium too, but they're made in the tool shed ([Crafting Stations](stations.md), [Artisan Goods](artisan-goods.md)):
+
+- **Fermentation barrel:** wine, beer, apple cider, sauerkraut
+- **Distillery:** rum, vodka, whiskey, sweet potato vodka, rice wine
+- **Juice press:** orange juice
+- **Other stations:** apple juice, carrot juice, grape juice, kimchi, pumpkin ale, soy milk
+
+Coffee is bought at Cafe Moretti, not cooked.
+
+### Missing from the wiki's recipe table
+
+Popcorn (3 corn, sugar, on the stovetop), the four candies (bon-bon, caramel, orange, and strawberry, each made with 2 sugar), oatmeal, wedding cake, and Wylde Flower Shrimp are in the game's compendium but not in the archive's recipe table, so their sources aren't recorded here yet.
 
 ---
 
