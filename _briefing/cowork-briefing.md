@@ -145,6 +145,7 @@ URLs before linking anywhere): https://fairhavenfieldguide.com/sitemap.xml
 
 ### Reference
 - Money-Making Guide — https://fairhavenfieldguide.com/guide/reference/money-making.html
+- Recommended Farm Plans — https://fairhavenfieldguide.com/guide/reference/farm-plans.html
 - Crop Profit Calculator (interactive) — https://fairhavenfieldguide.com/guide/reference/crop-profit-calculator.html
 - Achievements & Milestones — https://fairhavenfieldguide.com/guide/reference/achievements.html
 - Wardrobe Catalogue — https://fairhavenfieldguide.com/guide/reference/wardrobe.html
@@ -214,8 +215,9 @@ thing" lead-ins. The full banned list and the test for catching them is in the r
 
 **Good post formats for r/WyldeFlowers:**
 - Genuinely useful standalone content with the guide as a footnote: a mini-table
-  ("Every gold-star gift by villager"), a tip thread ("5 things I wish I knew before
-  Chapter 3"), or the crop calculator shared as a tool.
+  ("Every gold-star gift by villager"), a short rules or checklist post named for
+  what it is ("Five rules for your first spring," "Chapter 3 harvest checklist"),
+  or the crop calculator shared as a tool.
 - "I made a thing" post (if the sub allows): introduce the site once, honestly, as a
   fan project — the pressed-flower journal design is the hook worth showing off with a
   screenshot.
