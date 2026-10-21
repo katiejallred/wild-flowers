@@ -1,6 +1,6 @@
 ---
 title: "🛠️ Crafting Stations"
-last_modified_at: 2026-10-08
+last_modified_at: 2026-10-21
 ---
 # 🛠️ Crafting Stations
 
@@ -30,6 +30,7 @@ The stations I've verified in my field notes, and what each one is for:
 | Mortar & Pestle | Flowers and other pigment sources | Ground dyes and powders |
 | Glass Kiln | High-quality sand | Glass |
 | Silkworm Box | A silkworm, kept fed | Silk thread |
+| Sewing Machine | Cloth, silk, leather, thread | Outfits, from designs bought at Violet's Boutique ([Wardrobe Catalogue](../reference/wardrobe.md)) |
 | Distillery *(basement, not the shed)* | Grain, potatoes, sugar, ore, herbs | Spirits, potion essences, conditioner, tanning solution ([see below](#distillery)) |
 
 A few notes from the margins:

@@ -1,6 +1,6 @@
 ---
 title: "🏪 Shops & Services"
-last_modified_at: 2026-10-07
+last_modified_at: 2026-10-21
 ---
 # 🏪 Shops & Services
 
@@ -65,7 +65,7 @@ The Town Center holds several other verified businesses you'll come to know:
 | **Seton's Bakery** | Baked goods from the Seton household (Angus & Francis). |
 | **Soft and Son's Fish & Tackle** | The Softs' fishing shop — see [Fishing](../farming/fishing.md). |
 | **The Jewelry Box** | Fine things and gift material. |
-| **Violet's Violets** | The flower shop in the Town Center. |
+| **Violet's Violets** | The flower shop in the Town Center. Renamed Violet's Boutique once Violet starts selling outfit designs; see the [Wardrobe Catalogue](../reference/wardrobe.md). |
 | **Nailed It!** | Parker Johnson's carpentry business — your partner for the farm's building projects (the greenhouse among them). |
 | **The Bar** | Damon Mthembu-Haas pours here. |
 
