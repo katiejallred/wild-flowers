@@ -32,6 +32,12 @@ google_analytics: "G-4QK0N3S8TH"
 # Empty = no tip links. Shown in the footer and on the About page.
 kofi: "katiejallred"
 
+# Grow (Mediavine) site ID — the value of data-grow-faves-site-id in the
+# script on the Installation page of publishers.grow.me. Empty = no Grow
+# script on the site, and the privacy policy's Grow section stays hidden.
+# Journey by Mediavine asks for Grow running 30 days before you apply.
+grow_site_id: ""
+
 # AdSense ad units. The loader script in the layout serves nothing by
 # itself; each slot below switches on its placement once it holds the
 # data-ad-slot number of a display unit created in the AdSense account.
