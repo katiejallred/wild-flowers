@@ -36,7 +36,7 @@ kofi: "katiejallred"
 # script on the Installation page of publishers.grow.me. Empty = no Grow
 # script on the site, and the privacy policy's Grow section stays hidden.
 # Journey by Mediavine asks for Grow running 30 days before you apply.
-grow_site_id: ""
+grow_site_id: "U2l0ZTpmYmNmNjBmMS05MmM4LTQxM2MtYmJhZS1hNmE5MzBlZmU3YzI="
 
 # AdSense ad units. The loader script in the layout serves nothing by
 # itself; each slot below switches on its placement once it holds the
