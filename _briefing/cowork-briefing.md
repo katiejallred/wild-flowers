@@ -190,9 +190,10 @@ name, so it is written in **Katie's voice**, not the site's journal voice. Load 
 question the reader recognizes, talk to "you," stack two or three short diagnostic
 questions, give a firm recommendation, grant permission then raise the bar, and
 close with a short lift. Plain language, short paragraphs, rare exclamation points,
-no botanical metaphors, no emoji. Never invent a personal anecdote; "I run a fan
-guide for the game" is the one true first-person fact to lean on. The journal voice
-(specimens, leaves, pressed flowers) stays on the site.
+no botanical metaphors, no emoji. Never invent a personal anecdote. The true
+first-person facts to lean on are "I run a fan guide for the game" and "I married
+Amira in my game"; add details about her playthrough only when Katie supplies them.
+The journal voice (specimens, leaves, pressed flowers) stays on the site.
 
 **And don't write like an AI caption.** A Reddit reader flagged the exact tells:
 contrast couplets as punchlines ("Midnight is a nudge. 2 AM is a wall."), the "things
