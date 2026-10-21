@@ -48,8 +48,8 @@ grow_email: true
 adsense:
   publisher: ca-pub-2065620637739110
   slots:
-    footer: ""     # end-of-sheet unit on every page (except pages marked ads: false)
-    incontent: ""  # mid-page unit, long reading pages only
+    footer: "2659072405"     # end-of-sheet unit on every page (except pages marked ads: false)
+    incontent: "1000796792"  # mid-page unit, long reading pages only
 
 defaults:
   - scope:
