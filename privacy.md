@@ -2,7 +2,7 @@
 title: "🔏 Privacy Policy"
 description: "How The Fairhaven Field Guide handles (and mostly doesn't handle) your data."
 ads: false
-last_modified_at: 2026-10-06
+last_modified_at: 2026-10-21
 ---
 # 🔏 Privacy Policy
 
@@ -21,7 +21,9 @@ exactly what and how to opt out.
 Only what you choose to send. The Guide has no accounts, no sign-ups, no
 comments, and no newsletters.{% if site.google_analytics and site.google_analytics != "" %} We use Google Analytics to count visits
 (see below), but we never see who you are.{% else %} There are no analytics
-scripts, and the Guide sets no cookies of its own.{% endif %} You can read every page without telling us who you are.
+scripts, and the Guide sets no cookies of its own.{% endif %} You can read every page without telling us who you are.{% if site.grow_site_id and site.grow_site_id != "" %} The optional Grow
+save button is run by Mediavine, and any account you make there is with Grow,
+not the Guide (see below).{% endif %}
 
 The one exception is the [contact page]({{ '/contact.html' | relative_url }}).
 If you send a message, we receive what you type into the form — your email
@@ -55,6 +57,19 @@ page. Tally receives standard request data (such as your IP address) when the
 form loads. See the [Tally Privacy Policy](https://tally.so/help/privacy-policy)
 for details. The form only loads on the contact page.
 
+{% if site.grow_site_id and site.grow_site_id != "" -%}
+## Saving pages (Grow by Mediavine)
+
+The Guide loads **Grow**, a tool from Mediavine that shows a small button for
+saving pages to a bookmark list and sharing them. Grow's script loads on every
+page and receives standard request data (such as your IP address) and the page
+you're on, and it uses cookies and browser storage to remember your saved
+pages. If you choose to sign in to Grow to keep your saves across devices,
+Grow collects your email address; that account is between you and Grow, and
+we don't receive your saves or your email. See the
+[Mediavine Privacy Policy](https://www.mediavine.com/privacy-policy/).
+
+{% endif -%}
 {% if site.kofi and site.kofi != "" -%}
 ## Tips (Ko-fi)
 
@@ -120,7 +135,8 @@ list in [How Google uses cookies](https://policies.google.com/technologies/cooki
 {% if site.google_analytics and site.google_analytics != "" %}| Analytics cookies (`_ga`, `_ga_…`) | Google Analytics | Count visits and tell new visitors from returning ones, in aggregate | Up to 2 years |
 {% endif %}| Advertising cookies (such as `__gads`, `__gpi`, and `IDE`) | Google AdSense and its ad partners | Show ads, cap how often you see the same one, measure them, and — only where allowed — personalize them | Up to about 13 months |
 | Consent cookies (such as `FCCDCF` and `FCNEC`) | Google's consent message | Remember the cookie choice you made, so you aren't asked on every page | Up to about 13 months |
-| Form cookies | Tally (contact page only) | Load the contact form and its spam-prevention check | See [Tally's policy](https://tally.so/help/privacy-policy) |
+{% if site.grow_site_id and site.grow_site_id != "" %}| Grow cookies and browser storage | Grow (Mediavine) | Remember the pages you saved and whether you're signed in to Grow | See [Mediavine's policy](https://www.mediavine.com/privacy-policy/) |
+{% endif %}| Form cookies | Tally (contact page only) | Load the contact form and its spam-prevention check | See [Tally's policy](https://tally.so/help/privacy-policy) |
 
 **How consent works here.** In the EEA, UK, and Switzerland, Google's
 consent message appears on your first visit, and advertising{% if site.google_analytics and site.google_analytics != "" %} and
