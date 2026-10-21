@@ -1,13 +1,5 @@
 [
   {
-    "image": "fan-art-cotton-farm.jpg",
-    "page": "guide/reference/farm-plans.md",
-    "before": "## 🧵 The Cloth Mill {#cloth-mill}",
-    "alt": "Storybook illustration of tidy rows of cotton beside a small shed with a loom inside, and a cart stacked with folded cloth.",
-    "caption": "fan art made with Ideogram: cotton woven into cloth is the Cloth Mill plan, the best coins per day the island pays 🧵",
-    "readme_label": "Recommended Farm Plans"
-  },
-  {
     "image": "fan-art-market-counter.jpg",
     "page": "guide/reference/money-making.md",
     "before": "## 🏪 Where to Sell What",

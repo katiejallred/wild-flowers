@@ -2,7 +2,7 @@
 title: "📋 Recommended Farm Plans"
 description: "Six ready-to-follow Wylde Flowers farm plans — a first season, a cloth mill, a long fennel winter, a low-effort orchard, a courtship kitchen, and a completionist's fishing route."
 image: /assets/images/card-reference.jpg
-last_modified_at: 2026-10-07
+last_modified_at: 2026-10-21
 ---
 # 📋 Recommended Farm Plans
 
@@ -52,6 +52,11 @@ things that keep paying you back, not on things you'll outgrow.
 **Don't:** cast the season ritual with crops still in the ground. Out-of-season crops wilt the moment the season turns ([Energy, Time & Seasons](../getting-started/energy-time-seasons.md)).
 
 <span class="handwritten">in your first spring, put spare coins into a beehive and a fruit tree before anything else 🌱</span>
+
+<figure class="snapshot">
+  <img src="{{ '/assets/images/fan-art-cotton-farm.jpg' | relative_url }}" alt="Storybook illustration of tidy rows of cotton beside a small shed with a loom inside, and a cart stacked with folded cloth." width="1024" height="682" loading="lazy">
+  <figcaption>fan art made with Ideogram: cotton woven into cloth is the Cloth Mill plan, the best coins per day the island pays 🧵</figcaption>
+</figure>
 
 ---
 
