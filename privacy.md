@@ -6,20 +6,22 @@ last_modified_at: 2026-10-21
 ---
 # 🔏 Privacy Policy
 
-*Effective date: October 6, 2026*
+*Effective date: October 21, 2026*
 
 The Fairhaven Field Guide ("the Guide", "we") is a fan-made, static reference site
 for the video game *Wylde Flowers*. This page explains what information passes
 through the site when you visit, and what choices you have. The short version:
 **we don't collect personal information unless you choose to send us a
-message** — but our hosting provider, advertising partner,{% if site.google_analytics and site.google_analytics != "" %} analytics provider,{% endif %}
+message{% if site.grow_site_id and site.grow_site_id != "" and site.grow_email %} or sign up for email updates{% endif %}** — but our hosting provider, advertising partner,{% if site.google_analytics and site.google_analytics != "" %} analytics provider,{% endif %}{% if site.grow_site_id and site.grow_site_id != "" %} Grow (Mediavine),{% endif %}
 and contact-form provider each process some data, and this page tells you
 exactly what and how to opt out.
 
 ## What we collect directly
 
-Only what you choose to send. The Guide has no accounts, no sign-ups, no
-comments, and no newsletters.{% if site.google_analytics and site.google_analytics != "" %} We use Google Analytics to count visits
+Only what you choose to send. The Guide has no accounts and no
+comments.{% if site.grow_site_id and site.grow_site_id != "" and site.grow_email %} The only sign-up is the optional email list described in
+[Email updates](#email-updates) below.{% else %} There are no sign-ups and no
+newsletters.{% endif %}{% if site.google_analytics and site.google_analytics != "" %} We use Google Analytics to count visits
 (see below), but we never see who you are.{% else %} There are no analytics
 scripts, and the Guide sets no cookies of its own.{% endif %} You can read every page without telling us who you are.{% if site.grow_site_id and site.grow_site_id != "" %} The optional Grow
 save button is run by Mediavine, and any account you make there is with Grow,
@@ -66,9 +68,33 @@ page and receives standard request data (such as your IP address) and the page
 you're on, and it uses cookies and browser storage to remember your saved
 pages. If you choose to sign in to Grow to keep your saves across devices,
 Grow collects your email address; that account is between you and Grow, and
-we don't receive your saves or your email. See the
+we don't receive your saves. See the
 [Mediavine Privacy Policy](https://www.mediavine.com/privacy-policy/).
 
+{% if site.grow_site_id and site.grow_site_id != "" and site.grow_email -%}
+## Email updates (Grow by Mediavine)
+{: #email-updates}
+
+You can sign up through the Grow button to get emails when the Guide adds or
+updates pages. Signing up is optional, and nothing on the Guide is locked
+behind it.
+
+- **What we collect:** the email address you enter, plus what Grow records
+  about the emails it sends you (such as whether one was opened or a link was
+  clicked).
+- **Who holds it:** Grow stores the list and sends the emails on our behalf.
+  We can see the addresses on the list in our Grow account.
+- **What we use it for:** only to send Guide updates. We never sell the list,
+  share it with anyone else, or use it for other mailings.
+- **How to stop:** every email has an unsubscribe link at the bottom, and
+  unsubscribing takes you off the list straight away. You can also ask us
+  through the [contact page]({{ '/contact.html' | relative_url }}) to remove
+  your address.
+
+Each email carries a postal address at the bottom, as US anti-spam law
+(CAN-SPAM) requires.
+
+{% endif -%}
 {% endif -%}
 {% if site.kofi and site.kofi != "" -%}
 ## Tips (Ko-fi)
