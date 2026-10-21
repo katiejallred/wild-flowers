@@ -127,3 +127,10 @@ each captioned as fan art: `fan-art-first-week.jpg` (Your First Week),
 (Beekeeping & Orchards), `fan-art-mine-entrance.jpg` (The Mine),
 `fan-art-village-square.jpg` (Shops & Services), and `fan-art-weather-witch.jpg`
 (Weather Magic). All are 1024×682 JPEGs.
+
+The Story pages carry six more in the same style: `fan-art-ferry-arrival.jpg`
+(Overview), `fan-art-overgrown-farmhouse.jpg` (Chapter 1),
+`fan-art-masked-coven.jpg` (Chapter 2), `fan-art-cellar-cauldron.jpg`
+(Chapter 3), `fan-art-summer-festival.jpg` (Chapters 4–6), and
+`fan-art-winter-wraiths.jpg` (Chapters 7–9). None of them shows an unmasking
+or a story reveal, so a glance at the picture spoils nothing.

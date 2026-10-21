@@ -1,6 +1,6 @@
 ---
 title: "📜 Chapter 2: The Family Secret"
-last_modified_at: 2026-10-07
+last_modified_at: 2026-10-21
 ---
 # 📜 Chapter 2: The Family Secret
 
@@ -17,6 +17,11 @@ As you work through the early story quests, the oddities you pencilled into your
 - **The Wylde line is a witching line.** Tara's own heritage has been waiting for her here all along.
 
 > 🦉 **Lore, pressed and labelled:** the coven meets in secret and its members guard their identities behind masks. Even people you chat with daily in town may be among them — the shopkeeper who sells you seeds, the doctor who takes your pulse. They hide because not everyone in Fairhaven would welcome witches among them.
+
+<figure class="snapshot">
+  <img src="{{ '/assets/images/fan-art-masked-coven.jpg' | relative_url }}" alt="Storybook illustration of robed figures in owl, fox, and cat masks gathered around a small fire in a lantern-lit forest clearing under a full moon." width="1024" height="682" loading="lazy">
+  <figcaption>fan art made with Ideogram: the coven meets in animal masks so that neighbors in town can't tell who belongs 🦉</figcaption>
+</figure>
 
 ---
 

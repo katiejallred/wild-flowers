@@ -1,6 +1,6 @@
 ---
 title: "📜 Chapters 4–6"
-last_modified_at: 2026-10-07
+last_modified_at: 2026-10-21
 ---
 # 📜 Chapters 4–6
 
@@ -19,6 +19,11 @@ With Hazel gone and the summer ritual cast, the coven takes Tara firmly under it
 Between rites, it's still a farm: summer crops, [bees and orchards](../farming/bees-and-orchards.md), and the season's [festivals and recipes](../island/festivals-and-events.md) all want your attention. The summer's centerpiece arrives by post — a letter announcing the **Fairhaven Summer Festival** and starting a **15-day countdown** of town-wide preparations, capped by the crowning of the year's **Summertide Star**. Every season brings its own festival days and seasonal dishes — don't let the witching crowd them out.
 
 > 🌻 **Field note:** until you brew and cast the next ritual, summer simply continues, so linger as long as your ledger likes.
+
+<figure class="snapshot">
+  <img src="{{ '/assets/images/fan-art-summer-festival.jpg' | relative_url }}" alt="Storybook illustration of a seaside town square at sunset during a summer festival, with lanterns, a flower-covered stage, pies, and lemonade." width="1024" height="682" loading="lazy">
+  <figcaption>fan art made with Ideogram: the Summer Festival letter starts a 15-day countdown that ends with the crowning of the Summertide Star 🌻</figcaption>
+</figure>
 
 ---
 

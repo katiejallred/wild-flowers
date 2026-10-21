@@ -1,6 +1,6 @@
 ---
 title: "📜 Chapters 7–9"
-last_modified_at: 2026-10-07
+last_modified_at: 2026-10-21
 ---
 # 📜 Chapters 7–9
 
@@ -13,6 +13,11 @@ Winter is when Fairhaven's two smouldering troubles finally catch the same wind.
 The strange happenings have a name now: **wraiths** — malevolent spirits loose on the island. The coven scrambles to contain them, and Tara's To-Do list fills with the crisis: investigations, protective magic, and hurried midnight circle-work (watch for the aptly named quest **Wraithing in Anticipation** in this stretch). Every spell and potion you banked in the warmer seasons earns its keep here.
 
 > ❄️ **Lore:** the coven draws its power from the **Wellspring**, the island's deep source of magic. Whoever — or whatever — is stirring the wraiths seems very interested in it.
+
+<figure class="snapshot">
+  <img src="{{ '/assets/images/fan-art-winter-wraiths.jpg' | relative_url }}" alt="Storybook illustration of a snowy island at night with pine trees, a lighthouse beam over the sea, and pale wisps drifting toward a glowing blue spring." width="1024" height="682" loading="lazy">
+  <figcaption>fan art made with Ideogram: the coven draws its power from the Wellspring, and the wraiths seem drawn to it too ❄️</figcaption>
+</figure>
 
 ## The Trials
 
