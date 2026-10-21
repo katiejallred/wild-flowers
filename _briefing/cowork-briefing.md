@@ -81,6 +81,10 @@ the placement renders nothing, so the markup is safe to keep in place).
 3. **In-content slots go on long reading pages only** — story walkthroughs
    and the getting-started reads, where people actually scroll — one per
    page, at a section break.
+   One exception, kept on purpose: the Cooking page (`guide/crafting/cooking.md`)
+   is a lookup page but keeps its in-content slot, after its first recipe
+   table, because its full recipe list runs about 300 lines and readers
+   scroll it. Leave that placement in.
 4. **No ads at all** on Search, Privacy, or Terms (`ads: false` front
    matter).
 
