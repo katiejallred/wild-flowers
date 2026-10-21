@@ -118,3 +118,12 @@ and `card-witchcraft.jpg` reuse the farm-at-golden-hour and night-flight
 fan-art pieces; the other eight have art of their own (an open journal, the
 vegetable garden, the fishing pier, the festival square, a gift basket on a
 doorstep, a cliff-top picnic, the baking counter, and a coin-counting desk).
+
+## In-page fan art
+
+Six more storybook illustrations made with Ideogram sit inside guide pages,
+each captioned as fan art: `fan-art-first-week.jpg` (Your First Week),
+`fan-art-four-seasons.jpg` (Energy, Time & Seasons), `fan-art-orchard-hives.jpg`
+(Beekeeping & Orchards), `fan-art-mine-entrance.jpg` (The Mine),
+`fan-art-village-square.jpg` (Shops & Services), and `fan-art-weather-witch.jpg`
+(Weather Magic). All are 1024×682 JPEGs.

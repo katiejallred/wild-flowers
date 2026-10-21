@@ -1,6 +1,6 @@
 ---
 title: "🌦️ Weather Magic"
-last_modified_at: 2026-10-07
+last_modified_at: 2026-10-21
 ---
 # 🌦️ Weather Magic
 
@@ -34,6 +34,11 @@ The **Summon Rain Spell** is the one you'll write again and again. Rain waters e
 > Lore aside: for generations, Fairhaven's "lucky weather" has been the coven quietly doing its chores. Cameron's League of the Conscious Mind thanks providence; providence wears a mask and a pointy hat.
 
 <span class="handwritten">summon rain the evening you plant, not the morning after — let the sky work the night shift 🌙</span>
+
+<figure class="snapshot">
+  <img src="{{ '/assets/images/fan-art-weather-witch.jpg' | relative_url }}" alt="Storybook illustration of a young witch in a red hat on a hilltop pointing a wand at a rain cloud that showers the fields below, with a rainbow in the rain." width="1024" height="682" loading="lazy">
+  <figcaption>fan art made with Ideogram: one Summon Rain waters every planted tile on the farm at once 🌧️</figcaption>
+</figure>
 
 ---
 
