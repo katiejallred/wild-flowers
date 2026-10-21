@@ -1,0 +1,50 @@
+[
+  {
+    "image": "fan-art-cotton-farm.jpg",
+    "page": "guide/reference/farm-plans.md",
+    "before": "## 🧵 The Cloth Mill {#cloth-mill}",
+    "alt": "Storybook illustration of tidy rows of cotton beside a small shed with a loom inside, and a cart stacked with folded cloth.",
+    "caption": "fan art made with Ideogram: cotton woven into cloth is the Cloth Mill plan, the best coins per day the island pays 🧵",
+    "readme_label": "Recommended Farm Plans"
+  },
+  {
+    "image": "fan-art-market-counter.jpg",
+    "page": "guide/reference/money-making.md",
+    "before": "## 🏪 Where to Sell What",
+    "alt": "Storybook illustration of a market counter with crates of vegetables, a wheel of cheese, candles, a basket of fish, folded cloth, a ledger, and spilled coins.",
+    "caption": "fan art made with Ideogram: each of these goes to a different counter, with fish to Bruno, cloth to Kai, and cheese and candles to Lina 🪙",
+    "readme_label": "Money-Making Guide"
+  },
+  {
+    "image": "fan-art-balance-scale.jpg",
+    "page": "guide/reference/crop-profit-calculator.html",
+    "before": "<h2>The Orchard, Kept Separately</h2>",
+    "alt": "Storybook illustration of a brass balance scale weighing vegetables and wheat against a stack of gold coins, with a fruit tree outside the window.",
+    "caption": "fan art made with Ideogram: a fruit tree is a single 125-coin seedling from Kai's Treasures that fruits in every season without watering 🍎",
+    "readme_label": "Crop Profit Calculator"
+  },
+  {
+    "image": "fan-art-prize-shelf.jpg",
+    "page": "guide/reference/achievements.md",
+    "before": "## ⭐ The Collection Boards",
+    "alt": "Storybook illustration of a wooden shelf of farm-fair prizes: rosette ribbons, a small gold trophy, a framed pressed flower, a violet gemstone, and a prize pumpkin.",
+    "caption": "fan art made with Ideogram: the Steam version has 40 achievements, and a good number of them are hidden to protect story surprises 🏆",
+    "readme_label": "Achievements & Milestones"
+  },
+  {
+    "image": "fan-art-garden-gate.jpg",
+    "page": "guide/reference/faq.md",
+    "before": "## 💞 Romance & Relationships",
+    "alt": "Storybook illustration of a rose-covered garden gate in a stone wall with a notice board, a lantern, and a watering can, and a farmhouse in the fields beyond.",
+    "caption": "fan art made with Ideogram: seasons change only when the coven performs the ritual, so you can stay in any season as long as you like 🌹",
+    "readme_label": "FAQ"
+  },
+  {
+    "image": "fan-art-field-journal.jpg",
+    "page": "guide/reference/glossary.md",
+    "before": "## 🔮 Witchcraft",
+    "alt": "Storybook illustration of an open botanical journal full of pressed flowers on a desk, with a quill, a magnifying glass, a potion bottle, and a sprig of lavender.",
+    "caption": "fan art made with Ideogram: the Coven, Fairhaven's secret circle of witches, hides in plain sight among the townsfolk 📚",
+    "readme_label": "Glossary"
+  }
+]
