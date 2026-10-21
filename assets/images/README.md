@@ -134,3 +134,7 @@ The Story pages carry six more in the same style: `fan-art-ferry-arrival.jpg`
 (Chapter 3), `fan-art-summer-festival.jpg` (Chapters 4–6), and
 `fan-art-winter-wraiths.jpg` (Chapters 7–9). None of them shows an unmasking
 or a story reveal, so a glance at the picture spoils nothing.
+
+The Characters section has three more: `fan-art-village-dusk.jpg`
+(Character Directory), `fan-art-neighbors-fence.jpg` (Friendship), and
+`fan-art-gift-basket.jpg` (Gift Preferences). None depicts a named resident.

@@ -1,6 +1,6 @@
 ---
 title: "💛 Friendship Guide"
-last_modified_at: 2026-10-07
+last_modified_at: 2026-10-21
 ---
 # 💛 Friendship Guide
 
@@ -35,6 +35,11 @@ Approach a resident and choose the gift icon to hand over an item. Every gift he
 Residents will ask for your help — errands, favors, small crises. Completing a character's quests deepens the bond substantially and frequently unlocks the next scene in their personal story. When a quest appears for someone you're cultivating, prioritize it like a crop about to wilt. Side errands are catalogued in [Side Quests](../story/side-quests.md).
 
 <span class="handwritten">talk first, THEN gift — make both count each day ❀</span>
+
+<figure class="snapshot">
+  <img src="{{ '/assets/images/fan-art-neighbors-fence.jpg' | relative_url }}" alt="Storybook illustration of two neighbors laughing over a picket fence as one hands the other a pie, with a cat on the fence post and hollyhocks." width="1024" height="682" loading="lazy">
+  <figcaption>fan art made with Ideogram: a daily chat raises a resident's meter a little for free, and a favorite gift raises it a lot 💛</figcaption>
+</figure>
 
 ---
 

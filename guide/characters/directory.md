@@ -1,6 +1,6 @@
 ---
 title: "💛 Character Directory"
-last_modified_at: 2026-10-07
+last_modified_at: 2026-10-21
 ---
 # 💛 Character Directory
 
@@ -158,6 +158,11 @@ The census is complete: every resident, the witches of Ravenwood, a coven mask, 
     <figcaption>Zoey</figcaption>
   </figure>
 </div>
+
+<figure class="snapshot">
+  <img src="{{ '/assets/images/fan-art-village-dusk.jpg' | relative_url }}" alt="Storybook illustration of a small island village at dusk with lit windows, a steeple, boats in the harbor, and a lighthouse on a nearby islet." width="1024" height="682" loading="lazy">
+  <figcaption>fan art made with Ideogram: Fairhaven has roughly thirty residents, and eight of them are romanceable 🏡</figcaption>
+</figure>
 
 ---
 

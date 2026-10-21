@@ -2,7 +2,7 @@
 title: "🎁 Gift Preferences"
 description: "Every Wylde Flowers resident's favorite gifts, with the ingredients for each dish — plus how gifting works and the crystal-ball shortcut."
 image: /assets/images/card-gifts.jpg
-last_modified_at: 2026-10-07
+last_modified_at: 2026-10-21
 ---
 # 🎁 Gift Preferences
 
@@ -99,6 +99,11 @@ Walk up to any resident and select the **gift icon** to offer an item from your 
 The rhythm that falls out of these rules: give each favorite **once** for the big bloom, then rotate through their other favorites, padding the days between with ordinary gifts and conversation. Carry a stack of cooked dishes on your daily rounds and gift as you go.
 
 <span class="handwritten">the big boost only fires the first time you give a favorite — space them out instead of burning the whole list in a week ❀</span>
+
+<figure class="snapshot">
+  <img src="{{ '/assets/images/fan-art-gift-basket.jpg' | relative_url }}" alt="Storybook illustration of a wicker basket of ribbon-tied gifts, wildflowers, and honey jars on a table, with a small pie and a glowing crystal ball beside it." width="1024" height="682" loading="lazy">
+  <figcaption>fan art made with Ideogram: the crystal ball can reveal a resident's favorite foods, so you don't have to guess at their silhouettes 🔮</figcaption>
+</figure>
 
 ### Discovering favorites
 
