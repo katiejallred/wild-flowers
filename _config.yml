@@ -37,6 +37,9 @@ kofi: "katiejallred"
 # script on the site, and the privacy policy's Grow section stays hidden.
 # Journey by Mediavine asks for Grow running 30 days before you apply.
 grow_site_id: "U2l0ZTpmYmNmNjBmMS05MmM4LTQxM2MtYmJhZS1hNmE5MzBlZmU3YzI="
+# true = the email sign-up in Grow (its Automailer) is switched on. Shows
+# the "Email updates" section of the privacy policy. Needs grow_site_id.
+grow_email: true
 
 # AdSense ad units. The loader script in the layout serves nothing by
 # itself; each slot below switches on its placement once it holds the
