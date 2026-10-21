@@ -2,7 +2,7 @@
 title: "📜 Chapter Guide Overview"
 description: "A spoiler-light map of the Wylde Flowers story — how the chapters unlock, from the first ferry ride to the final ritual."
 image: /assets/images/card-story.jpg
-last_modified_at: 2026-10-07
+last_modified_at: 2026-10-21
 ---
 # 📜 Chapter Guide Overview
 
@@ -15,6 +15,11 @@ You play as Tara Wylde, who arrives on the island of Fairhaven to care for her a
 The island is not entirely at peace with its magic. A group of townsfolk — the League of the Conscious Mind, led by the charismatic Cameron Conner — is deeply suspicious of anything unseen, and the tension between coven and town winds through the whole tale. Hazel's dearest wish is that Tara find a way to bring the two halves of Fairhaven together.
 
 > 🌿 **Pressed between these pages:** Fairhaven is a place where a witch might also be your grocer, your doctor, or your oldest friend. Watch the masks carefully.
+
+<figure class="snapshot">
+  <img src="{{ '/assets/images/fan-art-ferry-arrival.jpg' | relative_url }}" alt="Storybook illustration of a red ferry crossing toward a green island village with a lighthouse, gulls overhead." width="1024" height="682" loading="lazy">
+  <figcaption>fan art made with Ideogram: the story begins with Tara's ferry ride to Fairhaven to look after her grandmother Hazel ⛴️</figcaption>
+</figure>
 
 ---
 

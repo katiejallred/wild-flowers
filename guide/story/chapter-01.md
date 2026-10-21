@@ -1,6 +1,6 @@
 ---
 title: "📜 Chapter 1: A New Leaf"
-last_modified_at: 2026-10-07
+last_modified_at: 2026-10-21
 ---
 # 📜 Chapter 1: A New Leaf
 
@@ -19,6 +19,11 @@ Your first To-Do quests are the game's tutorial, and they are pure farmhand's wo
 Don't rush this stretch. The habits you plant now — water in the morning, forage on the walk to town, sleep before your energy bottoms out — will carry you through the whole story. Root yourself with [Farming 101](../farming/farming-101.md) and [Energy, Time & Seasons](../getting-started/energy-time-seasons.md).
 
 > 🌾 The farm is Hazel's life's work, and keeping it planted is the reason Tara came to Fairhaven at all.
+
+<figure class="snapshot">
+  <img src="{{ '/assets/images/fan-art-overgrown-farmhouse.jpg' | relative_url }}" alt="Storybook illustration of a lavender farmhouse with an overgrown garden, a suitcase, a garden fork, a basket of seed packets, and a rocking chair." width="1024" height="682" loading="lazy">
+  <figcaption>fan art made with Ideogram: Chapter 1's first quests are tilling, planting, watering, and a trip to Lina's store for seeds 🌱</figcaption>
+</figure>
 
 ---
 

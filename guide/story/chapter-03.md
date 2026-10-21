@@ -1,6 +1,6 @@
 ---
 title: "📜 Chapter 3: Joining the Coven"
-last_modified_at: 2026-10-07
+last_modified_at: 2026-10-21
 ---
 # 📜 Chapter 3: Joining the Coven
 
@@ -31,6 +31,11 @@ Get your bearings with:
 - [Potions](../witchcraft/potions.md) — the cauldron work the coven will soon expect of you
 
 {% include ad-unit.html slot="incontent" %}
+
+<figure class="snapshot">
+  <img src="{{ '/assets/images/fan-art-cellar-cauldron.jpg' | relative_url }}" alt="Storybook illustration of a black cauldron bubbling with violet potion in a stone cellar, with drying herbs, potion bottles, candles, and an open spellbook." width="1024" height="682" loading="lazy">
+  <figcaption>fan art made with Ideogram: the quest To Summer it Up For You asks you to brew a Spirit Flame potion for the summer ritual 🔮</figcaption>
+</figure>
 
 ## Turning the Wheel
 
