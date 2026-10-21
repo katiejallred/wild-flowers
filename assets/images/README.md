@@ -142,3 +142,9 @@ or a story reveal, so a glance at the picture spoils nothing.
 The Characters section has three more: `fan-art-village-dusk.jpg`
 (Character Directory), `fan-art-neighbors-fence.jpg` (Friendship), and
 `fan-art-gift-basket.jpg` (Gift Preferences). None depicts a named resident.
+
+## Reference-page fan art
+
+Added one per day, all made with Ideogram:
+
+- `fan-art-cotton-farm.jpg` (Recommended Farm Plans)
