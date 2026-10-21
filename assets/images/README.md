@@ -56,6 +56,10 @@ for outfit mannequins):
 
 ## How to add a screenshot
 
+For captures from your own game, use the shot list and inbox in
+[`_screenshots/`](../../_screenshots/README.md), which resizes and files them for you.
+The manual steps below still work for one-off images.
+
 1. **Capture on Switch** (Capture button), then share it to your phone
    (Album → Share → Smart Device) or upload from Steam's screenshot library.
 2. **Upload here**: on GitHub, open this folder and use *Add file → Upload files*
