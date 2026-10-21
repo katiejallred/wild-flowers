@@ -1,6 +1,6 @@
 ---
 title: "💎 The Mine: Floor by Floor"
-last_modified_at: 2026-10-07
+last_modified_at: 2026-10-21
 ---
 # 💎 The Mine: Floor by Floor
 
@@ -77,6 +77,11 @@ Iron runs the whole depth of the mine; the richer metals and gems join in as you
 ## The gem finders
 
 Three curious devices wait on floors **15, 18, and 20** — dowsing engines that light up whichever stone on the floor is hiding a gem, sparing you the guesswork. Each must be repaired with **enchanted silver wire** (5 for floor 15, 10 for floor 18, 20 for floor 20 — the deep one drives a hard bargain), and each run of divination burns **5 coal**. Once you're gem-hunting in earnest, they pay for themselves fast — especially over floor 20's diamonds.
+
+<figure class="snapshot">
+  <img src="{{ '/assets/images/fan-art-mine-entrance.jpg' | relative_url }}" alt="Storybook illustration of a timber mine entrance in a grassy hill, with a lantern, a pickaxe, and a cart of ore and amethyst." width="1024" height="682" loading="lazy">
+  <figcaption>fan art made with Ideogram: smelt the cart's ore into ingots before the next trip, since the copper pickaxe needs 3 and the silver needs 10 ⛏️</figcaption>
+</figure>
 
 ## Chests and the miners' letters
 

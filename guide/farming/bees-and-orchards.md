@@ -1,10 +1,15 @@
 ---
 title: "🐝 Beekeeping & Orchards"
-last_modified_at: 2026-10-07
+last_modified_at: 2026-10-21
 ---
 # 🐝 Beekeeping & Orchards
 
 Two of the farm's most patient economies share this page: the hum of the hive and the slow generosity of fruit trees. Neither needs daily fussing the way a turnip bed does: a hive fills on its own as long as flowers bloom beside it, and a tree fruits without replanting or watering.
+
+<figure class="snapshot">
+  <img src="{{ '/assets/images/fan-art-orchard-hives.jpg' | relative_url }}" alt="Storybook illustration of three painted beehives in a wildflower meadow between two fruit trees, with bees and a jar of honey on a post." width="1024" height="682" loading="lazy">
+  <figcaption>fan art made with Ideogram: each hive here wants about 12 blooming flowers within reach, and the fruit trees need no watering 🐝</figcaption>
+</figure>
 
 ---
 

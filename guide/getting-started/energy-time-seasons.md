@@ -1,6 +1,6 @@
 ---
 title: "🌱 Energy, Time & Seasons"
-last_modified_at: 2026-10-07
+last_modified_at: 2026-10-21
 ---
 # 🌱 Energy, Time & Seasons
 
@@ -34,6 +34,11 @@ Nearly every honest labor costs energy — watering, harvesting, chopping wood, 
 - The clock runs while you play; residents and [shops](../island/shops.md) keep daily schedules, so the hour decides who you can see and where you can spend.
 - **Midnight is the soft curfew.** At 12 AM the game nudges you bedward; linger too long after (around 2 AM) and Tara collapses, waking with a reduced meter the next day. There's no other penalty — no lost items, no missed doom — but a groggy Tara gets less done.
 - Days are otherwise unhurried. Nothing on Fairhaven expires overnight, and story scenes wait patiently for you to trigger them.
+
+<figure class="snapshot">
+  <img src="{{ '/assets/images/fan-art-four-seasons.jpg' | relative_url }}" alt="Storybook illustration of four cottages side by side, one for each season: spring tulips, summer sunflowers and tomatoes, autumn pumpkins, and winter snow." width="1024" height="682" loading="lazy">
+  <figcaption>fan art made with Ideogram: on Fairhaven the garden stays on one of these four panels until the coven casts the season ritual 🍂</figcaption>
+</figure>
 
 ---
 

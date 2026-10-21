@@ -54,6 +54,11 @@ The island's clinic. Amira is both the town doctor and a member of the coven —
 
 When Eury arrives in Year 2, they open a hair salon where you can finally change Tara's look. A welcome bit of self-care after a year of farming — and Eury, naturally, joins the roster of [romance options](../characters/romance.md).
 
+<figure class="snapshot">
+  <img src="{{ '/assets/images/fan-art-village-square.jpg' | relative_url }}" alt="Storybook illustration of a seaside village square with a flower shop and a bakery under striped awnings, crates of seed packets, and bunting overhead." width="1024" height="682" loading="lazy">
+  <figcaption>fan art made with Ideogram: the town square, where Lina's general store sells seeds for the current season and buys your crops 🧺</figcaption>
+</figure>
+
 ---
 
 ## 🛍️ More Storefronts Around the Square

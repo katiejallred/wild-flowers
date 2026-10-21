@@ -1,12 +1,17 @@
 ---
 title: "🌱 Your First Week"
-last_modified_at: 2026-10-07
+last_modified_at: 2026-10-21
 ---
 # 🌱 Your First Week
 
 Every transplant needs a little time to take root, and so will you. Below is a gentle day-by-day plan for your first stretch on Fairhaven. Treat it as a trellis, not a cage — the game's to-do quests will lead you through the same ground in their own order, and because [seasons only change when you say so](energy-time-seasons.md), *nothing here can be missed*. Story details are kept deliberately spoiler-light; when you want the full pressing, see the [Story Overview](../story/overview.md) and [Chapter 1](../story/chapter-01.md).
 
 > 🌿 *Lore aside:* Tara arrives on Fairhaven with a suitcase, a career left behind on the mainland, and a grandmother who is not telling her everything. Hazel's evenings are... occupied. You'll find out with what soon enough.
+
+<figure class="snapshot">
+  <img src="{{ '/assets/images/fan-art-first-week.jpg' | relative_url }}" alt="Storybook illustration of a young farmer in overalls and a straw hat watering seedlings beside a white farmhouse, with hens nearby and a lighthouse across the water." width="1024" height="682" loading="lazy">
+  <figcaption>fan art made with Ideogram: crops in Garden Beds need watering every day they're growing, so this is most first-week mornings 🌱</figcaption>
+</figure>
 
 ---
 
