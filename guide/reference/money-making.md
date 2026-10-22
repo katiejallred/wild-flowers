@@ -2,7 +2,7 @@
 title: "💰 Money-Making Guide"
 description: "Reference and extras for Wylde Flowers — the best money-makers each season, achievements, FAQ, and a glossary of island terms."
 image: /assets/images/card-reference.jpg
-last_modified_at: 2026-10-07
+last_modified_at: 2026-10-22
 ---
 # 💰 Money-Making Guide
 
@@ -83,6 +83,11 @@ The mine beside your farmhouse runs many levels deep:
 ## 📋 Quests & To-Dos
 
 Neighbors' **to-do quests** pay coins for things you're often producing anyway. Completing them steadily is real income — the game even celebrates bulletin milestones — and every quest builds [friendship](../characters/friendship.md) alongside the fee. Check for new requests regularly and match them to your surplus.
+
+<figure class="snapshot">
+  <img src="{{ '/assets/images/fan-art-market-counter.jpg' | relative_url }}" alt="Storybook illustration of a market counter with crates of vegetables, a wheel of cheese, candles, a basket of fish, folded cloth, a ledger, and spilled coins." width="1024" height="682" loading="lazy">
+  <figcaption>fan art made with Ideogram: each of these goes to a different counter, with fish to Bruno, cloth to Kai, and cheese and candles to Lina 🪙</figcaption>
+</figure>
 
 ---
 

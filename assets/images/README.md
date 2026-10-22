@@ -148,3 +148,4 @@ The Characters section has three more: `fan-art-village-dusk.jpg`
 Added one per day, all made with Ideogram:
 
 - `fan-art-cotton-farm.jpg` (Recommended Farm Plans)
+- `fan-art-market-counter.jpg` (Money-Making Guide)

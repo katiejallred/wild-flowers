@@ -1,13 +1,5 @@
 [
   {
-    "image": "fan-art-market-counter.jpg",
-    "page": "guide/reference/money-making.md",
-    "before": "## 🏪 Where to Sell What",
-    "alt": "Storybook illustration of a market counter with crates of vegetables, a wheel of cheese, candles, a basket of fish, folded cloth, a ledger, and spilled coins.",
-    "caption": "fan art made with Ideogram: each of these goes to a different counter, with fish to Bruno, cloth to Kai, and cheese and candles to Lina 🪙",
-    "readme_label": "Money-Making Guide"
-  },
-  {
     "image": "fan-art-balance-scale.jpg",
     "page": "guide/reference/crop-profit-calculator.html",
     "before": "<h2>The Orchard, Kept Separately</h2>",
