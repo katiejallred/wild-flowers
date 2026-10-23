@@ -1,13 +1,5 @@
 [
   {
-    "image": "fan-art-balance-scale.jpg",
-    "page": "guide/reference/crop-profit-calculator.html",
-    "before": "<h2>The Orchard, Kept Separately</h2>",
-    "alt": "Storybook illustration of a brass balance scale weighing vegetables and wheat against a stack of gold coins, with a fruit tree outside the window.",
-    "caption": "fan art made with Ideogram: a fruit tree is a single 125-coin seedling from Kai's Treasures that fruits in every season without watering 🍎",
-    "readme_label": "Crop Profit Calculator"
-  },
-  {
     "image": "fan-art-prize-shelf.jpg",
     "page": "guide/reference/achievements.md",
     "before": "## ⭐ The Collection Boards",
