@@ -1,6 +1,6 @@
 ---
 title: "🏆 Achievements & Milestones"
-last_modified_at: 2026-10-07
+last_modified_at: 2026-10-24
 ---
 # 🏆 Achievements & Milestones
 
@@ -63,6 +63,11 @@ The bulletin achievements (**Pocket Money** at 20, **Tycoon** at 100) make a hab
 ### 🔮 Witchcraft
 
 Rituals, potions, and magical firsts thread through the story achievements — casting the initiation rite and turning your first season are both on the verified list ([Spells & Rituals](../witchcraft/spells-and-rituals.md)).
+
+<figure class="snapshot">
+  <img src="{{ '/assets/images/fan-art-prize-shelf.jpg' | relative_url }}" alt="Storybook illustration of a wooden shelf of farm-fair prizes: rosette ribbons, a small gold trophy, a framed pressed flower, a violet gemstone, and a prize pumpkin." width="1024" height="682" loading="lazy">
+  <figcaption>fan art made with Ideogram: the Steam version has 40 achievements, and a good number of them are hidden to protect story surprises 🏆</figcaption>
+</figure>
 
 ---
 
