@@ -1,6 +1,6 @@
 ---
 title: "📚 Glossary"
-last_modified_at: 2026-10-07
+last_modified_at: 2026-10-25
 ---
 # 📚 Glossary
 
@@ -24,6 +24,11 @@ A pressed and labeled collection of Fairhaven's terms of art — the words you'l
 
 **Ravenwood Hollow**
 : *(spoiler-adjacent)* A hidden community of magical folk revealed later in the story, added in a free update. Home of Westley Vuk and his bookshop. See [Map](../island/map.md) — spoiler-marked there.
+
+<figure class="snapshot">
+  <img src="{{ '/assets/images/fan-art-field-journal.jpg' | relative_url }}" alt="Storybook illustration of an open botanical journal full of pressed flowers on a desk, with a quill, a magnifying glass, a potion bottle, and a sprig of lavender." width="1024" height="682" loading="lazy">
+  <figcaption>fan art made with Ideogram: the Coven, Fairhaven's secret circle of witches, hides in plain sight among the townsfolk 📚</figcaption>
+</figure>
 
 ## 🔮 Witchcraft
 
