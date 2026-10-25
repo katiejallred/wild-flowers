@@ -151,3 +151,4 @@ Added one per day, all made with Ideogram:
 - `fan-art-market-counter.jpg` (Money-Making Guide)
 - `fan-art-balance-scale.jpg` (Crop Profit Calculator)
 - `fan-art-prize-shelf.jpg` (Achievements & Milestones)
+- `fan-art-garden-gate.jpg` (FAQ)

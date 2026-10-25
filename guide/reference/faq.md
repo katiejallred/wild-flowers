@@ -1,6 +1,6 @@
 ---
 title: "❓ Frequently Asked Questions"
-last_modified_at: 2026-10-07
+last_modified_at: 2026-10-25
 ---
 # ❓ Frequently Asked Questions
 
@@ -53,6 +53,11 @@ These have been **ruled out** — the [r/wyldeflowers FAQ](https://www.reddit.co
 Yes. The ritual only happens when you've completed the offerings and choose to cast it, so you can stall a season indefinitely to finish crops, quests, or festival fun.
 
 <span class="handwritten">you get about a day's grace after the ritual before out-of-season crops go — don't count on it, harvest first ❀</span>
+
+<figure class="snapshot">
+  <img src="{{ '/assets/images/fan-art-garden-gate.jpg' | relative_url }}" alt="Storybook illustration of a rose-covered garden gate in a stone wall with a notice board, a lantern, and a watering can, and a farmhouse in the fields beyond." width="1024" height="682" loading="lazy">
+  <figcaption>fan art made with Ideogram: seasons change only when the coven performs the ritual, so you can stay in any season as long as you like 🌹</figcaption>
+</figure>
 
 ---
 
