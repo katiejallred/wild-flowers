@@ -106,7 +106,10 @@ to 1280px JPEGs for the web. © Studio Drydock Pty Ltd.
 
 Katie's own Switch captures are filed through `_screenshots/` and listed in
 `_screenshots/shots.json` (folder and slug per shot); `_screenshots/SHOT-LIST.md`
-shows which are in. Game imagery in them is © Studio Drydock Pty Ltd.
+shows which are in. Five more of her captures sit outside the shot list:
+`crafting/distillery-menu.jpg`, `witchcraft/basement-stills-and-cauldrons.jpg`,
+`island/bulletins-board.jpg` (cropped to the card), `characters/parker-talk-menu.jpg`,
+and `island/lina-sell-tab.jpg`. Game imagery in them is © Studio Drydock Pty Ltd.
 
 ## Social-share images
 

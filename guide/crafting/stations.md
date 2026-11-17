@@ -55,6 +55,11 @@ The loom, mortar & pestle, and dyeing bath form a little guild of their own: wea
 
 The distillery is in Hazel's basement, where the cauldron is, rather than in the tool shed. It takes a 2×3 space and costs 1 copper ingot, 15 wood, and 250 coins to build. It makes three kinds of things:
 
+<figure class="snapshot">
+  <img src="{{ '/assets/images/crafting/distillery-menu.jpg' | relative_url }}" alt="The Distillery menu in the basement with Essence of Copper selected; eleven recipes show in color and four are dark silhouettes." width="1280" height="720" loading="lazy">
+  <figcaption>my distillery menu with Essence of Copper selected: eleven recipes learned, four still silhouettes</figcaption>
+</figure>
+
 | Makes | From | Time |
 | --- | --- | --- |
 | **Rum** | 1 sugar | 4 days |

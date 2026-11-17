@@ -90,6 +90,11 @@ Aryel, Peri and Zephyr live in **Ravenwood Hollow**, added in a free update ([St
 
 Walk up to any resident and select the **gift icon** to offer an item from your inventory. What matters is *what* you hand over:
 
+<figure class="snapshot">
+  <img src="{{ '/assets/images/characters/parker-talk-menu.jpg' | relative_url }}" alt="Tara talking to Parker Johnson in his workshop, with four bubbles over his head: a to-do note, a chat bubble, a wrapped present, and a blueprint." width="1280" height="720" loading="lazy">
+  <figcaption>Parker in his workshop: the wrapped present is the gift icon, next to the chat bubble and his to-do note</figcaption>
+</figure>
+
 | Gift type | Effect on the relationship |
 | --- | --- |
 | Any ordinary gift | A small but real increase — never wasted |
