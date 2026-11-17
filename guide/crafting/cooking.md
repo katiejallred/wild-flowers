@@ -22,6 +22,11 @@ In Fairhaven, the kitchen is as vital an instrument as the trowel or the wand, a
 
 Cooking happens at the farmhouse kitchen, available from your earliest days on the farm. Open it, choose a recipe you've learned, and — provided your pantry holds the ingredients — the dish is yours. There's no minigame to fumble; the challenge lies in *collecting* recipes and *stocking* ingredients, not in the stirring itself.
 
+<figure class="snapshot">
+  <img src="{{ '/assets/images/crafting/kitchen-recipe-menu.jpg' | relative_url }}" alt="The Cooking menu open on Golubtsi (Stuffed Cabbage) at the farmhouse stove, with four ingredients and a Craft button." width="1280" height="720" loading="lazy">
+  <figcaption>my stove menu on Golubtsi: under each ingredient is what I have against what the dish needs, so 33 / 1 means 33 cabbages for the 1 it takes 🍳</figcaption>
+</figure>
+
 Keep a few cooked dishes in your satchel whenever you head out. Chopping wood, breaking stones, tilling soil, and swinging a pickaxe all drain [energy](../getting-started/energy-time-seasons.md), and a bite of something homemade restores it on the spot — far more gracefully than collapsing into bed at noon.
 
 ## Learning Recipes {#learning}
@@ -77,6 +82,11 @@ When the garden falls short, the [village shops](../island/shops.md) fill the ga
 
 ### Energy in your pocket
 Cooked dishes restore energy when you eat them. Cook a batch before a big day of clearing land or going down the mine.
+
+<figure class="snapshot">
+  <img src="{{ '/assets/images/crafting/eating-for-energy.jpg' | relative_url }}" alt="Tara's satchel open on Restorative Tea outdoors in the snow, with a lightning-bolt bar under the name and a Drink button." width="1280" height="720" loading="lazy">
+  <figcaption>Restorative Tea in my satchel, out by the garden fence: the lightning bar under the name shows how much energy it gives back</figcaption>
+</figure>
 
 ### Gifts that warm hearts
 A cooked dish makes a thoughtful gift, and many villagers have favorite meals that delight them far more than a raw turnip ever could. Consult the [gift preferences](../characters/gift-preferences.md) ledger and cook accordingly — a favorite dish counts toward friendship and [romance](../characters/romance.md) alike.

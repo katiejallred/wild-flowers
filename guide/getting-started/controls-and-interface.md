@@ -33,6 +33,11 @@ A few kindly notes from the field:
 
 Your single most important tool. The journal lists every active **to-do quest** — main story tasks, coven requests, and townsfolk errands alike. Each entry can show a **hint** telling you what to actually do next, which makes it nearly impossible to be truly stuck. Story progress in this game *is* the to-do list: when you wonder "what now?", the answer lives here. Check it morning and night.
 
+<figure class="snapshot">
+  <img src="{{ '/assets/images/island/journal-todo-list.jpg' | relative_url }}" alt="The journal open to the To-Do page, with Natalia's request Steel Yourself selected: 10 coal for 95 coins." width="1280" height="720" loading="lazy">
+  <figcaption>my To-Do page: Natalia's errand Steel Yourself wants 10 coal (I'm carrying 620) and pays 95 coins</figcaption>
+</figure>
+
 ### The map
 
 A full island map showing Fairhaven's regions, buildings, and points of interest — invaluable in the first days while the paths are still strangers. Pair it with our own annotated [Island Map](../island/map.md) page for shop locations and forage-rich corners.

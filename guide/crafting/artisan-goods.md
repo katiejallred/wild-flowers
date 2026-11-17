@@ -29,6 +29,11 @@ Here is the verified arithmetic every Fairhaven farmer should know: **cotton wov
 | 3. Weave at the Loom | [Tool shed](stations.md) | Cotton in, cloth out |
 | 4. Sell the cloth | To Kai | The merchant pays well for fine fabric |
 
+<figure class="snapshot">
+  <img src="{{ '/assets/images/crafting/loom-weaving-cloth.jpg' | relative_url }}" alt="The Loom menu open on Cloth, showing 2 of 2 cotton and a Craft button, with Tara standing at the loom." width="1280" height="720" loading="lazy">
+  <figcaption>the loom's Cloth card: 2 cotton for each cloth, and the card says it sells as-is to Kai or goes on to the dyeing bath</figcaption>
+</figure>
+
 Once the loom is built, cotton should claim a generous share of your summer beds, since no other crop pays as well per day of growing time.
 
 <span class="handwritten">once the loom is up, give cotton every spare summer bed — 39 coins a day of growing time is the best crop rate on the island 🌿</span>

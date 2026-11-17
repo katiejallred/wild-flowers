@@ -98,6 +98,11 @@ Walk up to any resident and select the **gift icon** to offer an item from your 
 
 The rhythm that falls out of these rules: give each favorite **once** for the big bloom, then rotate through their other favorites, padding the days between with ordinary gifts and conversation. Carry a stack of cooked dishes on your daily rounds and gift as you go.
 
+<figure class="snapshot">
+  <img src="{{ '/assets/images/characters/giving-a-favorite.jpg' | relative_url }}" alt="Tara holds out a covered dish to Westley in the bookshop." width="1280" height="720" loading="lazy">
+  <figcaption>handing Westley a covered dish in his bookshop</figcaption>
+</figure>
+
 <span class="handwritten">the big boost only fires the first time you give a favorite — space them out instead of burning the whole list in a week ❀</span>
 
 <figure class="snapshot">
@@ -111,6 +116,11 @@ Each resident's favorites begin as **hidden silhouettes** in their profile. You 
 
 1. **Guess.** Squint at the silhouette, consult your pantry, and hand over your best hypothesis. A correct guess reveals the entry (and banks that first-time boost).
 2. **Scry.** A witch has advantages: the **crystal ball** can reveal a character's favorite foods outright, sparing you the trial and error — and from your sanctum it can also hint at your **farm animals'** favorites. See [Spells & Rituals](../witchcraft/spells-and-rituals.md) for your scrying options.
+
+<figure class="snapshot">
+  <img src="{{ '/assets/images/characters/favorites-silhouettes.jpg' | relative_url }}" alt="A pop-up reading Delicious! You've discovered one of Westley's favourite foods, with two of five favorites revealed and three shown as silhouettes." width="1280" height="720" loading="lazy">
+  <figcaption>the pop-up after a right guess: Wine is now filled in on Westley's row, and three of his five favorites are still silhouettes</figcaption>
+</figure>
 
 > Even the livestock have opinions: as of update 1.5, each farm animal has its own randomly assigned favorite food, unique to that individual. Your cows are as particular as your neighbors. See [Animals](../farming/animals.md).
 

@@ -12,6 +12,11 @@ Three forces shape every day on Fairhaven: the strength in Tara's arms, the turn
 
 Nearly every honest labor costs energy — watering, harvesting, chopping wood, mining, and their kin. Chatting, walking, and shopping are free, so a "spent" Tara can still enjoy a full social evening.
 
+<figure class="snapshot">
+  <img src="{{ '/assets/images/island/hud-energy-clock.jpg' | relative_url }}" alt="Tara on the snowy path outside her garden, with the clock reading Sunday 4:10 pm at top left and the broom, spellbook, and satchel buttons at top right." width="1280" height="720" loading="lazy">
+  <figcaption>the screen on an ordinary afternoon: day and time at top left with the meter curving around the clock, coins under the satchel at top right</figcaption>
+</figure>
+
 **Restoring it:**
 
 - **Sleep** is the great restorative: go to bed and wake with a fresh meter.

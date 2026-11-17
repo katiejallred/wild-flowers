@@ -28,8 +28,8 @@ When the beds are watered and the animals fed, the water calls. Fishing in Fairh
 </nav>
 
 <figure class="snapshot">
-  <img src="{{ '/assets/images/farming/winter-fishing.jpg' | relative_url }}" alt="Tara fishes from a snowy shore in winter." loading="lazy">
-  <figcaption>fishing in the snow — season doesn't change what bites ❄️</figcaption>
+  <img src="{{ '/assets/images/farming/casting-a-line.jpg' | relative_url }}" alt="Tara swings her rod forward on a snow-covered beach in front of the beach cottages, a fish shadow visible in the water." width="1280" height="720" loading="lazy">
+  <figcaption>mid-cast on the snowy beach below the cottages, with a fish shadow in the water to my right ❄️</figcaption>
 </figure>
 
 ---

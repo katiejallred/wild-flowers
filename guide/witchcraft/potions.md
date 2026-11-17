@@ -24,6 +24,11 @@ The basement opens up as the main story pulls Tara into the craft (see [The Craf
 
 <span class="handwritten">start a brew before bed — the cauldron keeps working while you sleep 🌙</span>
 
+<figure class="snapshot">
+  <img src="{{ '/assets/images/witchcraft/cauldron-menu.jpg' | relative_url }}" alt="The Cauldron menu in the basement showing a grid of potion icons, the lower rows still dark silhouettes." width="1280" height="720" loading="lazy">
+  <figcaption>my cauldron menu: the potions I've been taught show in color, and the ones nobody has taught me yet are silhouettes</figcaption>
+</figure>
+
 ---
 
 ## Verified Potions
