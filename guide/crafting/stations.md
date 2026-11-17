@@ -12,6 +12,11 @@ Crafting stations aren't handed to you all at once; they arrive the way most goo
 
 Space matters too. Each station occupies a footprint in the tool shed — the Juice Press fits a tidy 1×1 (20× Wood, 2× Iron Bar, 150 coins to build), while the Loom claims a 2×2 (15× Wood, 3× Iron Bar, 30 coins) — and the shed itself can be upgraded as your operation grows. Plan your floor like a garden bed, with the stations you visit daily nearest the door.
 
+<figure class="snapshot">
+  <img src="{{ '/assets/images/crafting/my-tool-shed.jpg' | relative_url }}" alt="Inside Tara's tool shed on a snowy morning: dyeing baths along the left wall, the loom and silkworm boxes on the right, a blueprint table by the door." width="1280" height="720" loading="lazy">
+  <figcaption>my tool shed at 10:50 on a winter Saturday: dyeing baths down the left wall, silkworm boxes and the loom on the right, blueprint table by the door</figcaption>
+</figure>
+
 > The tool shed predates Tara's arrival, but under her hands it wakes up. Hazel remembers when half these contraptions stood silent and dusty.
 
 ## The Station Catalogue
@@ -49,6 +54,11 @@ The loom, mortar & pestle, and dyeing bath form a little guild of their own: wea
 ### The Distillery {#distillery}
 
 The distillery is in Hazel's basement, where the cauldron is, rather than in the tool shed. It takes a 2×3 space and costs 1 copper ingot, 15 wood, and 250 coins to build. It makes three kinds of things:
+
+<figure class="snapshot">
+  <img src="{{ '/assets/images/crafting/distillery-menu.jpg' | relative_url }}" alt="The Distillery menu in the basement with Essence of Copper selected; eleven recipes show in color and four are dark silhouettes." width="1280" height="720" loading="lazy">
+  <figcaption>my distillery menu with Essence of Copper selected: eleven recipes learned, four still silhouettes</figcaption>
+</figure>
 
 | Makes | From | Time |
 | --- | --- | --- |

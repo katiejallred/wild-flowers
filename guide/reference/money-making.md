@@ -85,6 +85,11 @@ The mine beside your farmhouse runs many levels deep:
 Neighbors' **to-do quests** pay coins for things you're often producing anyway. Completing them steadily is real income — the game even celebrates bulletin milestones — and every quest builds [friendship](../characters/friendship.md) alongside the fee. Check for new requests regularly and match them to your surplus.
 
 <figure class="snapshot">
+  <img src="{{ '/assets/images/island/bulletins-board.jpg' | relative_url }}" alt="A Bulletins board showing four request cards, each with an item picture and a count such as 0 / 3 or 1 / 10." width="560" height="402" loading="lazy">
+  <figcaption>a Bulletins board with four requests: the count on each card is what I have against what it asks for</figcaption>
+</figure>
+
+<figure class="snapshot">
   <img src="{{ '/assets/images/fan-art-market-counter.jpg' | relative_url }}" alt="Storybook illustration of a market counter with crates of vegetables, a wheel of cheese, candles, a basket of fish, folded cloth, a ledger, and spilled coins." width="1024" height="682" loading="lazy">
   <figcaption>fan art made with Ideogram: each of these goes to a different counter, with fish to Bruno, cloth to Kai, and cheese and candles to Lina 🪙</figcaption>
 </figure>

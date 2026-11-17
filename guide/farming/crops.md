@@ -36,10 +36,16 @@ Prefer to run the numbers for your own plan? The interactive [Crop Profit Calcul
   <a href="#ranked">Best Earners</a>
 </nav>
 
-<figure class="snapshot">
-  <img src="{{ '/assets/images/farming/picking-produce.jpg' | relative_url }}" alt="Tara picks fresh produce from raised garden beds." loading="lazy">
-  <figcaption>Tara picking produce from the raised beds</figcaption>
-</figure>
+<div class="snapshot-row">
+  <figure class="snapshot">
+    <img src="{{ '/assets/images/farming/my-garden-beds.jpg' | relative_url }}" alt="Tara's fenced garden under snow: beds of flowers, fruit trees, and a row of beehives, with the greenhouse at the right." width="1280" height="720" loading="lazy">
+    <figcaption>my garden in winter: flower beds at the front, fruit trees behind, hives along the fence, and the greenhouse off to the right</figcaption>
+  </figure>
+  <figure class="snapshot">
+    <img src="{{ '/assets/images/farming/lina-seed-counter.jpg' | relative_url }}" alt="Lina behind the counter at Dahl General Store with the seed list open, a price under each packet." width="1280" height="720" loading="lazy">
+    <figcaption>Lina's seed list at Dahl General Store: the price sits under each packet, 3 to 30 coins on this screen</figcaption>
+  </figure>
+</div>
 
 ---
 
@@ -112,6 +118,11 @@ One seedling, bought once from **Kai's Treasures** for 125 coins, fruiting forev
 | Pomegranate | ~19 days | 9 days | 30 | 12.2 |
 
 Mulberry trees also give **mulberry leaves** (unsellable, but silkworms adore them). More in [Beekeeping & Orchards](bees-and-orchards.md).
+
+<figure class="snapshot">
+  <img src="{{ '/assets/images/farming/my-fruit-tree.jpg' | relative_url }}" alt="Tara beside fruit trees next to the farmhouse at sunrise, with lemon and mulberry icons floating over the trees." width="1280" height="720" loading="lazy">
+  <figcaption>7:50 on a winter morning by the farmhouse: the lemon and mulberry bubbles mean both trees are ready to pick, snow or not</figcaption>
+</figure>
 
 ---
 

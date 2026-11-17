@@ -15,6 +15,11 @@ Beneath Hazel's perfectly respectable farmhouse sits a perfectly unrespectable *
 
 The basement opens up as the main story pulls Tara into the craft (see [The Craft: An Introduction](introduction.md)). It comes equipped with **one cauldron**; the ability to build additional cauldrons unlocks later in the game — the quest *To Summer it Up For You* rewards you with a cauldron blueprint, at which point your production line can finally match your ambitions.
 
+<figure class="snapshot">
+  <img src="{{ '/assets/images/witchcraft/basement-stills-and-cauldrons.jpg' | relative_url }}" alt="Tara in the candlelit basement among copper stills and green bubbling cauldrons, with a potion icon over one cauldron and jug icons over two stills." width="1280" height="720" loading="lazy">
+  <figcaption>my basement at 8 pm: cauldrons at the back with one potion ready, the distillery's copper stills in front with two jugs ready, crystal ball in the right corner</figcaption>
+</figure>
+
 ### The brewing workflow
 
 1. **Learn a recipe.** Potion recipes arrive through main story quests and magical tasks for coven members — the early quest *Something's Brewing* is exactly what it sounds like. You can't brew what nobody's taught you.
@@ -23,6 +28,11 @@ The basement opens up as the main story pulls Tara into the craft (see [The Craf
 4. **Collect and deploy.** Bottle in hand, pour it, drink it, or deliver it to whichever coven member asked so nicely.
 
 <span class="handwritten">start a brew before bed — the cauldron keeps working while you sleep 🌙</span>
+
+<figure class="snapshot">
+  <img src="{{ '/assets/images/witchcraft/cauldron-menu.jpg' | relative_url }}" alt="The Cauldron menu in the basement showing a grid of potion icons, the lower rows still dark silhouettes." width="1280" height="720" loading="lazy">
+  <figcaption>my cauldron menu: the potions I've been taught show in color, and the ones nobody has taught me yet are silhouettes</figcaption>
+</figure>
 
 ---
 

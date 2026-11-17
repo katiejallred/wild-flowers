@@ -27,6 +27,11 @@ The hive's speed depends entirely on the flowers around it. Bees need **fully gr
 - Fewer flowers still work, just slower; a flowerless hive is a very quiet hive.
 - **Do not harvest your flowers.** This is the counterintuitive heart of beekeeping: a picked flower feeds no bees. Leave your blooms standing unless a quest specifically demands a cut flower.
 
+<figure class="snapshot">
+  <img src="{{ '/assets/images/farming/hive-in-the-flowers.jpg' | relative_url }}" alt="A row of beehives beside blooming flower beds in a snowy fenced garden, with three honey-jar icons floating over the hives." width="1280" height="720" loading="lazy">
+  <figcaption>three of my hives with honey ready to collect, and the flower beds beside them left unpicked</figcaption>
+</figure>
+
 <span class="handwritten">leave about 12 flowers blooming beside each hive; a picked flower feeds no bees 🐝</span>
 
 Flower seeds come from Violet ([Shops](../island/shops.md)); sunflowers do double duty in summer as both the best-profit flower and bee fodder ([Crop Guide](crops.md)).

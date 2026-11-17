@@ -18,6 +18,11 @@ The beating heart of your farming operation, right in the town square. Lina stoc
 
 <span class="handwritten">buy next season's seeds the morning after the ritual — Lina's stock rotates with the season ❀</span>
 
+<figure class="snapshot">
+  <img src="{{ '/assets/images/island/lina-sell-tab.jpg' | relative_url }}" alt="Lina behind the counter at Dahl General Store with the sell tab open: crops with a count in the corner and a price tag beneath." width="1280" height="720" loading="lazy">
+  <figcaption>the sell tab at Lina's counter: the corner number is how many I'm carrying and the tag is her price for one, so each of my 56 pumpkins sells for 24 coins</figcaption>
+</figure>
+
 ## 🥩 Kim's Local Butcher and Deli
 
 **Proprietor:** Kim Izumi (they/them)
