@@ -121,6 +121,7 @@ URLs before linking anywhere): https://fairhavenfieldguide.com/sitemap.xml
 - Mining & Foraging — https://fairhavenfieldguide.com/guide/farming/mining-and-foraging.html
 - The Mine: Floor by Floor — https://fairhavenfieldguide.com/guide/farming/the-mine.html
 - Beekeeping & Orchards — https://fairhavenfieldguide.com/guide/farming/bees-and-orchards.html
+- Whirligigs (Farm Robots) — https://fairhavenfieldguide.com/guide/farming/whirligigs.html
 
 ### Witchcraft
 - The Craft: An Introduction — https://fairhavenfieldguide.com/guide/witchcraft/introduction.html
